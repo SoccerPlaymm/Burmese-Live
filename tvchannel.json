@@ -15,13 +15,13 @@
    "image" : "https://presentationarchive.com/btsport32015/blue-d.jpg",
    "link" : "http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/11284.ts"
 },
-{ "channelName" : "Sky Sport Cricket",
-   "image" : "https://ia600809.us.archive.org/18/items/SkySportsCricket_201708/sky%20sports%20cricket.png",
-   "link" : "http://e1.liveonlinetv247.com/live/skysports2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMiA2OjAxOjI1IEFNJmhhc2hfdmFsdWU9cUtMelRUZ2UvUVhqT0IwL0JJeG9jZz09JnZhbGlkbWludXRlcz02MCZpZD0zNy41OS43MS4xMDEmc3RybV9sZW49MTg="
+{ "channelName" : "Star Selection 1",
+   "image" : "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg",
+   "link" : "http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/53378.ts"
 },
-{ "channelName" : "Sky Sport Golf",
-   "image" : "https://archive.org/download/SkySportsGolf_201708/sky%20sports%20golf.png",
-   "link" : "http://e1.liveonlinetv247.com/live/skysports4-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMiA2OjAxOjE0IEFNJmhhc2hfdmFsdWU9ejdvSG5Pa2V4MlVQRE9DdU9EbENLUT09JnZhbGlkbWludXRlcz02MCZpZD0zNy41OS43MS4xMDEmc3RybV9sZW49MTg="
+{ "channelName" : "Star Selection 2",
+   "image" : "https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest?cb=20170728104438",
+   "link" : "http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/53379.ts"
 },
 { "channelName" : "Sky Sport Premier League",
    "image" : "https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png",
