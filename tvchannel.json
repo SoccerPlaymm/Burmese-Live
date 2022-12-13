@@ -15,17 +15,17 @@
    "image" : "https://presentationarchive.com/btsport32015/blue-d.jpg",
    "link" : "http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/11284.ts"
 },
-{ "channelName" : "Star Selection 1",
+{ "channelName" : "Star Sport Select 1",
    "image" : "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg",
    "link" : "http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/53378.ts"
 },
-{ "channelName" : "Star Selection 2",
+{ "channelName" : "Star Sport Select 2",
    "image" : "https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest?cb=20170728104438",
    "link" : "http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/53379.ts"
 },
-{ "channelName" : "Sky Sport Premier League",
-   "image" : "https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png",
-   "link" : "http://e1.liveonlinetv247.com/live/skysports5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMiA2OjMwOjQ1IEFNJmhhc2hfdmFsdWU9ZmZ0b2pBQTgvNVNZK0NOMVRrNERkZz09JnZhbGlkbWludXRlcz02MCZpZD0zNy41OS43MS4xMDEmc3RybV9sZW49MTg="
+{ "channelName" : "TSN 1",
+   "image" : "https://img.sport-tv-guide.live/images/stations/a188.png",
+   "link" : "http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/1133.ts"
 },
 { "channelName" : "Fight Sport",
    "image" : "https://cms.cignal.tv/Upload/Thumbnails/Fight-Sports-Feb-2022-Vid-Highlights.jpg",
