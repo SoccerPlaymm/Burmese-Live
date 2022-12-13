@@ -1,19 +1,19 @@
 [
 { "channelName" : "FOX Sport 1",
    "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",
-   "link" : "http://e1.liveonlinetv247.com/live/foxsports1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMiA2OjEwOjA5IEFNJmhhc2hfdmFsdWU9UzB4V2hBN2FFd1YrVVFzWTVjQzdTUT09JnZhbGlkbWludXRlcz02MCZpZD0zNy41OS43MS4xMDEmc3RybV9sZW49MTg="
+   "link" : "http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/120728.ts"
 },
 { "channelName" : "BT Sport 1",
    "image" : "https://presentationarchive.com/btsport12017/blueone-b.jpg",
-   "link" : "http://e1.liveonlinetv247.com/live/btsport1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMiA2OjAxOjIwIEFNJmhhc2hfdmFsdWU9VmIxQms2TllaYngvOUs5Rkltd3F3QT09JnZhbGlkbWludXRlcz02MCZpZD0zNy41OS43MS4xMDEmc3RybV9sZW49MTY="
+   "link" : "http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/63.ts"
 },
 { "channelName" : "BT Sport 2",
    "image" : "https://presentationarchive.com/btsport22015/mustwin-j.jpg",
-   "link" : "http://e1.liveonlinetv247.com/live/btsport2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMiA2OjAxOjMwIEFNJmhhc2hfdmFsdWU9elVxMTVab09pYVppUnlhZEdtaXl5dz09JnZhbGlkbWludXRlcz02MCZpZD0zNy41OS43MS4xMDEmc3RybV9sZW49MTY="
+   "link" : "http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/53516.ts"
 },
 { "channelName" : "BT Sport 3",
    "image" : "https://presentationarchive.com/btsport32015/blue-d.jpg",
-   "link" : "http://e1.liveonlinetv247.com/live/btsport3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMiA1OjMxOjQ4IEFNJmhhc2hfdmFsdWU9YmNIUHVYMENJVmorMlNYeEdtSVh0UT09JnZhbGlkbWludXRlcz02MCZpZD0zNy41OS43MS4xMDEmc3RybV9sZW49MTY="
+   "link" : "http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/11284.ts"
 },
 { "channelName" : "Sky Sport Cricket",
    "image" : "https://ia600809.us.archive.org/18/items/SkySportsCricket_201708/sky%20sports%20cricket.png",
