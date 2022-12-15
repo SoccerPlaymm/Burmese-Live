@@ -1,4 +1,28 @@
 [
+{ "channelName" : "Bein Max1",
+   "image" : "https://www.yalla-shootlive.com/wp-content/uploads/2022/11/beIN-Sport-max-HD1.jpg",
+   "link" : "http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX1-H265/video.m3u8"
+},
+{ "channelName" : "Bein Max2",
+   "image" : "https://www.yalla-shootlive.com/wp-content/uploads/2022/11/beIN-Sports-Max-2.jpg",
+   "link" : "http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX2-H265/video.m3u8"
+},
+{ "channelName" : "Bein Max3",
+   "image" : "https://static.wikia.nocookie.net/logopedia/images/a/ad/Bein-sports-max-3_1v5w0eus6ylho1rv2zxzeozee9-1-.jpg/revision/latest?cb=20140414165136",
+   "link" : "http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX3-H265/video.m3u8"
+},
+{ "channelName" : "Bein Max4",
+   "image" : "https://static.wikia.nocookie.net/logopedia/images/d/d0/Logo-bein-sports-max-4-hd_1ut2dcsfzw7zj1204z6hz3qkhp-1-.jpg/revision/latest?cb=20140414165810",
+   "link" : "http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX4-H265/video.m3u8"
+},
+{ "channelName" : "Bein Max5",
+   "image" : "https://static.wikia.nocookie.net/logopedia/images/d/d0/Bein-sports-max-5_uioihjesc6nw1p6ydjpmkhsr6-1-.jpg/revision/latest?cb=20140414170307",
+   "link" : "http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX5-H265/video.m3u8"
+},
+{ "channelName" : "Bein Max6",
+   "image" : "https://static.wikia.nocookie.net/logopedia/images/c/c7/BE_IN_SPORT_MAX_6_HD_2017.jpg/revision/latest/scale-to-width-down/1200?cb=20191022182510",
+   "link" : "http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/120728.ts"
+},
 { "channelName" : "FOX Sport 1",
    "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",
    "link" : "http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/120728.ts"
