@@ -23,6 +23,18 @@
    "image" : "https://i.ibb.co/GkG7rq0/20221215-231109.jpg",
    "link" : "http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/77"
 },
+{ "channelName" : "ESPN1",
+   "image" : "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+   "link" : "http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/11370.ts"
+},
+{ "channelName" : "ESPN2",
+   "image" : "https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2-1024x576.png",
+   "link" : "http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/11259.ts"
+},
+{ "channelName" : "ESPN3",
+   "image" : "https://vivos.superliga-argentina.com/wp-content/uploads/espn-3-logo-grande.jpg",
+   "link" : "http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/1207.ts"
+},
 { "channelName" : "FOX Sport 1",
    "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",
    "link" : "http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/120728.ts"
