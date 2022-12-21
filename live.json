@@ -4,9 +4,9 @@
     "AwayName": "Vietnam",
     "Date": "December 21",
     "Hd1Link": "https://yytcpull.gdsth.com/live/stream-286721.m3u8?txSecret=0a7e41ed2e46da8ed4d17d1af59b93aa&txTime=63a44b39",
-    "Hd1Name": "China HD",
-    "Hd2Link": "0",
-    "Hd2Name": "China SD",
+    "Hd1Name": "China HD1",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1671646925-0-0-e863cb98aa721fdc5bc2bdf628b5c7dd",
+    "Hd2Name": "China HD2",
     "Hd3Link": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=6f778b969b9d7254017b023b2ab1a270&txTime=63a34cd1",
     "Hd3Name": "Soco HD1",
     "Hd4Link": "https://sports01.livnvess.com/live/stream-129184.m3u8?txSecret=253ab0b410a9ec5f1bc4de97fe16f38c&txTime=63a34cd1",
@@ -20,8 +20,8 @@
     "Hot": "Hot",
     "LeagueName": "AFF CHAMPIONSHIP",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "7:00 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
  {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
