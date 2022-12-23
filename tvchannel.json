@@ -93,11 +93,11 @@
 },
 { "channelName" : "VTV 2",
    "image" : "https://static2-images.vnncdn.net/files/publish/2022/11/4/b1-xem-vtv2-truc-tuyen-truc-tiep-online-1-206.png",
-   "link" : "https://nvzoftzsvflivcf.vcdn.com.vn/vtv2/vtv2@high.m3u8"
+   "link" : "http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
 },
 { "channelName" : "VTV 3",
    "image" : "https://tvonline.vn/wp-content/uploads/2021/10/large_vtv3.png",
-   "link" : "https://nvzoftzsvflivcf.vcdn.com.vn/vtv3/vtv3@high.m3u8"
+   "link" : "http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
 },
  { "channelName" : "Mazzima Tv",
    "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTooWsmLRMVcsuV8BG-f4NP0obS9n3NgjZ07A&usqp=CAU",
