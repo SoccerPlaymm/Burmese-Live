@@ -1,30 +1,7 @@
 [
   
  
- {
-    "AwayImage": "https://i.ibb.co/LNCtfK0/download-32.png",
-    "AwayName": "Mallorca",
-    "Date": "December 30",
-    "Hd1Link": "https://yypull.gdsth.com/live/stream-423428.m3u8?auth_key=1672436049-0-0-46318dc383663879338865a54119f6d9",
-    "Hd1Name": "China HD",
-    "Hd2Link": "https://yypull.gdsth.com/live/stream-423428_ld.m3u8?auth_key=1672436049-0-0-52afe7c426b13d9b4b0d724253e6c8ee",
-    "Hd2Name": "China SD",
-    "Hd3Link": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=c05420d3d6064a12a745a9ed6116a4fc&txTime=63af5a6e",
-    "Hd3Name": "Soco HD",
-    "Hd4Link": "https://standard-pull.qcllh.com/sm/10021_831952_lsd.m3u8?auth_key=1672500225-0-0-3df10a10d55745b7768536b15220244d",
-    "Hd4Name": "China SD2",
-    "Hd5Link": "0",
-    "Hd5Name": "ENG",
-    "Hd6Link": "0",
-    "Hd6Name": "ENG",
-    "HomeImage": "https://i.ibb.co/6BFq3Lt/download-22.png",
-    "HomeName": "Getafe",
-    "Hot": "",
-    "LeagueName": "SPAIN - LA LIGA",
-    "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Live",
-    "Time": "HD|SD"
-  },
+ 
  {
     "AwayImage": "https://i.ibb.co/DzBDBrj/download-25.png",
     "AwayName": "Sevilla",
