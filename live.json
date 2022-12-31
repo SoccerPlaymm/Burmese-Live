@@ -52,9 +52,9 @@
     "AwayImage": "https://i.ibb.co/6XqKkjV/download-11.png",
     "AwayName": "Southampton",
     "Date": "December 31",
-    "Hd1Link": "0",
+    "Hd1Link": "https://yytcpull.gdsth.com/live/stream-553612.m3u8?txSecret=1fbcfceb6ed5445e262cc27944caa786&txTime=63b199a6",
     "Hd1Name": "CN FHD",
-    "Hd2Link": "0",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-349393_ld.m3u8?auth_key=1672518790-0-0-6de90595e79f6d2cb860ed06b649c6a5",
     "Hd2Name": "CN SD",
     "Hd3Link": "0",
     "Hd3Name": "VN HD",
@@ -69,8 +69,8 @@
     "Hot": "Hot",
     "LeagueName": "PREMIER LEAGUE",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "9:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
   {
     "AwayImage": "https://i.ibb.co/0VgNnHq/download-17.png",
