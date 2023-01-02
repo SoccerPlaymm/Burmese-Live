@@ -3,7 +3,7 @@
     "AwayImage": "https://i.ibb.co/MMN9Rw5/download.png",
     "AwayName": "Chelsea",
     "Date": "January 01",
-    "Link": "[
+    "Link": [
   {
    "type": "China",
    "quality": "HD",
@@ -14,7 +14,7 @@
    "quality": "HD",
    "link": "0",
   }
-             ]",
+             ],
     "HomeImage": "https://i.ibb.co/0MyVzRP/download-7.png",
     "HomeName": "Nottm Forest",
     "Hot": "Hot",
