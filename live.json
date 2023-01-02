@@ -53,14 +53,14 @@
     "AwayImage": "https://i.ibb.co/zNhmF1y/download-70.png",
     "AwayName": "Marseille",
     "Date": "January 03",
-    "Hd1Link": "0",
+    "Hd1Link": "https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1672702990-0-0-99bf6354f68c7d7732f780ec5e2290dc",
     "Hd1Name": "China HD",
-    "Hd2Link": "0",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-112366_ld.m3u8?auth_key=1672702990-0-0-d8e70c71178fb5cfdf797206d297423e",
     "Hd2Name": "China SD",
-    "Hd3Link": "0",
-    "Hd3Name": "Soco HD",
-    "Hd4Link": "0",
-    "Hd4Name": "VN SD",
+    "Hd3Link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-118206_lhd.m3u8?user_session_id=8597ca9baf34d00fa68c472a7f467470&auth_key=1672702855-0-0-9ad113dd02f089c1b85aa376a22c9eb5&sub_m3u8=true&edge_slice=true",
+    "Hd3Name": "HD HD",
+    "Hd4Link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-118206_lsd.m3u8?auth_key=1672702855-0-0-5ffcd5b69c1c2d75b49e134b27ecddeb&user_session_id=6793a3049f8e31b31f2d463c0b5c6c86&sub_m3u8=true&edge_slice=true",
+    "Hd4Name": "SD SD",
     "Hd5Link": "0",
     "Hd5Name": "ENG",
     "Hd6Link": "0",
@@ -70,7 +70,7 @@
     "Hot": "",
     "LeagueName": "FRANCE - LIGUE1",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "12:30 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   }
 ]
