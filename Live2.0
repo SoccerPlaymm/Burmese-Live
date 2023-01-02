@@ -2,14 +2,18 @@
   {
     "AwayImage": "https://i.ibb.co/T12PsPR/download-3.png",
     "AwayName": "Liverpool",
-    "Link": "
-[
+    "Link": "[
   {
    "type": "China",
    "quality": "HD",
-   "link": "Hot",
+   "link": "0",
+  },
+  {
+   "type": "China",
+   "quality": "HD",
+   "link": "0",
   }
-]",
+             ]",
     "HomeImage": "https://i.ibb.co/gzBVDwK/download-18.png",
     "HomeName": "Brentford",
     "Hot": "Hot",
