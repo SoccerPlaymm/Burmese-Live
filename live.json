@@ -4,9 +4,9 @@
     "AwayImage": "https://i.ibb.co/McsHxxG/download-4.png",
     "AwayName": "Newcastle",
     "Date": "January 04",
-    "Hd1Link": "0",
+    "Hd1Link": "https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1672794670-0-0-af77566c4d3c84b2d1f9eb467a04bbd3",
     "Hd1Name": "China HD",
-    "Hd2Link": "0",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-2376781_ld.m3u8?auth_key=1672794670-0-0-9cdea6d40b929e4afed686d93d61b6f8",
     "Hd2Name": "China SD",
     "Hd3Link": "0",
     "Hd3Name": "Soco HD",
@@ -21,8 +21,8 @@
     "Hot": "Hot",
     "LeagueName": "PREMIER LEAGUE",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:15 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
   {
     "AwayImage": "https://i.ibb.co/RBH2X6r/download-13.png",
@@ -76,11 +76,11 @@
     "AwayImage": "https://i.ibb.co/jfz7Sks/download-5.png",
     "AwayName": "Bournemouth",
     "Date": "January 04",
-    "Hd1Link": "0",
+    "Hd1Link": "https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1672791910-0-0-874a03422478b508ea91643693826f6e",
     "Hd1Name": "China HD",
-    "Hd2Link": "0",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1672791910-0-0-34f6450e82f3978063fd68298d5b4a88",
     "Hd2Name": "China SD",
-    "Hd3Link": "0",
+    "Hd3Link": "https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=ce718a00f39325f3c87b22b0bb8be6b1&txTime=63b4c667",
     "Hd3Name": "Soco HD",
     "Hd4Link": "0",
     "Hd4Name": "VN SD",
@@ -93,8 +93,8 @@
     "Hot": "Hot",
     "LeagueName": "PREMIER LEAGUE",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:15 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   }
 
 ]
