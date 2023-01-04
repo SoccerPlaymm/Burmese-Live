@@ -51,9 +51,9 @@
     "AwayImage": "https://i.ibb.co/1mCtxQQ/download-58.png",
     "AwayName": "Lazio",
     "Date": "January 04",
-    "Hd1Link": "0",
+    "Hd1Link": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1672866371-0-0-5085b3a467e25bc7142dfa6135c6e32d",
     "Hd1Name": "China HD",
-    "Hd2Link": "0",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-238362_ld.m3u8?auth_key=1672866371-0-0-49c4ee78318623243a2b3e7ac879eca9",
     "Hd2Name": "China SD",
     "Hd3Link": "0",
     "Hd3Name": "Soco HD",
@@ -68,16 +68,16 @@
     "Hot": "",
     "LeagueName": "ITALY - SerieA",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "10:00 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
   {
     "AwayImage": "https://www.soccer24.com/res/image/data/j3Tyh1GG-bucnXust.png",
     "AwayName": "Bologna",
     "Date": "January 04",
-    "Hd1Link": "0",
+    "Hd1Link": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1672866431-0-0-c4b2a2b4bc632478bc5fb74f6c331225",
     "Hd1Name": "China HD",
-    "Hd2Link": "0",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1672866431-0-0-abf17914562976794fdfb54a838f2bf6",
     "Hd2Name": "China SD",
     "Hd3Link": "0",
     "Hd3Name": "Soco HD",
@@ -92,8 +92,8 @@
     "Hot": "",
     "LeagueName": "ITALY - SerieA",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "10:00 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
   {
     "AwayImage": "https://i.ibb.co/Xj0bkGg/download-48.png",
