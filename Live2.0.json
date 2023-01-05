@@ -17,13 +17,28 @@
   },
   {
    "type": "Vebo",
-   "quality": "HD|SD",
+   "quality": "HD",
    "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "SD",
    "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-129184.m3u8?txSecret=3d1bc096f1e1945ab21a5f8c37a43506&txTime=63b77a84"
+  },
+  {
+   "type": "China",
+   "quality": "SD",
+   "link": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673021072-0-0-2f796e8cd8cea4551a2817584b4767a8"
+  },
+  {
+   "type": "Bein",
+   "quality": "HD",
+   "link": "https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/MMN9Rw5/download.png",
