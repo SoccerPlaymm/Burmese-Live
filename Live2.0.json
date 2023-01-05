@@ -8,12 +8,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1672960391-0-0-7db9994cbd32d61cc2ee7e71acf9a364"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-2376781_ld.m3u8?auth_key=1672960391-0-0-24fbe12e57660d70e18365a8521e222a"
   },
   {
    "type": "Vebo",
@@ -26,8 +26,8 @@
     "Hot": "Hot",
     "LeagueName": "PREMIER LEAGUE",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:30 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
   {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101917.png",
