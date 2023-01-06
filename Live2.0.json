@@ -8,17 +8,17 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": ""
+   "link": "https://pull06.scstream.net/live/stream-160430_lhd.m3u8?auth_key=1673037897-0-0-c5f832e50b63858ddf4b98e2783837d9"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-181398.m3u8?txSecret=e0e52f97d6bc1f522188af67aee9f201&txTime=63b88885"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": ""
-  },
-  {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": ""
+   "link": "https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1673037671-0-0-7e927f491da23218ce188dc4a1a509d1"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
@@ -26,8 +26,8 @@
     "Hot": "Hot",
     "LeagueName": "SAUDI - PREMIER LEAGUE",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "9:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
    {
     "AwayImage": "https://i.ibb.co/5svpMRP/download-36.png",
