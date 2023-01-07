@@ -75,17 +75,27 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-559725.m3u8?auth_key=1673114771-0-0-378e2b92cbe66ee68f29d6183ba0d35d"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-559725_ld.m3u8?auth_key=1673114771-0-0-650f73cf73e0af33aa8cf79ea62dc237"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-112310.m3u8?txSecret=a9d2d7a041e2ff410e8d6c557b0ac5be&txTime=63b9b4fd"
+  },
+  {
+   "type": "China2",
+   "quality": "SD",
+   "link": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76"
+  },
+  {
+   "type": "Bein",
+   "quality": "HD",
+   "link": "https://lb.buy-global.store/live/lb555/bp2-720.m3u8"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10173.png",
@@ -93,8 +103,8 @@
     "Hot": "",
     "LeagueName": "ENGLAND - FA CUP",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "7:00 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
  {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8462.png",
