@@ -104,10 +104,10 @@
     "Hd1Name": "CN FHD",
     "Hd2Link": "https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1673130791-0-0-08e7b39c7a2ba6138464541bc7799717",
     "Hd2Name": "CN SD",
-    "Hd3Link": "0",
-    "Hd3Name": "VN HD",
-    "Hd4Link": "0",
-    "Hd4Name": "VN SD",
+    "Hd3Link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8",
+    "Hd3Name": "Vebo HD",
+    "Hd4Link": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8",
+    "Hd4Name": "Veb SD",
     "Hd5Link": "https://sports01.livnvess.com/live/stream-102933.m3u8?txSecret=2e369ef6061d14f59fa512c898bd2881&txTime=63b9f87d",
     "Hd5Name": "Soco HD",
     "Hd6Link": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76",
@@ -117,7 +117,7 @@
     "Hot": "Hot",
     "LeagueName": "ENGLAND - FA CUP",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:30 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|"Live
   }
 ]
