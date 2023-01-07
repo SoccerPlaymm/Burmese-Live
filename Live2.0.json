@@ -172,9 +172,14 @@
    "link": "https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1673120532-0-0-16d7fc0bc6469c979e21a67d9101cf09"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=fd458a09de09f2e4a540242edbd44e2e&txTime=63b9cac9"
+  },
+  {
+   "type": "China2",
+   "quality": "SD",
+   "link": "https://standard-pull.qcllh.com/sm/10021_920573_lhd.flv?auth_key=1673184805-0-0-3ec899fedc1cef5d5b1696ea3af3092a"
   }
              ],
     "HomeImage": "https://i.ibb.co/Sc8jcxx/download-53.png",
