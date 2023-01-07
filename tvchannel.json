@@ -1,28 +1,4 @@
 [
-{ "channelName" : "Bein Max1",
-   "image" : "https://www.yalla-shootlive.com/wp-content/uploads/2022/11/beIN-Sport-max-HD1.jpg",
-   "link" : "http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX1-H265/video.m3u8"
-},
-{ "channelName" : "Bein Max2",
-   "image" : "https://www.yalla-shootlive.com/wp-content/uploads/2022/11/beIN-Sports-Max-2.jpg",
-   "link" : "http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX2-H265/video.m3u8"
-},
-{ "channelName" : "Bein Max3",
-   "image" : "https://i.ibb.co/6ZgPYJN/20221215-231003.jpg",
-   "link" : "http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX3-H265/video.m3u8"
-},
-{ "channelName" : "Bein Max4",
-   "image" : "https://i.ibb.co/YhR2zfW/20221215-231034.jpg",
-   "link" : "http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX4-H265/video.m3u8"
-},
-{ "channelName" : "Bein Max5",
-   "image" : "https://i.ibb.co/86WSbkt/20221215-231054.jpg",
-   "link" : "http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX5-H265/video.m3u8"
-},
-{ "channelName" : "Bein Max6",
-   "image" : "https://i.ibb.co/GkG7rq0/20221215-231109.jpg",
-   "link" : "http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/77"
-},
 { "channelName" : "ESPN1",
    "image" : "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
    "link" : "http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/11370.ts"
