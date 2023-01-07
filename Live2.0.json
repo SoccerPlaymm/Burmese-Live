@@ -41,17 +41,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-284564.m3u8?auth_key=1673114591-0-0-aa34d85471b1755dffc0d7f9ce94272c"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-284564_ld.m3u8?auth_key=1673114591-0-0-6414cba784775a136fe89d9fe87f802f"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=5c06ffdd39111"
+  },
+  {
+   "type": "China2",
+   "quality": "SD",
+   "link": "https://standard-pull.qcllh.com/sm/10021_831947_lhd.flv?auth_key=1673179228-0-0-e8324ad2376d76661216d1067d757c47"
   }
              ],
     "HomeImage": "https://i.ibb.co/PF2LKYS/download-6.png",
@@ -59,8 +64,8 @@
     "Hot": "",
     "LeagueName": "ENGLAND - FA CUP",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "7:00 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
   {
     "AwayImage": "https://i.ibb.co/V3Rk4tH/download-14.png",
