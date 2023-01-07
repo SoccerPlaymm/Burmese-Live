@@ -32,10 +32,10 @@
     "Hd1Name": "China HD",
     "Hd2Link": "https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1673130791-0-0-cd42d4c13b6007553e9c1a60ab0e10d9",
     "Hd2Name": "China SD",
-    "Hd3Link": "0",
-    "Hd3Name": "VN HD",
-    "Hd4Link": "0",
-    "Hd4Name": "VN SD",
+    "Hd3Link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8",
+    "Hd3Name": "Vebo HD",
+    "Hd4Link": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8",
+    "Hd4Name": "Vebo SD",
     "Hd5Link": "0",
     "Hd5Name": "ENG",
     "Hd6Link": "0",
@@ -45,8 +45,8 @@
     "Hot": "",
     "LeagueName": "ITALY - SERIE A",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "11:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
   {
     "AwayImage": "https://i.ibb.co/0B03V1F/download-19.png",
