@@ -7,17 +7,17 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1673197392-0-0-5f819f4318c4d63f5df8bc249617d2e3"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1673197392-0-0-d4d3f404e2980b5f200a5f3b8dc67fa4"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=f8d29e322fffd9955362836e9c1cdc6e&txTime=63baf832"
   }
              ],
     "HomeImage": "https://i.ibb.co/dkf4cTv/download-54.png",
@@ -25,8 +25,8 @@
     "Hot": "",
     "LeagueName": "ITALY - SERIE A",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "6:00 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
  {
     "AwayImage": "https://i.ibb.co/Px76w8v/download-27.png",
