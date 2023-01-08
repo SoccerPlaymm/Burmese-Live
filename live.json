@@ -51,9 +51,9 @@
     "AwayImage": "https://i.ibb.co/18PSn4Z/download-47.png",
     "AwayName": "Empoli",
     "Date": "January 08",
-    "Hd1Link": "0",
+    "Hd1Link": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1673206332-0-0-802be41c588377e991da2f7dde291dd8",
     "Hd1Name": "China HD",
-    "Hd2Link": "0",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1673206332-0-0-e149141cdb85bf6e3cd66aaab5f6bd95",
     "Hd2Name": "China SD",
     "Hd3Link": "0",
     "Hd3Name": "Vebo HD",
@@ -68,16 +68,16 @@
     "Hot": "",
     "LeagueName": "ITALY - SERIE A",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "8:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
  {
     "AwayImage": "https://i.ibb.co/f0wRMJt/download-56.png",
     "AwayName": "Lecce",
     "Date": "January 08",
-    "Hd1Link": "0",
+    "Hd1Link": "https://yypull.gdsth.com/live/stream-279932.m3u8?auth_key=1673206272-0-0-1713d4c507963b3457687097b7e2ed97",
     "Hd1Name": "China HD",
-    "Hd2Link": "0",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-279932_ld.m3u8?auth_key=1673206272-0-0-165ea00eb50db7943de61f86c064323b",
     "Hd2Name": "China SD",
     "Hd3Link": "0",
     "Hd3Name": "Vebo HD",
@@ -92,8 +92,8 @@
     "Hot": "",
     "LeagueName": "ITALY - SERIE A",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "8:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
   {
     "AwayImage": "https://i.ibb.co/1mg68jB/download-24.png",
