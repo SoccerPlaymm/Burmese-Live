@@ -129,17 +129,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1673219532-0-0-e563e5259de437f7e36c4a3fa858dc2b"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-317957_ld.m3u8?auth_key=1673219532-0-0-aefdcecdfc57e4bfcef0a5ad7bf9f7f1"
   },
   {
    "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may3SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/DzBDBrj/download-25.png",
@@ -147,8 +152,8 @@
     "Hot": "",
     "LeagueName": "SPAIN - LALIGA",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "12:00 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
   {
     "AwayImage": "https://i.ibb.co/1mDqD0w/download-55.png",
