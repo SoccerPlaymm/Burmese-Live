@@ -75,9 +75,9 @@
    "link": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=487c6c9b76a669c2ce9f682e13b7f5d5&txTime=63bb0dfe"
   },
   {
-   "type": "Vebo",
+   "type": "English",
    "quality": "SD",
-   "link": "0"
+   "link": "https://live.yorafootball.com/web3/index.m3u8?token=58a414441e3760a3c181730cdfac1ee73f40ea35-bf5839063aeff0a49296b3d294e9021f-1673196028-1673185228"
   }
              ],
     "HomeImage": "https://i.ibb.co/1mCtxQQ/download-58.png",
@@ -109,9 +109,9 @@
    "link": "https://sports01.livnvess.com/live/stream-181398.m3u8?txSecret=e5a19d85ad628c1c3b1286fd43043bea&txTime=63bb0e3a"
   },
   {
-   "type": "Soco",
-   "quality": "HD",
-   "link": "0"
+   "type": "English",
+   "quality": "SD",
+   "link": "https://live.yorafootball.com/web2/index.m3u8?token=56ae27c1040e7f47121091d7b548be665b43cf05-02c9271e809cf68b747469f80085a81e-1673196046-1673185246"
   }
              ],
     "HomeImage": "https://i.ibb.co/8bWWMhd/download-52.png",
