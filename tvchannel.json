@@ -60,7 +60,7 @@
    "link" : "http://183.89.246.119:8881/play/a081/index.m3u8"
 },
 { "channelName" : "Fortune",
-   "image" : "https://i.ibb.co/XWJ1YtB/20221204-154420.png",
+   "image" : "https://static.wikia.nocookie.net/logopedia/images/c/c9/Fortune_TV.png/revision/latest?cb=20191211065309",
    "link" : "http://183.89.246.119:8881/play/a082/index.m3u8"
 },
 { "channelName" : "Channel9",
@@ -84,7 +84,7 @@
    "link" : "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
 },
 { "channelName" : "Real Madrid Tv",
-   "image" : "https://i.ibb.co/rkHJtMj/20221204-160003.png",
+   "image" : "https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg",
    "link" : "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8"
 }
 ]
