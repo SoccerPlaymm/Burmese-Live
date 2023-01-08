@@ -76,9 +76,9 @@
     "AwayImage": "https://i.ibb.co/MMN9Rw5/download.png",
     "AwayName": "Chelsea",
     "Date": "January 08",
-    "Hd1Link": "0",
+    "Hd1Link": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1673216472-0-0-ecf204bc96a9afb098878c931eda4ad6",
     "Hd1Name": "China HD",
-    "Hd2Link": "0",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1673216472-0-0-9ca8c578f762f6afd0d9ae23a133e7d5",
     "Hd2Name": "China SD",
     "Hd3Link": "0",
     "Hd3Name": "Vebo HD",
@@ -93,8 +93,8 @@
     "Hot": "Hot",
     "LeagueName": "ENGLAND - FA CUP",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "11:00 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
   {
     "AwayImage": "https://i.ibb.co/rxJP1dw/download-41.png",
