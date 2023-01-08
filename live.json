@@ -77,13 +77,13 @@
     "AwayImage": "https://i.ibb.co/6BFq3Lt/download-22.png",
     "AwayName": "Getafe",
     "Date": "January 09",
-    "Hd1Link": "0",
+    "Hd1Link": "https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1673219532-0-0-e563e5259de437f7e36c4a3fa858dc2b",
     "Hd1Name": "China HD",
-    "Hd2Link": "0",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-317957_ld.m3u8?auth_key=1673219532-0-0-aefdcecdfc57e4bfcef0a5ad7bf9f7f1",
     "Hd2Name": "China SD",
-    "Hd3Link": "0",
+    "Hd3Link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8",
     "Hd3Name": "Vebo HD",
-    "Hd4Link": "0",
+    "Hd4Link": "https://obevcimanyd179314182.thapcam.link/live/may3SD/playlist.m3u8",
     "Hd4Name": "Vebo SD",
     "Hd5Link": "0",
     "Hd5Name": "ENG",
@@ -94,8 +94,8 @@
     "Hot": "",
     "LeagueName": "SPAIN - LALIGA",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "12:00 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
   {
     "AwayImage": "https://i.ibb.co/1mDqD0w/download-55.png",
