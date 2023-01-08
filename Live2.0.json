@@ -93,8 +93,23 @@
    "link": "https://yypull.gdsth.com/live/stream-423428_ld.m3u8?auth_key=1673217192-0-0-00e1dbf9a92d89de47dd4c909d328b59"
   },
   {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-100684.m3u8?txSecret=04b2f5d8da4ec4928b79072083720632&txTime=63bb0eee"
+  },
+  {
+   "type": "English",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
    "type": "Vebo",
-   "quality": "FHD",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
    "link": "0"
   }
              ],
