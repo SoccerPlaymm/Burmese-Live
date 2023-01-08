@@ -1,38 +1,5 @@
 [
-  {
-    "AwayImage": "https://i.ibb.co/1mg68jB/download-24.png",
-    "AwayName": "Real Betis",
-    "Date": "January 08",
-    "Link":[
-  {
-   "type": "China",
-   "quality": "HD",
-   "link": "https://yypull.gdsth.com/live/stream-484463.m3u8?auth_key=1673211792-0-0-ad55083d02fe6c888ac9b0d7422c4cbf"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "https://yypull.gdsth.com/live/stream-484463_ld.m3u8?auth_key=1673211792-0-0-aea2c908f32375e6d2ba72fe6a2d6c80"
-  },
-  {
-   "type": "Soco",
-   "quality": "HD",
-   "link": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=2cc3c32f498951dc7096cefbdee1fc5c&txTime=63bb0e76"
-  },
-  {
-   "type": "English",
-   "quality": "SD",
-   "link": "https://live.yorafootball.com/web4/index.m3u8?token=f2fb3487692fa514ecdd52155a3b6b49afeb34f7-4e6452941169b15cad90adf9ddaa0601-1673200962-1673190162"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/SvkRPGx/download-38.png",
-    "HomeName": "Rayo Vallecano",
-    "Hot": "",
-    "LeagueName": "SPAIN - LALIGA",
-    "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Live",
-    "Time": "HD|SD"
-  },
+  
   {
     "AwayImage": "https://i.ibb.co/MMN9Rw5/download.png",
     "AwayName": "Chelsea",
