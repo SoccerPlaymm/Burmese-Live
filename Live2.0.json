@@ -101,6 +101,16 @@
    "type": "Vebo",
    "quality": "SD",
    "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=487c6c9b76a669c2ce9f682e13b7f5d5&txTime=63bb0dfe"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/1mCtxQQ/download-58.png",
@@ -127,9 +137,14 @@
    "link": "https://yypull.gdsth.com/live/stream-279932_ld.m3u8?auth_key=1673206272-0-0-165ea00eb50db7943de61f86c064323b"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": ""
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-181398.m3u8?txSecret=e5a19d85ad628c1c3b1286fd43043bea&txTime=63bb0e3a"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/8bWWMhd/download-52.png",
