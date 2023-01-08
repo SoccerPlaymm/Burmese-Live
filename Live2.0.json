@@ -41,12 +41,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-415339.m3u8?auth_key=1673202672-0-0-72f586b6fa1b42f6e4fa644b690b1abf"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-415339_ld.m3u8?auth_key=1673202672-0-0-d00b833cdb7b1dca304b277c3837c999"
   },
   {
    "type": "Vebo",
@@ -59,8 +59,8 @@
     "Hot": "",
     "LeagueName": "SPAIN - LALIGA",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "7:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
  {
     "AwayImage": "https://i.ibb.co/18PSn4Z/download-47.png",
