@@ -85,17 +85,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1673206332-0-0-802be41c588377e991da2f7dde291dd8"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1673206332-0-0-e149141cdb85bf6e3cd66aaab5f6bd95"
   },
   {
    "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/1mCtxQQ/download-58.png",
@@ -103,8 +108,8 @@
     "Hot": "",
     "LeagueName": "ITALY - SERIE A",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "8:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
  {
     "AwayImage": "https://i.ibb.co/f0wRMJt/download-56.png",
@@ -114,17 +119,17 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": ""
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-279932_ld.m3u8?auth_key=1673206272-0-0-165ea00eb50db7943de61f86c064323b"
   },
   {
    "type": "Vebo",
    "quality": "FHD",
-   "link": "0"
+   "link": ""
   }
              ],
     "HomeImage": "https://i.ibb.co/8bWWMhd/download-52.png",
@@ -132,8 +137,8 @@
     "Hot": "",
     "LeagueName": "ITALY - SERIE A",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "8:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
   {
     "AwayImage": "https://i.ibb.co/1mg68jB/download-24.png",
