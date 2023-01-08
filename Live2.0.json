@@ -121,17 +121,32 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1673216472-0-0-ecf204bc96a9afb098878c931eda4ad6"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1673216472-0-0-9ca8c578f762f6afd0d9ae23a133e7d5"
   },
   {
    "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
+  },
+  {
+   "type": "English",
+   "quality": "SD",
+   "link": "https://live.yorafootball.com/web1/index.m3u8?token=6359c2fd42f63492d9bd03763682156671bfbaa6-885ee08f931d0479ec18532eae254e19-1673205507-1673194707"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=146bee20d05178e4e8c8c3fd5e2ccfdb&txTime=63bb0eb2"
   }
              ],
     "HomeImage": "https://i.ibb.co/v4DMkVK/download-2.png",
@@ -139,8 +154,8 @@
     "Hot": "Hot",
     "LeagueName": "ENGLAND - FA CUP",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "11:00 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
   {
     "AwayImage": "https://i.ibb.co/rxJP1dw/download-41.png",
