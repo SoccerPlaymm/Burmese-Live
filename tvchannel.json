@@ -44,11 +44,11 @@
    "link" : "https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8"
 },
 { "channelName" : "MRTV-4",
-   "image" : "https://i.ibb.co/0syPKQJ/20221204-155108.png",
+   "image" : "http://static.pyoneplay.com/static/live/li_bg_1571902845.jpg",
    "link" : "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
 },
 { "channelName" : "Channel-7",
-   "image" : "https://i.ibb.co/0nGjDQR/20221204-155145.png",
+   "image" : "https://photos.live-tv-channels.org/tv-logo/mm-channel-7-1023.jpg",
    "link" : "https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
 },
 { "channelName" : "Mahar",
