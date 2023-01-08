@@ -145,6 +145,16 @@
    "type": "Vebo",
    "quality": "SD",
    "link": "https://obevcimanyd179314182.thapcam.link/live/may3SD/playlist.m3u8"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "English",
+   "quality": "SD",
+   "link": "https://live.yorafootball.com/web4/index.m3u8?token=f87d7f53ca34094e4a5e461ff405f6fe5317983d-8a56f7dbf0620c02402bb8b471d1d2b8-1673208747-1673197947"
   }
              ],
     "HomeImage": "https://i.ibb.co/DzBDBrj/download-25.png",
