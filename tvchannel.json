@@ -1,4 +1,8 @@
 [
+{ "channelName" : "Mahar Esport",
+   "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLNPWhoDO-Lx9RlN2dQ50BvsNh7lmG2HcQDw&usqp=CAU",
+   "link" : "https://tv.mahar.live/esports/mahar.stream/playlist.m3u8"
+},
 { "channelName" : "Fight Sport",
    "image" : "https://cms.cignal.tv/Upload/Thumbnails/Fight-Sports-Feb-2022-Vid-Highlights.jpg",
    "link" : "https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8"
