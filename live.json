@@ -28,14 +28,14 @@
     "AwayImage": "https://i.ibb.co/V3Rk4tH/download-14.png",
     "AwayName": "Leicester City",
     "Date": "January 11",
-    "Hd1Link": "0",
+    "Hd1Link": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1673388732-0-0-68f95e98f0290dad79257484143e7f52",
     "Hd1Name": "China HD",
-    "Hd2Link": "0",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1673388732-0-0-ee139f7d9c5b04df20d7ce19513e2616",
     "Hd2Name": "China SD",
-    "Hd3Link": "0",
-    "Hd3Name": "Vebo HD",
-    "Hd4Link": "0",
-    "Hd4Name": "Vebo SD",
+    "Hd3Link": "https://lb.buy-global.store/live/lb555/bp1-720.m3u8",
+    "Hd3Name": "Bein HD",
+    "Hd4Link": "https://lb.buy-global.store/live/lb555/bp1-360.m3u8",
+    "Hd4Name": "Bein SD",
     "Hd5Link": "0",
     "Hd5Name": "ENG",
     "Hd6Link": "0",
@@ -45,7 +45,7 @@
     "Hot": "",
     "LeagueName": "Carabao Cup - Quarter Final",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:30 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   }
 ]
