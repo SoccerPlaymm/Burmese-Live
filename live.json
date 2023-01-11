@@ -149,7 +149,7 @@
     "Date": "January 12",
     "Hd1Link": "https://sports01.livnvess.com/live/stream-113906.m3u8?txSecret=314f2952ebf57759bd3edc3397619314&txTime=63bf490b",
     "Hd1Name": "Soco HD",
-    "Hd2Link": "0",
+    "Hd2Link": "https://standard-pull.qcllh.com/sm/10021_920578_lsd.m3u8?auth_key=1673551115-0-0-afa563dbe4de3c11903411a55fe4d3a7",
     "Hd2Name": "China SD",
     "Hd3Link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8",
     "Hd3Name": "Vebo HD",
