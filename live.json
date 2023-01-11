@@ -103,8 +103,8 @@
     "Hd1Name": "China HD",
     "Hd2Link": "https://yypull.gdsth.com/live/stream-6892349_ld.m3u8?auth_key=1673478252-0-0-a76584217022ccbd852c415a7ae40312",
     "Hd2Name": "China SD",
-    "Hd3Link": "0",
-    "Hd3Name": "Vebo HD",
+    "Hd3Link": "https://live.yorafootball.com/web1/index.m3u8?token=a069d13824ad332a4ea73c4fe89d604066334b19-29dfc0fb86a661e01410723eae1222ad-1673469703-1673458903",
+    "Hd3Name": "English HD",
     "Hd4Link": "https://standard-pull.qcllh.com/sm/10021_920661_lsd.m3u8?auth_key=1673544047-0-0-0bbd90b70083c3bbaad336bfe976241c",
     "Hd4Name": "Vebo SD",
     "Hd5Link": "0",
@@ -116,8 +116,8 @@
     "Hot": "",
     "LeagueName": "FRANCE - LIGUE 1",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "12:30 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
  {
     "AwayImage": "https://i.ibb.co/LNsh3hr/download-34.png",
