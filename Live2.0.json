@@ -57,12 +57,12 @@
   {
    "type": "Bein",
    "quality": "HD",
-   "link": "https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
+   "link": "0"
   },
   {
-   "type": "Bein",
+   "type": "China",
    "quality": "SD",
-   "link": "https://lb.buy-global.store/live/lb555/bp1-360.m3u8"
+   "link": "https://standard-pull.qcllh.com/sm/10021_831947_lhd.flv?auth_key=1673725507-0-0-b86637044c2c5a0e48582b46085cc90c"
   }
              ],
     "HomeImage": "https://i.ibb.co/wK5L6HX/download-8.png",
@@ -86,12 +86,12 @@
   {
    "type": "Bein",
    "quality": "HD",
-   "link": "https://lb.buy-global.store/live/lb555/bs1-720.m3u8"
+   "link": "0"
   },
   {
-   "type": "Bein",
+   "type": "China",
    "quality": "SD",
-   "link": "https://lb.buy-global.store/live/lb555/bs1-360.m3u8"
+   "link": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03"
   },
   {
    "type": "Vebo",
