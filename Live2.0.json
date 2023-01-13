@@ -40,9 +40,9 @@
     "Date": "January 14",
     "Link":[
   {
-   "type": "China",
+   "type": "English",
    "quality": "HD",
-   "link": "0"
+   "link": "https://live.yorafootball.com/web3/index.m3u8?token=46a6c8b0f6f235799208fea0877f160e76d586e6-b14b5776400dc6af132d4b26d054d59a-1673649740-1673638940"
   },
   {
    "type": "Vebo",
@@ -60,8 +60,8 @@
     "Hot": "",
     "LeagueName": "PREMIER LEAGUE",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:30 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
   {
     "AwayImage": "https://i.ibb.co/7Vsf3Tg/download-21.png",
@@ -69,9 +69,9 @@
     "Date": "January 14",
     "Link":[
   {
-   "type": "China",
+   "type": "English",
    "quality": "HD",
-   "link": "0"
+   "link": "https://live.yorafootball.com/web2/index.m3u8?token=a4256768424685f1ae1e52aa3b1d2ca7e2833340-a3f9ac706b21a30c5141d34a5513333d-1673649757-1673638957"
   },
   {
    "type": "China",
@@ -89,7 +89,7 @@
     "Hot": "",
     "LeagueName": "SPAIN - LALIGA",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:30 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   }
 ]
