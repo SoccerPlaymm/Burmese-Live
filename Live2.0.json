@@ -84,9 +84,14 @@
    "link": "https://live.yorafootball.com/web2/index.m3u8?token=a4256768424685f1ae1e52aa3b1d2ca7e2833340-a3f9ac706b21a30c5141d34a5513333d-1673649757-1673638957"
   },
   {
-   "type": "China",
+   "type": "Bein",
+   "quality": "HD",
+   "link": "https://lb.buy-global.store/live/lb555/bs1-720.m3u8"
+  },
+  {
+   "type": "Bein",
    "quality": "SD",
-   "link": "0"
+   "link": "https://lb.buy-global.store/live/lb555/bs1-360.m3u8"
   },
   {
    "type": "Vebo",
