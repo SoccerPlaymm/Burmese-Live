@@ -77,6 +77,16 @@
    "type": "Vebo",
    "quality": "SD",
    "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
+  },
+  {
+   "type": "English",
+   "quality": "SD",
+   "link": "https://live.yorafootball.com/web4/index.m3u8?token=e37ccabb463ac76e39b627d3e47e02f9542af46b-a6f4f7eafb61312255fa7d1fb76835b9-1673718179-1673707379"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/RBH2X6r/download-13.png",
@@ -106,6 +116,16 @@
    "type": "Vebo",
    "quality": "SD",
    "link": "https://obevcimanyd179314182.thapcam.link/live/nenSD/playlist.m3u8"
+  },
+  {
+   "type": "English",
+   "quality": "SD",
+   "link": "https://live.yorafootball.com:443/web3/tracks-v1a1/mono.m3u8?token=86e8252ec598ee3172f082fca2b5f4cd6ad4a511-04dc9dcf99006cf12aadf8908e7b1b83-1673718196-1673707396"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/0VgNnHq/download-17.png",
@@ -135,6 +155,16 @@
    "type": "Vebo",
    "quality": "SD",
    "link": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/0MyVzRP/download-7.png",
@@ -164,6 +194,16 @@
    "type": "Vebo",
    "quality": "SD",
    "link": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/QJMLcrP/download-10.png",
