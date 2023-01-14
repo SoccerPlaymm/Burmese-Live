@@ -98,7 +98,7 @@
    "link": "https://standard-pull.qcllh.com/sm/10021_920573_lsd.m3u8?auth_key=1673801729-0-0-de7cd9c7f717192bf2bc78aa3a376a68"
   },
   {
-   "type": "Vebo",
+   "type": "English",
    "quality": "SD",
    "link": "https://live.yorafootball.com/web4/index.m3u8?token=8e7d9e20d32a2c0a8e4ca0b2565eec77b206f53e-4800a591629203d3f048047dfc3f64f0-1673727238-1673716438"
   }
@@ -127,9 +127,9 @@
    "link": "https://standard-pull.qcllh.com/sm/10021_831947_lsd.m3u8?auth_key=1673802655-0-0-878d2598701d559c077f51db74102237"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "type": "English",
+   "quality": "SD",
+   "link": "https://live.yorafootball.com/web1/index.m3u8?token=3425ba41a6d32ec2cae84d2e55eee42cbe5fc4d6-0ae9a4731231cbc93887fbbed33389bb-1673727291-1673716491"
   }
              ],
     "HomeImage": "https://i.ibb.co/mTH2ByB/download-28.png",
