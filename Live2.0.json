@@ -118,6 +118,11 @@
    "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
+   "type": "China",
+   "quality": "HD",
+   "link": "https://pull.dxzxcn.com/live/360ba_stream_502035_1.m3u8?txSecret=1b0c1c89f4a6911a2c5fcde1c03fb2ff&txTime=63C4554E"
+  },
+  {
    "type": "Vebo",
    "quality": "SD",
    "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
