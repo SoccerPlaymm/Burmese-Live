@@ -10,14 +10,14 @@
    "link": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1673679756/ei/K__BY47xOLi1z7sPl4eCmAg/ip/37.111.46.68/id/UtbJJzbwEfk.3/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/4320/gcr/mm/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGpDBPBSDqCxdI1XSg7SInG2MYx_0p2xMLzXmJFYRe9UCIQCUCJ-IT1sW49rxMaG8R08zz3ZR1BsH7udW1tu7HcwBVQ%3D%3D/file/index.m3u8"
   },
   {
-   "type": "China",
-   "quality": "SD",
+   "type": "Star Sport Select",
+   "quality": "HD",
    "link": "0"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "type": "Star Sport Select",
+   "quality": "SD",
+   "link": "http://portal.geniptv.com:8080/live/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43605.ts"
   }
              ],
     "HomeImage": "https://i.ibb.co/KGGyz1b/20230114-073728.png",
