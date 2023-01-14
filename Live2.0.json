@@ -245,14 +245,14 @@
    "link": "https://live.yorafootball.com/web2/index.m3u8?token=3afbc1ae8318f6dc9a24a9dfafecfe1f0ffcd7f4-586588bbd8e47142caacc820fdffb902-1673725317-1673714517"
   },
   {
-   "type": "China",
-   "quality": "SD",
-   "link": "0"
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/f0wRMJt/download-56.png",
@@ -274,14 +274,14 @@
    "link": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=62ec53eaa6122724cbe1d32a14874cf4&txTime=63c32d24"
   },
   {
-   "type": "China",
-   "quality": "SD",
-   "link": "0"
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/gzBVDwK/download-18.png",
