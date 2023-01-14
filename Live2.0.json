@@ -25,6 +25,11 @@
    "link": "https://standard-pull.qcllh.com/sm/10021_428459_lsd.m3u8?auth_key=1673782331-0-0-39024d09f1cba4d0826b8a6117f86dcf"
   },
   {
+   "type": "China",
+   "quality": "HD",
+   "link": "https://pull.dxzxcn.com/live/360ba_stream_646912_2.flv?txSecret=3cd0ce6cb45f705b71aee1ea7f6facaa&txTime=63C3EB65"
+  },
+  {
    "type": "Vebo",
    "quality": "FHD",
    "link": "0"
