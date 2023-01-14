@@ -157,6 +157,11 @@
    "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-214855_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d532980689fd1bd6b31240c1490259b1&auth_key=1673735941-0-0-106d6546011d433736d9d3408d8e4c2d"
   },
   {
+   "type": "China",
+   "quality": "HD",
+   "link": "https://pull.dxzxcn.com/live/360ba_stream_634360_2.m3u8?txSecret=aec63a1a13c1647b246f90583598c043&txTime=63C45688"
+  },
+  {
    "type": "Vebo",
    "quality": "SD",
    "link": "https://obevcimanyd179314182.thapcam.link/live/may122/playlist.m3u8"
@@ -189,6 +194,11 @@
    "type": "Soco",
    "quality": "HD",
    "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?edge_slice=true&auth_key=1673735820-0-0-0c1464b60c94b85f36039ca9523c8608&user_session_id=2c911b4e3c9161088ee685beb384ca6b&sub_m3u8=true"
+  },
+  {
+   "type": "China",
+   "quality": "HD",
+   "link": "https://pull.dxzxcn.com/live/360ba_stream_445632_2.m3u8?txSecret=c31c2bbace453a6eb0fb51d418916c2f&txTime=63C456A2"
   },
   {
    "type": "Vebo",
