@@ -98,14 +98,14 @@
    "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?sub_m3u8=true&user_session_id=c022377d5b45f4d84e5c80cc5f02673a&auth_key=1673728260-0-0-e5c6c724fa40407f249fd180a599a7ee&edge_slice=true"
   },
   {
-   "type": "China",
-   "quality": "SD",
-   "link": "0"
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/nenSD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/0VgNnHq/download-17.png",
@@ -156,14 +156,14 @@
    "link": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=50d94c0857fdd069179324a75002420f&txTime=63c311f4"
   },
   {
-   "type": "China",
-   "quality": "SD",
-   "link": "0"
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/QJMLcrP/download-10.png",
