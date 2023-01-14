@@ -229,9 +229,9 @@
    "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-214855_lhd.m3u8?user_session_id=d4f919530122b0198a39d4c2bec57dad&sub_m3u8=true&edge_slice=true&auth_key=1673732281-0-0-38dbc79bb24c2dff277c68abf359e063"
   },
   {
-   "type": "China",
+   "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may122/playlist.m3u8"
   },
   {
    "type": "Vebo",
@@ -244,8 +244,8 @@
     "Hot": "",
     "LeagueName": "France - Ligue 1",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "10:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
   {
     "AwayImage": "https://i.ibb.co/YpGpV2N/download-57.png",
