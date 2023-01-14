@@ -167,9 +167,9 @@
    "link": "https://obevcimanyd179314182.thapcam.link/live/may122/playlist.m3u8"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "type": "English",
+   "quality": "SD",
+   "link": "https://live.yorafootball.com/web4/index.m3u8?token=d4cee7a8d00b02c3f8a4a55250e33512cf3c1be9-aabd94fe7728c131bbd6b50b8a8e5d18-1673736059-1673725259"
   },
   {
    "type": "Vebo",
@@ -182,8 +182,8 @@
     "Hot": "",
     "LeagueName": "France - Ligue 1",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:30 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
  {
     "AwayImage": "https://i.ibb.co/8KWFTPM/download-31.png",
@@ -211,9 +211,9 @@
    "link": "https://standard-pull.qcllh.com/sm/10021_831947_lsd.m3u8?auth_key=1673810499-0-0-bbdf255129d58003f1cb9ab3846e072b"
   },
   {
-   "type": "Vebo",
+   "type": "English",
    "quality": "SD",
-   "link": "0"
+   "link": "https://live.yorafootball.com/web1/index.m3u8?token=d7e187e4b919d2859e9d803b9dadfd0d8c911e3c-9536a08daa5fd2dc81df300df87b307e-1673736073-1673725273"
   }
              ],
     "HomeImage": "https://i.ibb.co/Px76w8v/download-27.png",
@@ -221,7 +221,7 @@
     "Hot": "",
     "LeagueName": "Spain - LaLiga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:30 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   }
 ]
