@@ -163,7 +163,7 @@
   {
    "type": "English",
    "quality": "SD",
-   "link": "0"
+   "link": "https://live.yorafootball.com/web5/index.m3u8?token=4d5028c8feacf4e62e96cfb88e7816a2a91a273e-440640c1945457979990a0015cb5db38-1673728893-1673718093"
   }
              ],
     "HomeImage": "https://i.ibb.co/zNhmF1y/download-70.png",
@@ -171,8 +171,8 @@
     "Hot": "",
     "LeagueName": "France - Ligue 1",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "12:30 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD|SD"
   },
  {
     "AwayImage": "https://i.ibb.co/wMNphZd/download-49.png",
