@@ -237,6 +237,16 @@
   {
    "type": "China",
    "quality": "SD",
+   "link": "https://standard-pull.qcllh.com/sm/10021_428434_lsd.m3u8?auth_key=1673800709-0-0-68522f8a2b743a0109276472424d9bf0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "FHD",
+   "link": "0"
+  },
+  {
+   "type": "China",
+   "quality": "SD",
    "link": "0"
   },
   {
