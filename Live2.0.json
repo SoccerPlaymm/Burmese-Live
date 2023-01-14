@@ -1,34 +1,4 @@
 [
-  
-  {
-    "AwayImage": "https://i.ibb.co/SvkRPGx/download-38.png",
-    "AwayName": "Rayo Vallecano",
-    "Date": "January 14",
-    "Link":[
-  {
-   "type": "English",
-   "quality": "HD",
-   "link": "https://live.yorafootball.com/web1/index.m3u8?token=651e0fcf5ac7fa8f35854a0f978e27d1f0a6e84d-3c90462606bec5c70a579e2827fef641-1673711007-1673700207"
-  },
-  {
-   "type": "Vebo",
-   "quality": "SD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/qDpdz49/download-40.png",
-    "HomeName": "Valladolid",
-    "Hot": "",
-    "LeagueName": "Spain - LaLiga",
-    "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Live",
-    "Time": "HD|SD"
-  },
   {
     "AwayImage": "https://i.ibb.co/0mCdqDz/download-50.png",
     "AwayName": "Monza",
