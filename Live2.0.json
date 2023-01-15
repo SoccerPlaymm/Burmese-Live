@@ -180,14 +180,14 @@
     "Date": "January 15",
    "Link":[
   {
-   "type": "China",
+   "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-187579_lhd.m3u8?user_session_id=0820beafe5945df25470ee6e4f59718c&sub_m3u8=true&edge_slice=true&auth_key=1673817901-0-0-2c98975469d8f804ea7a9f1d28bc6d0a"
   },
   {
-   "type": "China",
+   "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may7/playlist.m3u8"
   },
   {
    "type": "Vebo",
