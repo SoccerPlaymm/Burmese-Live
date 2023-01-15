@@ -20,12 +20,12 @@
    "link": "https://obevcimanyd179314182.thapcam.link/live/live/playlist.m3u8"
   },
   {
-   "type": "China2",
+   "type": "China1",
    "quality": "SD",
    "link": "https://pull.dxzxcn.com/live/360ba_stream_939601_2.m3u8?txSecret=a9c7db81376d696b43c95b2cb67091b6&txTime=63C53617"
   },
   {
-   "type": "China",
+   "type": "China2",
    "quality": "SD",
    "link": "https://standard-pull.qcllh.com/sm/10021_428459_lsd.m3u8?auth_key=1673865785-0-0-6bc9fb6ef2863c80180483eb3e87404d"
   }
