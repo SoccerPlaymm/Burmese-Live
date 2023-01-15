@@ -97,6 +97,16 @@
    "type": "China2",
    "quality": "SD",
    "link": "https://pull.dxzxcn.com/live/360ba_stream_549292_3.m3u8?txSecret=08823f38cd6213389e0f7c51c7efa2ed&txTime=63C5778F"
+  },
+  {
+   "type": "Bein",
+   "quality": "HD",
+   "link": "http://192.248.160.67:8080/bein_p_1_hd/index.m3u8"
+  },
+  {
+   "type": "Bein",
+   "quality": "SD",
+   "link": "http://192.248.160.67:8080/bein_p_1_sd/index.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/6Xd01b7/download-9.png",
