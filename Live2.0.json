@@ -54,12 +54,12 @@
    "link": "https://1123139281.cdn.khmer-hd.com/may7/playlist.m3u8"
   },
   {
-   "type": "English",
+   "type": "China1",
    "quality": "SD",
-   "link": "https://live.yorafootball.com/web2/index.m3u8?token=3fe45050f6fbd2013acf5ac42c8036c27da8583b-6617043061b10cba5caef3c1ff079b2a-1673793893-1673783093"
+   "link": "https://standard-pull.qcllh.com/sm/10021_968174_lsd.m3u8?auth_key=1673868817-0-0-2d84fbe3421ddd1cd7d7549a343cdf64"
   },
   {
-   "type": "China",
+   "type": "China2",
    "quality": "SD",
    "link": "https://pull.dxzxcn.com/live/360ba_stream_196505_1.m3u8?txSecret=176a1b067d854b1e4a6ac0af83f61c0b&txTime=63C53AFE"
   }
@@ -88,14 +88,14 @@
    "link": "https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8"
   },
   {
-   "type": "China",
+   "type": "China1",
    "quality": "SD",
    "link": "https://pull.dxzxcn.com/live/360ba_stream_880249_2.m3u8?txSecret=b44446690c927fbdfaf3fbfcb29fec1d&txTime=63C54490"
   },
   {
-   "type": "English",
+   "type": "China2",
    "quality": "SD",
-   "link": "https://live.yorafootball.com/web4/index.m3u8?token=9b2589cd7ef7397540ba3988b27551cd17488ec3-184baca8570f7aceda552b1a3bfc6661-1673797548-1673786748"
+   "link": "https://standard-pull.qcllh.com/sm/10021_428419_lsd.m3u8?auth_key=1673872591-0-0-b20dc2532dc61eb6c6735ac8022a993f"
   }
              ],
     "HomeImage": "https://i.ibb.co/6BFq3Lt/download-22.png",
