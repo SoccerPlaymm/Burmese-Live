@@ -54,7 +54,12 @@
    "link": "https://1123139281.cdn.khmer-hd.com/may7/playlist.m3u8"
   },
   {
-   "type": "Vebo",
+   "type": "English",
+   "quality": "SD",
+   "link": "https://live.yorafootball.com/web2/index.m3u8?token=3fe45050f6fbd2013acf5ac42c8036c27da8583b-6617043061b10cba5caef3c1ff079b2a-1673793893-1673783093"
+  },
+  {
+   "type": "English",
    "quality": "SD",
    "link": "0"
   }
@@ -64,8 +69,8 @@
     "Hot": "",
     "LeagueName": "France - Ligue 1",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "6:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "LIVE NOW"
   },
  {
     "AwayImage": "https://i.ibb.co/Qjm2vQ9/download-33.png",
