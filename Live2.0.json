@@ -1,39 +1,4 @@
 [
- 
- {
-    "AwayImage": "https://i.ibb.co/Qjm2vQ9/download-33.png",
-    "AwayName": "Espanyol",
-    "Date": "January 15",
-   "Link":[
-  {
-   "type": "Soco",
-   "quality": "HD",
-   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-192778_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d88b9f907afedc99ed8e644fc55fa61e&auth_key=1673807881-0-0-e217d286c477cc20d37b1b57f7d2b500"
-  },
-  {
-   "type": "Vebo",
-   "quality": "SD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8"
-  },
-  {
-   "type": "China1",
-   "quality": "SD",
-   "link": "https://pull.dxzxcn.com/live/360ba_stream_880249_2.m3u8?txSecret=b44446690c927fbdfaf3fbfcb29fec1d&txTime=63C54490"
-  },
-  {
-   "type": "China2",
-   "quality": "SD",
-   "link": "https://standard-pull.qcllh.com/sm/10021_428419_lsd.m3u8?auth_key=1673872591-0-0-b20dc2532dc61eb6c6735ac8022a993f"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/6BFq3Lt/download-22.png",
-    "HomeName": "Getafe",
-    "Hot": "",
-    "LeagueName": "Spain - LaLiga",
-    "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Live",
-    "Time": "HD-SD"
-  },
   {
     "AwayImage": "https://i.ibb.co/PF2LKYS/download-6.png",
     "AwayName": "Crystal Palace",
