@@ -23,6 +23,11 @@
    "type": "English",
    "quality": "SD",
    "link": "https://live.yorafootball.com/web1/index.m3u8?token=631bb4788da14eefc3f62ce1cdcece6e1fd790b6-61bf60ff679ebc3cd83a93974a00d7a1-1673792593-1673781793"
+  },
+  {
+   "type": "China",
+   "quality": "SD",
+   "link": "https://standard-pull.qcllh.com/sm/10021_428459_lsd.m3u8?auth_key=1673865785-0-0-6bc9fb6ef2863c80180483eb3e87404d"
   }
              ],
     "HomeImage": "https://i.ibb.co/ZN6PsyW/download-45.png",
