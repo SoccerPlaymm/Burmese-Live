@@ -88,8 +88,13 @@
    "link": "https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
+   "type": "China",
+   "quality": "SD",
+   "link": "https://pull.dxzxcn.com/live/360ba_stream_880249_2.m3u8?txSecret=b44446690c927fbdfaf3fbfcb29fec1d&txTime=63C54490"
+  },
+  {
+   "type": "English",
+   "quality": "SD",
    "link": "0"
   }
              ],
