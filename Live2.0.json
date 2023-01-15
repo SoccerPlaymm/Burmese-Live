@@ -44,18 +44,18 @@
     "Date": "January 15",
    "Link":[
   {
-   "type": "China",
+   "type": "Soco",
    "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=c04c7b33456a481c948ce75205f682b6&txTime=63c43bd9"
   },
   {
    "type": "Vebo",
-   "quality": "FHD",
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/may7/playlist.m3u8"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
    "link": "0"
   }
              ],
