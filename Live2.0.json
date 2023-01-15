@@ -57,6 +57,16 @@
    "type": "SSC",
    "quality": "SD",
    "link": "http://192.248.160.67:8080/ssc1_sd/index.m3u8"
+  },
+  {
+   "type": "English",
+   "quality": "SD",
+   "link": "https://mccrawm953.s3.amazonaws.com/main2_640x360_800k.m3u8"
+  },
+  {
+   "type": "China",
+   "quality": "SD",
+   "link": "https://standard-pull.qcllh.com/sm/10021_862972_lhd.flv?auth_key=1673894376-0-0-e17b6df4763b05d1f6787fa9563d6bb2"
   }
              ],
     "HomeImage": "https://i.ibb.co/N27SsT5/download-35.png",
