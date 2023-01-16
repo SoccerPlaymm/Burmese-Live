@@ -1,5 +1,26 @@
 [
  {
+  "Name":"Veer-Zaara",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-05-28/5ced287c42eb2.jpg",
+    "dLink":"http://www.zegomovie.com/Download/VeerZaara/VeerZaara.mp4",
+    "pLink": "http://www.zegomovie.com/Download/VeerZaara/VeerZaara.mp4"
+    
+  },
+{
+  "Name":"Kabhi Alvida Naa Kehna",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-04/5cf5efd093135.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/KabhiAlvidaNaaKehna/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/KabhiAlvidaNaaKehna/index.m3u8"
+    
+  },
+{
+  "Name":"Chak de! Inida",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-05-28/5ced2c724dd99.jpg",
+    "dLink":"http://www.zegomovie.com/Download/ChakdeInida/ChakdeInida.mp4",
+    "pLink": "http://www.zegomovie.com/Download/ChakdeInida/ChakdeInida.mp4"
+    
+  },
+ {
   "Name":"Beating Heart",
     "Image":"http://zegomovie.com/Uploads/vod/2022-11-11/636dbb2ef3a50.jpg",
     "dLink":"http://www.zegomovie.com/Videos/BeatingHeart/index.m3u8",
