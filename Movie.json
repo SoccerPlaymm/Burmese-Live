@@ -1,4 +1,46 @@
 [
+  {
+  "Name":"Doraemon: Great Adventure in the Anta",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-03/5cf4ab898acfb.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/Doraemon/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Doraemon/index.m3u8"
+    
+  },
+{
+  "Name":"365days",
+    "Image":"https://upload.wikimedia.org/wikipedia/en/thumb/8/84/The_Next_365_Days.png/220px-The_Next_365_Days.png",
+    "dLink":"https://mainserver.awsmovie.workers.dev/0:/2022%20Update%20Movies/0-9/365.Days.2020.WebRip.720P.mp4",
+    "pLink": "https://mainserver.awsmovie.workers.dev/0:/2022%20Update%20Movies/0-9/365.Days.2020.WebRip.720P.mp4"
+    
+  },
+{
+  "Name":"Looop Lapeta",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-02-19/621078b021361.jpg",
+    "dLink":"0",
+    "pLink": "http://www.zegomovie.com/Videos/LooopLapeta/index.m3u8"
+    
+  },
+ {
+  "Name":"Mahaan",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-02-28/621c3d34cd2a9.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/Mahaan/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Mahaan/index.m3u8"
+    
+  },
+{
+  "Name":"Khiladi",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-03-25/623d21c12db97.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/Khiladi/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Khiladi/index.m3u8"
+    
+  },
+{
+  "Name":"Ayngaran",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-07-08/62c79414f10a7.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/Ayngaran/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Ayngaran/index.m3u8"
+    
+  },
  {
   "Name":"Hansan : Rising Dragon",
     "Image":"http://zegomovie.com/Uploads/vod/2022-12-20/63a17f59eace7.png",
