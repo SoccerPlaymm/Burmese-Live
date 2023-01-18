@@ -78,13 +78,18 @@
    "link": "https://sports01.livnvess.com/live/stream-201313.m3u8?txSecret=1121aa63904f150aa36e0a936a4feb24&txTime=63c896c5"
   },
   {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/may11/playlist.m3u8"
+  },
+  {
    "type": "China",
-   "quality": "SD",
+   "quality": "HD",
    "link": "0"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
+   "type": "China",
+   "quality": "SD",
    "link": "0"
   }
              ],
