@@ -5,9 +5,9 @@
     "Date": "January 19",
     "Link":[
   {
-   "type": "China",
+   "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=868ccc492067803cb75d9556dbe6dcac&txTime=63c892c9"
   },
   {
    "type": "Vebo",
@@ -25,8 +25,8 @@
     "Hot": "Hot",
     "LeagueName": "Italy - Super Cup Final",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "1:30 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD-SD"
   },
   {
     "AwayImage": "https://i.ibb.co/Qjm2vQ9/download-33.png",
