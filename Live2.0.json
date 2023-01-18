@@ -140,6 +140,16 @@
    "type": "Bein",
    "quality": "SD",
    "link": "http://192.248.160.67:8080/bein_p_1_sd/index.m3u8"
+  },
+  {
+   "type": "English",
+   "quality": "HD",
+   "link": "https://villeneuved867.s3.amazonaws.com/manutd_1280x720_5000k.m3u8"
+  },
+  {
+   "type": "English",
+   "quality": "SD",
+   "link": "https://villeneuved867.s3.amazonaws.com/manutd_768x432_1200k.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/PF2LKYS/download-6.png",
