@@ -1,6 +1,23 @@
 [
-   
-   {
+ {
+    "Name":"Teacher's Diary",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-05-31/5cf0f88f62bde.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/TeachersDiary/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/TeachersDiary/index.m3u8"
+  },
+  {
+    "Name":"Zack Snyder's Justice League",
+    "Image":"http://zegomovie.com/Uploads/vod/2021-03-26/605d9e22020f8.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/JusticeLeagueSnydersCut/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/JusticeLeagueSnydersCut/index.m3u8"
+  },
+{
+    "Name":"I am Groot",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-17/63c670a76834d.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/Iamgroot/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Iamgroot/index.m3u8"
+  },
+ {
     "Name":"Pathonpatham Noottandu",
     "Image":"http://zegomovie.com/Uploads/vod/2022-11-09/636b732d25f81.jpg",
     "dLink":"http://www.zegomovie.com/Videos/PathonpathamNoottandu/index.m3u8",
