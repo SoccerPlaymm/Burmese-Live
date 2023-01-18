@@ -113,12 +113,22 @@
   },
   {
    "type": "China",
+   "quality": "HD",
+   "link": "https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1674091595-0-0-305f839fa832c5f3f657ad6e0f0a309e"
+  },
+  {
+   "type": "China",
    "quality": "SD",
+   "link": "https://yypull.gdsth.com/live/stream-435929_ld.m3u8?auth_key=1674091595-0-0-ba32ce82c75c9ea682f9c8c115a1b23d"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
    "link": "0"
   },
   {
    "type": "Vebo",
-   "quality": "FHD",
+   "quality": "SD",
    "link": "0"
   }
              ],
