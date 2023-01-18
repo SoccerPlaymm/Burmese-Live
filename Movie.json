@@ -1,4 +1,58 @@
 [
+   {
+    "Name":"Pathonpatham Noottandu",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-11-09/636b732d25f81.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/PathonpathamNoottandu/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/PathonpathamNoottandu/index.m3u8"
+  },
+  {
+    "Name":"Fearless Love",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-11-08/636a28c6a4de8.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/FearlessLove/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/FearlessLove/index.m3u8"   
+  },
+  {
+    "Name":"Brahmāstra Part One: Shiva",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-11-05/63662b34a59a0.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/BrahmastraPartOneShiva/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/BrahmastraPartOneShiva/index.m3u8"   
+  },
+  {
+    "Name":"Enola Holmes 2",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-11-05/6366293bc3051.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/EnolaHolmes2/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/EnolaHolmes2/index.m3u8"    
+  },
+ {
+    "Name":"DAEMUGA",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-11-05/6366288d6b29c.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/DAEMUGA/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/DAEMUGA/index.m3u8"    
+  },
+  {
+    "Name":"My Father Is a Playboy",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-11-05/6365d48e6aa38.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/MyFatherIsaPlayboy/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/MyFatherIsaPlayboy/index.m3u8"    
+  },
+  {
+    "Name":"To Leslie",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-11-05/6365d3448ea24.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/ToLeslie/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/ToLeslie/index.m3u8"   
+  },
+  {
+    "Name":"Smile",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-11-04/6364e792e5ed6.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/Smile/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Smile/index.m3u8"    
+  },
+  {
+    "Name":"The Woman King",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-11-04/6364e374d0965.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/TheWomanKing/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/TheWomanKing/index.m3u8"   
+  },
   {
   "Name":"Doraemon: Great Adventure in the Anta",
     "Image":"http://zegomovie.com/Uploads/vod/2019-06-03/5cf4ab898acfb.jpg",
