@@ -73,9 +73,9 @@
     "Date": "January 19",
     "Link":[
   {
-   "type": "China",
+   "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-201313.m3u8?txSecret=1121aa63904f150aa36e0a936a4feb24&txTime=63c896c5"
   },
   {
    "type": "China",
@@ -131,9 +131,9 @@
     "Date": "January 19",
     "Link":[
   {
-   "type": "China",
+   "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-171964_lhd.m3u8?user_session_id=e21d3f192c52f89b66bf567b11919af4&sub_m3u8=true&auth_key=1674090241-0-0-0e7929c992026f2a2e233f00a948cb66&edge_slice=true"
   },
   {
    "type": "China",
