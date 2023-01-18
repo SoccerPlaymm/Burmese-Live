@@ -85,12 +85,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1674091475-0-0-34587033d060de9a3bf6a4e25579387e"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1674091475-0-0-fb9fcfe41b6b2fbadaa1830f7acd22c5"
   }
              ],
     "HomeImage": "https://i.ibb.co/0VRGgbR/download-16.png",
@@ -98,8 +98,8 @@
     "Hot": "",
     "LeagueName": "England - FA Cup",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:15 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD-SD"
   },
   {
     "AwayImage": "https://i.ibb.co/rZFH50R/download-1.png",
