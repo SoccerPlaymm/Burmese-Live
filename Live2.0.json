@@ -18,6 +18,16 @@
    "type": "Vebo",
    "quality": "SD",
    "link": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
+  },
+  {
+   "type": "China",
+   "quality": "SD",
+   "link": "https://standard-pull.qcllh.com/sm/10021_862974_lsd.m3u8?auth_key=1674153748-0-0-207dfec205e107fb0682fe29421d6427"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/YpGpV2N/download-57.png",
@@ -41,7 +51,7 @@
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://standard-pull.qcllh.com/sm/10021_1019663_lsd.m3u8?auth_key=1674153622-0-0-5d24206809426eaf7281081e9a75e737"
   },
   {
    "type": "Vebo",
@@ -54,8 +64,8 @@
     "Hot": "",
     "LeagueName": "Spain - Copa del Rey",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "1:30 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD-SD"
   },
   {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8344.png",
