@@ -130,6 +130,16 @@
    "type": "Vebo",
    "quality": "SD",
    "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
+  },
+  {
+   "type": "Bein",
+   "quality": "HD",
+   "link": "http://192.248.160.67:8080/bein_p_1_hd/index.m3u8"
+  },
+  {
+   "type": "Bein",
+   "quality": "SD",
+   "link": "http://192.248.160.67:8080/bein_p_1_sd/index.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/PF2LKYS/download-6.png",
@@ -137,8 +147,8 @@
     "Hot": "Hot",
     "LeagueName": "Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:30 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD-SD"
   },
   {
     "AwayImage": "https://i.ibb.co/mTH2ByB/download-28.png",
@@ -171,7 +181,7 @@
     "Hot": "",
     "LeagueName": "Spain - Copa del Rey",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:30 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD-SD"
   }
 ]
