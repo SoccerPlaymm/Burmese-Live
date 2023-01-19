@@ -1,43 +1,5 @@
 [
-  {
-    "AwayImage": "https://i.ibb.co/cx92kG0/download-79.png",
-    "AwayName": "PSG",
-    "Date": "January 19",
-    "Link":[
-  {
-   "type": "China",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "quality": "SD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1431277.png",
-    "HomeName": "Riyadh All-Star",
-    "Hot": "Hot",
-    "LeagueName": "Club Friendlies",
-    "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Live",
-    "Time": "HD-SD"
-  },
+  
   {
     "AwayImage": "https://i.ibb.co/jh44yWL/download-66.png",
     "AwayName": "Barcelona",
