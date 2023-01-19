@@ -1,5 +1,5 @@
 [
-   {
+  {
     "AwayImage": "https://i.ibb.co/cx92kG0/download-79.png",
     "AwayName": "PSG",
     "Date": "January 19",
@@ -16,7 +16,7 @@
   },
   {
    "type": "Vebo",
-   "quality": "HD",
+   "quality": "FHD",
    "link": "https://obevcimanyd179314182.thapcam.link/live/may036FHD/playlist.m3u8"
   },
   {
@@ -25,12 +25,12 @@
    "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   },
   {
-   "type": "Soco",
-   "quality": "HD",
+   "type": "Vebo",
+   "quality": "FHD",
    "link": "https://sports01.livnvess.com/live/stream-129184.m3u8?txSecret=989cb1c04e7ffbaa98ce06ed6c88a83e&txTime=63c9c73a"
   }
              ],
-    "HomeImage": "https://i.ibb.co/LQhL48S/20230119-071251.png",
+    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1431277.png",
     "HomeName": "Riyadh All-Star",
     "Hot": "Hot",
     "LeagueName": "Club Friendlies",
@@ -149,7 +149,7 @@
     "HomeImage": "https://i.ibb.co/Xj0bkGg/download-48.png",
     "HomeName": "Juventus",
     "Hot": "",
-    "LeagueName": "Italy - Coppa Italia",
+    "LeagueName": "Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
     "LiveUpcoming": "Upcoming",
     "Time": "2:30 AM"
