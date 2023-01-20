@@ -5,6 +5,11 @@
     "Date": "January 21",
     "Link":[
   {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=4c37bd56ed48c07d4c8d35d69de4038d&txTime=63cb0b9a"
+  },
+  {
    "type": "China",
    "quality": "HD",
    "link": "0"
@@ -15,8 +20,8 @@
    "link": "0"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
+   "type": "Soco",
+   "quality": "HD",
    "link": "0"
   }
              ],
@@ -34,6 +39,11 @@
     "Date": "January 21",
     "Link":[
   {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=d50e851e3805945b4843bb47ff741a08&txTime=63cb0b9a"
+  },
+  {
    "type": "China",
    "quality": "HD",
    "link": "0"
@@ -44,8 +54,8 @@
    "link": "0"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
+   "type": "Soco",
+   "quality": "HD",
    "link": "0"
   }
              ],
