@@ -77,6 +77,11 @@
    "type": "Soco",
    "quality": "HD",
    "link": "https://sports01.livnvess.com/live/stream-105723.m3u8?txSecret=a23a8c33c34fb6f2b7ae14f9bd62e77f&txTime=63cc4f0a"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may101/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/jfz7Sks/download-5.png",
@@ -106,6 +111,11 @@
    "type": "Soco",
    "quality": "HD",
    "link": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=d37e74545037e240cb2f6aaed6858ef4&txTime=63cc4f0a"
+  },
+  {
+   "type": "Vobo",
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/may9/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/V3Rk4tH/download-14.png",
