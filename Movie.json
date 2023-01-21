@@ -1,5 +1,23 @@
 [
  {
+  "Name":"Avatar: The Way of Water (2022)",
+    "Image":"http://mycinema.asia/image//20221227/avatar_13666.jpg",
+    "dLink":"http://media1.mycinema.asia/media/films/Avatar.The.Way.of.Water.2022.360p/Avatar.The.Way.of.Water.2022.360p.m3u8",
+    "pLink": "http://media1.mycinema.asia/media/films/Avatar.The.Way.of.Water.2022.360p/Avatar.The.Way.of.Water.2022.360p.m3u8" 
+  },
+  {
+  "Name":"Lullaby",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-05/63b65b2fcf84a.JPG",
+    "dLink":"http://www.zegomovie.com/Videos/Lullaby/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Lullaby/index.m3u8"    
+  },
+ {
+  "Name":"Aashiqui 2",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfddc092316c.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/Aashiqui2/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Aashiqui2/index.m3u8"
+  },
+ {
     "Name":"Teacher's Diary",
     "Image":"http://zegomovie.com/Uploads/vod/2019-05-31/5cf0f88f62bde.jpg",
     "dLink":"http://www.zegomovie.com/Videos/TeachersDiary/index.m3u8",
