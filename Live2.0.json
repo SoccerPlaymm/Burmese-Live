@@ -74,9 +74,9 @@
    "link": "https://yypull.gdsth.com/live/stream-556902_ld.m3u8?auth_key=1674333155-0-0-7423bcb55bb216025ed59042b7f1f457"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-105723.m3u8?txSecret=a23a8c33c34fb6f2b7ae14f9bd62e77f&txTime=63cc4f0a"
   }
              ],
     "HomeImage": "https://i.ibb.co/jfz7Sks/download-5.png",
@@ -84,8 +84,8 @@
     "Hot": "",
     "LeagueName": "Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "9:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD-SD"
   },
  {
     "AwayImage": "https://i.ibb.co/RBH2X6r/download-13.png",
@@ -103,9 +103,9 @@
    "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=3d397a2ce114093283b702bce6b14006&auth_key=1674333335-0-0-6dc685cfddb1a55ea0252fd5d0e8818f"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=d37e74545037e240cb2f6aaed6858ef4&txTime=63cc4f0a"
   }
              ],
     "HomeImage": "https://i.ibb.co/V3Rk4tH/download-14.png",
@@ -113,8 +113,8 @@
     "Hot": "",
     "LeagueName": "Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "9:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD-SD"
   },
  {
     "AwayImage": "https://i.ibb.co/wK5L6HX/download-8.png",
