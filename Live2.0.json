@@ -7,11 +7,26 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1674323915-0-0-f7f46ee2536d174ba734f86c38f81789&edge_slice=true&user_session_id=773dc260ed2ddeed95f2a8b203995fec&sub_m3u8=true"
   },
   {
    "type": "China",
    "quality": "SD",
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1674323915-0-0-e492af7951438f1532275b142b1c7836&edge_slice=true&user_session_id=28775ad3733d502f07e43f2432cb5656&sub_m3u8=true"
+  },
+  {
+   "type": "Vebo",
+   "quality": "FHD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "FHD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "FHD",
    "link": "0"
   },
   {
