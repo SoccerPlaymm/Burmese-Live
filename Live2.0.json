@@ -182,16 +182,21 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-349393.m3u8?auth_key=1674340775-0-0-b5c43b6a05a6b43f88e4a13bbbaf97de"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-349393_ld.m3u8?auth_key=1674340775-0-0-dc400479da596f9e068358c410fbb1ec"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-121272.m3u8?txSecret=33c9c720e3e5570d0a65ce9b1609ce78&txTime=63cc69c3"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
    "link": "0"
   }
              ],
@@ -200,8 +205,8 @@
     "Hot": "Hot",
     "LeagueName": "LaLiga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "11:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD-SD"
   },
  {
     "AwayImage": "https://i.ibb.co/McsHxxG/download-4.png",
