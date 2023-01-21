@@ -133,8 +133,13 @@
   },
   {
    "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "HD",
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-101511_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=063dbeb4c984148da37088e3ed0e4b93&auth_key=1674334082-0-0-76bb469dfb67eaf498a728b949e0630d"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-101511_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=063dbeb4c984148da37088e3ed0e4b93&auth_key=1674334082-0-0-76bb469dfb67eaf498a728b949e0630d"
   }
              ],
     "HomeImage": "https://i.ibb.co/6XqKkjV/download-11.png",
@@ -142,8 +147,8 @@
     "Hot": "",
     "LeagueName": "Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "9:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD-SD"
   },
    {
     "AwayImage": "https://i.ibb.co/0VgNnHq/download-17.png",
@@ -161,9 +166,14 @@
    "link": "https://yypull.gdsth.com/live/stream-558696_ld.m3u8?auth_key=1674333095-0-0-2fc4f8e44431530b6fd250cb1a13058f"
   },
   {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=6f2088bdac55c112ba3af5f435f0e614&auth_key=1674334204-0-0-52de130d82de0c7d5690a4644664c9d7"
+  },
+  {
    "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "SD",
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_ldd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=6f2088bdac55c112ba3af5f435f0e614&auth_key=1674334204-0-0-52de130d82de0c7d5690a4644664c9d7"
   }
              ],
     "HomeImage": "https://i.ibb.co/0B03V1F/download-19.png",
@@ -171,8 +181,8 @@
     "Hot": "",
     "LeagueName": "Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "9:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD-SD"
   },
   {
     "AwayImage": "https://i.ibb.co/1mg68jB/download-24.png",
