@@ -104,18 +104,23 @@
    "link": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=6499c64986e7ae592852e7f9920a0d5f&txTime=63cd8dcb"
   },
   {
-   "type": "China",
+   "type": "English",
+   "quality": "HD",
+   "link": "https://hudachforrest901.s3.amazonaws.com/main_1280x720_5000k.m3u8"
+  },
+  {
+   "type": "English",
+   "quality": "SD",
+   "link": "https://hudachforrest901.s3.amazonaws.com/main_768x432_1200k.m3u8"
+  },
+  {
+   "type": "Vebo",
    "quality": "HD",
    "link": "0"
   },
   {
-   "type": "China",
-   "quality": "SD",
-   "link": "0"
-  },
-  {
    "type": "Vebo",
-   "quality": "FHD",
+   "quality": "SD",
    "link": "0"
   }
              ],
@@ -124,8 +129,8 @@
     "Hot": "Hot",
     "LeagueName": "Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "8:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD-SD"
   },
   {
     "AwayImage": "https://i.ibb.co/ZN6PsyW/download-45.png",
