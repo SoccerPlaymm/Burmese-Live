@@ -140,12 +140,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1674479744-0-0-e2b5b058c7543723b364a768fd84b951"
+   "link": "https://yypull.gdsth.com/live/stream-356126.m3u8?auth_key=1674418355-0-0-0bfeaa1114a545ab339864d39095a5de"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1674480959-0-0-8103c39408c3fb9956d375780eed6433"
+   "link": "https://yypull.gdsth.com/live/stream-356126_ld.m3u8?auth_key=1674418355-0-0-6d742dec8b740b62d4c6bad37ccfb26b"
   },
   {
    "type": "Vebo",
@@ -169,12 +169,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1674418235-0-0-bfee7ab1cd883c3230733017d54179ad"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1674418235-0-0-956f19562af0ec8b60c637918033d2fd"
   },
   {
    "type": "Vebo",
@@ -187,8 +187,8 @@
     "Hot": "Hot",
     "LeagueName": "Bundesliga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "9:00 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD-SD"
   },
   {
     "AwayImage": "https://i.ibb.co/mTH2ByB/download-28.png",
