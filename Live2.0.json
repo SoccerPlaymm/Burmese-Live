@@ -164,12 +164,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-6892349.m3u8?auth_key=1674429635-0-0-9936aabba7d23533c0603ef0e79d37ad"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-6892349_ld.m3u8?auth_key=1674429635-0-0-85507f84e445a91982ca01525992d57b"
   },
   {
    "type": "Vebo",
@@ -182,8 +182,8 @@
     "Hot": "Hot",
     "LeagueName": "Saudi - Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "12:00 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD-SD"
   },
  {
     "AwayImage": "https://i.ibb.co/6BFq3Lt/download-22.png",
@@ -226,8 +226,8 @@
     "Hot": "Hot",
     "LeagueName": "LaLiga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "12:00 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD-SD"
   },
   {
     "AwayImage": "https://i.ibb.co/HqHFbmq/download-43.png",
