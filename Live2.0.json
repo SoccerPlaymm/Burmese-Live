@@ -1,33 +1,5 @@
 [
-   {
-    "AwayImage": "https://i.ibb.co/h169GkS/download-59.png",
-    "AwayName": "Udinese",
-    "Date": "January 22",
-    "Link":[
-  {
-   "type": "China",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/Dg5GmSC/download-46.png",
-    "HomeName": "Sampdoria",
-    "Hot": "",
-    "LeagueName": "Serie A",
-    "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "6:00 PM"
-  },
+   
  {
     "AwayImage": "https://i.ibb.co/THrGZYk/download-37.png",
     "AwayName": "Girona",
