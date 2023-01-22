@@ -107,6 +107,11 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?edge_slice=true&user_session_id=f892b72db7f04b2cc3afd7d642bb29f1&sub_m3u8=true&auth_key=1674437164-0-0-4453954c5c524bd14cef1b98612793d4"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/Xj0bkGg/download-48.png",
@@ -134,8 +139,13 @@
   },
   {
    "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "HD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may121/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/8KWFTPM/download-31.png",
@@ -143,7 +153,7 @@
     "Hot": "Hot",
     "LeagueName": "LaLiga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:30 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD-SD"
   }
 ]
