@@ -99,9 +99,14 @@
    "link": "https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1674437015-0-0-b102aaa467ec08064fa71da1e3dbaa78"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?edge_slice=true&user_session_id=f892b72db7f04b2cc3afd7d642bb29f1&sub_m3u8=true&auth_key=1674437164-0-0-4453954c5c524bd14cef1b98612793d4"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?edge_slice=true&user_session_id=f892b72db7f04b2cc3afd7d642bb29f1&sub_m3u8=true&auth_key=1674437164-0-0-4453954c5c524bd14cef1b98612793d4"
   }
              ],
     "HomeImage": "https://i.ibb.co/Xj0bkGg/download-48.png",
@@ -109,8 +114,8 @@
     "Hot": "Hot",
     "LeagueName": "Serie A",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:15 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD-SD"
   },
   {
     "AwayImage": "https://i.ibb.co/N27SsT5/download-35.png",
