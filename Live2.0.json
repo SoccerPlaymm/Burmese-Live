@@ -76,6 +76,21 @@
    "type": "Soco",
    "quality": "HD",
    "link": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=bdfb014f558ff307947f3fb23edd94e3&txTime=63cdb3c3"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/bN749H2/download-12.png",
