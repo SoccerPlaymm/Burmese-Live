@@ -8,12 +8,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-459156.m3u8?auth_key=1674411875-0-0-9a23e8eeb28f933a0271f5dc070258b9"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-459156_ld.m3u8?auth_key=1674411875-0-0-949fc848b5619abde1b0b145eb3a58eb"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-107307_lhd.m3u8?auth_key=1674411903-0-0-c178b2f849fe7f66a6fa2ae25fab94a7&user_session_id=99d62456dabd09b688284dc9eb04e109&sub_m3u8=true&edge_slice=true"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-107307_lsd.m3u8?auth_key=1674411903-0-0-c178b2f849fe7f66a6fa2ae25fab94a7&user_session_id=99d62456dabd09b688284dc9eb04e109&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Vebo",
@@ -26,8 +36,8 @@
     "Hot": "",
     "LeagueName": "LaLiga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "7:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD-SD"
   },
  {
     "AwayImage": "https://i.ibb.co/gzBVDwK/download-18.png",
