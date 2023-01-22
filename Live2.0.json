@@ -1,34 +1,6 @@
 [
    
-  {
-    "AwayImage": "https://i.ibb.co/mTH2ByB/download-28.png",
-    "AwayName": "Osasuna",
-    "Date": "January 22",
-    "Link":[
-  {
-   "type": "China",
-   "quality": "HD",
-   "link": "https://yypull.gdsth.com/live/stream-396937.m3u8?auth_key=1674418475-0-0-d1271d4f004887488604c96590737e0e"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "https://yypull.gdsth.com/live/stream-396937_ld.m3u8?auth_key=1674418475-0-0-d39126cbc5f127e2bbe2a12125466787"
-  },
-  {
-   "type": "Vebo",
-   "quality": "SD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/r2BvjjR/download-23.png",
-    "HomeName": "Elche",
-    "Hot": "",
-    "LeagueName": "LaLiga",
-    "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Live",
-    "Time": "HD-SD"
-  },
+  
   {
     "AwayImage": "https://i.ibb.co/rZFH50R/download-1.png",
     "AwayName": "Manchester United",
