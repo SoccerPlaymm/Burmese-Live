@@ -165,9 +165,14 @@
    "link": "https://yypull.gdsth.com/live/stream-3045619_ld.m3u8?auth_key=1674602675-0-0-7546f5e1ac98c753e1a455eff56eedca"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?user_session_id=86b28d0bbf1f968d5e83cdfd775c1331&sub_m3u8=true&auth_key=1674603246-0-0-baaa5e2592101bfb12122025a1aeee27&edge_slice=true"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?user_session_id=86b28d0bbf1f968d5e83cdfd775c1331&sub_m3u8=true&auth_key=1674603246-0-0-baaa5e2592101bfb12122025a1aeee27&edge_slice=true"
   }
              ],
     "HomeImage": "https://i.ibb.co/6XqKkjV/download-11.png",
