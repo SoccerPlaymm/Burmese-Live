@@ -123,12 +123,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?auth_key=1674602675-0-0-a3f9e481f646bb4c282be4944fc0d5a4&sub_m3u8=true&edge_slice=true&user_session_id=720c9eca182fabb5f725fa257b209bac"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?auth_key=1674602675-0-0-a3f9e481f646bb4c282be4944fc0d5a4&sub_m3u8=true&edge_slice=true&user_session_id=720c9eca182fabb5f725fa257b209bac"
   },
   {
    "type": "Vebo",
@@ -141,7 +141,7 @@
     "Hot": "",
     "LeagueName": "Serie A",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
  {
@@ -152,12 +152,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-3045619.m3u8?auth_key=1674602675-0-0-85cd551305332409bda620c0030699cd"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-3045619_ld.m3u8?auth_key=1674602675-0-0-7546f5e1ac98c753e1a455eff56eedca"
   },
   {
    "type": "Vebo",
@@ -170,7 +170,7 @@
     "Hot": "Hot",
     "LeagueName": "EFL Cup - Semi Final",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   }
 ]
