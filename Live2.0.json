@@ -25,7 +25,12 @@
    "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-187579_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=015695def485caab6ff0baabe11d6ac4&auth_key=1674860767-0-0-782cbe4965e9e063d62e8e065a151291"
   },
   {
-   "type": "Soco",
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/may8/playlist.m3u8"
+  },
+  {
+   "type": "Match Football",
    "quality": "HD",
    "link": "0"
   }
