@@ -71,12 +71,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1674869376-0-0-a9c8e96cb4390fbf7e22b1e46ec5c367"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1674869376-0-0-63037a50bdf23997657ce0b025fe41c2"
   },
   {
    "type": "Vebo",
@@ -137,9 +137,9 @@
    "link": "0"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-121272.m3u8?txSecret=2d241d72b97e99f8c7e0a9b221a79fac&txTime=63d47a9f"
   }
              ],
     "HomeImage": "https://i.ibb.co/yPjv50N/download-30.png",
