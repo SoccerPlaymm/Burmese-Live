@@ -114,16 +114,26 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1674934596-0-0-15778a33e5bcd7a1786c6437f5c01a51&sub_m3u8=true&edge_slice=true&user_session_id=e792e84e7d19d30109edca89ba7db2e5"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1674934596-0-0-15778a33e5bcd7a1786c6437f5c01a51&sub_m3u8=true&edge_slice=true&user_session_id=e792e84e7d19d30109edca89ba7db2e5"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1674934568-0-0-a24f21f917ee39adb2266bef3802f763&sub_m3u8=true&user_session_id=854206232ac54b9f1fbab4da729989f1&edge_slice=true"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1674934568-0-0-a24f21f917ee39adb2266bef3802f763&sub_m3u8=true&user_session_id=854206232ac54b9f1fbab4da729989f1&edge_slice=true"
   },
   {
    "type": "Vebo",
-   "quality": "FHD",
+   "quality": "HD",
    "link": "0"
   }
              ],
@@ -132,7 +142,7 @@
     "Hot": "",
     "LeagueName": "Serie A",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
