@@ -1,5 +1,41 @@
 [
  {
+  "Name":"Capatin",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-03/63b3adec9f7b4.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/Capatin/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Capatin/index.m3u8"   
+  },
+ {
+  "Name":"Summering",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-02/63b2a54f024c6.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/Summering/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Summering/index.m3u8"    
+  },
+ {
+  "Name":"Live Scream",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-02/63b29a6feeade.png",
+    "dLink":"http://www.zegomovie.com/Videos/LiveScream/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/LiveScream/index.m3u8"    
+  },
+  {
+  "Name":"Ditto",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-21/63a28d4884455.png",
+    "dLink":"http://www.zegomovie.com/Videos/Ditto/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Ditto/index.m3u8"    
+  },
+{
+  "Name":"God's Country",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-21/63a28f4866274.png",
+    "dLink":"http://www.zegomovie.com/Videos/God'sCountry/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/God'sCountry/index.m3u8"    
+  },
+{
+  "Name":"Raymond & Ray",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-21/63a2909b0841e.png",
+    "dLink":"http://www.zegomovie.com/Videos/Raymond&Ray/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Raymond&Ray/index.m3u8"    
+  },
+ {
   "Name":"Avatar: The Way of Water (2022)",
     "Image":"http://mycinema.asia/image//20221227/avatar_13666.jpg",
     "dLink":"http://media1.mycinema.asia/media/films/Avatar.The.Way.of.Water.2022.360p/Avatar.The.Way.of.Water.2022.360p.m3u8",
