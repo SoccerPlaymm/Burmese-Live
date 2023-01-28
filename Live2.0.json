@@ -249,14 +249,29 @@
     "Date": "January 28",
     "Link":[
   {
-   "type": "China",
+   "type": "Soco",
    "quality": "HD",
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-214855_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1674941468-0-0-d1498d763cee3057041f66944345d846&user_session_id=1e26135b4f65a97065200c1188b38f47"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-214855_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1674941468-0-0-d1498d763cee3057041f66944345d846&user_session_id=1e26135b4f65a97065200c1188b38f47"
+  },
+  {
+   "type": "Vebo",
+   "quality": "FHD",
    "link": "0"
   },
   {
    "type": "China",
+   "quality": "HD",
+   "link": ""
+  },
+  {
+   "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": ""
   },
   {
    "type": "Vebo",
@@ -269,8 +284,8 @@
     "Hot": "",
     "LeagueName": "Ligue 1",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "10:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
   {
     "AwayImage": "https://i.ibb.co/P13TnDX/download-42.png",
