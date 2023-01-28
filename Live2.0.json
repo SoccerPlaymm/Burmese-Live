@@ -15,6 +15,16 @@
    "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?auth_key=1674929016-0-0-bea2a47cc3d7214539651585054ee8c8&user_session_id=9180cf38578937340a2059c34e4a64b9&sub_m3u8=true&edge_slice=true"
   },
   {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=d9003ab5056a9dc22c8185b0b120defc&auth_key=1674929288-0-0-3b22dd4ac4b0a91fb266d7b93948798f"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=d9003ab5056a9dc22c8185b0b120defc&auth_key=1674929288-0-0-3b22dd4ac4b0a91fb266d7b93948798f"
+  },
+  {
    "type": "Vebo",
    "quality": "FHD",
    "link": "0"
@@ -44,9 +54,9 @@
    "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lsd.m3u8?edge_slice=true&auth_key=1674929076-0-0-01b1732641e0ea39262385615fa4cb67&user_session_id=a1f20fd62fbebd8dcc37cac715398634&sub_m3u8=true"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=8aaafb95c9f32717d6212cc49a6958e9&txTime=63d56488"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8671.png",
@@ -73,9 +83,9 @@
    "link": "https://yypull.gdsth.com/live/stream-9457891_ld.m3u8?auth_key=1674929076-0-0-fe891ada1ea539c8661836b5ba23face"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-173024.m3u8?txSecret=17cbdb428e1aff6a0fe9fda4ed8e6c3f&txTime=63d56488"
   }
              ],
     "HomeImage": "https://i.ibb.co/SrkThSS/download-26.png",
