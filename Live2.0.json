@@ -7,12 +7,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?auth_key=1674929016-0-0-bea2a47cc3d7214539651585054ee8c8&user_session_id=9180cf38578937340a2059c34e4a64b9&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?auth_key=1674929016-0-0-bea2a47cc3d7214539651585054ee8c8&user_session_id=9180cf38578937340a2059c34e4a64b9&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Vebo",
@@ -25,7 +25,7 @@
     "Hot": "",
     "LeagueName": "FA Cup",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:00 PM"
   },
  {
@@ -36,12 +36,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?edge_slice=true&auth_key=1674929076-0-0-01b1732641e0ea39262385615fa4cb67&user_session_id=a1f20fd62fbebd8dcc37cac715398634&sub_m3u8=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lsd.m3u8?edge_slice=true&auth_key=1674929076-0-0-01b1732641e0ea39262385615fa4cb67&user_session_id=a1f20fd62fbebd8dcc37cac715398634&sub_m3u8=true"
   },
   {
    "type": "Vebo",
@@ -54,7 +54,7 @@
     "Hot": "",
     "LeagueName": "FA Cup",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:00 PM"
   },
   {
@@ -65,12 +65,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-9457891.m3u8?auth_key=1674929076-0-0-ad97b7110d975ad99e9339b0221397b5"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-9457891_ld.m3u8?auth_key=1674929076-0-0-fe891ada1ea539c8661836b5ba23face"
   },
   {
    "type": "Vebo",
@@ -83,7 +83,7 @@
     "Hot": "",
     "LeagueName": "LaLiga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
  {
