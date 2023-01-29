@@ -122,14 +122,14 @@
    "link": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=de79e2358f92637b3e2b7de318d9bc43&txTime=63d6c3a0"
   },
   {
-   "type": "Soco",
-   "quality": "HD",
-   "link": "0"
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://179314182.global.cdnfastest.com/live/may9/playlist.m3u8"
   },
   {
-   "type": "Soco",
+   "type": "English",
    "quality": "HD",
-   "link": "0"
+   "link": "https://hdstreamss.club:30443/live/abr_ch5/live/ch5_720p/chunks.m3u8"
   },
   {
    "type": "Soco",
