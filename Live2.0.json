@@ -121,12 +121,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?auth_key=1675032576-0-0-cc06740f4bded0479d28f4e881e8b1a5&sub_m3u8=true&user_session_id=af1c8db892d6f0fbc78daaa74d5f985b&edge_slice=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?auth_key=1675032576-0-0-cc06740f4bded0479d28f4e881e8b1a5&sub_m3u8=true&user_session_id=af1c8db892d6f0fbc78daaa74d5f985b&edge_slice=true"
   },
   {
    "type": "Soco",
@@ -150,7 +150,7 @@
     "LeagueName": "Serie A",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
     "LiveUpcoming": "Live",
-    "Time": "11:30 PM"
+    "Time": "HD/SD"
   },
   {
     "AwayImage": "https://i.ibb.co/8KWFTPM/download-31.png",
