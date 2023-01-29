@@ -109,17 +109,17 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1675019076-0-0-9cd3b066fe8d297d7520ee2f84991899&user_session_id=340fe4e266894c5e814961a1927e715c"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1675019076-0-0-9cd3b066fe8d297d7520ee2f84991899&user_session_id=340fe4e266894c5e814961a1927e715c"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=de79e2358f92637b3e2b7de318d9bc43&txTime=63d6c3a0"
   },
   {
    "type": "Soco",
@@ -147,8 +147,8 @@
     "Hot": "Hot",
     "LeagueName": "FA Cup",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "8:00 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
   {
     "AwayImage": "https://i.ibb.co/0mCdqDz/download-50.png",
