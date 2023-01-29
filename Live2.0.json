@@ -204,6 +204,11 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-100684_lsd.m3u8?user_session_id=2442dd8ac3e5b0fa973712eed3619746&sub_m3u8=true&edge_slice=true&auth_key=1675028708-0-0-f580f2a2b60c201928bcd6e796d18160"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://179314182.global.cdnfastest.com/live/may8/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/1mCtxQQ/download-58.png",
@@ -211,7 +216,7 @@
     "Hot": "",
     "LeagueName": "Serie A",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:30 PM"
   },
   {
