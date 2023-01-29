@@ -165,6 +165,11 @@
    "type": "China",
    "quality": "SD",
    "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?auth_key=1675028136-0-0-ff950d36c79d93d944e8b9414e1995e9&user_session_id=551685191770a8ccb433255f23a08ff8&sub_m3u8=true&edge_slice=true"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://179314182.global.cdnfastest.com/live/may11/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/51zs1r9/download-63.png",
@@ -172,8 +177,8 @@
     "Hot": "Hot",
     "LeagueName": "Bundesliga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "11:00 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
   {
     "AwayImage": "https://i.ibb.co/Sc8jcxx/download-53.png",
