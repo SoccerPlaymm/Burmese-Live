@@ -176,6 +176,11 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?edge_slice=true&user_session_id=37964a38a529f9119a935fcd806cdffc&sub_m3u8=true&auth_key=1675028948-0-0-c9eba80cf97f952cd028971b48f53b9e"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://179314182.global.cdnfastest.com/live/may121/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/5svpMRP/download-36.png",
@@ -183,8 +188,8 @@
     "Hot": "",
     "LeagueName": "LaLiga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "12:00 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
  {
     "AwayImage": "https://i.ibb.co/1mDqD0w/download-55.png",
@@ -210,6 +215,11 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-171964_lsd.m3u8?auth_key=1675029128-0-0-7fd7b7f9adbcce24cc0886a3b5cfd02a&edge_slice=true&user_session_id=066f6ae3bfc807bb53e9383fcf92dce8&sub_m3u8=true"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://179314182.global.cdnfastest.com/live/may8/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/rxJP1dw/download-41.png",
@@ -244,6 +254,11 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1675029308-0-0-7ea91d541e4ecd1d7f5565a8485daa5c&sub_m3u8=true&edge_slice=true&user_session_id=01aeee25d5557ba2be6971c91e4ce9cc"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/cx92kG0/download-79.png",
