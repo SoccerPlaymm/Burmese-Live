@@ -160,6 +160,11 @@
    "type": "Soco",
    "quality": "HD",
    "link": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=2e7248d579c242021fa1d523ce0d9676&txTime=63d6de59"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://179314182.global.cdnfastest.com/live/may121/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/mTH2ByB/download-28.png",
