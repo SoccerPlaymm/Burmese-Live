@@ -151,12 +151,12 @@
    "link": "0"
   },
   {
-   "type": "Soco",
+   "type": "China",
    "quality": "HD",
    "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lhd.m3u8?auth_key=1675028076-0-0-a3bb2d41c4669033404d022689d395b2&edge_slice=true&sub_m3u8=true&user_session_id=c151fcc09f9deafe2c9393d8565b6f71"
   },
   {
-   "type": "Soco",
+   "type": "China",
    "quality": "SD",
    "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lsd.m3u8?auth_key=1675028076-0-0-a3bb2d41c4669033404d022689d395b2&edge_slice=true&sub_m3u8=true&user_session_id=c151fcc09f9deafe2c9393d8565b6f71"
   }
@@ -185,12 +185,12 @@
    "link": "0"
   },
   {
-   "type": "Soco",
+   "type": "China",
    "quality": "HD",
    "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?auth_key=1675028136-0-0-ff950d36c79d93d944e8b9414e1995e9&user_session_id=551685191770a8ccb433255f23a08ff8&sub_m3u8=true&edge_slice=true"
   },
   {
-   "type": "Soco",
+   "type": "China",
    "quality": "SD",
    "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?auth_key=1675028136-0-0-ff950d36c79d93d944e8b9414e1995e9&user_session_id=551685191770a8ccb433255f23a08ff8&sub_m3u8=true&edge_slice=true"
   }
@@ -269,12 +269,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-494765_lhd.m3u8?user_session_id=f2b1d20ef40e2a3f8b78976e6edbd0ce&auth_key=1675028556-0-0-7f46d970496bb45da8ee8db3c04d5f4b&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-494765_lsd.m3u8?user_session_id=f2b1d20ef40e2a3f8b78976e6edbd0ce&auth_key=1675028556-0-0-7f46d970496bb45da8ee8db3c04d5f4b&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "Vebo",
@@ -327,12 +327,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1675028556-0-0-a378299ee408af0ae615d1f61e936d10"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1675028556-0-0-3782de6a31f4e1726e0e38ddb13ebf4f"
   },
   {
    "type": "Vebo",
