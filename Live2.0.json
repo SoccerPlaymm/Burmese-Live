@@ -254,9 +254,14 @@
    "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-494765_lsd.m3u8?user_session_id=f2b1d20ef40e2a3f8b78976e6edbd0ce&auth_key=1675028556-0-0-7f46d970496bb45da8ee8db3c04d5f4b&edge_slice=true&sub_m3u8=true"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-171964_lhd.m3u8?auth_key=1675029128-0-0-7fd7b7f9adbcce24cc0886a3b5cfd02a&edge_slice=true&user_session_id=066f6ae3bfc807bb53e9383fcf92dce8&sub_m3u8=true"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-171964_lsd.m3u8?auth_key=1675029128-0-0-7fd7b7f9adbcce24cc0886a3b5cfd02a&edge_slice=true&user_session_id=066f6ae3bfc807bb53e9383fcf92dce8&sub_m3u8=true"
   }
              ],
     "HomeImage": "https://i.ibb.co/rxJP1dw/download-41.png",
@@ -283,9 +288,14 @@
    "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-3045619_lsd.m3u8?auth_key=1675028376-0-0-55740919b9e9d0691924f8461ef54cae&user_session_id=e6360e9b0fc4fc11abf9c1b4debe025c&sub_m3u8=true&edge_slice=true"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1675029308-0-0-7ea91d541e4ecd1d7f5565a8485daa5c&sub_m3u8=true&edge_slice=true&user_session_id=01aeee25d5557ba2be6971c91e4ce9cc"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1675029308-0-0-7ea91d541e4ecd1d7f5565a8485daa5c&sub_m3u8=true&edge_slice=true&user_session_id=01aeee25d5557ba2be6971c91e4ce9cc"
   }
              ],
     "HomeImage": "https://i.ibb.co/cx92kG0/download-79.png",
@@ -310,6 +320,11 @@
    "type": "China",
    "quality": "SD",
    "link": "https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1675028556-0-0-3782de6a31f4e1726e0e38ddb13ebf4f"
+  },
+  {
+   "type": "Vebo",
+   "quality": "FHD",
+   "link": "0"
   },
   {
    "type": "Vebo",
