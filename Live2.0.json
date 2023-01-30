@@ -7,17 +7,17 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?auth_key=1675111656-0-0-65a2012dec35c5ad3a3cf0218bf2cbce&user_session_id=a162763ec94bd2dd34fca715b58c847b&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?auth_key=1675111656-0-0-65a2012dec35c5ad3a3cf0218bf2cbce&user_session_id=a162763ec94bd2dd34fca715b58c847b&edge_slice=true&sub_m3u8=true"
   },
   {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-201313.m3u8?txSecret=90bceccd6f2f19ce6e70c861f1f0734b&txTime=63d82d81"
   }
              ],
     "HomeImage": "https://i.ibb.co/h169GkS/download-59.png",
