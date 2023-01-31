@@ -7,12 +7,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?user_session_id=911d43c97ef1baa35558358ef1451272&sub_m3u8=true&edge_slice=true&auth_key=1675215696-0-0-21c77d523e24e85e1ce9003c90f0b0f6"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-286721_ld.m3u8?user_session_id=911d43c97ef1baa35558358ef1451272&sub_m3u8=true&edge_slice=true&auth_key=1675215696-0-0-21c77d523e24e85e1ce9003c90f0b0f6"
   },
   {
    "type": "Vebo",
@@ -30,7 +30,7 @@
     "Hot": "Hot",
     "LeagueName": "EFL Cup - Semi Final",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   },
   {
@@ -41,12 +41,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?user_session_id=53cdd8d25fbec3e63ffa9759f333a4ee&sub_m3u8=true&edge_slice=true&auth_key=1675215696-0-0-c68f88399a4d07938a40358a31446613"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?user_session_id=53cdd8d25fbec3e63ffa9759f333a4ee&sub_m3u8=true&edge_slice=true&auth_key=1675215696-0-0-c68f88399a4d07938a40358a31446613"
   },
   {
    "type": "Vebo",
@@ -64,7 +64,7 @@
     "Hot": "Hot",
     "LeagueName": "Coppa Italia - Quarter Final",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   }
 ]
