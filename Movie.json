@@ -1,5 +1,41 @@
 [
  {
+    "Name":"Sita Ramam",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-09-13/63204abf17a8d.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/SitaRamam/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/SitaRamam/index.m3u8"    
+  },
+{
+    "Name":"HIT: The First Case",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-09-13/63203c9a2ff52.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/HITTheFirstCase/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/HITTheFirstCase/index.m3u8"    
+  },
+  {
+    "Name":"Thank You",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-09-13/631fe2e77c8a6.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/ThankYou/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/ThankYou/index.m3u8"    
+  },
+  {
+    "Name":"RigoDon",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-05-27/5cebb8b6120fc.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/RigoDon/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/RigoDon/index.m3u8"   
+  },
+{
+    "Name":"On The Basis Of Sex",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-12-02/5de4d7a58ead7.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/OnTheBasisOfSex/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/OnTheBasisOfSex/index.m3u8"    
+  },
+{
+    "Name":"Girls Blood",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-14/5d035bc4d0421.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/GirlsBlood/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/GirlsBlood/index.m3u8"   
+  },
+ {
   "Name":"Capatin",
     "Image":"http://zegomovie.com/Uploads/vod/2023-01-03/63b3adec9f7b4.PNG",
     "dLink":"http://www.zegomovie.com/Videos/Capatin/index.m3u8",
