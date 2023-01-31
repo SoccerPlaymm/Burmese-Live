@@ -21,8 +21,13 @@
   },
   {
    "type": "Vebo",
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
+  },
+  {
+   "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/McsHxxG/download-4.png",
@@ -52,6 +57,11 @@
    "type": "Soco",
    "quality": "HD",
    "link": "https://sports01.livnvess.com/live/stream-201313.m3u8?txSecret=2016f96f83fe8afcab65c97029d96936&txTime=63d9c461"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "0"
   },
   {
    "type": "Vebo",
