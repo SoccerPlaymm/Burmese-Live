@@ -36,7 +36,7 @@
     "LeagueName": "EFL Cup - Semi Final",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
     "LiveUpcoming": "Live",
-    "Time": "2:30 AM"
+    "Time": "HD/SD"
   },
   {
     "AwayImage": "https://i.ibb.co/HqHFbmq/download-43.png",
@@ -61,12 +61,12 @@
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/P13TnDX/download-42.png",
@@ -75,6 +75,6 @@
     "LeagueName": "Coppa Italia - Quarter Final",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
     "LiveUpcoming": "Live",
-    "Time": "2:30 AM"
+    "Time": "HD/SD"
   }
 ]
