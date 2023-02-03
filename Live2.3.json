@@ -41,7 +41,26 @@
     "AwayName": "Cadiz",
     "Date": "February 04",
     "Link": [
-  
+  {
+   "type": "China",
+   "quality": "HD",
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b4002d711648073e6bff476be7f9512a&auth_key=1675465896-0-0-bf651147d81c63052f65efb825db5044"
+  },
+  {
+   "type": "China",
+   "quality": "SD",
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b4002d711648073e6bff476be7f9512a&auth_key=1675465896-0-0-bf651147d81c63052f65efb825db5044"
+  },
+    {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-121272.m3u8?txSecret=9877f6d10f08b293359ee43fa768d7a2&txTime=63dd957f"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "0"
+  }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
     "HomeName": "Athletic Club",
