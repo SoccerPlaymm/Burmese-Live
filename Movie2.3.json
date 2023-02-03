@@ -1,5 +1,59 @@
 [
  {
+    "Name":"Black Adam",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-10-26/6358fd6a5bfa5.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/BlackAdam/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/BlackAdam/index.m3u8"    
+  },
+{
+    "Name":"Minions & More 1",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-07/63b90f8473456.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/MinionsandMoreVolume11/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/MinionsandMoreVolume11/index.m3u8"    
+  },
+ {
+    "Name":"LEGO Star Wars Summer Vacation",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-07/63b90e76cd861.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/LEGOStarWarsSummerVacation/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/LEGOStarWarsSummerVacation/index.m3u8"    
+  },
+ {
+    "Name":"Spoiler Alert",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-07/63b90e3370039.png",
+    "dLink":"http://www.zegomovie.com/Videos/SpoilerAlert/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/SpoilerAlert/index.m3u8"    
+  },
+ {
+    "Name":"Broad Peak",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-23/63a5651217c71.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/BroadPeak/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/BroadPeak/index.m3u8"    
+  },
+{
+    "Name":"The Infernal Machine",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-23/63a5574b6fafb.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/TheInfernalMachine/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/TheInfernalMachine/index.m3u8"    
+  },
+{
+    "Name":"Mona Lisa And The Blood Moon",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-23/63a54cddf177f.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/MonaLisaandTheBloodMoon/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/MonaLisaandTheBloodMoon/index.m3u8"    
+  },
+  {
+    "Name":"Incantation",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-09-26/6331684373ca4.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/Incantation/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Incantation/index.m3u8"    
+  },
+  {
+    "Name":"Tees Maar Khan",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-09-26/63316162b3eb8.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8"   
+  },
+ {
   "Name":"Project A",
     "Image":"http://zegomovie.com/Uploads/vod/2019-06-03/5cf4f3ce33245.jpg",
     "dLink":"http://www.zegomovie.com/Videos/ProjectA/index.m3u8",
