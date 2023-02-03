@@ -17,14 +17,14 @@
    "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=653e9ad205884e08f82e58ef8d231c2c&auth_key=1675465896-0-0-ab8e13ce6627551b0af8cf6e0bba7518"
   },
     {
-   "type": "Soco",
+   "type": "Soco1",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=d97840678af90b917b2e595a33b8c38a&txTime=63dd9543"
   },
   {
-   "type": "Soco",
-   "quality": "SD",
-   "link": "0"
+   "type": "Soco2",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=a983a33d3bd6f3399f653121a47ea1e8&txTime=63dd9543"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
@@ -32,7 +32,7 @@
     "Hot": "Hot",
     "LeagueName": "Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   },
  {
@@ -53,7 +53,7 @@
     {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-121272.m3u8?txSecret=9877f6d10f08b293359ee43fa768d7a2&txTime=63dd957f"
   },
   {
    "type": "Soco",
@@ -66,7 +66,7 @@
     "Hot": "",
     "LeagueName": "LaLiga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   }
 ]
