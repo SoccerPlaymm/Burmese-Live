@@ -8,17 +8,17 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?auth_key=1675456416-0-0-181fc9c5cd5fcc8b3d77872b6cbd1615&user_session_id=4cadbeac339ae80257e8a11cc5ad2499&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lsd.m3u8?auth_key=1675456416-0-0-181fc9c5cd5fcc8b3d77872b6cbd1615&user_session_id=4cadbeac339ae80257e8a11cc5ad2499&edge_slice=true&sub_m3u8=true"
   },
     {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=6a35f3c0f5104d593963cc8d78a8ebce&txTime=63dd6f86"
   },
   {
    "type": "Soco",
@@ -31,8 +31,8 @@
     "Hot": "Hot",
     "LeagueName": "Saudi - Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "9:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
  {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
