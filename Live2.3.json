@@ -173,20 +173,20 @@
     {
    "type": "Soco",
    "quality": "HD",
-   "link": "https://sports01.livnvess.com/live/stream-105723.m3u8?txSecret=7dd61beae4ea91fbb6f9e755fce3ee22&txTime=63dec17f"
+   "link": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=d37df610f348a5306a830545f1779c23&txTime=63debd83"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "https://sports01.livnvess.com/live/stream-105723.m3u8?txSecret=7dd61beae4ea91fbb6f9e755fce3ee22&txTime=63dec17f"
+   "link": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=d37df610f348a5306a830545f1779c23&txTime=63debd83"
   },
     {
-   "type": "Soco",
+   "type": "Vebo",
    "quality": "HD",
    "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
-   "type": "Soco",
+   "type": "Vebo",
    "quality": "SD",
    "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   }
@@ -217,20 +217,20 @@
     {
    "type": "Soco",
    "quality": "HD",
-   "link": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=0f5e6d8dbccfe5a31a93eab1abc74461&txTime=63debdbf"
+   "link": "https://sports01.livnvess.com/live/stream-105723.m3u8?txSecret=7dd61beae4ea91fbb6f9e755fce3ee22&txTime=63dec17f"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=d37df610f348a5306a830545f1779c23&txTime=63debd83"
+   "link": "https://sports01.livnvess.com/live/stream-105723.m3u8?txSecret=7dd61beae4ea91fbb6f9e755fce3ee22&txTime=63dec17f"
   },
     {
-   "type": "Soco",
+   "type": "Vebo",
    "quality": "HD",
    "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
   },
   {
-   "type": "Soco",
+   "type": "Vebo",
    "quality": "SD",
    "link": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
   }
@@ -269,9 +269,9 @@
    "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-192778_lsd.m3u8?auth_key=1675541291-0-0-75112e2f664226f90e737f7f143cf6a9&edge_slice=true&user_session_id=e023aefd0ed35207d88f85a72b8e1507&sub_m3u8=true"
   },
     {
-   "type": "Soco",
-   "quality": "HD",
-   "link": "0"
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may91/playlist.m3u8"
   },
   {
    "type": "Soco",
@@ -357,9 +357,9 @@
    "link": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-195586_lsd.m3u8?auth_key=1675541351-0-0-4300f8703cdd02d9ed1432dd390010d2&edge_slice=true&sub_m3u8=true&user_session_id=d06508a3554cfa96156f455ba9b01069"
   },
     {
-   "type": "Soco",
-   "quality": "HD",
-   "link": "0"
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may122/playlist.m3u8"
   },
   {
    "type": "Soco",
