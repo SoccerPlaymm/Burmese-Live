@@ -238,6 +238,11 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-170430_lsd.m3u8?user_session_id=4ad1d17a66d8aae9fc10c216eb10d93c&edge_slice=true&sub_m3u8=true&auth_key=1675553771-0-0-516b6042f82433a6c71a958fb5a199e1"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may81/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/ZN6PsyW/download-45.png",
