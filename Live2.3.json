@@ -215,13 +215,13 @@
    "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=2fa118d36742f436d0bf593d6d1d930c&auth_key=1675540657-0-0-4cd82a73d17fa8517e76629d631cff9e"
   },
     {
-   "type": "Soco1",
+   "type": "Soco",
    "quality": "HD",
    "link": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=0f5e6d8dbccfe5a31a93eab1abc74461&txTime=63debdbf"
   },
   {
-   "type": "Soco2",
-   "quality": "HD",
+   "type": "Soco",
+   "quality": "SD",
    "link": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=d37df610f348a5306a830545f1779c23&txTime=63debd83"
   },
     {
