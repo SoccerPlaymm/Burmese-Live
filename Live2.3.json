@@ -414,12 +414,12 @@
     {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?auth_key=1675546451-0-0-08a46f4808080b320c86edab422eb968&user_session_id=a4beb193819dd8ece3354da0014b5207&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?auth_key=1675546451-0-0-08a46f4808080b320c86edab422eb968&user_session_id=a4beb193819dd8ece3354da0014b5207&sub_m3u8=true&edge_slice=true"
   }
              ],
     "HomeImage": "https://i.ibb.co/cx92kG0/download-79.png",
@@ -427,7 +427,7 @@
     "Hot": "Hot",
     "LeagueName": "Ligue 1",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   },
   {
@@ -448,12 +448,12 @@
     {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-113906_lhd.m3u8?auth_key=1675546451-0-0-44b4ac613a1d4eb7f58ac6db076e6399&user_session_id=246d67a5b8bfbc7fdbe102366982515f&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-113906_lsd.m3u8?auth_key=1675546451-0-0-44b4ac613a1d4eb7f58ac6db076e6399&user_session_id=246d67a5b8bfbc7fdbe102366982515f&sub_m3u8=true&edge_slice=true"
   }
              ],
     "HomeImage": "https://i.ibb.co/1mDqD0w/download-55.png",
