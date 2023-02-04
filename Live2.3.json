@@ -35,9 +35,14 @@
    "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   },
   {
-   "type": "Bein",
+   "type": "beIN",
    "quality": "HD",
    "link": "http://167.172.17.19:80/BeinPremuim1HD/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "type": "beIN",
+   "quality": "SD",
+   "link": "http://167.172.17.19:80/BeinSportsPremuim1SD/tracks-v1a1/mono.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/0VgNnHq/download-17.png",
