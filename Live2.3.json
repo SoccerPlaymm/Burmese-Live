@@ -217,7 +217,11 @@
    "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?auth_key=1675633451-0-0-d94b14549f9aa291905f37c86150eac4&edge_slice=true&user_session_id=79830c13d9535b750c46da95ca2801cb&sub_m3u8=true"
   },
 
-
+    {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://1123139281.cdn.khmer-hd.com/may121/playlist.m3u8"
+  },
     {
    "type": "China",
    "quality": "SD",
