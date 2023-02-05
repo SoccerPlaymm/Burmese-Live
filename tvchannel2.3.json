@@ -151,14 +151,6 @@
    "image" : "https://play-lh.googleusercontent.com/EvzFsHzdsO_B0U97VR9hyJday6GsjZg84BqX_vOSM9Cm6-Kn2iYDEmGSafYvItKhWT0",
    "link" : "https://tv.mahar.live/mahar/website.stream/playlist.m3u8?hdnts=exp=1648482423~acl=/*~hmac=3c1e7c2ddfaac3a9629d71d4d4a9be635197f03754c411c3fcc1a35d66858f43"
 },
-{ "channelName" : "YTV",
-   "image" : "https://upload.wikimedia.org/wikipedia/en/6/68/YTV_Logo.png",
-   "link" : "http://183.89.246.119:8881/play/a081/index.m3u8"
-},
-{ "channelName" : "Fortune",
-   "image" : "https://ia601905.us.archive.org/34/items/fs-1_20200915/Fortune-TV-1.png",
-   "link" : "http://183.89.246.119:8881/play/a082/index.m3u8"
-},
 { "channelName" : "Channel9",
    "image" : "https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",
    "link" : "https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8"
