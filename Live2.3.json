@@ -108,7 +108,11 @@
    "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-161243_lhd.m3u8?sub_m3u8=true&auth_key=1675626191-0-0-f8e7afbf9f5edda641a9458a5b8544b6&user_session_id=9d96a39c201a130b13925537592e12e5&edge_slice=true"
   },
 
-
+    {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8"
+  },
     {
    "type": "China",
    "quality": "SD",
@@ -180,7 +184,11 @@
    "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-213119_lhd.m3u8?user_session_id=351906798092c62a14b3d0eed1220dc6&auth_key=1675626371-0-0-daf5c52b2bef966a53dc026c9a3c4b56&sub_m3u8=true&edge_slice=true"
   },
 
-
+    {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may101/playlist.m3u8"
+  },
     {
    "type": "China",
    "quality": "SD",
