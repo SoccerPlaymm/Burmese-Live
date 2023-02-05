@@ -135,10 +135,6 @@
    "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTooWsmLRMVcsuV8BG-f4NP0obS9n3NgjZ07A&usqp=CAU",
    "link" : "https://mizzima-live.b-cdn.net/live2_720.m3u8"
 },
-{ "channelName" : "MM Music",
-   "image" : "https://img.freepik.com/free-vector/musical-pentagram-sound-waves-notes-background_1017-33911.jpg?w=2000",
-   "link" : "https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8"
-},
 { "channelName" : "MRTV-4",
    "image" : "http://static.pyoneplay.com/static/live/li_bg_1571902845.jpg",
    "link" : "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
@@ -150,10 +146,6 @@
 { "channelName" : "Mahar",
    "image" : "https://play-lh.googleusercontent.com/EvzFsHzdsO_B0U97VR9hyJday6GsjZg84BqX_vOSM9Cm6-Kn2iYDEmGSafYvItKhWT0",
    "link" : "https://tv.mahar.live/mahar/website.stream/playlist.m3u8?hdnts=exp=1648482423~acl=/*~hmac=3c1e7c2ddfaac3a9629d71d4d4a9be635197f03754c411c3fcc1a35d66858f43"
-},
-{ "channelName" : "Channel9",
-   "image" : "https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",
-   "link" : "https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8"
 },
 { "channelName" : "MNTV",
    "image" : "https://yt3.ggpht.com/ytc/AMLnZu8tIx7w_ftV28AmK36qbznIJKTkHd5LApBd4RnV=s900-c-k-c0x00ffffff-no-rj",
