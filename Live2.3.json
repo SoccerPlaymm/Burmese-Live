@@ -216,24 +216,24 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-489740_lhd.m3u8?auth_key=1675630297-0-0-4adf673f6449b20e6041c6099f09f12b&edge_slice=true&sub_m3u8=true&user_session_id=38ed664a09bc6270ecd7eb22dca7c423"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-115447_lhd.m3u8?sub_m3u8=true&auth_key=1675630391-0-0-21fd9d0fbd410175937007fd71a25b44&user_session_id=bd25a9dc31426584d18ffb2f50714483&edge_slice=true"
   },
 
 
     {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-489740_lsd.m3u8?auth_key=1675630297-0-0-4adf673f6449b20e6041c6099f09f12b&edge_slice=true&sub_m3u8=true&user_session_id=38ed664a09bc6270ecd7eb22dca7c423"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-115447_lsd.m3u8?sub_m3u8=true&auth_key=1675630391-0-0-21fd9d0fbd410175937007fd71a25b44&user_session_id=bd25a9dc31426584d18ffb2f50714483&edge_slice=true"
   }
              ],
     "HomeImage": "https://i.ibb.co/THrGZYk/download-37.png",
