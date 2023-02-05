@@ -1,50 +1,5 @@
 [
-   {
-    "AwayImage": "https://i.ibb.co/rxJP1dw/download-41.png",
-    "AwayName": "Napoli",
-    "Date": "February 05",
-    "Link": [
-  {
-   "type": "China",
-   "quality": "HD",
-   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?sub_m3u8=true&user_session_id=c5babb128eada41082fcc654a0c35bb9&edge_slice=true&auth_key=1675618657-0-0-f2c40a5362df4dd7989c4b9ec8acb717"
-  },
-  {
-   "type": "Vebo",
-   "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-  },
-  {
-   "type": "Soco",
-   "quality": "HD",
-   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-187579_lhd.m3u8?sub_m3u8=true&user_session_id=8c1915f212687a038fb81c2518640214&edge_slice=true&auth_key=1675618931-0-0-0e93728e02065888682ce44dea5c2684"
-  },
-
-
-    {
-   "type": "China",
-   "quality": "SD",
-   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?sub_m3u8=true&user_session_id=c5babb128eada41082fcc654a0c35bb9&edge_slice=true&auth_key=1675618657-0-0-f2c40a5362df4dd7989c4b9ec8acb717"
-  },
-  {
-   "type": "Vebo",
-   "quality": "SD",
-   "link": "https://1123139281.cdn.khmer-hd.com/live/chunks.m3u8"
-  },
-  {
-   "type": "Soco",
-   "quality": "SD",
-   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-187579_lsd.m3u8?sub_m3u8=true&user_session_id=8c1915f212687a038fb81c2518640214&edge_slice=true&auth_key=1675618931-0-0-0e93728e02065888682ce44dea5c2684"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/8bWWMhd/download-52.png",
-    "HomeName": "Spezia",
-    "Hot": "",
-    "LeagueName": "Serie A",
-    "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Live",
-    "Time": "HD/SD"
-  },
+   
   {
     "AwayImage": "https://i.ibb.co/N27SsT5/download-35.png",
     "AwayName": "Real Madrid",
