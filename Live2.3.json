@@ -16,7 +16,11 @@
    "quality": "HD",
    "link": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=d35d8092ed7bf8dccd6205752155e225&txTime=63e031b3"
   },
-
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
+  },
 
     {
    "type": "China",
@@ -24,9 +28,9 @@
    "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?sub_m3u8=true&auth_key=1675637017-0-0-ba64ec42a1757fc14f13a62162dc9b23&user_session_id=4671b8e7e90851bd497d1592d8fc0c0c&edge_slice=true"
   },
   {
-   "type": "Soco",
+   "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/P13TnDX/download-42.png",
