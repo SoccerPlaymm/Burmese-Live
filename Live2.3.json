@@ -224,7 +224,11 @@
    "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-144861_lsd.m3u8?edge_slice=true&auth_key=1675638431-0-0-65c21f14dbcb7f44db564a04251f0eb6&user_session_id=9b6114c1fd9745c0d4db0c003433b235&sub_m3u8=true"
   },
 
-
+   {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8"
+  },
     {
    "type": "China",
    "quality": "SD",
@@ -241,8 +245,8 @@
     "Hot": "",
     "LeagueName": " LaLiga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "12:00 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
   {
     "AwayImage": "https://i.ibb.co/YpGpV2N/download-57.png",
