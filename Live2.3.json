@@ -224,7 +224,11 @@
    "link": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-115447_lhd.m3u8?sub_m3u8=true&auth_key=1675630391-0-0-21fd9d0fbd410175937007fd71a25b44&user_session_id=bd25a9dc31426584d18ffb2f50714483&edge_slice=true"
   },
 
-
+    {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8"
+  },
     {
    "type": "China",
    "quality": "SD",
