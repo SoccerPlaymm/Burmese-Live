@@ -140,7 +140,11 @@
    "quality": "HD",
    "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
-
+  {
+   "type": "English",
+   "quality": "SD",
+   "link": "http://ovocloud.site/live/abr_s-1/playlist.m3u8"
+  },
     {
    "type": "China",
    "quality": "SD",
