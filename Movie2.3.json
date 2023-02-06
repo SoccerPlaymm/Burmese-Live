@@ -1,5 +1,41 @@
 [
  {
+    "Name":"New Gods",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-11-24/637ed17c838a4.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/NewGodsYangJian/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/NewGodsYangJian/index.m3u8"
+  },
+{
+    "Name":"The Wonder",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-11-23/637ddde0cebf9.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/TheWonder/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/TheWonder/index.m3u8"
+  },
+{
+    "Name":"Good Deal",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-11-24/637ecfd664c93.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/GoodDeal/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/GoodDeal/index.m3u8"
+  },
+  {
+    "Name":"Deep in it",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-23/63a53bb35e704.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/DeepInIt/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/DeepInIt/index.m3u8"    
+  },
+{
+    "Name":"Confess,Fletch",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-23/63a52557ddba3.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/ConfessFletch/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/ConfessFletch/index.m3u8"    
+  },
+{
+    "Name":"Werewolf by Night",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-23/63a522dd5dd97.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/WerewolfbyNight/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/WerewolfbyNight/index.m3u8"    
+  },
+ {
     "Name":"Last Film Show",
     "Image":"http://zegomovie.com/Uploads/vod/2023-01-05/63b6500c6c313.JPG",
     "dLink":"http://www.zegomovie.com/Videos/LastFilmShow/index.m3u8",
