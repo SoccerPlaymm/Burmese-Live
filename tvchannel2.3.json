@@ -1,5 +1,19 @@
 [
+{ "channelName" : "Setanta 1",
 
+   "image" : "http://kt.server-img.lfstrm.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3NldGFudGFfc3BvcnRzXzEucG5n",
+
+   "link" : "https://livetv.mylifeisgood.ml/channels/setantahd.m3u8"
+
+},
+
+{ "channelName" : "Setanta 2",
+
+   "image" : "https://kt.server-img.lfstrm.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3NldGFudGFfc3BvcnRzXzIucG5n",
+
+   "link" : "https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8"
+
+},
 { "channelName" : "EuroSport 1",
    "image" : "https://media.info/i/lf/0/1447433721/1065.png",
    "link" : "https://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8"
