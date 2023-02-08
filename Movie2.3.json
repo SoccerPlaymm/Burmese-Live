@@ -1,4 +1,40 @@
 [
+  {
+    "Name":"Dragon and Tiger",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-08/63ba2a3f28b0e.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/DragonAndTiger/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/DragonAndTiger/index.m3u8"    
+  },
+  {
+    "Name":"The Conqueror",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-07/63b9109d59e5c.JPG",
+    "dLink":"http://www.zegomovie.com/Videos/TheConqueror/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/TheConqueror/index.m3u8"    
+  },
+  {
+    "Name":"Bullet Train",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-23/63a52c804bff3.png",
+    "dLink":"http://www.zegomovie.com/Videos/BulletTrain/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/BulletTrain/index.m3u8"    
+  },
+  {
+    "Name":"Greed",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-21/63a27d44dc98a.png",
+    "dLink":"http://www.zegomovie.com/Videos/Greed/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Greed/index.m3u8"
+  },
+ {
+    "Name":"Titanic",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-05-24/5ce7b6c187511.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/Titanic/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Titanic/index.m3u8"    
+  },
+  {
+    "Name":"Chup",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-11-26/6381d014900ff.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/Chup/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Chup/index.m3u8"
+  },
  {
     "Name":"Seondal The Man Who Sells The River",
     "Image":"http://zegomovie.com/Uploads/vod/2019-05-31/5cf0bdf93c565.jpg",
