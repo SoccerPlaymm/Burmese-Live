@@ -85,12 +85,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1675902913-0-0-9a28648631602acf70445be3c27059cc&user_session_id=545207bdcb339a69d4595b6adc7fd7b1&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-112565_lsd.m3u8?auth_key=1675902913-0-0-9a28648631602acf70445be3c27059cc&user_session_id=545207bdcb339a69d4595b6adc7fd7b1&edge_slice=true&sub_m3u8=true"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8472.png",
