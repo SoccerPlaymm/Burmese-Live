@@ -108,14 +108,14 @@
    "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-112565_lsd.m3u8?auth_key=1675902913-0-0-9a28648631602acf70445be3c27059cc&user_session_id=545207bdcb339a69d4595b6adc7fd7b1&edge_slice=true&sub_m3u8=true"
   },
   {
-   "type": "Soco",
-   "quality": "SD",
-   "link": "0"
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may122/playlist.m3u8"
   },
   {
-   "type": "Soco",
+   "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/1-3871398-0/playlist.m3u8"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8472.png",
@@ -193,12 +193,12 @@
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
   },
  {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may3SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/zNhmF1y/download-70.png",
