@@ -22,7 +22,7 @@
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
@@ -79,8 +79,8 @@
     "Hot": "Hot",
     "LeagueName": "DFB Pokal",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:15 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD"
   },
  {
     "AwayImage": "https://i.ibb.co/8YZYVzF/download-15.png",
@@ -123,8 +123,8 @@
     "Hot": "",
     "LeagueName": "England - FA Cup",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:15 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
  {
     "AwayImage": "https://i.ibb.co/0VRGgbR/download-16.png",
@@ -167,8 +167,8 @@
     "Hot": "Hot",
     "LeagueName": "Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:30 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
   {
     "AwayImage": "https://i.ibb.co/cx92kG0/download-79.png",
@@ -191,12 +191,12 @@
    "link": "https://sports01.livnvess.com/live/stream-201313.m3u8?txSecret=9cf3a22bb5a2bc9ff646e62f608bea82&txTime=63e44039"
   },
   {
-   "type": "Soco",
-   "quality": "SD",
+   "type": "Vebo",
+   "quality": "HD",
    "link": "0"
   },
  {
-   "type": "Soco",
+   "type": "Vebo",
    "quality": "SD",
    "link": "0"
   }
