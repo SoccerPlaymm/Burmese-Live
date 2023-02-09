@@ -7,22 +7,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1675984057-0-0-d62bd936e536caf0e352f9c81ff09268"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1675984057-0-0-d62bd936e536caf0e352f9c81ff09268"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121256_lhd.m3u8?sub_m3u8=true&auth_key=1675984153-0-0-f37ee4fd4467769b0d69a353bd162784&user_session_id=3afc41492eccf72c8175e9fdd7512b3c&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?sub_m3u8=true&auth_key=1675984153-0-0-f37ee4fd4467769b0d69a353bd162784&user_session_id=3afc41492eccf72c8175e9fdd7512b3c&edge_slice=true"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6354.png",
