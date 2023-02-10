@@ -7,12 +7,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1676078497-0-0-bdeea6ee6c7500b19efbce247f367866"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1676078497-0-0-1e336cb035300a088f0dd3d3840bb8f3"
   },
   {
    "type": "Soco",
@@ -30,8 +30,8 @@
     "Hot": "",
     "LeagueName": "Bundesliga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:00 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
   {
     "AwayImage": "https://i.ibb.co/T8v9CbT/download-51.png",
