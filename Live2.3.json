@@ -17,7 +17,7 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-143449.m3u8?txSecret=2b58c06428d0c13305f0c3f108a14e59&txTime=63e6ee3e"
   },
   {
    "type": "Soco",
@@ -51,12 +51,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1676078654-0-0-cac7db9aa5494bbb9f7837eaa5a98a0f&user_session_id=bf11050e8543c1cc40e511d59bf395ed"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1676078654-0-0-cac7db9aa5494bbb9f7837eaa5a98a0f&user_session_id=bf11050e8543c1cc40e511d59bf395ed"
   }
              ],
     "HomeImage": "https://i.ibb.co/YpGpV2N/download-57.png",
@@ -64,8 +64,8 @@
     "Hot": "Hot",
     "LeagueName": "Serie A",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:15 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
   {
     "AwayImage": "https://i.ibb.co/THrGZYk/download-37.png",
