@@ -191,9 +191,9 @@
    "link": "https://yypull.gdsth.com/live/stream-375981.m3u8?auth_key=1676147618-0-0-0a00c5cade84b5adcd374d4007f450fe"
   },
   {
-   "type": "China",
+   "type": "Vebo",
    "quality": "SD",
-   "link": "https://yypull.gdsth.com/live/stream-375981_ld.m3u8?auth_key=1676147618-0-0-171fb8f8cf368c772e427ccba683ffcb"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may11/playlist.m3u8"
   },
   {
    "type": "Soco",
@@ -269,9 +269,9 @@
    "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lhd.m3u8?auth_key=1676147678-0-0-3fb6e5a3c2f75db413889b0830fb839b&edge_slice=true&user_session_id=030dc4d26a46dde7b5e70cea76406063&sub_m3u8=true"
   },
   {
-   "type": "China",
+   "type": "Vebo",
    "quality": "SD",
-   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lsd.m3u8?auth_key=1676147678-0-0-3fb6e5a3c2f75db413889b0830fb839b&edge_slice=true&user_session_id=030dc4d26a46dde7b5e70cea76406063&sub_m3u8=true"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8"
   },
   {
    "type": "Soco",
