@@ -123,14 +123,14 @@
    "link": "https://sports01.livnvess.com/live/stream-137359.m3u8?txSecret=df123f60a5e0fee33b1beebadf28ed15&txTime=63e7fda7"
   },
   {
-   "type": "Soco",
-   "quality": "SD",
-   "link": "0"
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
-   "type": "Soco",
+   "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   },
   {
    "type": "Soco",
@@ -238,6 +238,16 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-170430_lsd.m3u8?user_session_id=430bbb46e2af81af301cda5b34882ece&sub_m3u8=true&edge_slice=true&auth_key=1676147955-0-0-8c493dd574f1c365ba51ae5d0859e897"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/V3Rk4tH/download-14.png",
