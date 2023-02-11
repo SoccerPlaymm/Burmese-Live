@@ -133,9 +133,14 @@
    "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   },
   {
-   "type": "Soco",
+   "type": "English",
+   "quality": "HD",
+   "link": "https://d2e3cl1mbscnwd.cloudfront.net:443/out/v1/0f1a8044baa040e88767c2cc9ba18830/index_2.m3u8"
+  },
+  {
+   "type": "English",
    "quality": "SD",
-   "link": "0"
+   "link": "https://d2e3cl1mbscnwd.cloudfront.net:443/out/v1/0f1a8044baa040e88767c2cc9ba18830/index_3.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/bN749H2/download-12.png",
