@@ -123,7 +123,7 @@
    "link": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=e14d0125f32a18a97a3c289f78069d95&txTime=63e81eef"
   },
   {
-   "type": "fhbjkjv",
+   "type": "Vebo",
    "quality": "HD",
    "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   }
@@ -154,12 +154,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?sub_m3u8=true&auth_key=1676158155-0-0-55a61bbe3509ace0cf4f15fdddf4b41d&user_session_id=2dc16f2932ea8ffd8124857c1418bc02&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?sub_m3u8=true&auth_key=1676158155-0-0-55a61bbe3509ace0cf4f15fdddf4b41d&user_session_id=2dc16f2932ea8ffd8124857c1418bc02&edge_slice=true"
   }
              ],
     "HomeImage": "https://i.ibb.co/DzBDBrj/download-25.png",
@@ -191,7 +191,7 @@
    "link": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=93ffeddeb7a522c85f9565eb09d76beb&txTime=63e81f67"
   },
   {
-   "type": "Soco",
+   "type": "Vebo",
    "quality": "SD",
    "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
   }
