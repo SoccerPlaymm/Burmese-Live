@@ -1,39 +1,4 @@
 [  
-  
-  {
-    "AwayImage": "https://i.ibb.co/1mg68jB/download-24.png",
-    "AwayName": "Real Betis",
-    "Date": "February 11",
-    "Link": [
-  {
-   "type": "China",
-   "quality": "HD",
-   "link": "https://yypull.gdsth.com/live/stream-9457891.m3u8?auth_key=1676147858-0-0-9b3c06cabcc3cf01e300e81fcb0847ec"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "https://yypull.gdsth.com/live/stream-9457891_ld.m3u8?auth_key=1676147858-0-0-a3b30141e59b1b17ff606880fb07c7a1"
-  },
-  {
-   "type": "Soco",
-   "quality": "HD",
-   "link": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=fdbbe5e28647773156f2d34acb9ecb5a&txTime=63e7fda7"
-  },
-  {
-   "type": "Vebo",
-   "quality": "SD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may81/playlist.m3u8"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/yPjv50N/download-30.png",
-    "HomeName": "Almeria",
-    "Hot": "",
-    "LeagueName": "LaLiga",
-    "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Live",
-    "Time": "HD/SD"
-  },
   {
     "AwayImage": "https://i.ibb.co/cx92kG0/download-79.png",
     "AwayName": "PSG",
