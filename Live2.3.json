@@ -157,9 +157,9 @@
    "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lhd.m3u8?auth_key=1676147738-0-0-4fae1b1e448e6b4eca680a8723b7d55d&user_session_id=49aab79d4ab33ccbc5dd3274435f91d9&sub_m3u8=true&edge_slice=true"
   },
   {
-   "type": "China",
+   "type": "Vebo",
    "quality": "SD",
-   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lsd.m3u8?auth_key=1676147738-0-0-4fae1b1e448e6b4eca680a8723b7d55d&user_session_id=49aab79d4ab33ccbc5dd3274435f91d9&sub_m3u8=true&edge_slice=true"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8"
   },
   {
    "type": "Soco",
@@ -313,9 +313,9 @@
    "link": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=fdbbe5e28647773156f2d34acb9ecb5a&txTime=63e7fda7"
   },
   {
-   "type": "Soco",
+   "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may81/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/yPjv50N/download-30.png",
@@ -323,8 +323,8 @@
     "Hot": "",
     "LeagueName": "LaLiga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "9:45 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
   {
     "AwayImage": "https://i.ibb.co/cx92kG0/download-79.png",
