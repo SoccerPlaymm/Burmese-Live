@@ -135,12 +135,12 @@
   {
    "type": "English",
    "quality": "HD",
-   "link": "https://ovocloud.site:443/live/abr_s-1/live/s-1/chunks.m3u8"
+   "link": "https://ovocloud.site/live/abr_s-1/live/s-1/chunks.m3u8"
   },
   {
    "type": "English",
    "quality": "SD",
-   "link": "https://ovocloud.site:443/live/abr_s-1/live/s-1_480p/chunks.m3u8"
+   "link": "https://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/bN749H2/download-12.png",
@@ -257,12 +257,12 @@
   {
    "type": "English",
    "quality": "HD",
-   "link": "https://d3lecjx5kngcbu.cloudfront.net:443/out/v1/36cf4e60775342b286545ed63c2d7d8e/index_2.m3u8"
+   "link": "https://ovocloud.site/live/abr_s-2/live/s-2/chunks.m3u8"
   },
   {
    "type": "English",
    "quality": "SD",
-   "link": "https://d3lecjx5kngcbu.cloudfront.net:443/out/v1/36cf4e60775342b286545ed63c2d7d8e/index_3.m3u8"
+   "link": "https://ovocloud.site/live/abr_s-2/live/s-2_480p/chunks.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/V3Rk4tH/download-14.png",
