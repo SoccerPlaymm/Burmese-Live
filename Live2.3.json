@@ -42,12 +42,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1676229938-0-0-55e1859d0766cb77df7d678fc31b74a0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-318894_lhd.m3u8?auth_key=1676232458-0-0-74c9ab5ba74f56a885d929b273e0034a&user_session_id=c02d40258fb64d6510e70bf9e817e03a&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "https://yypull.gdsth.com/live/stream-551899_ld.m3u8?auth_key=1676229938-0-0-c295121c4ada6e2425119929bccf743a"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-318894_lsd.m3u8?auth_key=1676232458-0-0-74c9ab5ba74f56a885d929b273e0034a&user_session_id=c02d40258fb64d6510e70bf9e817e03a&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "Soco",
