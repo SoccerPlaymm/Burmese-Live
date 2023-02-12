@@ -1,39 +1,4 @@
 [  
-   
-  {
-    "AwayImage": "https://i.ibb.co/SvkRPGx/download-38.png",
-    "AwayName": "Rayo Vallecano",
-    "Date": "February 12",
-    "Link": [
-  {
-   "type": "China",
-   "quality": "HD",
-   "link": "https://yypull.gdsth.com/live/stream-486118.m3u8?auth_key=1676226818-0-0-3fd9fc94b1d99ad8fd7b34e7f6cb194b"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "https://yypull.gdsth.com/live/stream-486118_ld.m3u8?auth_key=1676226818-0-0-4fe98ec7362b246968fa4189166df07f"
-  },
-  {
-   "type": "Soco",
-   "quality": "HD",
-   "link": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=e8ac7b5e2265379e837bf64159f185f1&txTime=63e93127"
-  },
-  {
-   "type": "Vebo",
-   "quality": "SD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may11/playlist.m3u8"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/6BFq3Lt/download-22.png",
-    "HomeName": "Getafe",
-    "Hot": "",
-    "LeagueName": "LaLiga",
-    "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Live",
-    "Time": "HD/SD"
-  },
   {
     "AwayImage": "https://i.ibb.co/rZFH50R/download-1.png",
     "AwayName": "Manchester United",
