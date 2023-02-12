@@ -120,6 +120,26 @@
   {
    "type": "Soco",
    "quality": "HD",
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121256_lhd.m3u8?user_session_id=fff65c643ac6c3e00c7dc07033d0934d&auth_key=1676239875-0-0-7dddc5da45fc565968c7f73a9794abf8&edge_slice=true&sub_m3u8=true"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?user_session_id=fff65c643ac6c3e00c7dc07033d0934d&auth_key=1676239875-0-0-7dddc5da45fc565968c7f73a9794abf8&edge_slice=true&sub_m3u8=true"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
    "link": "0"
   },
   {
@@ -133,7 +153,7 @@
     "Hot": "Hot",
     "LeagueName": "Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
  {
@@ -154,7 +174,7 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=30a5317ccbcff41e5110268dfb90e98a&txTime=63e9643f"
   },
   {
    "type": "Soco",
@@ -167,7 +187,7 @@
     "Hot": "",
     "LeagueName": "Bundesliga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
  {
