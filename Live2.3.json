@@ -41,7 +41,7 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": ""
   },
   {
    "type": "China",
@@ -51,12 +51,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676333176-0-0-997178cc6827894bc0d236828928c192&user_session_id=b051af7d55d6820800d395ce04a9af05"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676333176-0-0-997178cc6827894bc0d236828928c192&user_session_id=b051af7d55d6820800d395ce04a9af05"
   }
              ],
     "HomeImage": "https://i.ibb.co/Dg5GmSC/download-46.png",
@@ -109,7 +109,7 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": ""
   },
   {
    "type": "China",
@@ -119,12 +119,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-214855_lhd.m3u8?edge_slice=true&auth_key=1676333236-0-0-507aa49c79709b6e0093bfac8b4cd2a0&sub_m3u8=true&user_session_id=55e3e42fd7c8da82a385d26be25ae3ac"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-214855_lsd.m3u8?edge_slice=true&auth_key=1676333236-0-0-507aa49c79709b6e0093bfac8b4cd2a0&sub_m3u8=true&user_session_id=55e3e42fd7c8da82a385d26be25ae3ac"
   }
              ],
     "HomeImage": "https://i.ibb.co/Qjm2vQ9/download-33.png",
