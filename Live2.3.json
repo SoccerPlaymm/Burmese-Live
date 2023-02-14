@@ -86,5 +86,141 @@
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
     "LiveUpcoming": "Live",
     "Time": "HD/SD"
+  },
+   {
+    "AwayImage": "https://i.ibb.co/v4DMkVK/download-2.png",
+    "AwayName": "Manchester City",
+    "Date": "February 16",
+    "Link": [
+  {
+   "type": "China",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "China",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/bN749H2/download-12.png",
+    "HomeName": "Arsenal",
+    "Hot": "Hot",
+    "LeagueName": "Premier League",
+    "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
+    "LiveUpcoming": "Upcoming",
+    "Time": "2:00 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/MMN9Rw5/download.png",
+    "AwayName": "Chelsea",
+    "Date": "February 16",
+    "Link": [
+  {
+   "type": "China",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "China",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/L6tK4v1/download-77.png",
+    "HomeName": "Dortmund",
+    "Hot": "Hot",
+    "LeagueName": "Champions League",
+    "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
+    "LiveUpcoming": "Upcoming",
+    "Time": "2:30 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/Yp1ghsC/download-81.png",
+    "AwayName": "Benfica",
+    "Date": "February 16",
+    "Link": [
+  {
+   "type": "China",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "China",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/NrCdsMT/download-64.png",
+    "HomeName": "Club Brugge",
+    "Hot": "Hot",
+    "LeagueName": "Champions League",
+    "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
+    "LiveUpcoming": "Upcoming",
+    "Time": "2:30 AM"
+  },
+   {
+    "AwayImage": "https://i.ibb.co/r2BvjjR/download-23.png",
+    "AwayName": "Elche",
+    "Date": "February 16",
+    "Link": [
+  {
+   "type": "China",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "China",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/N27SsT5/download-35.png",
+    "HomeName": "Real Madrid",
+    "Hot": "Hot",
+    "LeagueName": "LaLiga",
+    "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
+    "LiveUpcoming": "Upcoming",
+    "Time": "2:30 AM"
   }
 ]
