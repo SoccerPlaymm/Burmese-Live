@@ -15,6 +15,16 @@
    "link": "https://yypull.gdsth.com/live/stream-435929_ld.m3u8?auth_key=1676415878-0-0-e24645b8ab592cecf5373911e4051165"
   },
   {
+   "type": "English",
+   "quality": "HD",
+   "link": "https://ovocloud.site:443/live/abr_s-1/live/s-1/chunks.m3u8"
+  },
+  {
+   "type": "English",
+   "quality": "SD",
+   "link": "https://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
+  },
+  {
    "type": "Soco",
    "quality": "HD",
    "link": "0"
@@ -57,6 +67,16 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?sub_m3u8=true&auth_key=1676415976-0-0-0e0110e3d6f1e1a14bdcd9acb0d82ae3&edge_slice=true&user_session_id=ede08ad31d089f392c5311f3ad620876"
+  },
+  {
+   "type": "English",
+   "quality": "HD",
+   "link": "https://ovocloud.site/live/abr_s-2/playlist.m3u8"
+  },
+  {
+   "type": "English",
+   "quality": "SD",
+   "link": "https://ovocloud.site/live/abr_s-2/live/s-2_480p/chunks.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/cx92kG0/download-79.png",
