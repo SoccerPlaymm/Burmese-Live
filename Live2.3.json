@@ -91,12 +91,12 @@
   {
    "type": "English",
    "quality": "HD",
-   "link": "https://ovocloud.site/live/abr_s-2/live/s-2/chunks.m3u8"
+   "link": "https://justfitness25k.s3.amazonaws.com/raptors_480p30.m3u8"
   },
   {
    "type": "English",
    "quality": "SD",
-   "link": "https://ovocloud.site/live/abr_s-2/live/s-2_480p/chunks.m3u8"
+   "link": "https://justfitness25k.s3.amazonaws.com/raptors_240p30.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/L6tK4v1/download-77.png",
@@ -140,17 +140,17 @@
   {
    "type": "English",
    "quality": "Auto",
-   "link": "https://ovocloud.site/live/abr_s-3/playlist.m3u8"
+   "link": "https://taleblocks1k.s3.amazonaws.com/spurs_640x360_800k.m3u8"
   },
   {
    "type": "English",
    "quality": "HD",
-   "link": "https://ovocloud.site/live/abr_s-3/live/s-3/chunks.m3u8"
+   "link": "https://taleblocks1k.s3.amazonaws.com/spurs_640x360_800k.m3u8"
   },
   {
    "type": "English",
    "quality": "SD",
-   "link": "https://ovocloud.site/live/abr_s-3/live/s-3_480p/chunks.m3u8"
+   "link": "https://taleblocks1k.s3.amazonaws.com/spurs_640x360_800k.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/NrCdsMT/download-64.png",
@@ -195,16 +195,6 @@
    "type": "Vebo",
    "quality": "SD",
    "link": "https://obevcimanyd179314182.thapcam.link/live/may3SD/playlist.m3u8"
-  },
-  {
-   "type": "English",
-   "quality": "HD",
-   "link": "https://ovocloud.site/live/abr_s-4/live/s-4/chunks.m3u8"
-  },
-  {
-   "type": "English",
-   "quality": "SD",
-   "link": "https://ovocloud.site/live/abr_s-4/live/s-4_480p/chunks.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/N27SsT5/download-35.png",
