@@ -138,19 +138,9 @@
    "link": "https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8"
   },
   {
-   "type": "English",
-   "quality": "Auto",
-   "link": "https://taleblocks1k.s3.amazonaws.com/spurs_640x360_800k.m3u8"
-  },
-  {
-   "type": "English",
-   "quality": "HD",
-   "link": "https://taleblocks1k.s3.amazonaws.com/spurs_640x360_800k.m3u8"
-  },
-  {
-   "type": "English",
+   "type": "Vebo",
    "quality": "SD",
-   "link": "https://taleblocks1k.s3.amazonaws.com/spurs_640x360_800k.m3u8"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/NrCdsMT/download-64.png",
