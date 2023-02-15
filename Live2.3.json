@@ -91,12 +91,12 @@
   {
    "type": "English",
    "quality": "HD",
-   "link": "https://ovocloud.site:443/live/abr_s-2/live/s-2/chunks.m3u8"
+   "link": "https://ovocloud.site/live/abr_s-2/live/s-2/chunks.m3u8"
   },
   {
    "type": "English",
    "quality": "SD",
-   "link": "https://ovocloud.site:443/live/abr_s-2/live/s-2_480p/chunks.m3u8"
+   "link": "https://ovocloud.site/live/abr_s-2/live/s-2_480p/chunks.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/L6tK4v1/download-77.png",
@@ -138,19 +138,19 @@
    "link": "https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8"
   },
   {
-   "type": "Vebo",
-   "quality": "SD",
-   "link": "0"
+   "type": "English",
+   "quality": "Auto",
+   "link": "https://ovocloud.site/live/abr_s-3/playlist.m3u8"
   },
   {
    "type": "English",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ovocloud.site/live/abr_s-3/live/s-3/chunks.m3u8"
   },
   {
    "type": "English",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ovocloud.site/live/abr_s-3/live/s-3_480p/chunks.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/NrCdsMT/download-64.png",
@@ -159,7 +159,7 @@
     "LeagueName": "Champions League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
     "LiveUpcoming": "Live",
-    "Time": "2:30 AM"
+    "Time": "HD/SD"
   },
    {
     "AwayImage": "https://i.ibb.co/r2BvjjR/download-23.png",
@@ -199,12 +199,12 @@
   {
    "type": "English",
    "quality": "HD",
-   "link": "https://ovocloud.site:443/live/abr_s-4/live/s-4/chunks.m3u8"
+   "link": "https://ovocloud.site/live/abr_s-4/live/s-4/chunks.m3u8"
   },
   {
    "type": "English",
    "quality": "SD",
-   "link": "https://ovocloud.site:443/live/abr_s-4/live/s-4_480p/chunks.m3u8"
+   "link": "https://ovocloud.site/live/abr_s-4/live/s-4_480p/chunks.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/N27SsT5/download-35.png",
@@ -213,6 +213,6 @@
     "LeagueName": "LaLiga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
     "LiveUpcoming": "Live",
-    "Time": "2:30 AM"
+    "Time": "HD/SD"
   }
 ]
