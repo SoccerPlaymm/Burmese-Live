@@ -77,6 +77,26 @@
    "type": "Soco",
    "quality": "SD",
    "link": "0"
+  },
+  {
+   "type": "China",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "China",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/L6tK4v1/download-77.png",
@@ -92,6 +112,26 @@
     "AwayName": "Benfica",
     "Date": "February 16",
     "Link": [
+  {
+   "type": "China",
+   "quality": "HD",
+   "link": "https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1676511098-0-0-982b2f9b889146704499d2711f17b1ca"
+  },
+  {
+   "type": "China",
+   "quality": "SD",
+   "link": "https://yypull.gdsth.com/live/stream-435929_ld.m3u8?auth_key=1676511098-0-0-e8afd502b46a8bc6156c92460ace0f3a"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "0"
+  },
   {
    "type": "China",
    "quality": "HD",
@@ -126,6 +166,26 @@
     "AwayName": "Elche",
     "Date": "February 16",
     "Link": [
+  {
+   "type": "China",
+   "quality": "HD",
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1676511038-0-0-d26787374fb04797f4cef2f3ce3464c9&edge_slice=true&user_session_id=a5f9e0c86d8cb083cd6aa184891a1e97&sub_m3u8=true"
+  },
+  {
+   "type": "China",
+   "quality": "SD",
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1676511038-0-0-d26787374fb04797f4cef2f3ce3464c9&edge_slice=true&user_session_id=a5f9e0c86d8cb083cd6aa184891a1e97&sub_m3u8=true"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "0"
+  },
   {
    "type": "China",
    "quality": "HD",
