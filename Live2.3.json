@@ -84,12 +84,12 @@
    "link": "0"
   },
   {
-   "type": "China",
+   "type": "Vebo",
    "quality": "SD",
    "link": "0"
   },
   {
-   "type": "Soco",
+   "type": "Vebo",
    "quality": "HD",
    "link": "0"
   },
@@ -133,22 +133,22 @@
    "link": "0"
   },
   {
-   "type": "China",
+   "type": "Vebo",
    "quality": "HD",
    "link": "0"
   },
   {
-   "type": "China",
+   "type": "Vebo",
    "quality": "SD",
    "link": "0"
   },
   {
-   "type": "Soco",
+   "type": "English",
    "quality": "HD",
    "link": "0"
   },
   {
-   "type": "Soco",
+   "type": "English",
    "quality": "SD",
    "link": "0"
   }
@@ -187,22 +187,22 @@
    "link": "0"
   },
   {
-   "type": "China",
+   "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": ""
   },
   {
-   "type": "China",
+   "type": "Vebo,
    "quality": "SD",
    "link": "0"
   },
   {
-   "type": "Soco",
+   "type": "English",
    "quality": "HD",
    "link": "0"
   },
   {
-   "type": "Soco",
+   "type": "English",
    "quality": "SD",
    "link": "0"
   }
