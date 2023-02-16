@@ -1,5 +1,23 @@
 [
-  { 
+ {
+    "Name":"Sing",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04e6851436b.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/Sing/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Sing/index.m3u8"    
+  },
+ {
+    "Name":"Sing 2",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-03-04/62218df365a69.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/Sing2/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Sing2/index.m3u8"    
+  },
+ {
+    "Name":"Terror Trips",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-06/63b7e56d8f1af.png",
+    "dLink":"http://www.zegomovie.com/Videos/TerrorTrips/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/TerrorTrips/index.m3u8"    
+  },
+ { 
     "Name":"THE DOLL 3",
     "Image":"http://zegomovie.com/Uploads/vod/2022-11-25/638082809ec3d.jpg",
     "dLink":"http://www.zegomovie.com/Videos/TheDoll3/index.m3u8",
