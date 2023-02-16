@@ -23,6 +23,11 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=e507e9bc83f3d828f6c4b1eb13561143&txTime=63eebac5"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/09qLvpm/download-60.png",
@@ -111,6 +116,11 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-112310_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2f239227418907e15370aa0e21b300ce&auth_key=1676589165-0-0-cdf8fb071ac4907fa64f0294a65706d4"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": ""
   }
              ],
     "HomeImage": "https://i.ibb.co/gZkbzFF/download-71.png",
@@ -145,6 +155,11 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-144861_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=9d62ccfb1b8803e9f0a2b65f33cd05c7&auth_key=1676589885-0-0-ea5d2163d13222bdd6273d57ae0701ff"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/WGT0K7Z/download-75.png",
@@ -179,6 +194,11 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-201313_lsd.m3u8?edge_slice=true&auth_key=1676591505-0-0-701b6872d1eb665163f39f26c2fca22d&sub_m3u8=true&user_session_id=1e05a6f8823111ae0471e60a99d9acdd"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": ""
   }
              ],
     "HomeImage": "https://i.ibb.co/51zs1r9/download-63.png",
@@ -247,6 +267,11 @@
    "type": "Soco",
    "quality": "qhttps://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121272_lsd.m3u8?edge_slice=true&auth_key=1676591505-0-0-1e04edd557cfcb2b55dcd5c6cc3a4971&user_session_id=81aa7ec1b933535b719c7b94085923c2&sub_m3u8=true",
    "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": ""
   }
              ],
     "HomeImage": "https://i.ibb.co/DzBDBrj/download-25.png",
@@ -281,6 +306,11 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?edge_slice=true&user_session_id=e43fae702b6dababcd645896ed354f19&sub_m3u8=true&auth_key=1676591385-0-0-670eff605e79782b1cdd2d6dd58810a9"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": ""
   }
              ],
     "HomeImage": "https://i.ibb.co/sFv8zdq/download-69.png",
