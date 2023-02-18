@@ -369,6 +369,26 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-201986_lsd.m3u8?sub_m3u8=true&auth_key=1676760614-0-0-f9dc19b0ef9d22ce8843a7667236dfe3&edge_slice=true&user_session_id=eccaa54140cf3972d88df97123453076"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "English",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "English",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/McsHxxG/download-4.png",
