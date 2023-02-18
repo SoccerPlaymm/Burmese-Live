@@ -397,12 +397,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1676760374-0-0-b5b2b17935a5835b3083bd32060c605a&sub_m3u8=true&user_session_id=b1ec86a5d442b06e13ef0b5e24cf6628&edge_slice=true"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-144861_lhd.m3u8?sub_m3u8=true&user_session_id=28474d2267d46c3074dfc1bfac709056&edge_slice=true&auth_key=1676760614-0-0-ea1512d38cdbbd14c09c7014661092b0"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-201313_lsd.m3u8?auth_key=1676760374-0-0-b5b2b17935a5835b3083bd32060c605a&sub_m3u8=true&user_session_id=b1ec86a5d442b06e13ef0b5e24cf6628&edge_slice=true"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-144861_lsd.m3u8?sub_m3u8=true&user_session_id=28474d2267d46c3074dfc1bfac709056&edge_slice=true&auth_key=1676760614-0-0-ea1512d38cdbbd14c09c7014661092b0"
   }
              ],
     "HomeImage": "https://i.ibb.co/LNCtfK0/download-32.png",
@@ -431,12 +431,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": ""
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1676760374-0-0-b5b2b17935a5835b3083bd32060c605a&sub_m3u8=true&user_session_id=b1ec86a5d442b06e13ef0b5e24cf6628&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-201313_lsd.m3u8?auth_key=1676760374-0-0-b5b2b17935a5835b3083bd32060c605a&sub_m3u8=true&user_session_id=b1ec86a5d442b06e13ef0b5e24cf6628&edge_slice=true"
   }
              ],
     "HomeImage": "https://i.ibb.co/PhsdbQP/download-68.png",
