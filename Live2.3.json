@@ -212,12 +212,12 @@
   {
    "type": "English",
    "quality": "HD",
-   "link": "http://ovocloud.site/live/abr_s-3/live/s-3_720p/chunks.m3u8"
+   "link": "https://ovocloud.site/live/abr_s-1/live/s-1_720p/chunks.m3u8"
   },
   {
    "type": "English",
    "quality": "SD",
-   "link": "http://ovocloud.site/live/abr_s-3/live/s-3_480p/chunks.m3u8"
+   "link": "https://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/MMN9Rw5/download.png",
