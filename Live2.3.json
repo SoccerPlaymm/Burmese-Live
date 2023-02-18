@@ -7,20 +7,35 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?auth_key=1676743598-0-0-a718763ef97fa24d562e68a6fcace541&edge_slice=true&sub_m3u8=true&user_session_id=2278b489b54f1a4e6e5edc0f8c43c4bb"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lsd.m3u8?auth_key=1676743598-0-0-a718763ef97fa24d562e68a6fcace541&edge_slice=true&sub_m3u8=true&user_session_id=2278b489b54f1a4e6e5edc0f8c43c4bb"
   },
   {
    "type": "Soco",
    "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-129184.m3u8?txSecret=7ddbca09093456b84b50b0c3b55b0470&txTime=63f1140e"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
    "link": "0"
   },
   {
-   "type": "Soco",
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
    "quality": "SD",
    "link": "0"
   }
@@ -30,8 +45,8 @@
     "Hot": "Hot",
     "LeagueName": "Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "7:00 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
  {
     "AwayImage": "https://i.ibb.co/5svpMRP/download-36.png",
