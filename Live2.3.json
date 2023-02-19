@@ -488,7 +488,7 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=b8a3b8718197644984403bb16b8309f8&txTime=63f29afe"
   },
   {
    "type": "Soco",
@@ -522,12 +522,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?sub_m3u8=true&auth_key=1676843714-0-0-a8aa80a7135a0c561c6fe887d198c21e&user_session_id=e3cd3b84c04c0f790711ace96aae104c&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?sub_m3u8=true&auth_key=1676843714-0-0-a8aa80a7135a0c561c6fe887d198c21e&user_session_id=e3cd3b84c04c0f790711ace96aae104c&edge_slice=true"
   }
              ],
     "HomeImage": "https://i.ibb.co/L6tK4v1/download-77.png",
