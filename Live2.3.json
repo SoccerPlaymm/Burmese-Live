@@ -41,22 +41,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?edge_slice=true&auth_key=1676828799-0-0-77893c854b84db861f716807153ad47c&sub_m3u8=true&user_session_id=4aa2b947ca09368137d36733b0681f7b"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lsd.m3u8?edge_slice=true&auth_key=1676828799-0-0-77893c854b84db861f716807153ad47c&sub_m3u8=true&user_session_id=4aa2b947ca09368137d36733b0681f7b"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f057ff772abb57f0c668eb8333317cc4&auth_key=1676828714-0-0-524d30e6b89b808cb12a3c16429fd6f0"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f057ff772abb57f0c668eb8333317cc4&auth_key=1676828714-0-0-524d30e6b89b808cb12a3c16429fd6f0"
   }
              ],
     "HomeImage": "https://i.ibb.co/cx92kG0/download-79.png",
@@ -64,8 +64,8 @@
     "Hot": "Hot",
     "LeagueName": "Ligue 1",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "6:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
  {
     "AwayImage": "https://i.ibb.co/Qjm2vQ9/download-33.png",
