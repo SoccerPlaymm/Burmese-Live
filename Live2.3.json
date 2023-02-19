@@ -189,7 +189,22 @@
    "link": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=b8a3b8718197644984403bb16b8309f8&txTime=63f29afe"
   },
   {
-   "type": "Soco",
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "English",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "English",
    "quality": "SD",
    "link": "0"
   }
