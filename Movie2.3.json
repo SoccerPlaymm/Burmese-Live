@@ -1,5 +1,41 @@
 [
  {
+    "Name":"The Boyy Who Harnessed the Windd",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-08-09/5d4d268d30e62.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/TheBoyWhoHarnessedtheWind/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/TheBoyWhoHarnessedtheWind/index.m3u8"   
+ },
+{
+    "Name":"West Bound Inn",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-11-26/6381cecdb8e38.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/WestboundInn/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/WestboundInn/index.m3u8"
+  },
+  {
+    "Name":"3000 Years of Longing",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-22/63a3d919d3aca.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/ThreeThousandYearsofLonging/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/ThreeThousandYearsofLonging/index.m3u8"    
+  },
+{
+    "Name":"Luckiest Girl Alive",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-19/63a04019f2aee.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/Luckiest%20Girl%20Alive1/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Luckiest%20Girl%20Alive1/index.m3u8"    
+  },
+{
+    "Name":"CAUSE WAY",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-20/63a1268dc5029.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/Causeway/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Causeway/index.m3u8"   
+  },
+  {
+    "Name":"PIGGY",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-20/63a1328630e44.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/Poggy/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Poggy/index.m3u8"    
+  },
+ {
     "Name":"Sing",
     "Image":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04e6851436b.jpg",
     "dLink":"http://www.zegomovie.com/Videos/Sing/index.m3u8",
