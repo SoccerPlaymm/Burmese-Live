@@ -7,12 +7,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1677029979-0-0-7645ce0e6216ea473b1c874f5474d227&sub_m3u8=true&edge_slice=true&user_session_id=e4fc69d0fb3e8ea4fc9b3526d714356a"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?auth_key=1677029979-0-0-7645ce0e6216ea473b1c874f5474d227&sub_m3u8=true&edge_slice=true&user_session_id=e4fc69d0fb3e8ea4fc9b3526d714356a"
   },
   {
    "type": "Soco",
@@ -30,8 +30,8 @@
     "Hot": "Hot",
     "LeagueName": "Champions League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:30 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
   {
     "AwayImage": "https://i.ibb.co/N27SsT5/download-35.png",
@@ -41,12 +41,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1677029979-0-0-7999b8b1c6953c5616ffb3fa9f6c2fe5&sub_m3u8=true&edge_slice=true&user_session_id=c0afb483fdf6053ecf9c85dfb8abe206"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1677029979-0-0-7999b8b1c6953c5616ffb3fa9f6c2fe5&sub_m3u8=true&edge_slice=true&user_session_id=c0afb483fdf6053ecf9c85dfb8abe206"
   },
   {
    "type": "Soco",
@@ -64,7 +64,7 @@
     "Hot": "Hot",
     "LeagueName": "Champions League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:30 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   }
 ]
