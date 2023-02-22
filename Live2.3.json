@@ -23,6 +23,11 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-160430_lsd.m3u8?user_session_id=cd059373e4493fdc31b1e00cf72b9e1e&edge_slice=true&sub_m3u8=true&auth_key=1677101294-0-0-da4f2b0107549fa067216b024871c0c5"
+  },
+  {
+   "type": "Burmese Live",
+   "quality": "HD",
+   "link": "http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/P13TnDX/download-42.png",
@@ -49,9 +54,9 @@
    "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?edge_slice=true&user_session_id=d4784b96db0d1630e8896450b46907ba&sub_m3u8=true&auth_key=1677101096-0-0-60167b5bac42d4fcd3a9ba0d73278cd3"
   },
   {
-   "type": "Soco",
+   "type": "Burmese Live",
    "quality": "HD",
-   "link": "0"
+   "link": "http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8"
   },
   {
    "type": "Soco",
