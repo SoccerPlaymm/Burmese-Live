@@ -28,6 +28,16 @@
    "type": "MATCH FOOTBALL",
    "quality": "HD",
    "link": "http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": ""
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": ""
   }
              ],
     "HomeImage": "https://i.ibb.co/P13TnDX/download-42.png",
@@ -62,6 +72,21 @@
    "type": "MATCH TV",
    "quality": "HD",
    "link": "https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=7221267fa9ffefa4356970d39ffefef9&txTime=63f6c2d2"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": ""
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": ""
   }
              ],
     "HomeImage": "https://i.ibb.co/HdHxByy/download-76.png",
