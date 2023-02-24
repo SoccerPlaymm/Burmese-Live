@@ -1,5 +1,23 @@
 [
  {
+    "Name":"Catfish Killer",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-14/63c24a3a7cc06.png",
+    "dLink":"http://www.zegomovie.com/Videos/CatfishKiller1/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/CatfishKiller1/index.m3u8"    
+  },
+  {
+    "Name":"Plan A Plan B",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-12/63bf8e2ca5975.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/PlanAPlanB/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/PlanAPlanB/index.m3u8"    
+  },
+  {
+    "Name":"BURIAL",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-22/63a434d7a3676.png",
+    "dLink":"http://www.zegomovie.com/Videos/Burial/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Burial/index.m3u8"  
+  },
+ {
     "Name":"Secret Headquarters",
     "Image":"http://zegomovie.com/Uploads/vod/2022-12-22/63a4170559849.png",
     "dLink":"http://www.zegomovie.com/Videos/SecretHeadquarters/index.m3u8",
