@@ -1,5 +1,23 @@
 [
  {
+    "Name":"Secret Headquarters",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-22/63a4170559849.png",
+    "dLink":"http://www.zegomovie.com/Videos/SecretHeadquarters/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/SecretHeadquarters/index.m3u8"    
+  },
+{
+    "Name":"Kung Fu Zohra",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-22/63a4148f2162c.png",
+    "dLink":"http://www.zegomovie.com/Videos/KungFuZohra/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/KungFuZohra/index.m3u8"    
+  },
+{
+    "Name":"Savage Salvation",
+    "Image":"http://zegomovie.com/Uploads/vod/2022-12-06/638f05b737ccc.JPG",
+    "dLink":"http://www.zegomovie.com/Videos/SavageSalvation/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/SavageSalvation/index.m3u8"    
+  },
+ {
     "Name":"The Boyy Who Harnessed the Windd",
     "Image":"http://zegomovie.com/Uploads/vod/2019-08-09/5d4d268d30e62.jpg",
     "dLink":"http://www.zegomovie.com/Videos/TheBoyWhoHarnessedtheWind/index.m3u8",
