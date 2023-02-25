@@ -310,6 +310,16 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?edge_slice=true&auth_key=1677358095-0-0-80bb3179d72ae2e0d29705363da5b884&sub_m3u8=true&user_session_id=fdff1084f485f14ddf40dea638e5732e"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/V3Rk4tH/download-14.png",
