@@ -17,12 +17,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-161243_lhd.m3u8?edge_slice=true&user_session_id=ec2682ffb3e3e8cbd0bce089f72803b2&sub_m3u8=true&auth_key=1677375555-0-0-ad9a9a65c88577347c112dc0b2868c5d"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-161243_lsd.m3u8?edge_slice=true&user_session_id=ec2682ffb3e3e8cbd0bce089f72803b2&sub_m3u8=true&auth_key=1677375555-0-0-ad9a9a65c88577347c112dc0b2868c5d"
   }
              ],
     "HomeImage": "https://i.ibb.co/PF2LKYS/download-6.png",
@@ -30,8 +30,8 @@
     "Hot": "Hot",
     "LeagueName": "Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:15 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
   {
     "AwayImage": "https://i.ibb.co/ZN6PsyW/download-45.png",
@@ -51,12 +51,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?edge_slice=true&user_session_id=3a78bd59ab5f083c67ff519abc388109&sub_m3u8=true&auth_key=1677375555-0-0-72e3dfc5c093825174bd4d3c7142dd6e"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-143449_lsd.m3u8?edge_slice=true&user_session_id=3a78bd59ab5f083c67ff519abc388109&sub_m3u8=true&auth_key=1677375555-0-0-72e3dfc5c093825174bd4d3c7142dd6e"
   }
              ],
     "HomeImage": "https://i.ibb.co/f0wRMJt/download-56.png",
@@ -64,8 +64,8 @@
     "Hot": "",
     "LeagueName": "Serie A",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:15 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
  {
     "AwayImage": "https://i.ibb.co/Px76w8v/download-27.png",
