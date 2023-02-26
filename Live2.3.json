@@ -139,12 +139,12 @@
   {
    "type": "English",
    "quality": "HD",
-   "link": ""
+   "link": "https://hgfdasfas.azureedge.net/live/ssme/chunks.m3u8"
   },
   {
    "type": "Bein",
    "quality": "SD",
-   "link": ""
+   "link": "http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347"
   }
              ],
     "HomeImage": "https://i.ibb.co/rZFH50R/download-1.png",
