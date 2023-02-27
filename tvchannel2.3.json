@@ -1,4 +1,20 @@
 [
+{ "channelName" : "beIN Sport English 1",
+   "image" : "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",
+   "link" : "http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347"
+},
+{ "channelName" : "beIN Sport Premium 1",
+   "image" : "https://www.yalla-shoot2day.com/wp-content/uploads/2022/05/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-1-%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.jpg",
+   "link" : "http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347"
+},
+{ "channelName" : "beIN Sport Premium 2",
+   "image" : "https://www.yalla-shoot2day.com/wp-content/uploads/2022/05/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-2-%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.jpg",
+   "link" : "http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347"
+},
+{ "channelName" : "beIN Sport Premium 3",
+   "image" : "https://www.yalla-shoot2day.com/wp-content/uploads/2022/05/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-3-%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.jpg",
+   "link" : "http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347"
+},
 { "channelName" : "Setanta 1",
    "image" : "http://kt.server-img.lfstrm.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3NldGFudGFfc3BvcnRzXzEucG5n",
    "link" : "https://livetv.mylifeisgood.ml/channels/setantahd.m3u8"
