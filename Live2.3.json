@@ -109,22 +109,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?edge_slice=true&user_session_id=a3f07304a33fc9f2dead0862c46e69e4&sub_m3u8=true&auth_key=1677627537-0-0-c426d812c5f94b8b30c48c4d72c84ac0"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lsd.m3u8?edge_slice=true&user_session_id=a3f07304a33fc9f2dead0862c46e69e4&sub_m3u8=true&auth_key=1677627537-0-0-c426d812c5f94b8b30c48c4d72c84ac0"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?edge_slice=true&auth_key=1677627495-0-0-cdcc57aaccab1b644ff0bbf3bf84e47d&sub_m3u8=true&user_session_id=5df8a4ddda4f8e143898f633e2fd0578"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "5r"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8427.png",
@@ -132,7 +132,7 @@
     "Hot": "Hot",
     "LeagueName": "FA Cup",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   }
 ]
