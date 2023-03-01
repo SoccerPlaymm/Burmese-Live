@@ -185,21 +185,21 @@
   },
   {
 
-   "type": "Soco",
+   "type": "Vebo",
 
    "quality": "HD",
 
-   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?edge_slice=true&user_session_id=83457bb4a4591df74613c028197da375&sub_m3u8=true&auth_key=1677720075-0-0-c8239c661990e93520a32a650c8387f6"
+   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
 
   },
 
   {
 
-   "type": "Soco",
+   "type": "Veb",
 
    "quality": "SD",
 
-   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?edge_slice=true&user_session_id=83457bb4a4591df74613c028197da375&sub_m3u8=true&auth_key=1677720075-0-0-c8239c661990e93520a32a650c8387f6"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8"
 
   }
              ],
@@ -208,7 +208,7 @@
     "Hot": "Hot",
     "LeagueName": "Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   }
 ]
