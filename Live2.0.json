@@ -1,59 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/McsHxxG/download-4.png",
-    "AwayName": "Newcastle",
-    "Date": "March 04",
-    "Link": [
-  {
-   "type": "China",
-   "quality": "HD",
-   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1677953457-0-0-cfe0566efd1c8e645e1dadcc377d06ef&user_session_id=7f79fa4ce42cbe9f1efe83c680a0aa66&sub_m3u8=true&edge_slice=true"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1677953457-0-0-cfe0566efd1c8e645e1dadcc377d06ef&user_session_id=7f79fa4ce42cbe9f1efe83c680a0aa66&sub_m3u8=true&edge_slice=true"
-  },
-  {
-   "type": "Soco",
-   "quality": "HD",
-   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-114959_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=43f41513cecfae0be96114e9082a43d7&auth_key=1677953415-0-0-f283716d898b0702a64dd780248d25bc"
-  },
-  {
-   "type": "Soco",
-   "quality": "SD",
-   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-114959_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=43f41513cecfae0be96114e9082a43d7&auth_key=1677953415-0-0-f283716d898b0702a64dd780248d25bc"
-  },
-  {
-   "type": "Vebo",
-   "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "quality": "SD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8"
-  },
-  {
-   "type": "English",
-   "quality": "HD",
-   "link": "https://wasssccv.azureedge.net/live/usa/chunks.m3u8"
-  },
-  {
-   "type": "Bein",
-   "quality": "HD",
-   "link": "http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/v4DMkVK/download-2.png",
-    "HomeName": "Man City",
-    "Hot": "Hot",
-    "LeagueName": "Premier League",
-    "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Live",
-    "Time": "HD/SD"
-  },
-  {
     "AwayImage": "https://i.ibb.co/THrGZYk/download-37.png",
     "AwayName": "Girona",
     "Date": "March 04",
@@ -309,12 +255,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=757f35cb13954d11fcfb53a932f591f5&txTime=6403aacf"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=757f35cb13954d11fcfb53a932f591f5&txTime=6403aacf"
   }
              ],
     "HomeImage": "https://i.ibb.co/bN749H2/download-12.png",
@@ -343,12 +289,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-197901_lhd.m3u8?sub_m3u8=true&auth_key=1677961935-0-0-da06df559722c23e38e1bbe514e2fc09&edge_slice=true&user_session_id=d48e0794576e46e1b7d86bcf701b8e0d"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-197901_lsd.m3u8?sub_m3u8=true&auth_key=1677961935-0-0-da06df559722c23e38e1bbe514e2fc09&edge_slice=true&user_session_id=d48e0794576e46e1b7d86bcf701b8e0d"
   }
              ],
     "HomeImage": "https://i.ibb.co/wK5L6HX/download-8.png",
