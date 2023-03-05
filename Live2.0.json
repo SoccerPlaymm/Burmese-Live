@@ -125,6 +125,16 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=00cb7b62942ebd2144db6c49977b6d9b&txTime=6405121c"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/T12PsPR/download-3.png",
