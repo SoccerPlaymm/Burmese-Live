@@ -23,6 +23,16 @@
    "type": "Soco",
    "quality": "SD",
    "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/MMN9Rw5/download.png",
@@ -55,6 +65,16 @@
   },
   {
    "type": "Soco",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
    "quality": "SD",
    "link": "0"
   }
