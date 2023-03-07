@@ -17,12 +17,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1678239256-0-0-0021c0582cfc81fd7b8acb06f0d37281&user_session_id=8c8cc5a727d200a528c6e87c384592ad"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1678239256-0-0-0021c0582cfc81fd7b8acb06f0d37281&user_session_id=8c8cc5a727d200a528c6e87c384592ad"
   },
   {
    "type": "Vebo",
@@ -40,7 +40,7 @@
     "Hot": "Hot",
     "LeagueName": "Champions League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   },
   {
@@ -61,12 +61,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1678239256-0-0-0021c0582cfc81fd7b8acb06f0d37281&user_session_id=8c8cc5a727d200a528c6e87c384592ad"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1678239256-0-0-0021c0582cfc81fd7b8acb06f0d37281&user_session_id=8c8cc5a727d200a528c6e87c384592ad"
   },
   {
    "type": "Vebo",
@@ -84,7 +84,7 @@
     "Hot": "Hot",
     "LeagueName": "Champions League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   },
   {
