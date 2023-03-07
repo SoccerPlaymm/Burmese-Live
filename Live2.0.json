@@ -38,6 +38,11 @@
    "type": "beIN Sport",
    "quality": "HD",
    "link": "http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347"
+  },
+  {
+   "type": "MATCH",
+   "quality": "HD",
+   "link": "http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/MMN9Rw5/download.png",
@@ -87,6 +92,11 @@
    "type": "beIN Sport",
    "quality": "HD",
    "link": "http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347"
+  },
+  {
+   "type": "MATCH",
+   "quality": "HD",
+   "link": "http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/Yp1ghsC/download-81.png",
