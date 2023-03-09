@@ -180,6 +180,26 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-114959_lsd.m3u8?user_session_id=933ce12e0e9d728c6e1239f02a31096b&sub_m3u8=true&auth_key=1678412356-0-0-c8d5aadf87ba7fb0d6aac511557bd485&edge_slice=true"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
+  },
+  {
+   "type": "MATCH TV",
+   "quality": "HD",
+   "link": "http://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8"
+  },
+  {
+   "type": "English",
+   "quality": "HD",
+   "link": "http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/82.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/rZFH50R/download-1.png",
