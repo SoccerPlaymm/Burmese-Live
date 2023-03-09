@@ -17,12 +17,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-114959_lhd.m3u8?user_session_id=52ef6a0f7a99d75538bc2c40fc3a7821&sub_m3u8=true&auth_key=1678404196-0-0-0605c267809d0f85799a20d88f0d0a43&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-114959_lsd.m3u8?user_session_id=52ef6a0f7a99d75538bc2c40fc3a7821&sub_m3u8=true&auth_key=1678404196-0-0-0605c267809d0f85799a20d88f0d0a43&edge_slice=true"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8577.png",
@@ -30,8 +30,8 @@
     "Hot": "Hot",
     "LeagueName": "Saudi - Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "12:00 AM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
   {
     "AwayImage": "https://i.ibb.co/bN749H2/download-12.png",
@@ -143,12 +143,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1678404177-0-0-71265634ec40e667df6463aa69b81e05&user_session_id=5f342e22fc2c7ae514801d510cce03a3&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1678404177-0-0-71265634ec40e667df6463aa69b81e05&user_session_id=5f342e22fc2c7ae514801d510cce03a3&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "Soco",
