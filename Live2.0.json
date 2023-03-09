@@ -51,10 +51,20 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-129184_lhd.m3u8?user_session_id=ab4f06f135319c52c9124cea601204bb&sub_m3u8=true&auth_key=1678404616-0-0-8581e79d55c1cacf119c9521876b01fb&edge_slice=true"
   },
   {
    "type": "Soco",
+   "quality": "SD",
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-129184_lsd.m3u8?user_session_id=ab4f06f135319c52c9124cea601204bb&sub_m3u8=true&auth_key=1678404616-0-0-8581e79d55c1cacf119c9521876b01fb&edge_slice=true"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
    "quality": "SD",
    "link": "0"
   }
@@ -85,12 +95,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?user_session_id=220fd395edc396d1a756b518686c82b7&sub_m3u8=true&auth_key=1678404616-0-0-e79ea101e4ac2f85fe2da4574cd70366&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-122774_lsd.m3u8?user_session_id=220fd395edc396d1a756b518686c82b7&sub_m3u8=true&auth_key=1678404616-0-0-e79ea101e4ac2f85fe2da4574cd70366&edge_slice=true"
   }
              ],
     "HomeImage": "https://i.ibb.co/1mDqD0w/download-55.png",
