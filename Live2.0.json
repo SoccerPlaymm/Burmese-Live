@@ -157,7 +157,7 @@
     "Hot": "Hot",
     "LeagueName": "Bundesliga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
   {
@@ -191,7 +191,7 @@
     "Hot": "",
     "LeagueName": "Bundesliga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
   {
@@ -202,12 +202,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-574587_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1678563238-0-0-327953ebf96c00524ef6bb1216c8d343&user_session_id=fdf4aeae9b0f814137bd853150358818"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-574587_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1678563238-0-0-327953ebf96c00524ef6bb1216c8d343&user_session_id=fdf4aeae9b0f814137bd853150358818"
   },
   {
    "type": "Soco",
@@ -225,7 +225,7 @@
     "Hot": "",
     "LeagueName": "Bundesliga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
   {
@@ -236,12 +236,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1678563238-0-0-33f3a9b861a0fc1ea53e0bea8d51595e&user_session_id=ed85a6d3a984198355cf7886dd7135ff"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1678563238-0-0-33f3a9b861a0fc1ea53e0bea8d51595e&user_session_id=ed85a6d3a984198355cf7886dd7135ff"
   },
   {
    "type": "Soco",
@@ -259,7 +259,7 @@
     "Hot": "",
     "LeagueName": "Bundesliga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
   {
