@@ -23,6 +23,16 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-139384_lsd.m3u8?auth_key=1678557676-0-0-5202b2de38f4aeed0ff96534a3d496bb&edge_slice=true&sub_m3u8=true&user_session_id=09ea02272be4e8ea97d76c2fbd1f5dea"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/jfz7Sks/download-5.png",
