@@ -300,12 +300,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-129184_lhd.m3u8?user_session_id=6fb7f15277bc394469036007bff8a0f4&sub_m3u8=true&auth_key=1678567696-0-0-f5e239281dfba95e60c8c2dbaca74410&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-129184_lsd.m3u8?user_session_id=6fb7f15277bc394469036007bff8a0f4&sub_m3u8=true&auth_key=1678567696-0-0-f5e239281dfba95e60c8c2dbaca74410&edge_slice=true"
   },
   {
    "type": "Vebo",
@@ -323,8 +323,8 @@
     "Hot": "Hot",
     "LeagueName": "Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "9:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
   {
     "AwayImage": "https://i.ibb.co/0MyVzRP/download-7.png",
@@ -344,12 +344,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-102933.m3u8?txSecret=0acf47ec05057bd9e1140a98c3505bc2&txTime=640ce910"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-102933.m3u8?txSecret=0acf47ec05057bd9e1140a98c3505bc2&txTime=640ce910"
   },
   {
    "type": "Vebo",
@@ -367,8 +367,8 @@
     "Hot": "Hot",
     "LeagueName": "Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "9:30 PM"
+    "LiveUpcoming": "Live",
+    "Time": "HD/SD"
   },
   {
     "AwayImage": "https://i.ibb.co/qDpdz49/download-40.png",
