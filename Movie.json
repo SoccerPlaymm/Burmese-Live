@@ -1,5 +1,41 @@
 [
  {
+    "Name":"Ayo Putus",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-16/63c4f401317f7.png",
+    "dLink":"http://www.zegomovie.com/Videos/AyoPutus/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/AyoPutus/index.m3u8"   
+  },
+  {
+    "Name":"Noktah Merah Perkawinan",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-15/63c3a4fb7e49f.png",
+    "dLink":"http://www.zegomovie.com/Videos/NoktahMerahPerkawinan/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/NoktahMerahPerkawinan/index.m3u8"    
+  },
+  {
+    "Name":"Turbo Cola",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-15/63c3a27245b9e.png",
+    "dLink":"http://www.zegomovie.com/Videos/TurboCola/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/TurboCola/index.m3u8"    
+  },
+  {
+    "Name":"Mishan Impossible",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-15/63c3841a839d4.png",
+    "dLink":"http://www.zegomovie.com/Videos/MishanImpossible/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/MishanImpossible/index.m3u8"    
+  },
+  {
+    "Name":"Puss in Boots:The Last Wish",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-07/63b9004df2c59.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/PussinBootsTheLastWish/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/PussinBootsTheLastWish/index.m3u8"    
+  },
+ {
+    "Name":"Uunchai",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-07/63b8eeac22930.png",
+    "dLink":"http://www.zegomovie.com/Videos/Uunchai/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Uunchai/index.m3u8"    
+  },
+ {
     "Name":"Till",
     "Image":"http://zegomovie.com/Uploads/vod/2022-11-26/6381cd7494a95.jpg",
     "dLink":"http://www.zegomovie.com/Videos/Till/index.m3u8",
