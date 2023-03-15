@@ -30,7 +30,7 @@
     "Hot": "",
     "LeagueName": "Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:00 AM"
   },
   {
@@ -64,7 +64,7 @@
     "Hot": "",
     "LeagueName": "Premier League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:00 AM"
   },
   {
@@ -93,14 +93,14 @@
    "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-187579_lsd.m3u8?user_session_id=97978cad0459d03be5970e6c1a717cf3&auth_key=1678922177-0-0-ab6ea0fd2763aa81aed5e8027bdd00f8&edge_slice=true&sub_m3u8=true"
   },
   {
-   "type": "English",
+   "type": "MATCH",
    "quality": "HD",
-   "link": ""
+   "link": "http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8"
   },
   {
    "type": "beIN",
    "quality": "HD",
-   "link": ""
+   "link": "http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347"
   }
              ],
     "HomeImage": "https://i.ibb.co/rxJP1dw/download-41.png",
@@ -108,7 +108,7 @@
     "Hot": "Hot",
     "LeagueName": "Champions League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   },
   {
@@ -152,7 +152,7 @@
     "Hot": "Hot",
     "LeagueName": "Champions League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   }
 ]
