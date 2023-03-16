@@ -137,14 +137,14 @@
    "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   },
   {
-   "type": "Soco",
+   "type": "beIN",
    "quality": "HD",
-   "link": "0"
+   "link": "http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347"
   },
   {
-   "type": "Soco",
-   "quality": "SD",
-   "link": "0"
+   "type": "MATCH",
+   "quality": "HD",
+   "link": "http://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/1mg68jB/download-24.png",
