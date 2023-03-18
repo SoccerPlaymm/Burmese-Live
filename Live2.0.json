@@ -205,12 +205,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-559725_lhd.m3u8?auth_key=1679172539-0-0-5b785d93b5481078d86d6a245067a869&sub_m3u8=true&user_session_id=79d7753f6db3fe82aedf0bad632b0dd0&edge_slice=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-559725_lsd.m3u8?auth_key=1679172539-0-0-5b785d93b5481078d86d6a245067a869&sub_m3u8=true&user_session_id=79d7753f6db3fe82aedf0bad632b0dd0&edge_slice=true"
   },
   {
    "type": "Soco",
@@ -227,7 +227,7 @@
     "HomeName": "Aston Villa",
     "Hot": "Hot",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
  {
@@ -238,12 +238,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?user_session_id=4f7cd004f64e64a821cc8ebfd5a157f6&sub_m3u8=true&auth_key=1679172599-0-0-5ceb7fb029015edf11c6f056dc2a1b31&edge_slice=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?user_session_id=4f7cd004f64e64a821cc8ebfd5a157f6&sub_m3u8=true&auth_key=1679172599-0-0-5ceb7fb029015edf11c6f056dc2a1b31&edge_slice=true"
   },
   {
    "type": "Soco",
@@ -260,7 +260,7 @@
     "HomeName": "Brentford",
     "Hot": "Hot",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
@@ -293,7 +293,7 @@
     "HomeName": "Southampton",
     "Hot": "Hot",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
@@ -326,7 +326,7 @@
     "HomeName": "Wolves",
     "Hot": "Hot",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
