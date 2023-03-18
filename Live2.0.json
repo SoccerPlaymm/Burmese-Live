@@ -255,12 +255,12 @@
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8"
   },
   {
    "type": "beIN Premium",
@@ -277,7 +277,7 @@
     "HomeName": "Man City",
     "Hot": "",
     "LeagueName": "FA Cup - Quarter Final",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:15 AM"
   },
   {
@@ -310,7 +310,7 @@
     "HomeName": "Udinese",
     "Hot": "Hot",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -343,7 +343,7 @@
     "HomeName": "Atletico Madrid",
     "Hot": "",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   },
   {
@@ -376,7 +376,7 @@
     "HomeName": "Lens",
     "Hot": "",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   }
 ]
