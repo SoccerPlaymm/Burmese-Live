@@ -124,7 +124,17 @@
    "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-229184_lsd.m3u8?user_session_id=42e818376b2a909531ef3f6e497f07f4&auth_key=1679179877-0-0-7cfad89e705ea58c5d288981153fe70e&sub_m3u8=true&edge_slice=true"
   },
   {
-   "type": "Soco",
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "beIN Premium",
    "quality": "HD",
    "link": "0"
   },
@@ -233,12 +243,12 @@
    "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-226699_lsd.m3u8?auth_key=1679179937-0-0-e6e30df1a65add51b1c90becec5658d5&user_session_id=b6eaa78259beb77185163972ab47eddc&sub_m3u8=true&edge_slice=true"
   },
   {
-   "type": "Soco",
+   "type": "Vebo",
    "quality": "HD",
    "link": "0"
   },
   {
-   "type": "Soco",
+   "type": "Vebo",
    "quality": "SD",
    "link": "0"
   }
@@ -276,7 +286,17 @@
    "link": "https://sports01.livnvess.com/live/stream-181398.m3u8?txSecret=c0671d46235d3add1606cc09fb2cb3a9&txTime=64164209"
   },
   {
-   "type": "Soco",
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "beIN Premium",
    "quality": "HD",
    "link": "0"
   },
