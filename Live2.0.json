@@ -268,9 +268,9 @@
    "link": "http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347"
   },
   {
-   "type": "Soco",
-   "quality": "SD",
-   "link": "0"
+   "type": "SPORT TV",
+   "quality": "HD",
+   "link": "http://213.13.16.138/shls/LIVE$SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
