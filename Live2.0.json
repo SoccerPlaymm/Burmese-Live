@@ -225,7 +225,7 @@
              ],
     "HomeImage": "https://i.ibb.co/wK5L6HX/download-8.png",
     "HomeName": "Aston Villa",
-    "Hot": "",
+    "Hot": "Hot",
     "LeagueName": "Premier League",
     "LiveUpcoming": "Upcoming",
     "Time": "9:30 PM"
@@ -258,7 +258,7 @@
              ],
     "HomeImage": "https://i.ibb.co/gzBVDwK/download-18.png",
     "HomeName": "Brentford",
-    "Hot": "",
+    "Hot": "Hot",
     "LeagueName": "Premier League",
     "LiveUpcoming": "Upcoming",
     "Time": "9:30 PM"
@@ -291,7 +291,7 @@
              ],
     "HomeImage": "https://i.ibb.co/6XqKkjV/download-11.png",
     "HomeName": "Southampton",
-    "Hot": "",
+    "Hot": "Hot",
     "LeagueName": "Premier League",
     "LiveUpcoming": "Upcoming",
     "Time": "9:30 PM"
@@ -324,7 +324,7 @@
              ],
     "HomeImage": "https://i.ibb.co/QJMLcrP/download-10.png",
     "HomeName": "Wolves",
-    "Hot": "",
+    "Hot": "Hot",
     "LeagueName": "Premier League",
     "LiveUpcoming": "Upcoming",
     "Time": "9:30 PM"
@@ -528,7 +528,7 @@
     "Time": "12:00 AM"
   },
   {
-    "AwayImage": "",
+    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/150414.png",
     "AwayName": "Abha",
     "Date": "March 19",
     "Link": [
