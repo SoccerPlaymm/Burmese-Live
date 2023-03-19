@@ -125,6 +125,26 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=deca5c034d34fffe9a6f3593793f5bfd&auth_key=1679253797-0-0-f857a6cf8b3152c8cba5e0605693624f"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
+  },
+  {
+   "type": "Soco",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/bN749H2/download-12.png",
