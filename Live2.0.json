@@ -30,7 +30,7 @@
     "Hot": "Hot",
     "LeagueName": "EURO 2024 Qualification Grp.C",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -64,7 +64,7 @@
     "Hot": "",
     "LeagueName": "EURO 2024 Qualification Grp.C",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -98,7 +98,7 @@
     "Hot": "Hot",
     "LeagueName": "EURO 2024 Qualification Grp.H",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -132,7 +132,7 @@
     "Hot": "",
     "LeagueName": "EURO 2024 Qualification Grp.H",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -143,30 +143,30 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lhd.m3u8?sub_m3u8=true&auth_key=1679622164-0-0-8d867fe556d028738d2b3213ea66af4e&user_session_id=5e472f5d5d6dde91965c2b207af8771b&edge_slice=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lsd.m3u8?sub_m3u8=true&auth_key=1679622164-0-0-8d867fe556d028738d2b3213ea66af4e&user_session_id=5e472f5d5d6dde91965c2b207af8771b&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1679622175-0-0-586890caa4eb485d36d761e29da66520&user_session_id=a058868e9c4b05907ae9529a8b3247e8"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1679622175-0-0-586890caa4eb485d36d761e29da66520&user_session_id=a058868e9c4b05907ae9529a8b3247e8"
   }
              ],
     "HomeImage": "data:image/png;base64,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",
-    "HomeName": "Bosnia and Herzegovina",
+    "HomeName": "Herzegovina",
     "Hot": "",
     "LeagueName": "EURO 2024 Qualification Grp.J",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -200,7 +200,7 @@
     "Hot": "Hot",
     "LeagueName": "EURO 2024 Qualification Grp.J",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -234,7 +234,7 @@
     "Hot": "",
     "LeagueName": "EURO 2024 Qualification Grp.J",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   }
 ]
