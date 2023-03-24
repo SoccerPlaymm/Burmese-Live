@@ -17,12 +17,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?auth_key=1679698495-0-0-4d4662affbfc618ed4340b2c7e9bb72d&edge_slice=true&user_session_id=729695365a34b88229b001a4011d9df0&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?auth_key=1679698495-0-0-4d4662affbfc618ed4340b2c7e9bb72d&edge_slice=true&user_session_id=729695365a34b88229b001a4011d9df0&sub_m3u8=true"
   }
              ],
     "HomeImage": "data:image/png;base64,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",
@@ -30,7 +30,7 @@
     "Hot": "",
     "LeagueName": "EURO 2024 Qualification",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:30 PM"
   },
   {
