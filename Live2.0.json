@@ -29,7 +29,7 @@
     "HomeName": "Spain",
     "Hot": "Hot",
     "LeagueName": "EURO 2024 Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -62,7 +62,7 @@
     "HomeName": "Croatia",
     "Hot": "Hot",
     "LeagueName": "EURO 2024 Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -95,7 +95,7 @@
     "HomeName": "Germany",
     "Hot": "Hot",
     "LeagueName": "International Friendly",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -128,7 +128,7 @@
     "HomeName": "Morocco",
     "Hot": "Hot",
     "LeagueName": "International Friendly",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "4:30 AM"
   }
 ]
