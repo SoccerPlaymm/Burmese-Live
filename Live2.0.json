@@ -17,19 +17,19 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?sub_m3u8=true&auth_key=1679867035-0-0-33f23997572403bd44fb1b6126b37ea4&edge_slice=true&user_session_id=43b61557579bad8bc232223716329a61"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?sub_m3u8=true&auth_key=1679867035-0-0-33f23997572403bd44fb1b6126b37ea4&edge_slice=true&user_session_id=43b61557579bad8bc232223716329a61"
   }
              ],
     "HomeImage": "data:image/png;base64,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",
     "HomeName": "Slovenia",
     "Hot": "",
     "LeagueName": "EURO 2024 Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   },
   {
@@ -50,12 +50,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-229184_lhd.m3u8?sub_m3u8=true&auth_key=1679867095-0-0-d23c6af9361155c099f6abbed9f60efe&edge_slice=true&user_session_id=11f402430a93771b59f5e5a72eb3d4ab"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-229184_lsd.m3u8?sub_m3u8=true&auth_key=1679867095-0-0-d23c6af9361155c099f6abbed9f60efe&edge_slice=true&user_session_id=11f402430a93771b59f5e5a72eb3d4ab"
   },
   {
    "type": "Vebo",
@@ -72,7 +72,7 @@
     "HomeName": "England",
     "Hot": "Hot",
     "LeagueName": "EURO 2024 Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   },
   {
@@ -105,7 +105,7 @@
     "HomeName": "Liechtenstein",
     "Hot": "",
     "LeagueName": "EURO 2024 Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   },
  {
