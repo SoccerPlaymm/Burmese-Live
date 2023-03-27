@@ -149,19 +149,19 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?edge_slice=true&auth_key=1679963396-0-0-dab3b3b686f77c1b2976ca06dfd95902&user_session_id=bd6419f6dc09f2b907e24407cc5c0a21&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158841_lsd.m3u8?edge_slice=true&auth_key=1679963396-0-0-dab3b3b686f77c1b2976ca06dfd95902&user_session_id=bd6419f6dc09f2b907e24407cc5c0a21&sub_m3u8=true"
   }
              ],
     "HomeImage": "data:image/png;base64,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",
     "HomeName": "Austria",
     "Hot": "",
     "LeagueName": "EURO 2024 Qualification ",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -215,19 +215,19 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=33b1b59050039b09d016506f77591057&txTime=6422348c"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=33b1b59050039b09d016506f77591057&txTime=6422348c"
   }
              ],
     "HomeImage": "data:image/png;base64,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",
     "HomeName": "Hungary",
     "Hot": "",
     "LeagueName": "EURO 2024 Qualification ",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
