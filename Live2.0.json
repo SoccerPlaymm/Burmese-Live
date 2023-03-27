@@ -172,12 +172,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-466758.m3u8?auth_key=1679963744-0-0-af35cd27775a14a930a51b87fde19a47"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-466758_ld.m3u8?auth_key=1679963744-0-0-ae80628ecbb09369c9b980e1f9f93033"
   },
   {
    "type": "Soco",
@@ -194,7 +194,7 @@
     "HomeName": "Sweden",
     "Hot": "",
     "LeagueName": "EURO 2024 Qualification ",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -260,7 +260,7 @@
     "HomeName": "Montenegro",
     "Hot": "",
     "LeagueName": "EURO 2024 Qualification ",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   }
 ]
