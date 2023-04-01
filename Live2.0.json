@@ -83,29 +83,29 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-774913.m3u8?auth_key=1680374445-0-0-2cfc63e11c6610c316fec1bf30bed604"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-774913_ld.m3u8?auth_key=1680374445-0-0-68954c82782bcc38882951ff5c4be933"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-104707.m3u8?txSecret=4866a86aefb64e74771c9ca08cae746e&txTime=64287a7c"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-104707.m3u8?txSecret=4866a86aefb64e74771c9ca08cae746e&txTime=64287a7c"
   }
              ],
     "HomeImage": "https://iconape.com/wp-content/files/ow/315709/png/315709.png",
     "HomeName": "Cremonese",
     "Hot": "",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
   {
