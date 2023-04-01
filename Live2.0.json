@@ -73,12 +73,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1680396584-0-0-97acd408c921ed36197120e5eefacaa0"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-2376781_ld.m3u8?auth_key=1680396584-0-0-bba0acf7fe5f5c512d747206d639e01f"
   },
   {
    "type": "Soco",
@@ -95,7 +95,7 @@
     "HomeName": "Rennes",
     "Hot": "",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   }
 ]
