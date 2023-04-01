@@ -149,19 +149,19 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1680386996-0-0-6b6d409882292f41663621a6c1736e34&user_session_id=4d7866fe78d4d9aa0c0e98b6605287fa&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1680386996-0-0-6b6d409882292f41663621a6c1736e34&user_session_id=4d7866fe78d4d9aa0c0e98b6605287fa&sub_m3u8=true&edge_slice=true"
   }
              ],
     "HomeImage": "https://i.ibb.co/SrkThSS/download-26.png",
     "HomeName": "Cadiz",
     "Hot": "",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
   {
@@ -182,19 +182,19 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=a56f032f5042550c2f02c806e346c20d&txTime=6428abb4"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=a56f032f5042550c2f02c806e346c20d&txTime=6428abb4"
   }
              ],
     "HomeImage": "https://i.ibb.co/D46m1WD/download-65.png",
     "HomeName": "Bayern",
     "Hot": "Hot",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
   {
