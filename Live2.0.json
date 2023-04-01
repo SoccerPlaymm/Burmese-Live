@@ -139,12 +139,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-282956.m3u8?auth_key=1680378644-0-0-258cac54faf360bc8359e8f6d517de95"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-282956_ld.m3u8?auth_key=1680378644-0-0-7380f9381b8ca92ec1695ecc2ba786b5"
   },
   {
    "type": "Soco",
@@ -161,7 +161,7 @@
     "HomeName": "Bournemouth",
     "Hot": "",
     "LeagueName": "Premier League ",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -188,13 +188,23 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=ffbb72a8937af6058b22e2bc31f02694&txTime=6428888c"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/bN749H2/download-12.png",
     "HomeName": "Arsenal",
     "Hot": "Hot",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -227,7 +237,7 @@
     "HomeName": "Brighton",
     "Hot": "",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -238,12 +248,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-900001_lhd.m3u8?auth_key=1680378585-0-0-063f1d23318aca7e176db78185286a87&user_session_id=78c8fc001bf25713742dd3121dc425df&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-900001_lsd.m3u8?auth_key=1680378585-0-0-063f1d23318aca7e176db78185286a87&user_session_id=78c8fc001bf25713742dd3121dc425df&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "Soco",
@@ -260,7 +270,7 @@
     "HomeName": "Crystal Palace",
     "Hot": "",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
