@@ -50,29 +50,29 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-552917.m3u8?auth_key=1680370424-0-0-6eed24edf485ca1cfb948cd35231388d"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-552917_ld.m3u8?auth_key=1680370424-0-0-a8013c50a79a45bff8ed0caad48b3ee7"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-107307.m3u8?txSecret=3373b71351401f27ebbe361548ad391b&txTime=64286b04"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-107307.m3u8?txSecret=3373b71351401f27ebbe361548ad391b&txTime=64286b04"
   }
              ],
     "HomeImage": "https://i.ibb.co/THrGZYk/download-37.png",
     "HomeName": "Girona",
     "Hot": "",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "6:30 PM"
   },
   {
