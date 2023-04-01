@@ -192,12 +192,12 @@
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/bN749H2/download-12.png",
@@ -281,12 +281,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-886721.m3u8?auth_key=1680378944-0-0-91d738eda922e7f821ea2fe7e2ed7312"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-886721_ld.m3u8?auth_key=1680378944-0-0-b23adadc7933eb373c636119e15507a4"
   },
   {
    "type": "Soco",
@@ -303,7 +303,7 @@
     "HomeName": "Nottm Forest",
     "Hot": "",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
