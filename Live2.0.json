@@ -182,12 +182,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-886721.m3u8?auth_key=1680476264-0-0-54f9e908e6776cb527a5d4762259c048"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-886721_ld.m3u8?auth_key=1680476264-0-0-cba8398fcc435429f03024382014c5bc"
   },
   {
    "type": "Soco",
@@ -204,7 +204,7 @@
     "HomeName": "PSG",
     "Hot": "Hot",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -215,12 +215,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1680476264-0-0-4e42daedc06cf5b7eedcc40fd77811c7"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-2376781_ld.m3u8?auth_key=1680476264-0-0-03daa545a17ac00c4af1b0fd67e04de9"
   },
   {
    "type": "Soco",
@@ -237,7 +237,7 @@
     "HomeName": "Napoli",
     "Hot": "Hot",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -258,12 +258,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=ee28459bbcee148da0fbb6078e1ee441&txTime=642a07c0"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=ee28459bbcee148da0fbb6078e1ee441&txTime=642a07c0"
   }
              ],
     "HomeImage": "https://i.ibb.co/NV6t3Ck/download-39.png",
