@@ -90,6 +90,16 @@
    "type": "Soco",
    "quality": "SD",
    "link": "https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=dcf690d19af5ce50ef938e028eee83c2&txTime=6429cc38"
+  },
+  {
+   "type": "Vebo",
+   "quality": "HD",
+   "link": "https://1123139281.cdn.khmer-hd.com/bunHD/playlist.m3u8"
+  },
+  {
+   "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/bunSD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/0B03V1F/download-19.png",
