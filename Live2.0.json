@@ -159,19 +159,19 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?sub_m3u8=true&user_session_id=b60d5352ad5a686514c224f1bab37855&edge_slice=true&auth_key=1680472976-0-0-06edb9a098e0067f2057bee0f0f97ea0"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?sub_m3u8=true&user_session_id=b60d5352ad5a686514c224f1bab37855&edge_slice=true&auth_key=1680472976-0-0-06edb9a098e0067f2057bee0f0f97ea0"
   }
              ],
     "HomeImage": "https://i.ibb.co/7Vsf3Tg/download-21.png",
     "HomeName": "Villarreal",
     "Hot": "",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
   {
