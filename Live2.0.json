@@ -73,29 +73,29 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-78951465.m3u8?auth_key=1680456224-0-0-19c9aedaf9c860c35b8bf8200454ec83"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-78951465_ld.m3u8?auth_key=1680456224-0-0-77b27b839bb69be86ed57922fcbf7e23"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-420171_lhd.m3u8?auth_key=1680456176-0-0-068467b3ff909751a80e986f8fcc778b&user_session_id=8d029a4e3eb95da4d0db8d4380f209d8&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-420171_lsd.m3u8?auth_key=1680456176-0-0-068467b3ff909751a80e986f8fcc778b&user_session_id=8d029a4e3eb95da4d0db8d4380f209d8&sub_m3u8=true&edge_slice=true"
   }
              ],
     "HomeImage": "https://i.ibb.co/5svpMRP/download-36.png",
     "HomeName": "Celta Vigo",
     "Hot": "",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "6:30 PM"
   },
   {
