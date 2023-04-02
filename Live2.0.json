@@ -117,19 +117,19 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-109053.m3u8?txSecret=f2b5783114b3cf0ddb1ecf2c85393efc&txTime=6429cbc0"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-109053.m3u8?txSecret=f2b5783114b3cf0ddb1ecf2c85393efc&txTime=6429cbc0"
   }
              ],
     "HomeImage": "https://i.ibb.co/0mCdqDz/download-50.png",
     "HomeName": "Monza",
     "Hot": "",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
   {
@@ -150,19 +150,19 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-107307_lhd.m3u8?auth_key=1680460676-0-0-55f76b1a4d32b17677cf25d2be985843&edge_slice=true&sub_m3u8=true&user_session_id=368b43df6f296035363960afc4690257"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-107307_lsd.m3u8?auth_key=1680460676-0-0-55f76b1a4d32b17677cf25d2be985843&edge_slice=true&sub_m3u8=true&user_session_id=368b43df6f296035363960afc4690257"
   }
              ],
     "HomeImage": "https://i.ibb.co/8bWWMhd/download-52.png",
     "HomeName": "Spezia",
     "Hot": "",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
   {
