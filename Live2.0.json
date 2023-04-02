@@ -7,29 +7,29 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&user_session_id=e8f858af53d36e08cefa75f88452cf44&edge_slice=true&auth_key=1680452384-0-0-375d0a2f31d5cd1c5984bfb09ff3a1de"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?sub_m3u8=true&user_session_id=e8f858af53d36e08cefa75f88452cf44&edge_slice=true&auth_key=1680452384-0-0-375d0a2f31d5cd1c5984bfb09ff3a1de"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?sub_m3u8=true&auth_key=1680452336-0-0-8df92095e2973852092d7d0b1b98a958&user_session_id=98b2f89859c0ddc2fc78f15ceed2e9b0&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?sub_m3u8=true&auth_key=1680452336-0-0-8df92095e2973852092d7d0b1b98a958&user_session_id=98b2f89859c0ddc2fc78f15ceed2e9b0&edge_slice=true"
   }
              ],
     "HomeImage": "https://www.soccer24.com/res/image/data/j3Tyh1GG-bucnXust.png",
     "HomeName": "Bologna",
     "Hot": "",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "5:00 PM"
   },
   {
