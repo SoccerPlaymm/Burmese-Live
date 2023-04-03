@@ -29,6 +29,7 @@
     "HomeName": "Empoli",
     "Hot": "",
     "LeagueName": "Serie A",
+    "LeagueImage": "https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png",
     "LiveUpcoming": "Upcoming",
     "Time": "11:00 PM"
   },
@@ -62,6 +63,7 @@
     "HomeName": "Sassuolo",
     "Hot": "Hot",
     "LeagueName": "Serie A",
+    "LeagueImage": "https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png",
     "LiveUpcoming": "Upcoming",
     "Time": "1:15 AM"
   },
@@ -95,6 +97,7 @@
     "HomeName": "Everton",
     "Hot": "Hot",
     "LeagueName": "Premier League",
+    "LeagueImage": "https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png",
     "LiveUpcoming": "Upcoming",
     "Time": "1:30 AM"
   },
@@ -128,6 +131,7 @@
     "HomeName": "Valencia",
     "Hot": "Hot",
     "LeagueName": "LaLiga",
+    "LeagueImage": "https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png",
     "LiveUpcoming": "Upcoming",
     "Time": "1:30 AM"
   }
