@@ -7,22 +7,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-886721.m3u8?auth_key=1680560204-0-0-c3a710847bc6cc75242611cdf2ebdc57"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-886721_ld.m3u8?auth_key=1680560204-0-0-d18ec0a843b9e40795f7eae6ddc45685"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-115493.m3u8?txSecret=f8a8cf167db2b31c7e7bb50220294d4f&txTime=642b5058"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-115493.m3u8?txSecret=f8a8cf167db2b31c7e7bb50220294d4f&txTime=642b5058"
   }
              ],
     "HomeImage": "https://i.ibb.co/18PSn4Z/download-47.png",
@@ -30,7 +30,7 @@
     "Hot": "",
     "LeagueName": "Serie A",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/640px-Serie_A_logo_2022.svg.png",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
   {
