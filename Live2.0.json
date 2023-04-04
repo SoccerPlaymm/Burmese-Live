@@ -159,6 +159,16 @@
    "type": "Soco(Vietnam)",
    "quality": "SD",
    "link": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=5a7baeeb73986e3cd9f61a6f7edf754d&txTime=642cba38"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/MMN9Rw5/download.png",
@@ -187,12 +197,12 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-19949_lhd.m3u8?edge_slice=true&auth_key=1680652916-0-0-fd03b2089ec2929983f6d1e8e87432e9&sub_m3u8=true&user_session_id=b2d949f2ef27ab648a7ca1336094dba9"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-19949_lsd.m3u8?edge_slice=true&auth_key=1680652916-0-0-fd03b2089ec2929983f6d1e8e87432e9&sub_m3u8=true&user_session_id=b2d949f2ef27ab648a7ca1336094dba9"
   }
              ],
     "HomeImage": "https://i.ibb.co/Xj0bkGg/download-48.png",
@@ -221,12 +231,12 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?user_session_id=679473f17a2744e3978d6aed5f7eabbc&auth_key=1680652916-0-0-c76cf5bf2e4cd6c1bdc37bf235146c79&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-158841_lsd.m3u8?user_session_id=679473f17a2744e3978d6aed5f7eabbc&auth_key=1680652916-0-0-c76cf5bf2e4cd6c1bdc37bf235146c79&sub_m3u8=true&edge_slice=true"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/582816_small.png",
