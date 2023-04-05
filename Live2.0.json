@@ -153,22 +153,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1680742305-0-0-ffe940362e9245fae071e3810f356c9d"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-418311_ld.m3u8?auth_key=1680742305-0-0-69ccb265c7523719c7768c2e4446e48e"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-161243_lhd.m3u8?user_session_id=fda2f0dc862d2e16f6de4fe73f941aa1&edge_slice=true&sub_m3u8=true&auth_key=1680742317-0-0-e93dd70b4027dc4d686cdf232bb9ef39"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-161243_lsd.m3u8?user_session_id=fda2f0dc862d2e16f6de4fe73f941aa1&edge_slice=true&sub_m3u8=true&auth_key=1680742317-0-0-e93dd70b4027dc4d686cdf232bb9ef39"
   }
              ],
     "HomeImage": "https://iconape.com/wp-content/files/ow/315709/png/315709.png",
@@ -176,7 +176,7 @@
     "Hot": "",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
     "LeagueName": "Coppa Italia - Semi Final",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
