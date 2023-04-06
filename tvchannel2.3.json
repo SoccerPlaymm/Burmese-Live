@@ -1,8 +1,5 @@
 [
-{ "channelName" : "beIN Sport English 1",
-   "image" : "https://i.ibb.co/VTfFFtL/20230227-140511.jpg",
-   "link" : "http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347"
-},
+
 { "channelName" : "beIN Sport Premium 1",
    "image" : "https://www.yalla-shoot2day.com/wp-content/uploads/2022/05/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-1-%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.jpg",
    "link" : "http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347"
