@@ -7,22 +7,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1680899985-0-0-dcd3898e9f3fe70d61b3a0a7deb41333&edge_slice=true&sub_m3u8=true&user_session_id=8feee922314ca2ac91b1c8f6cff847a8"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1680899985-0-0-dcd3898e9f3fe70d61b3a0a7deb41333&edge_slice=true&sub_m3u8=true&user_session_id=8feee922314ca2ac91b1c8f6cff847a8"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?auth_key=1680900117-0-0-a9020101ca6bcccd7bf709eba1bc4288&edge_slice=true&sub_m3u8=true&user_session_id=89922b3a54913624db11fa14dc984b61"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?auth_key=1680900117-0-0-a9020101ca6bcccd7bf709eba1bc4288&edge_slice=true&sub_m3u8=true&user_session_id=89922b3a54913624db11fa14dc984b61"
   }
              ],
     "HomeImage": "https://i.ibb.co/dkf4cTv/download-54.png",
@@ -30,7 +30,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
