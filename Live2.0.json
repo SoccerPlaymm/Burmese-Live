@@ -51,10 +51,20 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?auth_key=1680970497-0-0-49b0de1b1507521deaa6fc4c5dca4019&edge_slice=true&sub_m3u8=true&user_session_id=4717cda4e8d319948e655ca3f729255d"
   },
   {
    "type": "Soco(Vietnam)",
+   "quality": "SD",
+   "link": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?auth_key=1680970497-0-0-49b0de1b1507521deaa6fc4c5dca4019&edge_slice=true&sub_m3u8=true&user_session_id=4717cda4e8d319948e655ca3f729255d"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
    "quality": "SD",
    "link": "0"
   }
