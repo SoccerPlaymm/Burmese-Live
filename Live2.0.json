@@ -69,6 +69,16 @@
    "link": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8"
   },
   {
+   "type": "Vebo(English)",
+   "quality": "HD",
+   "link": "https://179720687.global.cdnfastest.com:443/live/hd-en-dj2ryohedk56q1z/chunklist.m3u8"
+  },
+  {
+   "type": "Vebo(English)",
+   "quality": "SD",
+   "link": "https://179720687.global.cdnfastest.com/live/sd-dj2ryohedk56q1z/playlist.m3u8"
+  },
+  {
    "type": "English",
    "quality": "HD",
    "link": "0"
