@@ -187,11 +187,26 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-229285.m3u8?txSecret=6c1e8b1cf9d2e02e6d0d4ef5e4a8f77a&txTime=64332bfd"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
+   "link": "https://sports01.livnvess.com/live/stream-229285.m3u8?txSecret=6c1e8b1cf9d2e02e6d0d4ef5e4a8f77a&txTime=64332bfd"
+  },
+  {
+   "type": "Soco(English)",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Soco(English)",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "English",
+   "quality": "HD",
    "link": "0"
   }
              ],
