@@ -127,14 +127,14 @@
    "link": "https://sports01.livnvess.com/live/stream-229285.m3u8?txSecret=6c1e8b1cf9d2e02e6d0d4ef5e4a8f77a&txTime=64332bfd"
   },
   {
-   "type": "Soco(English)",
+   "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
-   "type": "Soco(English)",
+   "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   },
   {
    "type": "English",
