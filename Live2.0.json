@@ -23,6 +23,16 @@
    "type": "Soco(Vietnam)",
    "quality": "SD",
    "link": ""
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "HD",
+   "link": ""
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "SD",
+   "link": ""
   }
              ],
     "HomeImage": "https://i.ibb.co/YpGpV2N/download-57.png",
@@ -55,6 +65,16 @@
   },
   {
    "type": "Soco(Vietnam)",
+   "quality": "SD",
+   "link": ""
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "HD",
+   "link": ""
+  },
+  {
+   "type": "Vebo(Vietnam)",
    "quality": "SD",
    "link": ""
   }
