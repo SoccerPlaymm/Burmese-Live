@@ -1,4 +1,22 @@
 [
+  {
+    "Name":"Cyber Heist",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-04-04/642ba1ddecf55.png",
+    "dLink":"http://www.zegomovie.com/Videos/CyberHeist/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/CyberHeist/index.m3u8"   
+  },
+ {
+    "Name":"Ram Setu",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-23/63ce4a820bad4.png",
+    "dLink":"http://www.zegomovie.com/Videos/Ram%20Setu/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Ram%20Setu/index.m3u8"   
+  },
+ {
+    "Name":"The Royal",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-18/63c767bd62d41.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/TheRoyal/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/TheRoyal/index.m3u8"
+  },
  {
     "Name":"Miss Agent",
     "Image":"http://zegomovie.com/Uploads/vod/2020-10-01/5f757f77a18d9.jpg",
