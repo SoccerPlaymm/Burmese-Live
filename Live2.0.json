@@ -64,7 +64,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/ea89a0d31d734ff808be000f0fca40d6.png",
     "LeagueName": "Europa League - Quarter Final",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
@@ -91,6 +91,16 @@
    "type": "Soco(Vietnam)",
    "quality": "SD",
    "link": "https://sports01.livnvess.com/live/stream-190631_lhd.m3u8?txSecret=1a33eb10f6a48335d0c78b0947e34498&txTime=64389981"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "HD",
+   "link": ""
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "SD",
+   "link": ""
   }
              ],
     "HomeImage": "https://i.ibb.co/Xj0bkGg/download-48.png",
@@ -98,7 +108,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/ea89a0d31d734ff808be000f0fca40d6.png",
     "LeagueName": "Europa League - Quarter Final",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
@@ -125,6 +135,16 @@
    "type": "Soco(Vietnam)",
    "quality": "SD",
    "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?user_session_id=c7b5d82b28e35e908ff80eda68d3ca4a&auth_key=1681431033-0-0-e404415fc5247383dbe724a1cb3fb558&edge_slice=true&sub_m3u8=true"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "HD",
+   "link": ""
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "SD",
+   "link": ""
   }
              ],
     "HomeImage": "https://i.ibb.co/rZFH50R/download-1.png",
@@ -132,7 +152,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/ea89a0d31d734ff808be000f0fca40d6.png",
     "LeagueName": "Europa League - Quarter Final",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   }
 ]
