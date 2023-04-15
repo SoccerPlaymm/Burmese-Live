@@ -154,10 +154,20 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-248802_lhd.m3u8?txSecret=d36c963720955418a515b0eadb676cc2&txTime=643b00bd"
   },
   {
    "type": "Soco(Vietnam)",
+   "quality": "SD",
+   "link": "https://sports01.livnvess.com/live/stream-248802_lhd.m3u8?txSecret=d36c963720955418a515b0eadb676cc2&txTime=643b00bd"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
    "quality": "SD",
    "link": "0"
   }
@@ -167,7 +177,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -188,12 +198,12 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=bad177d7d47d045b88f1ba7bddb1ca63&auth_key=1681588413-0-0-b815753423a943842ae6991c0da056eb"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=bad177d7d47d045b88f1ba7bddb1ca63&auth_key=1681588413-0-0-b815753423a943842ae6991c0da056eb"
   }
              ],
     "HomeImage": "https://i.ibb.co/0VgNnHq/download-17.png",
@@ -201,7 +211,7 @@
     "Hot": "",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
