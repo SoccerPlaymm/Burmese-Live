@@ -41,12 +41,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-797853_lhd.m3u8?user_session_id=d8276d8c37cda1d73febc4cfc9c2683e&sub_m3u8=true&edge_slice=true&auth_key=1681579066-0-0-b4e6782a424588c220b40c07eebb3dfd"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-797853_lsd.m3u8?user_session_id=d8276d8c37cda1d73febc4cfc9c2683e&sub_m3u8=true&edge_slice=true&auth_key=1681579066-0-0-b4e6782a424588c220b40c07eebb3dfd"
   },
   {
    "type": "Soco(Vietnam)",
@@ -64,7 +64,7 @@
     "Hot": "",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/7657c838a66d3ca33cccabbc1526f853.png",
     "LeagueName": "Laliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "6:30 PM"
   },
   {
@@ -75,12 +75,12 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-5964123_lhd.m3u8?user_session_id=62da5caaccb60c00a6cb39b727234c43&sub_m3u8=true&edge_slice=true&auth_key=1681579066-0-0-c67bf0af45aba6009f2759a366a14b4a"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-5964123_lsd.m3u8?user_session_id=62da5caaccb60c00a6cb39b727234c43&sub_m3u8=true&edge_slice=true&auth_key=1681579066-0-0-c67bf0af45aba6009f2759a366a14b4a"
   },
   {
    "type": "Soco(Vietnam)",
@@ -98,7 +98,7 @@
     "Hot": "",
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
   {
