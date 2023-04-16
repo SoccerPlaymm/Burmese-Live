@@ -57,6 +57,16 @@
    "type": "Soco(Vietnam)",
    "quality": "SD",
    "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-248802_lsd.m3u8?auth_key=1681671274-0-0-154ce6c702a2f26d5e8e7cb4482ea0bf&sub_m3u8=true&user_session_id=4cd0b1ed612810aa6895ff4999f13745&edge_slice=true"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/0B03V1F/download-19.png",
