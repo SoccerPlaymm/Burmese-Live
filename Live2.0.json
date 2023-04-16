@@ -67,6 +67,16 @@
    "type": "Vebo(English)",
    "quality": "SD",
    "link": "https://179720687.global.cdnfastest.com/live/sd-3glrw7h3lw0kqdy/playlist.m3u8"
+  },
+  {
+   "type": "English 1",
+   "quality": "HD",
+   "link": "https://pulldg.hongdel.top/live/hd-en-1-3747072.m3u8?auth_key=1681652831-0-0-253ee22f8ffdf9b5743cde002089c259"
+  },
+  {
+   "type": "English 2",
+   "quality": "HD",
+   "link": "https://storage.googleapis.com/arxq4gxanur5lllfhz/mux_video_ts/index-1.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/0B03V1F/download-19.png",
