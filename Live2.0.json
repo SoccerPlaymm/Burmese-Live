@@ -75,22 +75,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-556902_lhd.m3u8?edge_slice=true&auth_key=1681671526-0-0-7b89035c5e96496b6a3aab7e14598477&user_session_id=2d747bc32f5fc2ed542c90c49fb8ee9e&sub_m3u8=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-556902_lsd.m3u8?edge_slice=true&auth_key=1681671526-0-0-7b89035c5e96496b6a3aab7e14598477&user_session_id=2d747bc32f5fc2ed542c90c49fb8ee9e&sub_m3u8=true"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=87adbc69bc38889b66fe6c1c071088cb&txTime=643c4596"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=87adbc69bc38889b66fe6c1c071088cb&txTime=643c4596"
   }
              ],
     "HomeImage": "https://i.ibb.co/T8v9CbT/download-51.png",
