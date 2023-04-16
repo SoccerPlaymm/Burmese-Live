@@ -1,73 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/Xj0bkGg/download-48.png",
-    "AwayName": "Juventus",
-    "Date": "April 16 ",
-    "Link": [
-  {
-   "type": "China",
-   "quality": "HD",
-   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lhd.m3u8?auth_key=1681681066-0-0-2f305edb05659f78d79b2214bf41df7b&edge_slice=true&user_session_id=f2001e4d4fd39d7756fccb314ecba667&sub_m3u8=true"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lsd.m3u8?auth_key=1681681066-0-0-2f305edb05659f78d79b2214bf41df7b&edge_slice=true&user_session_id=f2001e4d4fd39d7756fccb314ecba667&sub_m3u8=true"
-  },
-  {
-   "type": "Soco(Vietnam)",
-   "quality": "HD",
-   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?auth_key=1681681114-0-0-2fbc41d3cd00bd230091c4e8ea3d6872&sub_m3u8=true&user_session_id=ea982a865bf87e0eb39297f06aa83414&edge_slice=true"
-  },
-  {
-   "type": "Soco(Vietnam)",
-   "quality": "SD",
-   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?auth_key=1681681114-0-0-2fbc41d3cd00bd230091c4e8ea3d6872&sub_m3u8=true&user_session_id=ea982a865bf87e0eb39297f06aa83414&edge_slice=true"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/ZN6PsyW/download-45.png",
-    "HomeName": "Sassuolo",
-    "Hot": "Hot",
-    "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "10:30 PM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/yPjv50N/download-30.png",
-    "AwayName": "Almeria",
-    "Date": "April 16 ",
-    "Link": [
-  {
-   "type": "China",
-   "quality": "HD",
-   "link": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1681683106-0-0-75f1886c67eabcec7d61e9104ba26671"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1681683106-0-0-c51a5963baa9481410aadd7943e30900"
-  },
-  {
-   "type": "Soco(Vietnam)",
-   "quality": "HD",
-   "link": "https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=4f2f1072433ad3c822ae367fd98c7507&txTime=643c725a"
-  },
-  {
-   "type": "Soco(Vietnam)",
-   "quality": "SD",
-   "link": "https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=4f2f1072433ad3c822ae367fd98c7507&txTime=643c725a"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/NV6t3Ck/download-39.png",
-    "HomeName": "Atletico Madrid",
-    "Hot": "",
-    "LeagueImage": "https://www.ilike-movie.com/fw-img/7657c838a66d3ca33cccabbc1526f853.png",
-    "LeagueName": "Laliga",
-    "LiveUpcoming": "Live",
-    "Time": "11:00 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/51zs1r9/download-63.png",
     "AwayName": "Leverkusen",
     "Date": "April 17",
@@ -177,22 +109,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lhd.m3u8?sub_m3u8=true&auth_key=1681691566-0-0-e554ce0e8e06a2e71b30ce7238f1d19f&user_session_id=9c6a0cfa9e5bd7d5ca5adc1a491a85b0&edge_slice=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lsd.m3u8?sub_m3u8=true&auth_key=1681691566-0-0-e554ce0e8e06a2e71b30ce7238f1d19f&user_session_id=9c6a0cfa9e5bd7d5ca5adc1a491a85b0&edge_slice=true"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=b1a4fa903ed084577e0df861246a9db0&txTime=643c9366"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=b1a4fa903ed084577e0df861246a9db0&txTime=643c9366"
   }
              ],
     "HomeImage": "https://i.ibb.co/LNsh3hr/download-34.png",
@@ -200,7 +132,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/7657c838a66d3ca33cccabbc1526f853.png",
     "LeagueName": "Laliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   }
 ]
