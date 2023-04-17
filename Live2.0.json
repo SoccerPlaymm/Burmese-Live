@@ -30,7 +30,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming ",
+    "LiveUpcoming": "Upcoming",
     "Time": "1:15 AM"
   },
   {
@@ -64,7 +64,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming ",
+    "LiveUpcoming": "Upcoming",
     "Time": "1:30 AM"
   },
   {
@@ -98,7 +98,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/7657c838a66d3ca33cccabbc1526f853.png",
     "LeagueName": "Laliga",
-    "LiveUpcoming": "Upcoming ",
+    "LiveUpcoming": "Upcoming",
     "Time": "1:30 AM"
   }
 ]
