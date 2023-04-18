@@ -85,22 +85,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1681864186-0-0-f38b22d1d2fa182e0ed25ec5f1a437af"
   },
   {
    "type": "China",
-   "quality": "SD",
-   "link": "0"
+   "quality": "SD",https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=788b495d67c2da3d2f200bf68323f466&txTime=643f35ee
+   "link": "https://yypull.gdsth.com/live/stream-112366_ld.m3u8?auth_key=1681864186-0-0-c011de8887964cdfc087382bf9b806a0"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=788b495d67c2da3d2f200bf68323f466&txTime=643f35ee"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=788b495d67c2da3d2f200bf68323f466&txTime=643f35ee"
   },
   {
    "type": "Vebo(Vietnam)",
@@ -118,7 +118,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png",
     "LeagueName": "Champions League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
