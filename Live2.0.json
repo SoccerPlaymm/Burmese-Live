@@ -4,26 +4,7 @@
     "AwayName": "Al Nassr FC",
     "Date": "April 19",
     "Link": [
-  {
-   "type": "China",
-   "quality": "HD",
-   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?auth_key=1681864066-0-0-05f1d89f76177561135cda59f78934bc&sub_m3u8=true&user_session_id=9641a90840b0f64157dbc4292a3c5041&edge_slice=true"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lsd.m3u8?auth_key=1681864066-0-0-05f1d89f76177561135cda59f78934bc&sub_m3u8=true&user_session_id=9641a90840b0f64157dbc4292a3c5041&edge_slice=true"
-  },
-  {
-   "type": "Soco(Vietnam)",
-   "quality": "HD",
-   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?user_session_id=2962a0c83b0e5e84b527c5b7ac9c12e9&auth_key=1681865194-0-0-1f127cae5ea6bc4a7df6fd15ee5eb844&sub_m3u8=true&edge_slice=true"
-  },
-  {
-   "type": "Soco(Vietnam)",
-   "quality": "SD",
-   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-122774_lsd.m3u8?user_session_id=2962a0c83b0e5e84b527c5b7ac9c12e9&auth_key=1681865194-0-0-1f127cae5ea6bc4a7df6fd15ee5eb844&sub_m3u8=true&edge_slice=true"
-  }
+  
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2529.png",
     "HomeName": "Al Hilal",
