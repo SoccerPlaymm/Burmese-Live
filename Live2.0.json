@@ -17,12 +17,12 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?user_session_id=2962a0c83b0e5e84b527c5b7ac9c12e9&auth_key=1681865194-0-0-1f127cae5ea6bc4a7df6fd15ee5eb844&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-122774_lsd.m3u8?user_session_id=2962a0c83b0e5e84b527c5b7ac9c12e9&auth_key=1681865194-0-0-1f127cae5ea6bc4a7df6fd15ee5eb844&sub_m3u8=true&edge_slice=true"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2529.png",
@@ -30,7 +30,7 @@
     "Hot": "Hot",
     "LeagueImage": "",
     "LeagueName": "Saudi - Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
@@ -51,12 +51,12 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-901508_lhd.m3u8?user_session_id=4e084cc2007d96a2b4ffe5c4e89863fa&auth_key=1681865134-0-0-f3520019cc59a47e95f28eb3aaaca6f3&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-901508_lsd.m3u8?user_session_id=4e084cc2007d96a2b4ffe5c4e89863fa&auth_key=1681865134-0-0-f3520019cc59a47e95f28eb3aaaca6f3&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Vebo(Vietnam)",
@@ -74,7 +74,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png",
     "LeagueName": "Champions League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
