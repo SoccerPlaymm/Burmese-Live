@@ -67,6 +67,16 @@
    "type": "Vebo(Vietnam)",
    "quality": "SD",
    "link": "https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8z5pdr51/playlist.m3u8"
+  },
+  {
+   "type": "English 1",
+   "quality": "HD",
+   "link": "https://pulldg.hongdel.top/live/hd-en-1-3897128.m3u8?auth_key=1681861630-0-0-10119aae9a3b559bf28776ddaa03f316"
+  },
+  {
+   "type": "English 2",
+   "quality": "HD",
+   "link": "https://storage.googleapis.com/lwvtzcst/mux_video_ts/index-1.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/MMN9Rw5/download.png",
