@@ -19,7 +19,26 @@
     "AwayName": "Real Madrid",
     "Date": "April 19",
     "Link": [
-  
+  {
+   "type": "China",
+   "quality": "HD",
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?sub_m3u8=true&user_session_id=b11cc6e38d0d2b65e7a38d83f68a27e1&edge_slice=true&auth_key=1681864066-0-0-b0b6378ec79d3c2d2745f678296cda4a"
+  },
+  {
+   "type": "China",
+   "quality": "SD",
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?sub_m3u8=true&user_session_id=b11cc6e38d0d2b65e7a38d83f68a27e1&edge_slice=true&auth_key=1681864066-0-0-b0b6378ec79d3c2d2745f678296cda4a"
+  },
+  {
+   "type": "Soco(Vietnam)",
+   "quality": "HD",
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-901508_lhd.m3u8?user_session_id=4e084cc2007d96a2b4ffe5c4e89863fa&auth_key=1681865134-0-0-f3520019cc59a47e95f28eb3aaaca6f3&sub_m3u8=true&edge_slice=true"
+  },
+  {
+   "type": "Soco(Vietnam)",
+   "quality": "SD",
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-901508_lsd.m3u8?user_session_id=4e084cc2007d96a2b4ffe5c4e89863fa&auth_key=1681865134-0-0-f3520019cc59a47e95f28eb3aaaca6f3&sub_m3u8=true&edge_slice=true"
+  }
              ],
     "HomeImage": "https://i.ibb.co/MMN9Rw5/download.png",
     "HomeName": "Chelsea",
