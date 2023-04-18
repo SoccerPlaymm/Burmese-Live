@@ -57,16 +57,6 @@
    "type": "Soco(Vietnam)",
    "quality": "SD",
    "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-901508_lsd.m3u8?user_session_id=4e084cc2007d96a2b4ffe5c4e89863fa&auth_key=1681865134-0-0-f3520019cc59a47e95f28eb3aaaca6f3&sub_m3u8=true&edge_slice=true"
-  },
-  {
-   "type": "Vebo(Vietnam)",
-   "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo(Vietnam)",
-   "quality": "SD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/MMN9Rw5/download.png",
@@ -101,16 +91,6 @@
    "type": "Soco(Vietnam)",
    "quality": "SD",
    "link": "https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=788b495d67c2da3d2f200bf68323f466&txTime=643f35ee"
-  },
-  {
-   "type": "Vebo(Vietnam)",
-   "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo(Vietnam)",
-   "quality": "SD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/rxJP1dw/download-41.png",
