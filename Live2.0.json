@@ -39,12 +39,12 @@
     "Date": "April 22",
     "Link": [
   {
-   "type": "China",
+   "type": "YYZB(China)",
    "quality": "HD",
    "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?auth_key=1682122966-0-0-d1aa14fe47e0046c54d538f99a130a0b&user_session_id=6f79257dd8926d2c8c1e67276d821d88&sub_m3u8=true&edge_slice=true"
   },
   {
-   "type": "China",
+   "type": "YYZB(China)",
    "quality": "SD",
    "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?auth_key=1682122966-0-0-d1aa14fe47e0046c54d538f99a130a0b&user_session_id=6f79257dd8926d2c8c1e67276d821d88&sub_m3u8=true&edge_slice=true"
   },
@@ -73,12 +73,12 @@
     "Date": "April 22",
     "Link": [
   {
-   "type": "China",
+   "type": "YYZB(China)",
    "quality": "HD",
    "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?user_session_id=602dbceb2267063422f35ee5e9427d7f&edge_slice=true&sub_m3u8=true&auth_key=1682123446-0-0-7896e57a3b6fa6b95e256097f2214e21"
   },
   {
-   "type": "China",
+   "type": "YYZB(China)",
    "quality": "SD",
    "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?user_session_id=602dbceb2267063422f35ee5e9427d7f&edge_slice=true&sub_m3u8=true&auth_key=1682123446-0-0-7896e57a3b6fa6b95e256097f2214e21"
   },
@@ -127,12 +127,12 @@
     "Date": "April 22",
     "Link": [
   {
-   "type": "China",
+   "type": "YYZB(China)",
    "quality": "HD",
    "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-772920_lhd.m3u8?edge_slice=true&user_session_id=60f5f2d63303f8241079c71dfd3a6437&sub_m3u8=true&auth_key=1682123686-0-0-b86753ea6d8c111e230e839eefb4c0b4"
   },
   {
-   "type": "China",
+   "type": "YYZB(China)",
    "quality": "SD",
    "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-772920_lsd.m3u8?edge_slice=true&user_session_id=60f5f2d63303f8241079c71dfd3a6437&sub_m3u8=true&auth_key=1682123686-0-0-b86753ea6d8c111e230e839eefb4c0b4"
   },
@@ -161,12 +161,12 @@
     "Date": "April 22",
     "Link": [
   {
-   "type": "China",
+   "type": "YYZB(China)",
    "quality": "HD",
    "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-669312_lhd.m3u8?auth_key=1682123506-0-0-f7eee3e787bbc70143fe9f001b77d5d0&edge_slice=true&sub_m3u8=true&user_session_id=4374dc860aea44b3415dbca63487573b"
   },
   {
-   "type": "China",
+   "type": "YYZB(China)",
    "quality": "SD",
    "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-669312_lsd.m3u8?auth_key=1682123506-0-0-f7eee3e787bbc70143fe9f001b77d5d0&edge_slice=true&sub_m3u8=true&user_session_id=4374dc860aea44b3415dbca63487573b"
   },
