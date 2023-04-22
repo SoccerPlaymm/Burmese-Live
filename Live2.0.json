@@ -261,6 +261,26 @@
    "type": "Soco(Vietnam)",
    "quality": "SD",
    "link": "https://sports01.livnvess.com/live/stream-901508_lhd.m3u8?txSecret=01e1cf1e1767264e78960af308596088&txTime=64443742"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "English",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "English",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/T12PsPR/download-3.png",
