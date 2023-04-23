@@ -1,92 +1,5 @@
 [
-  {
-    "AwayImage": "https://i.ibb.co/rZFH50R/download-1.png",
-    "AwayName": "Manchester United",
-    "Date": "April 23",
-    "Link": [
-  {
-   "type": "YYZB(China)",
-   "quality": "HD",
-   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?auth_key=1682284426-0-0-ac9e04bea6f9f423864c85b3f35a4c4a&sub_m3u8=true&edge_slice=true&user_session_id=b24ee103ea641502ce732ac9ed46453f"
-  },
-  {
-   "type": "YYZB(China)",
-   "quality": "SD",
-   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?auth_key=1682284426-0-0-ac9e04bea6f9f423864c85b3f35a4c4a&sub_m3u8=true&edge_slice=true&user_session_id=b24ee103ea641502ce732ac9ed46453f"
-  },
-  {
-   "type": "Soco(Vietnam)",
-   "quality": "HD",
-   "link": "https://sports01.livnvess.com/live/stream-901508_lhd.m3u8?txSecret=e89e969c2ac80cd73e2f28839ad9050c&txTime=64459eca"
-  },
-  {
-   "type": "Soco(Vietnam)",
-   "quality": "SD",
-   "link": "https://sports01.livnvess.com/live/stream-901508_lhd.m3u8?txSecret=e89e969c2ac80cd73e2f28839ad9050c&txTime=64459eca"
-  },
-  {
-   "type": "Vebo(Vietnam)",
-   "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo(Vietnam)",
-   "quality": "SD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
-  },
-  {
-   "type": "English",
-   "quality": "HD",
-   "link": "https://storage.googleapis.com/buoksy/mux_video_ts/index-1.m3u8"
-  },
-  {
-   "type": "English",
-   "quality": "SD",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/RBH2X6r/download-13.png",
-    "HomeName": "Brighton",
-    "Hot": "Hot",
-    "LeagueImage": "",
-    "LeagueName": "FA Cup",
-    "LiveUpcoming": "Live",
-    "Time": "10:00 PM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/HdHxByy/download-76.png",
-    "AwayName": "RB Leipzig",
-    "Date": "April 23",
-    "Link": [
-  {
-   "type": "YYZB(China)",
-   "quality": "HD",
-   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?user_session_id=34ad3463489c17264d61d823593b396e&sub_m3u8=true&edge_slice=true&auth_key=1682284426-0-0-821580c236d31cca45a87fac353f84de"
-  },
-  {
-   "type": "YYZB(China)",
-   "quality": "SD",
-   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?user_session_id=34ad3463489c17264d61d823593b396e&sub_m3u8=true&edge_slice=true&auth_key=1682284426-0-0-821580c236d31cca45a87fac353f84de"
-  },
-  {
-   "type": "Soco(Vietnam)",
-   "quality": "HD",
-   "link": "https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=0076a5747111d3f210d744fd49e15eb2&txTime=64459eca"
-  },
-  {
-   "type": "Soco(Vietnam)",
-   "quality": "SD",
-   "link": "https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=0076a5747111d3f210d744fd49e15eb2&txTime=64459eca"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/51zs1r9/download-63.png",
-    "HomeName": "Leverkusen",
-    "Hot": "",
-    "LeagueImage": "https://www.fifplay.com/img/public/bundesliga-logo.png",
-    "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Live",
-    "Time": "10:00 PM"
-  },
+  
   {
     "AwayImage": "https://i.ibb.co/f0wRMJt/download-56.png",
     "AwayName": "Lecce",
@@ -220,7 +133,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -254,7 +167,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/0b222ee18016b5ad1678262db6487812.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -288,7 +201,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/7657c838a66d3ca33cccabbc1526f853.png",
     "LeagueName": "Laliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   }
 ]
