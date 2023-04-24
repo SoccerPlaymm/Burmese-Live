@@ -7,12 +7,12 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1682379946-0-0-e861878266ec6c3c6b971e18f91137ac&user_session_id=d855ad3d6febd12b0b954cf0d8615b4d"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1682379946-0-0-e861878266ec6c3c6b971e18f91137ac&user_session_id=d855ad3d6febd12b0b954cf0d8615b4d"
   },
   {
    "type": "Soco(Vietnam)",
@@ -30,7 +30,7 @@
     "Hot": "Hot",
     "LeagueImage": "",
     "LeagueName": "Saudi - King's Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:30 AM"
   },
   {
