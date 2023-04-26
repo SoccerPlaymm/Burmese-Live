@@ -191,14 +191,14 @@
    "link": "https://obevcimanyd179314182.thapcam.link/live/batSD/playlist.m3u8"
   },
   {
-   "type": "YYZB(China)",
+   "type": "English",
    "quality": "HD",
-   "link": ""
+   "link": "https://storage.googleapis.com/krfupu/mux_video_ts/index-1.m3u8"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": ""
+   "link": "0"
   },
              ],
     "HomeImage": "https://i.ibb.co/0B03V1F/download-19.png",
@@ -245,14 +245,14 @@
    "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   },
   {
-   "type": "YYZB(China)",
+   "type": "English",
    "quality": "HD",
-   "link": ""
+   "link": "0"
   },
   {
-   "type": "YYZB(China)",
+   "type": "English",
    "quality": "SD",
-   "link": ""
+   "link": "0"
   },
              ],
     "HomeImage": "https://i.ibb.co/v4DMkVK/download-2.png",
