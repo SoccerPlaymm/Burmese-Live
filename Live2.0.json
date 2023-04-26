@@ -260,7 +260,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
@@ -271,22 +271,22 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": ""
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lhd.m3u8?edge_slice=true&user_session_id=0610fdb5c420586c2c427c4e2a63665e&auth_key=1682556767-0-0-5a2d8682951c3ca0a3fcea0359f10bcd&sub_m3u8=true"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": ""
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lsd.m3u8?edge_slice=true&user_session_id=0610fdb5c420586c2c427c4e2a63665e&auth_key=1682556767-0-0-5a2d8682951c3ca0a3fcea0359f10bcd&sub_m3u8=true"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": ""
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?edge_slice=true&auth_key=1682556815-0-0-6d9e3d185be6fc8effe07cc4f10bb575&user_session_id=811ab7e139cb667dac09c2011fcf9d28&sub_m3u8=true"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": ""
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?edge_slice=true&auth_key=1682556815-0-0-6d9e3d185be6fc8effe07cc4f10bb575&user_session_id=811ab7e139cb667dac09c2011fcf9d28&sub_m3u8=true"
   }
              ],
     "HomeImage": "https://i.ibb.co/P13TnDX/download-42.png",
@@ -294,7 +294,7 @@
     "Hot": "Hot",
     "LeagueImage": "",
     "LeagueName": "Coppa Italia - Semi  Final",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
