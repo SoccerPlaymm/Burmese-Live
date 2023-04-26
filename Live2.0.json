@@ -247,12 +247,12 @@
   {
    "type": "English",
    "quality": "HD",
-   "link": "0"
+   "link": "https://storage.googleapis.com/demcas/mux_video_ts/index-1.m3u8"
   },
   {
    "type": "English",
    "quality": "SD",
-   "link": "0"
+   "link": "https://9867f9671c.vws.vegacdn.vn/live/_definst_/stream_1_9832f/chunklist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/v4DMkVK/download-2.png",
