@@ -17,12 +17,12 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-911508_lhd.m3u8?user_session_id=67f916a80df5724dcef6a25d568d4629&sub_m3u8=true&auth_key=1682725355-0-0-58ee455fa7efeed732969b32876d6d84&edge_slice=true"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-911508_lsd.m3u8?user_session_id=67f916a80df5724dcef6a25d568d4629&sub_m3u8=true&auth_key=1682725355-0-0-58ee455fa7efeed732969b32876d6d84&edge_slice=true"
   }
              ],
     "HomeImage": "https://i.ibb.co/f0wRMJt/download-56.png",
@@ -64,7 +64,7 @@
     "Hot": "Hot",
     "LeagueImage": "",
     "LeagueName": "Saudi - Premier League ",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "April 29"
   },
   {
@@ -98,7 +98,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.fifplay.com/img/public/bundesliga-logo.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "April 29"
   },
   {
@@ -132,7 +132,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "April 29"
   },
   {
@@ -153,12 +153,12 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=82f48ccc4d99d6265121d6da38210b1a&txTime=644c59eb"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=82f48ccc4d99d6265121d6da38210b1a&txTime=644c59eb"
   }
              ],
     "HomeImage": "https://i.ibb.co/mTH2ByB/download-28.png",
@@ -166,7 +166,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/7657c838a66d3ca33cccabbc1526f853.png",
     "LeagueName": "Laliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "April 29"
   },
   {
@@ -200,7 +200,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/0b222ee18016b5ad1678262db6487812.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "April 29"
   }
 ]
