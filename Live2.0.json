@@ -333,22 +333,22 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?user_session_id=2f3119d015b427dae4a5629ddb607e5f&auth_key=1682803247-0-0-b96ab717f4196df9173021b4dc86f64b&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?user_session_id=2f3119d015b427dae4a5629ddb607e5f&auth_key=1682803247-0-0-b96ab717f4196df9173021b4dc86f64b&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=b0b6061ac0707fe706acd11c9d8b797e&txTime=644d8a9b"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=b0b6061ac0707fe706acd11c9d8b797e&txTime=644d8a9b"
   }
              ],
     "HomeImage": "https://i.ibb.co/1mDqD0w/download-55.png",
@@ -356,7 +356,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   },
   {
