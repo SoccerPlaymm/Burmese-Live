@@ -265,22 +265,22 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lhd.m3u8?edge_slice=true&auth_key=1682798087-0-0-120095db284cd334b3d042b6d1f66730&sub_m3u8=true&user_session_id=0fe374448eec243e7e2eaea2d8b3a7e5"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lsd.m3u8?edge_slice=true&auth_key=1682798087-0-0-120095db284cd334b3d042b6d1f66730&sub_m3u8=true&user_session_id=0fe374448eec243e7e2eaea2d8b3a7e5"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1682798111-0-0-4596d7dcdbec5fb86ebf707b5c931c30&edge_slice=true&sub_m3u8=true&user_session_id=c680e03c291e80b12fdf9cef88a76ce5"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-360663_lsd.m3u8?auth_key=1682798111-0-0-4596d7dcdbec5fb86ebf707b5c931c30&edge_slice=true&sub_m3u8=true&user_session_id=c680e03c291e80b12fdf9cef88a76ce5"
   }
              ],
     "HomeImage": "https://i.ibb.co/r2BvjjR/download-23.png",
@@ -288,7 +288,7 @@
     "Hot": "",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/7657c838a66d3ca33cccabbc1526f853.png",
     "LeagueName": "Laliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:45 PM"
   },
   {
