@@ -221,12 +221,12 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lhd.m3u8?sub_m3u8=true&user_session_id=61dcd84b8214708b24326f3e8b61313f&auth_key=1682797547-0-0-b58f38d115021690fa63303943a9efbd&edge_slice=true"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lsd.m3u8?sub_m3u8=true&user_session_id=61dcd84b8214708b24326f3e8b61313f&auth_key=1682797547-0-0-b58f38d115021690fa63303943a9efbd&edge_slice=true"
   },
   {
    "type": "Soco(Vietnam)",
@@ -235,6 +235,16 @@
   },
   {
    "type": "Soco(Vietnam)",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
    "quality": "SD",
    "link": "0"
   }
@@ -255,12 +265,12 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?sub_m3u8=true&user_session_id=fe013825dcb8fb8d4b4d381d86b6e64d&auth_key=1682797487-0-0-855c8d2bca353edc2bef8bc8f293dd17&edge_slice=true"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?sub_m3u8=true&user_session_id=fe013825dcb8fb8d4b4d381d86b6e64d&auth_key=1682797487-0-0-855c8d2bca353edc2bef8bc8f293dd17&edge_slice=true"
   },
   {
    "type": "Soco(Vietnam)",
@@ -269,6 +279,16 @@
   },
   {
    "type": "Soco(Vietnam)",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
    "quality": "SD",
    "link": "0"
   }
