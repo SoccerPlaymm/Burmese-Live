@@ -265,12 +265,12 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": ""
+   "link": "https://yypull.gdsth.com/live/stream-516701.m3u8?auth_key=1682805707-0-0-6b3e468efbde8478a954f7a3910380a2"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": ""
+   "link": "https://yypull.gdsth.com/live/stream-516701_ld.m3u8?auth_key=1682805707-0-0-160c83fca72633ceb0120db764e11859"
   },
   {
    "type": "Soco(Vietnam)",
@@ -299,12 +299,12 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": ""
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1682805707-0-0-665b129a6eb9aed1795330328d1a033e&user_session_id=3057ccaab3084103fdbb361b197e7ecc"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": ""
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1682805707-0-0-665b129a6eb9aed1795330328d1a033e&user_session_id=3057ccaab3084103fdbb361b197e7ecc"
   },
   {
    "type": "Soco(Vietnam)",
