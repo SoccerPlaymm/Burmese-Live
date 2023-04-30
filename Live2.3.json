@@ -75,22 +75,22 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lhd.m3u8?sub_m3u8=true&auth_key=1682876327-0-0-6c6d485bd48f1a0267ff36ab8e272dc7&edge_slice=true&user_session_id=4e1d77cf3785a3b020872d529eac6ad9"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lsd.m3u8?sub_m3u8=true&auth_key=1682876327-0-0-6c6d485bd48f1a0267ff36ab8e272dc7&edge_slice=true&user_session_id=4e1d77cf3785a3b020872d529eac6ad9"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-107307_lhd.m3u8?txSecret=64610ced490c26469cd1d5c790a40bdf&txTime=644ea7d7"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-107307_lhd.m3u8?txSecret=64610ced490c26469cd1d5c790a40bdf&txTime=644ea7d7"
   }
              ],
     "HomeImage": "https://i.ibb.co/SrkThSS/download-26.png",
@@ -159,6 +159,26 @@
    "type": "Soco(Vietnam)",
    "quality": "SD",
    "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "English",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "English",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/8YZYVzF/download-15.png",
@@ -193,6 +213,26 @@
    "type": "Soco(Vietnam)",
    "quality": "SD",
    "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "English",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "English",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/rZFH50R/download-1.png",
@@ -225,6 +265,16 @@
   },
   {
    "type": "Soco(Vietnam)",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
    "quality": "SD",
    "link": "0"
   }
