@@ -295,20 +295,30 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1682887787-0-0-50d3427f63fde7ade789982a794cc669"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1682887787-0-0-18a7597e725af2db003f1fa7a54edef4"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-122774_lhd.m3u8?txSecret=e9e8e4904fad0ca88df4a3d5b8b7f4c9&txTime=644ed49b"
   },
   {
    "type": "Soco(Vietnam)",
+   "quality": "SD",
+   "link": "https://sports01.livnvess.com/live/stream-122774_lhd.m3u8?txSecret=e9e8e4904fad0ca88df4a3d5b8b7f4c9&txTime=644ed49b"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
    "quality": "SD",
    "link": "0"
   }
@@ -343,6 +353,26 @@
   },
   {
    "type": "Soco(Vietnam)",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "English",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "English",
    "quality": "SD",
    "link": "0"
   }
