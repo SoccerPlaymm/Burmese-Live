@@ -69,14 +69,14 @@
    "link": "https://sports01.livnvess.com/live/stream-901508_lhd.m3u8?txSecret=5b955a02d1b168a9e28180f1ee8722be&txTime=6452d41f"
   },
   {
-   "type": "Soco(Vietnam)",
+   "type": "Italy",
    "quality": "HD",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/hd-en-dj2ryohed9x3q1z/playlist.m3u8"
   },
   {
-   "type": "Soco(Vietnam)",
+   "type": "Italy",
    "quality": "SD",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/sd-dj2ryohed9x3q1z/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/Xj0bkGg/download-48.png",
