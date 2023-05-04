@@ -27,7 +27,7 @@
   {
    "type": "Myanmar",
    "quality": "HD",
-   "link": "0"
+   "link": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjMgODozMTowNiBBTSZoYXNoX3ZhbHVlPUZva0JGcHFKeVpmN1BPNmVHak1naFE9PSZ2YWxpZG1pbnV0ZXM9MjUmc3RybV9sZW49MTE="
   },
   {
    "type": "Myanmar",
@@ -40,7 +40,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/SEA_Games_logo.svg/1200px-SEA_Games_logo.svg.png",
     "LeagueName": "Southeast Asian Game",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "3:30 PM"
   },
   {
