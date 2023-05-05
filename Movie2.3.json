@@ -1,5 +1,23 @@
 [
   {
+    "Name":"Kids vs. Aliens",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-04-28/644b7bf0f24f6.png",
+    "dLink":"http://www.zegomovie.com/Videos/KidsvsAliens/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/KidsvsAliens/index.m3u8"   
+  },
+ {
+    "Name":"Thiruchitrambalam",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-04-22/6443904cc6b13.png",
+    "dLink":"http://www.zegomovie.com/Videos/Thiruchitrambalam/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Thiruchitrambalam/index.m3u8"   
+  },
+ {
+    "Name":"Bank Robbers: The Last Great Heist",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-01-06/63b7c6893a764.PNG",
+    "dLink":"http://www.zegomovie.com/Videos/BankRobbersTheLastGreatHeist/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/BankRobbersTheLastGreatHeist/index.m3u8"
+  },
+  {
     "Name":"Virgin Story",
     "Image":"http://zegomovie.com/Uploads/vod/2023-04-26/6448a5554061c.png",
     "dLink":"http://www.zegomovie.com/Videos/VirginStory22/index.m3u8",
