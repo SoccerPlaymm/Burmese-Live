@@ -10,9 +10,9 @@
    "link": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683349233/ei/kYpVZI6lKvicz7sPxa-8qAY/ip/37.111.46.109/id/Qd68ClJkot4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/gcr/mm/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKZzvofo4TSOGmBkyPJhJNOK-5UuuXtLXvvSfSng4jmTAiAKVO-g4-v064hFuU6oMpPB44F_XWyd20g_oIdGrw1SPw%3D%3D/file/index.m3u8"
   },
   {
-   "type": "YYZB(China)",
-   "quality": "SD",
-   "link": "0"
+   "type": "Star Sport Selection",
+   "quality": "HD",
+   "link": "http://103.141.2.37:25461/web/web/583"
   },
   {
    "type": "Soco(Vietnam)",
