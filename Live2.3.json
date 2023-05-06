@@ -293,14 +293,14 @@
     "Date": "May 06",
     "Link": [
   {
-   "type": "YYZB(China)",
+   "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/hd-en-x7lm7ph359ezm2w/playlist.m3u8"
   },
   {
-   "type": "YYZB(China)",
+   "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/sd-x7lm7ph359ezm2w/playlist.m3u8"
   },
   {
    "type": "Soco(Vietnam)",
