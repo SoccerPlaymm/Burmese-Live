@@ -119,12 +119,12 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=74156b5e9c4249882aca37ea7a054df9&txTime=6456acbc"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=74156b5e9c4249882aca37ea7a054df9&txTime=6456acbc"
   },
   {
    "type": "Vebo(Vietnam)",
@@ -133,6 +133,16 @@
   },
   {
    "type": "Vebo(Vietnam)",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "English",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "English",
    "quality": "SD",
    "link": "0"
   }
@@ -163,12 +173,12 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=5391d3dcff5a59475ae0f2292b218302&txTime=6456acf8"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=5391d3dcff5a59475ae0f2292b218302&txTime=6456acf8"
   },
   {
    "type": "Vebo(Vietnam)",
@@ -177,6 +187,16 @@
   },
   {
    "type": "Vebo(Vietnam)",
+   "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "English",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "English",
    "quality": "SD",
    "link": "0"
   }
