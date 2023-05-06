@@ -23,6 +23,16 @@
    "type": "Soco(Vietnam)",
    "quality": "SD",
    "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-113906_lsd.m3u8?user_session_id=34b67e506a1658f533d4316b7f1389bb&auth_key=1683398376-0-0-23be9041ae7b4506f5ac3ee254416def&edge_slice=true&sub_m3u8=true"
+  },
+  {
+   "type": "Soco(Vietnam)",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Soco(Vietnam)",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/YpGpV2N/download-57.png",
