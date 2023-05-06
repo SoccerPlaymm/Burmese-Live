@@ -183,12 +183,12 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lhd.m3u8?auth_key=1683412677-0-0-a418fa0af1d6df6d08f390feb6d0b464&user_session_id=ad1e65fa87ce752cb0fdafe7e7a8656a&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lsd.m3u8?auth_key=1683412677-0-0-a418fa0af1d6df6d08f390feb6d0b464&user_session_id=ad1e65fa87ce752cb0fdafe7e7a8656a&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "Soco(Vietnam)",
@@ -206,7 +206,7 @@
     "Hot": "",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/0b222ee18016b5ad1678262db6487812.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:30 PM"
   },
   {
