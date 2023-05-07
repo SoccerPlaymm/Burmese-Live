@@ -25,14 +25,14 @@
    "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-911508_lsd.m3u8?auth_key=1683476436-0-0-b1e09fcd6df828a812cd08333d3c7ad0&edge_slice=true&sub_m3u8=true&user_session_id=4fa284fef2e2cde7d509b765befecadf"
   },
   {
-   "type": "Vebo(Vietnam)",
+   "type": "Vebo(Russia)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/hd-en-965mkyh2g02kr1g/playlist.m3u8"
   },
   {
-   "type": "Vebo(Vietnam)",
+   "type": "Vebo(Russia)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/sd-965mkyh2g02kr1g/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/HqHFbmq/download-43.png",
