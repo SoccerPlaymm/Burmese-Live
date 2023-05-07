@@ -149,12 +149,12 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1683495936-0-0-e96faf7b0360c9644a245520faf71722&user_session_id=794480c2d394f50026f14ffae372ce8b&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-201313_lsd.m3u8?auth_key=1683495936-0-0-e96faf7b0360c9644a245520faf71722&user_session_id=794480c2d394f50026f14ffae372ce8b&sub_m3u8=true&edge_slice=true"
   }
              ],
     "HomeImage": "https://i.ibb.co/rxJP1dw/download-41.png",
@@ -162,7 +162,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   },
   {
