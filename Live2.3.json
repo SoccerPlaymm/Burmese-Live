@@ -61,10 +61,20 @@
   {
    "type": "Vebo(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo(Vietnam)",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
+  },
+  {
+   "type": "English",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "English",
    "quality": "SD",
    "link": "0"
   }
@@ -105,12 +115,12 @@
   {
    "type": "Vebo(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8"
   },
   {
    "type": "Vebo(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/phoSD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/L6tK4v1/download-77.png",
