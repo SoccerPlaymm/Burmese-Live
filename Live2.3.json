@@ -67,6 +67,16 @@
    "type": "Soco(Vietnam)",
    "quality": "SD",
    "link": "https://sports01.livnvess.com/live/stream-901508_lsd.m3u8?txSecret=2c34c890fd5e469ccbf7b6c6526b9407&txTime=64596c54"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
