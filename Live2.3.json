@@ -1,49 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/V3Rk4tH/download-14.png",
-    "AwayName": "Leicester City",
-    "Date": "May 08",
-    "Link": [
-  {
-   "type": "YYZB(China)",
-   "quality": "HD",
-   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1683573177-0-0-84771318101020d6881ff530f63982ff&user_session_id=9bab19c8200facb152ef3dc309f2f107"
-  },
-  {
-   "type": "YYZB(China)",
-   "quality": "SD",
-   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1683573177-0-0-84771318101020d6881ff530f63982ff&user_session_id=9bab19c8200facb152ef3dc309f2f107"
-  },
-  {
-   "type": "Soco(Vietnam)",
-   "quality": "HD",
-   "link": "https://sports01.livnvess.com/live/stream-941508_lhd.m3u8?txSecret=ce97d2fd4d4b7360930f4e7c8f7763d4&txTime=645949e0"
-  },
-  {
-   "type": "Soco(Vietnam)",
-   "quality": "SD",
-   "link": "https://sports01.livnvess.com/live/stream-941508_lsd.m3u8?txSecret=ce97d2fd4d4b7360930f4e7c8f7763d4&txTime=645949e0"
-  },
-  {
-   "type": "Vebo(Vietnam)",
-   "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo(Vietnam)",
-   "quality": "SD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/8YZYVzF/download-15.png",
-    "HomeName": "Fulham",
-    "Hot": "Hot",
-    "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
-    "LeagueName": "Premier League",
-    "LiveUpcoming": "Live",
-    "Time": "8:30 PM"
-  },
-  {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/550433.png",
     "AwayName": "Al Khaleej",
     "Date": "May 08",
@@ -67,16 +23,6 @@
    "type": "Soco(Vietnam)",
    "quality": "SD",
    "link": "https://sports01.livnvess.com/live/stream-901508_lsd.m3u8?txSecret=2c34c890fd5e469ccbf7b6c6526b9407&txTime=64596c54"
-  },
-  {
-   "type": "Vebo(Vietnam)",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo(Vietnam)",
-   "quality": "SD",
-   "link": "0"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
@@ -105,10 +51,20 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991101_lhd.m3u8?auth_key=1683583776-0-0-7df751ec82059f46ba57490dfbbb8dc1&sub_m3u8=true&edge_slice=true&user_session_id=0ff98e405a2cb418b4320ee34e6aed07"
   },
   {
    "type": "Soco(Vietnam)",
+   "quality": "SD",
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991101_lsd.m3u8?auth_key=1683583776-0-0-7df751ec82059f46ba57490dfbbb8dc1&sub_m3u8=true&edge_slice=true&user_session_id=0ff98e405a2cb418b4320ee34e6aed07"
+  },
+  {
+   "type": "Vebo(Vietnam)",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "Vebo(Vietnam)",
    "quality": "SD",
    "link": "0"
   }
