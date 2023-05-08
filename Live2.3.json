@@ -7,22 +7,22 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1683573177-0-0-84771318101020d6881ff530f63982ff&user_session_id=9bab19c8200facb152ef3dc309f2f107"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1683573177-0-0-84771318101020d6881ff530f63982ff&user_session_id=9bab19c8200facb152ef3dc309f2f107"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-941508_lhd.m3u8?txSecret=ce97d2fd4d4b7360930f4e7c8f7763d4&txTime=645949e0"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-941508_lsd.m3u8?txSecret=ce97d2fd4d4b7360930f4e7c8f7763d4&txTime=645949e0"
   }
              ],
     "HomeImage": "https://i.ibb.co/8YZYVzF/download-15.png",
@@ -30,7 +30,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
