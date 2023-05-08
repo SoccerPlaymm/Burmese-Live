@@ -233,7 +233,7 @@
     "HomeName": "Real Madrid",
     "Hot": "Hot",
     "LeagueImage": "https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png",
-    "LeagueName": "Champions League",
+    "LeagueName": "Champions League - Semi Final",
     "LiveUpcoming": "Upcoming",
     "Time": "1:30 AM"
   },
@@ -267,7 +267,7 @@
     "HomeName": "Milan",
     "Hot": "Hot",
     "LeagueImage": "https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png",
-    "LeagueName": "Champions League",
+    "LeagueName": "Champions League - Semi Final",
     "LiveUpcoming": "Upcoming",
     "Time": "1:30 AM"
   },
@@ -301,7 +301,7 @@
     "HomeName": "Juventus",
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/ea89a0d31d734ff808be000f0fca40d6.png",
-    "LeagueName": "Europa League",
+    "LeagueName": "Europa League - Semi Final",
     "LiveUpcoming": "Upcoming",
     "Time": "1:30 AM"
   },
@@ -335,7 +335,7 @@
     "HomeName": "Roma",
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/ea89a0d31d734ff808be000f0fca40d6.png",
-    "LeagueName": "Europa League",
+    "LeagueName": "Europa League - Semi Final",
     "LiveUpcoming": "Upcoming",
     "Time": "1:30 AM"
   }
