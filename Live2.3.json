@@ -7,12 +7,12 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-678199_lhd.m3u8?edge_slice=true&auth_key=1683744080-0-0-0edee3765a68e87bc574dae0e356ffea&user_session_id=1bb5acd667626247848a488eae17dcb2&sub_m3u8=true"
   },
   {
-   "type": "MRTV(Auto)",
-   "quality": "Auto",
-   "link": "http://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1773051747.m3u8"
+   "type": "Soco(HD)",
+   "quality": "HD",
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991111_lhd.m3u8?auth_key=1683744096-0-0-159f906b947197319a6975723bbddd1a&edge_slice=true&user_session_id=c7b706fa4b02cf005468a31d79ed8f7d&sub_m3u8=true"
   },
   {
    "type": "MRTV(HD)",
