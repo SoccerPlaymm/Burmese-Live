@@ -12,17 +12,17 @@
   {
    "type": "MRTV(Auto)",
    "quality": "Auto",
-   "link": "https://usher.ttvnw.net/api/channel/hls/livestreamingmrtv.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=4410339&play_session_id=b84e2931c290ca96444b1896ebf3ba89&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=0c2429fedaa61540e43817ba58cfa18a76f1043e&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22livestreamingmrtv%22%2C%22channel_id%22%3A838922918%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%221278e22a4649231d%22%2C%22expires%22%3A1683720719%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2237.111.46.57%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1&cdm=wv&player_version=1.19.0"
+   "link": "http://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1773051747.m3u8"
   },
   {
    "type": "MRTV(HD)",
    "quality": "HD",
-   "link": "https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CpAFyWJBGJoHHVNY4uxvwg1dpnZkla0JivoEydZ4-0rXthocJeei7WU1Il6vmOP1bMVqYSnnVAcRFNtb8vVVsdbYEVWPVbI9grqcu5iSP9x2gWoMf608DexC59jNYtP-Z-UC9dOI6ryLl-_8tn8MQ9YkCzciS4BMUA1RI7wZ0z50SXHWwZByNcIOuzPVF8SgUuaLBj70gpwtJaKfY2qsifFXPCWKIVUNARhve-vV-7W_OrtFgca5Cd9HD485CTiYkSp2qxw9AtFe1b20XeivDzjK17eJcjebmplVdO5Mj4sQ-f_IQgYsSfcs4mij9V5uqwOXfXmfTszSUL_CWNcGMsRHDDJAeLP0T2GeM8DShIajGbW7tcJxwVlZUdDJFR9tVGHwmR6IoXh76icdtMnIBJunGk7bPdbQwE8jXjJTsCXFMUJzZmMxQBEhnsTo-3PFqivZn2HZe3PB2RWjb7k4bcgXFSFgbyf5Zxvx0iYZS8hlT4oYMfMgNHm9-7vWEBq_wa1p2LbfM6T0t7lq0V1zYVfTRpSc1ATFnO37ujTjKxYfD1iHjTKYWVrB4pssPhotRGCH7cihz4_punqikeqHDHnavnCx5X4v3-KzgOcGq4hKUEojjmGjkGiV5h8SRXfDKZWfzJSLeTwNvOteHNNDnqYsL8bEvkzWPhnpn1YyWPCdybnYPvUYba_e2h0-D5N4ZFk2bYpd7gw7cRSVMCRbIJ0n_Y0N-CnWw__bir6JnRNQ8zx6YVxlE8cX3DJjxfOoQSMuwbguof0GBcFxZeCic9ghMo96W5uTWiqP6tLHTD8p0hjzKZotOpsv4HV50svAGrcfAaeM2yv_i-pTknb6htFhwcvGPcGG4aFRHzp1ILAAw7EaDMAZK-nHxh-rDsMBJSABKgl1cy13ZXN0LTIwwwY.m3u8"
+   "link": "http://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1773051747.m3u8"
   },
   {
    "type": "MRTV(SD)",
    "quality": "SD",
-   "link": "https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CpAFd-SDv4KPK84Pgth1nE3LidMdT3gFIoYGokhQzKsOBWVvEiJblbR4XYLbqLRh8wsJV0bfbwSIvPCrFLj9XDgCnB0K5IRrNH57c3biJz_dq_lYv6MCLJF-PtyUmW4fjLPPhwIl_IiFJcZu08ykCorelHrs97WqCCRI8evsUXYstkMj9z52GVq-iuDuJI5KI_5nmvmO11COCcZtydl85TNlpE27EFDOlcu6puiYS1KSGfpwGgiSGU34OlEO2Z-NZ6B-mEsRFqS20O5qFbMkkKXyZQF1JM7Gz9j2uZmZrOKTniWVBbJB42UP5BMPDmqiYMl4oG6ETqIVOC-lQP20giKoB2zytcUEYxeDrfJYe1sYjnlgC0vsCGaFUlUEppU1XfILT1naFnUeb8bznaJtZpsL5Vk1E7ClV4rHbxmb3u5c1usRauuiGZzjeIzvV5Ld4klFdgfE8wEiVQOVGSiKOeaR9Dficd1wkC6PwpjzeVObRaH2akjoXY7jgopQJWrfpZPI4pNN2baZRLf_AOEJqnG0Z_gbrgDmyS9QxWaBNrlFDGlOxlvtsJwM28mHRFmgsev4vlTtiFGf9jIl0NhgekB53G-K9f9n3gctGzMzOUSHTPRZvRg-OfRVgqcb271hP6vLpCZJbK1JdTOQV_95v5wwwqQCHkP2V5VpdNsgZIAnwkezIrNHwc1SQ3PIDxltMQNguDmfXi0pRQgfHjliiFeW2okAS8dqcxwOjxVPiS2avmUU7F1HorELIFtbhgRNFyVxogLeVt7NSA5Tr7jPiLcxTStNxJY3I58PG5qwfYifzmy5SK-s9mkml0wMxJOEtrY-Z5XEEttwQuxhvBUx88IbItegUkEvyWyoKT4SSe2jY7gaDF73h0JvG_hC1mX_1yABKgl1cy13ZXN0LTIwwwY.m3u8"
+   "link": "http://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1773051747.m3u8"
   },
   {
    "type": "Vebo(Vietnam)",
