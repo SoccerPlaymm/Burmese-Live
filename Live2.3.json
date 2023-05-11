@@ -8,22 +8,22 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1683827179-0-0-7beb000368d304fbee2416bd510df449&user_session_id=4c92290458deda4b37ef6b1084d16eb3"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1683827179-0-0-7beb000368d304fbee2416bd510df449&user_session_id=4c92290458deda4b37ef6b1084d16eb3"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-901508_lhd.m3u8?txSecret=71e100b5d3028e259792b158891ef8e5&txTime=645d29fc"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-901508_lsd.m3u8?txSecret=71e100b5d3028e259792b158891ef8e5&txTime=645d29fc"
   },
   {
    "type": "Vebo(Vietnam)",
@@ -41,7 +41,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/SEA_Games_logo.svg/1200px-SEA_Games_logo.svg.png",
     "LeagueName": "Southeast Asian Games",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "live",
     "Time": "6:30 PM"
   },
   {
