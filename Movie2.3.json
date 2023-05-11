@@ -1,5 +1,23 @@
 [
   {
+    "Name":"Butch Cassidy and the Wild Bunch",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-09/6459ea8eb4729.png",
+    "dLink":"http://www.zegomovie.com/Videos/ButchCassidyAndTheWildBunch/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/ButchCassidyAndTheWildBunch/index.m3u8"   
+  },
+ {
+    "Name":"Legacy Peak",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-09/6459e9e65bad8.png",
+    "dLink":"http://www.zegomovie.com/Videos/LegacyPeak/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/LegacyPeak/index.m3u8"   
+  },
+ {
+    "Name":"Detective Dee : Deep Sea Dragon Palace",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-09/6459d9854297b.png",
+    "dLink":"http://www.zegomovie.com/Videos/DeepSeaDragonPalace/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/DeepSeaDragonPalace/index.m3u8"
+  },
+  {
     "Name":"Detective Dee and Plague of Chang’an",
     "Image":"http://zegomovie.com/Uploads/vod/2023-05-07/64577e99bbf52.png",
     "dLink":"http://www.zegomovie.com/Videos/DetectiveDeeandPlagueofChangan/index.m3u8",
