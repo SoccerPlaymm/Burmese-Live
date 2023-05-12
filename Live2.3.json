@@ -17,12 +17,12 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=a37af0ecf6a4f3e8cfdd2a91e585f500&txTime=645ed7d4"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-143449_lsd.m3u8?txSecret=a37af0ecf6a4f3e8cfdd2a91e585f500&txTime=645ed7d4"
   },
   {
    "type": "Vebo(Vietnam)",
@@ -40,7 +40,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.fifplay.com/img/public/bundesliga-logo.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:00 AM"
   },
   {
@@ -61,12 +61,12 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": ""
+   "link": "https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=8e49d2f3b604eb3c1e9ab94d9ae719fa&txTime=645ed810"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-991120_lsd.m3u8?txSecret=8e49d2f3b604eb3c1e9ab94d9ae719fa&txTime=645ed810"
   },
   {
    "type": "Vebo(Vietnam)",
