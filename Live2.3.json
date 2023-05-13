@@ -105,27 +105,22 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=b1e280263e87f5eddc91e3288d270d9b&txTime=645fdad0"
+   "link": "https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=12963cc7b4213bb79bc48358b9ec3eb5&txTime=645fdad0"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "https://sports01.livnvess.com/live/stream-192778_lsd.m3u8?txSecret=b1e280263e87f5eddc91e3288d270d9b&txTime=645fdad0"
+   "link": "https://sports01.livnvess.com/live/stream-106737_lsd.m3u8?txSecret=12963cc7b4213bb79bc48358b9ec3eb5&txTime=645fdad0"
   },
   {
    "type": "Myanmar(HD)",
    "quality": "HD",
    "link": "https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CpIFxjlyV9mH0XULgozde5OnXIrFkhreREzSPqSa_WdUK5JEc7FStRbHTKHcvJyAu055SGhLyRXyPNfEig70qZaqykrj6OD81ovC1nTPEOkxRIhE--SDWLn0tPk9AUOqySVL6OxkotT1ZWiJIIQoEV4Nt7XmclqlejG5QtvZWxSyTI-mkCag37Ul7HaE-jrMZQvick0ltsDZVAG5y3mCTdXQKxTuy4eYwdL0uPf9UiW-JmuhX0uUX_I8HJu8-OFUC8fZGVv7hCM-CtnypyMNrQzSj5m9WnxkD1dZMe60IcbpSIiMQR178SIyhtPD66tyY41vMt8h5Cogheun8FfxegSYee18u_5VrEsRmnFrvZg904dxnfxvvhFBMYupaeRF4ZqC3XjqfRcKmU-W3DjgFHiq_4TAsxkUC8KNQsOfACPyJLC5pllxbwwH7ktvrL2bL6t4lDrJTUD1QdTea2L_FDx0ko5DMh-rfRWlgyyFSttlekBiePwK4T-zXv0NH-Tc0p0sMH2fjvFFfEFwbIDBTU0r6-JPDyLyT7YkpHlkn4AVpnXi0eYvzFwrZcaddyLHLAcf239LMVxekS61MNvVh5AWFyoQxSoog7X1waeR58F8rocWDYyiDzzGGIxS3HEmur84EwGJCu04xfgC_Ror5TntRbpXwzaJ2Loj8PyF_Qw7Jlzk4TuFKW_xgKvRS9gHZFIsbMb1b7DbGTk4ujlZsd4-nZCaJiU70Y4Ns8RWM8dU26I3xnq3oQyFIO7C8-8Tu96ZoYgVpPkIsQSTVltaV-_7Bgck5pI6OEGb2buP30RgVRztt-mbH7YXpixX1u1oREuSwjduB2wudeb9KZfavPgxyneID9Z-TTno2slhDqYT54r8IxoMikgU23C-cHf7GvsMIAEqCXVzLXdlc3QtMjDGBg.m3u8"
   },
-
   {
-
    "type": "Myanmar(HD-2)",
-
    "quality": "HD",
-
-   "link": "http://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1773051747.m3u8"
-
+   "link": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1773051747.m3u8"
   },
   {
    "type": "Myanmar(SD)",
@@ -159,12 +154,12 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=12963cc7b4213bb79bc48358b9ec3eb5&txTime=645fdad0"
+   "link": "https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=b1e280263e87f5eddc91e3288d270d9b&txTime=645fdad0"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "https://sports01.livnvess.com/live/stream-106737_lsd.m3u8?txSecret=12963cc7b4213bb79bc48358b9ec3eb5&txTime=645fdad0"
+   "link": "https://sports01.livnvess.com/live/stream-192778_lsd.m3u8?txSecret=b1e280263e87f5eddc91e3288d270d9b&txTime=645fdad0"
   },
   {
    "type": "Vebo(Vietnam)",
@@ -193,32 +188,32 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?edge_slice=true&auth_key=1684005500-0-0-b50e5853c8c43b7febc4880c604d9a5c&sub_m3u8=true&user_session_id=70c06ceff3407e3b777f047170f4ad48"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?edge_slice=true&auth_key=1684005500-0-0-b50e5853c8c43b7febc4880c604d9a5c&sub_m3u8=true&user_session_id=70c06ceff3407e3b777f047170f4ad48"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-250874_lhd.m3u8?auth_key=1684005636-0-0-89510efc0b400df93c4de3a002e0a3c3&user_session_id=eaf022b511f9b8cf0f12e31e1b00f845&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-250874_lsd.m3u8?auth_key=1684005636-0-0-89510efc0b400df93c4de3a002e0a3c3&user_session_id=eaf022b511f9b8cf0f12e31e1b00f845&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Vebo(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
   },
   {
    "type": "Vebo(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/D46m1WD/download-65.png",
@@ -226,7 +221,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.fifplay.com/img/public/bundesliga-logo.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:00 PM"
   },
   {
@@ -237,22 +232,22 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-306929_lhd.m3u8?edge_slice=true&auth_key=1684005560-0-0-68412bc47a257b799aaab264dca06930&sub_m3u8=true&user_session_id=1e85c5901c8886dd40bd1e2882177f49"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-306929_lsd.m3u8?edge_slice=true&auth_key=1684005560-0-0-68412bc47a257b799aaab264dca06930&sub_m3u8=true&user_session_id=1e85c5901c8886dd40bd1e2882177f49"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-499490_lhd.m3u8?user_session_id=d4d9bf99f0de5f3d08b09f2367c47303&auth_key=1684005636-0-0-fa20e7affc9caf722c039a0476269a07&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-499490_lsd.m3u8?user_session_id=d4d9bf99f0de5f3d08b09f2367c47303&auth_key=1684005636-0-0-fa20e7affc9caf722c039a0476269a07&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Vebo(Vietnam)",
@@ -270,7 +265,7 @@
     "Hot": "",
     "LeagueImage": "https://www.fifplay.com/img/public/bundesliga-logo.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:00 PM"
   },
   {
