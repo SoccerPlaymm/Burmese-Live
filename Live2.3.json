@@ -7,22 +7,22 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lhd.m3u8?edge_slice=true&user_session_id=fbbf3f1958a294748e8093ea14fd8604&sub_m3u8=true&auth_key=1684197020-0-0-fdfb29eadf02bb09552830335a3dbbef"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lsd.m3u8?edge_slice=true&user_session_id=fbbf3f1958a294748e8093ea14fd8604&sub_m3u8=true&auth_key=1684197020-0-0-fdfb29eadf02bb09552830335a3dbbef"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=fe93dd6644259134c0eb34b874043629&txTime=6462cf25"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-379975_lsd.m3u8?txSecret=fe93dd6644259134c0eb34b874043629&txTime=6462cf25"
   },
   {
    "type": "Vebo(Vietnam)",
@@ -40,7 +40,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -51,22 +51,22 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?edge_slice=true&user_session_id=edc72c67b33361d04a4e6543b16ab3d9&sub_m3u8=true&auth_key=1684197080-0-0-4b6cd272f9b8e566f6b2599828d18cd8"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?edge_slice=true&user_session_id=edc72c67b33361d04a4e6543b16ab3d9&sub_m3u8=true&auth_key=1684197080-0-0-4b6cd272f9b8e566f6b2599828d18cd8"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=2d18e8780da2ac309b81e9712eaf59e1&txTime=6462cf24"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-991121_lsd.m3u8?txSecret=2d18e8780da2ac309b81e9712eaf59e1&txTime=6462cf24"
   },
   {
    "type": "Vebo(Vietnam)",
@@ -95,12 +95,12 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-778499_lhd.m3u8?auth_key=1684197140-0-0-37ed07554e3de946780060e95ed34c4f&edge_slice=true&sub_m3u8=true&user_session_id=8a138cb9a1d155c1ef50381bede859a1"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-778499_lsd.m3u8?auth_key=1684197140-0-0-37ed07554e3de946780060e95ed34c4f&edge_slice=true&sub_m3u8=true&user_session_id=8a138cb9a1d155c1ef50381bede859a1"
   },
   {
    "type": "Soco(Vietnam)",
