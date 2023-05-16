@@ -51,30 +51,40 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1684283720-0-0-84afe548ca23382bd942060b6d40357e&user_session_id=c7ef9a93315e460af44fec6599c7d2ea&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1684283720-0-0-84afe548ca23382bd942060b6d40357e&user_session_id=c7ef9a93315e460af44fec6599c7d2ea&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991124_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684283857-0-0-bc9cf3dc8136dcb5a90b094507f08e37&user_session_id=61916966364d95b3e74b6567a3938873"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991124_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684283857-0-0-bc9cf3dc8136dcb5a90b094507f08e37&user_session_id=61916966364d95b3e74b6567a3938873"
   },
   {
    "type": "Vebo(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo(Vietnam)",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
+  },
+  {
+   "type": "English",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "English",
    "quality": "SD",
    "link": "0"
   }
@@ -84,7 +94,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png",
     "LeagueName": "Champions League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
