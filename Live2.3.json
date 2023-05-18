@@ -25,14 +25,14 @@
    "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-250874_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=95bbf69d628c2ebb767926410287e398&auth_key=1684448917-0-0-c909a0439a73d3203d8d3929794fb1ea"
   },
   {
-   "type": "Vebo(Vietnam)",
+   "type": "English",
    "quality": "HD",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/hd-en-4wyrn4ho78w8q86/playlist.m3u8"
   },
   {
-   "type": "Vebo(Vietnam)",
+   "type": "English",
    "quality": "SD",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/sd-4wyrn4ho78w8q86/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/McsHxxG/download-4.png",
@@ -105,22 +105,22 @@
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": ""
+   "link": "https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=3a9de706dc5e1706fa25d6a70fc5e59a&txTime=6466c9f9"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=3a9de706dc5e1706fa25d6a70fc5e59a&txTime=6466c9f9https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=3a9de706dc5e1706fa25d6a70fc5e59a&txTime=6466c9f9"
   },
   {
-   "type": "Vebo(Vietnam)",
+   "type": "English",
    "quality": "HD",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/hd-en-l7oqdeh8z55dr51/playlist.m3u8"
   },
   {
-   "type": "Vebo(Vietnam)",
+   "type": "English",
    "quality": "SD",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8z55dr51/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/DzBDBrj/download-25.png",
