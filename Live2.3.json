@@ -301,7 +301,7 @@
   {
    "type": "English",
    "quality": "HD",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/sd-jw2r09h6pln2rz8/playlist.m3u8"
   },
   {
    "type": "English",
@@ -325,22 +325,22 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-797853_lhd.m3u8?auth_key=1684702461-0-0-a5519c91866eb62b98439e0031b7b98a&edge_slice=true&sub_m3u8=true&user_session_id=5e03de76c8093703fcc47fb86ff01991"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-797853_lsd.m3u8?auth_key=1684702461-0-0-a5519c91866eb62b98439e0031b7b98a&edge_slice=true&sub_m3u8=true&user_session_id=5e03de76c8093703fcc47fb86ff01991"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=8869ea92950cc2cc5a6896fd6e844bdd&txTime=646a8549"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-115447_lsd.m3u8?txSecret=8869ea92950cc2cc5a6896fd6e844bdd&txTime=646a8549"
   },
   {
    "type": "Vebo(Vietnam)",
@@ -358,7 +358,7 @@
     "Hot": "",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/0b222ee18016b5ad1678262db6487812.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:35 PM"
   },
   {
