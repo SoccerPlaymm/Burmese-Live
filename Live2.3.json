@@ -51,22 +51,22 @@
   {
    "type": "YYZB(China)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-716108_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=a98ffd08a85b6ecdebfedf6754b7e730&auth_key=1684687641-0-0-46501525c4b7eaed7e26d6b07264b9b8"
   },
   {
    "type": "YYZB(China)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-716108_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=a98ffd08a85b6ecdebfedf6754b7e730&auth_key=1684687641-0-0-46501525c4b7eaed7e26d6b07264b9b8"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "HD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991116_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684687657-0-0-454594a135926bfa618911615585326a&user_session_id=30561cd22562de28386f790864e23f72"
   },
   {
    "type": "Soco(Vietnam)",
    "quality": "SD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991116_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684687657-0-0-454594a135926bfa618911615585326a&user_session_id=30561cd22562de28386f790864e23f72"
   },
   {
    "type": "Vebo(Vietnam)",
@@ -84,7 +84,7 @@
     "Hot": "",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/0b222ee18016b5ad1678262db6487812.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "5:30 PM"
   },
   {
