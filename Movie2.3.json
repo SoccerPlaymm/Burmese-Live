@@ -1,5 +1,23 @@
 [
   {
+    "Name":"The Nutcracker and The Magic Flute",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-20/646897848d0f8.png",
+    "dLink":"http://www.zegomovie.com/Videos/Thenutcrackerandthemagicflute/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Thenutcrackerandthemagicflute/index.m3u8"   
+  },
+ {
+    "Name":"The Aristo Cats",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-15/6461b336095a3.png",
+    "dLink":"http://www.zegomovie.com/Videos/TheAristoCats/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/TheAristoCats/index.m3u8"   
+  },
+ {
+    "Name":"The Great Mouse Detective",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-04/645387f322e60.png",
+    "dLink":"http://www.zegomovie.com/Videos/TheGreatMouseDetective/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/TheGreatMouseDetective/index.m3u8"
+  },
+  {
     "Name":"Butch Cassidy and the Wild Bunch",
     "Image":"http://zegomovie.com/Uploads/vod/2023-05-09/6459ea8eb4729.png",
     "dLink":"http://www.zegomovie.com/Videos/ButchCassidyAndTheWildBunch/index.m3u8",
