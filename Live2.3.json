@@ -139,30 +139,40 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?auth_key=1684975281-0-0-8369db2e76b86997570471dcceee766d&edge_slice=true&sub_m3u8=true&user_session_id=57d02d535dc7d243028690c90352a815"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?auth_key=1684975281-0-0-8369db2e76b86997570471dcceee766d&edge_slice=true&sub_m3u8=true&user_session_id=57d02d535dc7d243028690c90352a815"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991129_lhd.m3u8?auth_key=1684975417-0-0-ecd6ccdea4a4b84df0f306ff4238b78e&edge_slice=true&user_session_id=fb7814871b86b96eaa6bc21ff17ea3c1&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991129_lsd.m3u8?auth_key=1684975417-0-0-ecd6ccdea4a4b84df0f306ff4238b78e&edge_slice=true&user_session_id=fb7814871b86b96eaa6bc21ff17ea3c1&sub_m3u8=true"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8"
+  },
+  {
+   "type": "English",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "English",
    "quality": "SD",
    "link": "0"
   }
@@ -172,7 +182,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
@@ -183,32 +193,32 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?user_session_id=212b42676741235f9edc4a16658fca7f&edge_slice=true&sub_m3u8=true&auth_key=1684975341-0-0-a60d24c5c2b8a4e76c933acbbaf42fd5"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?user_session_id=212b42676741235f9edc4a16658fca7f&edge_slice=true&sub_m3u8=true&auth_key=1684975341-0-0-a60d24c5c2b8a4e76c933acbbaf42fd5"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=6d472f44508a879bf34a1d8b2bbfcc05&txTime=646eaf39"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-118582_lsd.m3u8?txSecret=6d472f44508a879bf34a1d8b2bbfcc05&txTime=646eaf39"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/cuonSD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/Sc8jcxx/download-53.png",
@@ -216,7 +226,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/640px-Coppa_Italia_-_Logo_2019.svg.png",
     "LeagueName": "Coppa Italia - Final",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
