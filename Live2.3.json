@@ -169,12 +169,12 @@
   {
    "type": "English",
    "quality": "HD",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/hd-en-4wyrn4ho789wq86/playlist.m3u8"
   },
   {
    "type": "English",
    "quality": "SD",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/sd-4wyrn4ho789wq86/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/RBH2X6r/download-13.png",
@@ -237,22 +237,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-698583_lhd.m3u8?auth_key=1684975701-0-0-7d7796882cb836ade82832d7a1e081cf&edge_slice=true&sub_m3u8=true&user_session_id=064f07521fa189cff53828d5c2e1dc32"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-698583_lsd.m3u8?auth_key=1684975701-0-0-7d7796882cb836ade82832d7a1e081cf&edge_slice=true&sub_m3u8=true&user_session_id=064f07521fa189cff53828d5c2e1dc32"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-348199_lhd.m3u8?sub_m3u8=true&auth_key=1684975897-0-0-761d5b94a7bf711623d93e33316c8a63&user_session_id=16f023fd538e6c7a3fee1749336af77a&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-348199_lsd.m3u8?sub_m3u8=true&auth_key=1684975897-0-0-761d5b94a7bf711623d93e33316c8a63&user_session_id=16f023fd538e6c7a3fee1749336af77a&edge_slice=true"
   },
   {
    "type": "Vebo",
@@ -270,7 +270,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/7657c838a66d3ca33cccabbc1526f853.png",
     "LeagueName": "Laliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   },
   {
@@ -281,22 +281,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1684975701-0-0-e880f577e52c156dabf5217d7c25fe1f&edge_slice=true&sub_m3u8=true&user_session_id=725177301edbcb0c58a5dd46682d5949"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1684975701-0-0-e880f577e52c156dabf5217d7c25fe1f&edge_slice=true&sub_m3u8=true&user_session_id=725177301edbcb0c58a5dd46682d5949"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=fa4814b7147f7d3c0931ee02285de9a8&txTime=646eb0dd"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-113906_lsd.m3u8?txSecret=fa4814b7147f7d3c0931ee02285de9a8&txTime=646eb0dd"
   },
   {
    "type": "Vebo",
@@ -314,7 +314,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/7657c838a66d3ca33cccabbc1526f853.png",
     "LeagueName": "Laliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   }
 ]
