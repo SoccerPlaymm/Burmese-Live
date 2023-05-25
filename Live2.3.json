@@ -7,22 +7,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-530471_lhd.m3u8?user_session_id=d64cf6ef29ddd929a0590a0586db5162&auth_key=1685056341-0-0-cbe78aa66c9eab347e2612aa96e5641c&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-530471_lhd.m3u8?user_session_id=d64cf6ef29ddd929a0590a0586db5162&auth_key=1685056341-0-0-cbe78aa66c9eab347e2612aa96e5641c&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=aaed9eb782dab84be3dab9cfa0003fb2&txTime=646feba2"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=aaed9eb782dab84be3dab9cfa0003fb2&txTime=646feba2"
   },
   {
    "type": "Vebo",
@@ -40,7 +40,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/7657c838a66d3ca33cccabbc1526f853.png",
     "LeagueName": "Laliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:00 AM"
   },
   {
