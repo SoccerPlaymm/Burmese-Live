@@ -51,30 +51,40 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1685061381-0-0-23edcfa5cc5011ecc0b529ba9933cea8&user_session_id=f1b1c9db75f8bcffa238383f36cfc8d2&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1685061381-0-0-23edcfa5cc5011ecc0b529ba9933cea8&user_session_id=f1b1c9db75f8bcffa238383f36cfc8d2&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=0af76bb2b9dd797cf6efc861af6e273a&txTime=646ffe62"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-991121_lsd.m3u8?txSecret=0af76bb2b9dd797cf6efc861af6e273a&txTime=646ffe62"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
+   "quality": "SD",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
+  },
+  {
+   "type": "English",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "English",
    "quality": "SD",
    "link": "0"
   }
@@ -95,32 +105,32 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lhd.m3u8?user_session_id=8d9ca0857e07e2060ca79df152fc7ca4&auth_key=1685061381-0-0-f478e845b5e23af154e24abbd32b0ef2&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lsd.m3u8?user_session_id=8d9ca0857e07e2060ca79df152fc7ca4&auth_key=1685061381-0-0-f478e845b5e23af154e24abbd32b0ef2&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=94abcb4ce5680b8b9c3759c8cbf2baf2&txTime=646ffe9e"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-991117_lsd.m3u8?txSecret=94abcb4ce5680b8b9c3759c8cbf2baf2&txTime=646ffe9e"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may9/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may9/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/mTH2ByB/download-28.png",
