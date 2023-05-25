@@ -1,5 +1,23 @@
 [
   {
+    "Name":"The Ghost Station",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-24/646d92b0b21b7.png",
+    "dLink":"http://www.zegomovie.com/Videos/TheGhostStation/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/TheGhostStation/index.m3u8"   
+  },
+ {
+    "Name":"Gangnam Zombies",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-03-08/64084e1c2899e.png",
+    "dLink":"http://www.zegomovie.com/Videos/GangnamZombies/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/GangnamZombies/index.m3u8"   
+  },
+ {
+    "Name":"A Single Rider",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-03-08/64084a753e1c6.png",
+    "dLink":"http://www.zegomovie.com/Videos/ASingleRider/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/ASingleRider/index.m3u8"
+  },
+  {
     "Name":"Kathal",
     "Image":"http://zegomovie.com/Uploads/vod/2023-05-22/646aed73c637a.png",
     "dLink":"http://www.zegomovie.com/Videos/Kathal/index.m3u8",
