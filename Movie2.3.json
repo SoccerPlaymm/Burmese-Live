@@ -1,4 +1,22 @@
 [
+ {
+    "Name":"Software Blues",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-04-07/642fe4b7bf680.png",
+    "dLink":"http://www.zegomovie.com/Videos/BluesTel/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/BluesTel/index.m3u8"   
+  },
+ {
+    "Name":"Pakka Commercial",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-04-06/642ea0a987b3d.png",
+    "dLink":"http://www.zegomovie.com/Videos/PakkaCommercial/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/PakkaCommercial/index.m3u8"   
+  },
+ {
+    "Name":"Dear Friend",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-03-31/64265894c5d06.png",
+    "dLink":"http://www.zegomovie.com/Videos/DearFriend/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/DearFriend/index.m3u8"
+  },
   {
     "Name":"John Wick",
     "Image":"http://zegomovie.com/Uploads/vod/2019-05-24/5ce7d49f07493.jpg",
