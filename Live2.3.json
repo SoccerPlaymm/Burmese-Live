@@ -447,22 +447,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-797853_lhd.m3u8?auth_key=1685310862-0-0-a5c03dd48030277c940bfbd90760fddf&user_session_id=02d40a7af15294befe8e5a2f215bee7f&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-797853_lsd.m3u8?auth_key=1685310862-0-0-a5c03dd48030277c940bfbd90760fddf&user_session_id=02d40a7af15294befe8e5a2f215bee7f&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-348199_lsd.m3u8?txSecret=b947c0af0dbccf1c1d8b79dc3306628f&txTime=6473cd9e"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-348199_lsd.m3u8?txSecret=b947c0af0dbccf1c1d8b79dc3306628f&txTime=6473cd9e"
   },
   {
    "type": "Vebo",
@@ -480,7 +480,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   },
   {
