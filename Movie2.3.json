@@ -1,5 +1,23 @@
 [
  {
+    "Name":"Discontinued",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-27/64718f5dc0fcf.png",
+    "dLink":"http://www.zegomovie.com/Videos/Discontinued/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Discontinued/index.m3u8"   
+  },
+ {
+    "Name":"Come Out Fighting",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-24/646d8adc653ae.png",
+    "dLink":"http://www.zegomovie.com/Videos/ComeOutFighting/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/ComeOutFighting/index.m3u8"   
+  },
+ {
+    "Name":"Moving On",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-20/64687eb580172.png",
+    "dLink":"http://www.zegomovie.com/Videos/MovingOn/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/MovingOn/index.m3u8"
+  },
+ {
     "Name":"Software Blues",
     "Image":"http://zegomovie.com/Uploads/vod/2023-04-07/642fe4b7bf680.png",
     "dLink":"http://www.zegomovie.com/Videos/BluesTel/index.m3u8",
