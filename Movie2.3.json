@@ -1,5 +1,23 @@
 [
  {
+    "Name":"Mummies",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-03-30/642550b69721a.png",
+    "dLink":"http://www.zegomovie.com/Videos/Mummies/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Mummies/index.m3u8"   
+  },
+ {
+    "Name":"The Magician’s Elephant",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-03-19/6416df27e24f1.png",
+    "dLink":"http://www.zegomovie.com/Videos/TheMagiciansElephant/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/TheMagiciansElephant/index.m3u8"   
+  },
+ {
+    "Name":"Barbie: Skipper and the Big Babysittig Adventure",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-03-14/64104a975e702.png",
+    "dLink":"http://www.zegomovie.com/Videos/BarbieSkipperandtheBigBabysittingAdventure/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/BarbieSkipperandtheBigBabysittingAdventure/index.m3u8"
+  },
+ {
     "Name":"Discontinued",
     "Image":"http://zegomovie.com/Uploads/vod/2023-05-27/64718f5dc0fcf.png",
     "dLink":"http://www.zegomovie.com/Videos/Discontinued/index.m3u8",
