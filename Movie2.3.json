@@ -1,5 +1,23 @@
 [
  {
+    "Name":"Flickering Lights",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-29/64748069a680f.png",
+    "dLink":"http://www.zegomovie.com/Videos/FlickeringLight/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/FlickeringLight/index.m3u8"   
+  },
+ {
+    "Name":"Yaanai Mugathaan",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-29/64747eaccb1a8.png",
+    "dLink":"http://www.zegomovie.com/Videos/YaanaiMugathaan/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/YaanaiMugathaan/index.m3u8"   
+  },
+ {
+    "Name":"Big George Foreman",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-29/64747e03b6f46.png",
+    "dLink":"http://www.zegomovie.com/Videos/BigGeorgeForeman/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/BigGeorgeForeman/index.m3u8"
+  },
+ {
     "Name":"Mummies",
     "Image":"http://zegomovie.com/Uploads/vod/2023-03-30/642550b69721a.png",
     "dLink":"http://www.zegomovie.com/Videos/Mummies/index.m3u8",
