@@ -7,22 +7,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lhd.m3u8?edge_slice=true&user_session_id=f0894b72a6970241186d0e8015323b42&auth_key=1685570661-0-0-fa2ef94c4fea12263eda28fc9a1f165a&sub_m3u8=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lsd.m3u8?edge_slice=true&user_session_id=f0894b72a6970241186d0e8015323b42&auth_key=1685570661-0-0-fa2ef94c4fea12263eda28fc9a1f165a&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=8b36e6eaa07dacadd5687b0a502d35be&txTime=6477c4b2"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-113906_lsd.m3u8?txSecret=8b36e6eaa07dacadd5687b0a502d35be&txTime=6477c4b2"
   },
   {
    "type": "Vebo",
@@ -40,7 +40,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Roshn_Saudi_League_Logo.svg/1200px-Roshn_Saudi_League_Logo.svg.png",
     "LeagueName": "Saudi Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:30 AM"
   },
   {
@@ -51,22 +51,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?auth_key=1685570661-0-0-81aaec523b9220665b9865f8a563c653&edge_slice=true&user_session_id=e6666f3fdd9995bf13830814c638a446&sub_m3u8=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?auth_key=1685570661-0-0-81aaec523b9220665b9865f8a563c653&edge_slice=true&user_session_id=e6666f3fdd9995bf13830814c638a446&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1685570738-0-0-14e11d047b329ca052d8b99764a47cf3&sub_m3u8=true&edge_slice=true&user_session_id=cf1334e2fad2c9412390a2537145c928"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991140_lsd.m3u8?auth_key=1685570738-0-0-14e11d047b329ca052d8b99764a47cf3&sub_m3u8=true&edge_slice=true&user_session_id=cf1334e2fad2c9412390a2537145c928"
   },
   {
    "type": "Vebo",
@@ -84,7 +84,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/ea89a0d31d734ff808be000f0fca40d6.png",
     "LeagueName": "Europa League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   }
 ]
