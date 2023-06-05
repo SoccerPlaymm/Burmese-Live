@@ -1,5 +1,23 @@
 [
  {
+    "Name":"Reality",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-06-02/64797c3b4807a.png",
+    "dLink":"http://www.zegomovie.com/Videos/Reality/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Reality/index.m3u8"   
+  },
+ {
+    "Name":"The Swan Princess: A Fairytale Is Born",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-06-01/64782a6ab3ae9.png",
+    "dLink":"http://www.zegomovie.com/Videos/TheSwanPrincessAFairytaleIsBorn/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/TheSwanPrincessAFairytaleIsBorn/index.m3u8"   
+  },
+ {
+    "Name":"Jethica",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-06-01/647809aa5fceb.png",
+    "dLink":"http://www.zegomovie.com/Videos/Jethica/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Jethica/index.m3u8"
+  },
+ {
     "Name":"Flickering Lights",
     "Image":"http://zegomovie.com/Uploads/vod/2023-05-29/64748069a680f.png",
     "dLink":"http://www.zegomovie.com/Videos/FlickeringLight/index.m3u8",
