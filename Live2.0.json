@@ -7,22 +7,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?edge_slice=true&auth_key=1686430822-0-0-778aa2470fbdb394830387b76db43a28&sub_m3u8=true&user_session_id=8601c8ce5e73a41461ca98d223c3ed10"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?edge_slice=true&auth_key=1686430822-0-0-778aa2470fbdb394830387b76db43a28&sub_m3u8=true&user_session_id=8601c8ce5e73a41461ca98d223c3ed10"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=451833ec551ddacfb8c85dd59616f934&txTime=6484e3c7"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-991118_lsd.m3u8?txSecret=451833ec551ddacfb8c85dd59616f934&txTime=6484e3c7"
   },
   {
    "type": "Vebo",
@@ -40,7 +40,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png",
     "LeagueName": "Champions League - Final",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   }
 ]
