@@ -17,22 +17,22 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=968dc21333cc0ac80454bdbec7c83d83&txTime=6486487b"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-158814_lsd.m3u8?txSecret=968dc21333cc0ac80454bdbec7c83d83&txTime=6486487b"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=968dc21333cc0ac80454bdbec7c83d83&txTime=6486487b"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://sports01.livnvess.com/live/stream-158814_lsd.m3u8?txSecret=968dc21333cc0ac80454bdbec7c83d83&txTime=6486487b"
   }
              ],
     "HomeImage": "https://i.ibb.co/8bWWMhd/download-52.png",
@@ -40,7 +40,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A Relegation - Final",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   }
 ]
