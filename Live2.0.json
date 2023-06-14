@@ -5,24 +5,24 @@
     "Date": "June 15",
     "Link": [
   {
-   "type": "China",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "0"
-  },
-  {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-991136_lhd.m3u8?sub_m3u8=true&auth_key=1686783280-0-0-d5a4789985126a5b0b583b7bb6315c50&edge_slice=true&user_session_id=c8e14be5a52630cfccf7801d01995a91"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-991136_lsd.m3u8?sub_m3u8=true&auth_key=1686783280-0-0-d5a4789985126a5b0b583b7bb6315c50&edge_slice=true&user_session_id=c8e14be5a52630cfccf7801d01995a91"
+  },
+  {
+   "type": "Soco 2",
+   "quality": "HD",
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1686783160-0-0-de9e398b8ed20dc14501686582f8a9f1&sub_m3u8=true&user_session_id=6ac13aaec5bd87c81b94b74f9f714b59&edge_slice=true"
+  },
+  {
+   "type": "Soco 2",
+   "quality": "SD",
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?auth_key=1686783160-0-0-de9e398b8ed20dc14501686582f8a9f1&sub_m3u8=true&user_session_id=6ac13aaec5bd87c81b94b74f9f714b59&edge_slice=true"
   },
   {
    "type": "Vebo",
@@ -40,7 +40,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/UEFA_Nations_League.svg/1200px-UEFA_Nations_League.svg.png",
     "LeagueName": "UEFA Nations League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
