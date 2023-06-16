@@ -5,24 +5,24 @@
     "Date": "June 16",
     "Link": [
   {
-   "type": "China",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "0"
-  },
-  {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1686932500-0-0-180ccc91e236195ae9096cfbbe4e0185&sub_m3u8=true&user_session_id=6dd99906cff53fdb5ab5ce4c68a1df93&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?auth_key=1686932500-0-0-180ccc91e236195ae9096cfbbe4e0185&sub_m3u8=true&user_session_id=6dd99906cff53fdb5ab5ce4c68a1df93&edge_slice=true"
+  },
+  {
+   "type": "Soco 2",
+   "quality": "HD",
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-206851_lhd.m3u8?user_session_id=32cb00d609ee8b85dd2e2bf0aaf39ac2&sub_m3u8=true&edge_slice=true&auth_key=1686932080-0-0-1dc003807711a84395d072a5cb34eba9"
+  },
+  {
+   "type": "Soco 2",
+   "quality": "SD",
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-206851_lsd.m3u8?user_session_id=32cb00d609ee8b85dd2e2bf0aaf39ac2&sub_m3u8=true&edge_slice=true&auth_key=1686932080-0-0-1dc003807711a84395d072a5cb34eba9"
   },
   {
    "type": "Vebo",
@@ -40,7 +40,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
     "LeagueName": "Friendly",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "5:00 PM"
   },
   {
@@ -61,12 +61,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-380460_lhd.m3u8?edge_slice=true&auth_key=1686932200-0-0-c77a99ba15184cce63aa6d1dd684a7c0&sub_m3u8=true&user_session_id=2459b79753365c3c1c35983f7a524597"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-380460_lsd.m3u8?edge_slice=true&auth_key=1686932200-0-0-c77a99ba15184cce63aa6d1dd684a7c0&sub_m3u8=true&user_session_id=2459b79753365c3c1c35983f7a524597"
   },
   {
    "type": "Vebo",
