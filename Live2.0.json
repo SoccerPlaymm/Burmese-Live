@@ -40,7 +40,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/800px-UEFA_Euro_2024_Logo.svg.png",
     "LeagueName": "EURO Qualification",
-    "LiveLive": "Live",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -84,7 +84,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/800px-UEFA_Euro_2024_Logo.svg.png",
     "LeagueName": "EURO Qualification",
-    "LiveLive": "Live",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -128,7 +128,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/800px-UEFA_Euro_2024_Logo.svg.png",
     "LeagueName": "EURO Qualification",
-    "LiveLive": "Live",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -172,7 +172,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/800px-UEFA_Euro_2024_Logo.svg.png",
     "LeagueName": "EURO Qualification",
-    "LiveLive": "Live",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -216,7 +216,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/800px-UEFA_Euro_2024_Logo.svg.png",
     "LeagueName": "EURO Qualification",
-    "LiveLive": "Live",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -260,7 +260,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/800px-UEFA_Euro_2024_Logo.svg.png",
     "LeagueName": "EURO Qualification",
-    "LiveLive": "Live",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -304,7 +304,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
     "LeagueName": "Friendly",
-    "LiveLive": "Upcoming",
+    "LiveUpcoming": "Upcoming",
     "Time": "2:00 AM"
   }
 ]
