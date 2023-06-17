@@ -17,22 +17,22 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991130_lhd.m3u8?edge_slice=true&user_session_id=b7a3924680739742abe1c245276337f1&sub_m3u8=true&auth_key=1687027180-0-0-3ccd195b072c552cc9909fa3900a6ba0"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991130_lsd.m3u8?edge_slice=true&user_session_id=b7a3924680739742abe1c245276337f1&sub_m3u8=true&auth_key=1687027180-0-0-3ccd195b072c552cc9909fa3900a6ba0"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may11/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may11/playlist.m3u8"
   }
              ],
     "HomeImage": "data:image/png;base64,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",
@@ -40,7 +40,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/800px-UEFA_Euro_2024_Logo.svg.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
   {
@@ -61,22 +61,22 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?edge_slice=true&auth_key=1687027240-0-0-351b59777f57ee5d33a4b1805ca28a5a&sub_m3u8=true&user_session_id=29841d6a3cd4c934364299faef6fa109"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-118582_lsd.m3u8?edge_slice=true&auth_key=1687027240-0-0-351b59777f57ee5d33a4b1805ca28a5a&sub_m3u8=true&user_session_id=29841d6a3cd4c934364299faef6fa109"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8"
   }
              ],
     "HomeImage": "data:image/png;base64,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",
@@ -84,7 +84,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/800px-UEFA_Euro_2024_Logo.svg.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
   {
