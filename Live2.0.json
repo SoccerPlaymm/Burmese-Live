@@ -7,22 +7,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-380460_lhd.m3u8?sub_m3u8=true&auth_key=1687282742-0-0-f2560f5de8ed2fdd5ac47f985efdc619&user_session_id=b413f0bb3d39e066cc9c444c8afe8dd5&edge_slice=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-380460_lsd.m3u8?sub_m3u8=true&auth_key=1687282742-0-0-f2560f5de8ed2fdd5ac47f985efdc619&user_session_id=b413f0bb3d39e066cc9c444c8afe8dd5&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?edge_slice=true&auth_key=1687282322-0-0-8da107ff36ab339b8496806c4d6139f3&sub_m3u8=true&user_session_id=1f1154e5c07c518efdd1213ff7071501"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991140_lsd.m3u8?edge_slice=true&auth_key=1687282322-0-0-8da107ff36ab339b8496806c4d6139f3&sub_m3u8=true&user_session_id=1f1154e5c07c518efdd1213ff7071501"
   },
   {
    "type": "Vebo",
@@ -40,7 +40,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
     "LeagueName": "Friendly",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -51,22 +51,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-319191_lhd.m3u8?auth_key=1687283162-0-0-d15a778b24f9f0dc5093ae2a598e3108&user_session_id=4b379e72ae2a5a5eda313f2d6b7a30fb&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-319191_lsd.m3u8?auth_key=1687283162-0-0-d15a778b24f9f0dc5093ae2a598e3108&user_session_id=4b379e72ae2a5a5eda313f2d6b7a30fb&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687282562-0-0-ab437e98b5d7c78ef87d9863a742b88f&edge_slice=true&sub_m3u8=true&user_session_id=1821dee48a03e984a37c3cd4da661f1a"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991130_lsd.m3u8?auth_key=1687282562-0-0-ab437e98b5d7c78ef87d9863a742b88f&edge_slice=true&sub_m3u8=true&user_session_id=1821dee48a03e984a37c3cd4da661f1a"
   },
   {
    "type": "Vebo",
@@ -84,7 +84,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/800px-UEFA_Euro_2024_Logo.svg.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -95,22 +95,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991122_lhd.m3u8?user_session_id=170cc47eeb3ae101f76faa66b793997e&edge_slice=true&auth_key=1687282922-0-0-4a7a3f9c9a896e3a8abf74d319018cdf&sub_m3u8=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991122_lsd.m3u8?user_session_id=170cc47eeb3ae101f76faa66b793997e&edge_slice=true&auth_key=1687282922-0-0-4a7a3f9c9a896e3a8abf74d319018cdf&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1687282562-0-0-ed4eb93f20458487bd2cd20985f230dc&edge_slice=true&sub_m3u8=true&user_session_id=d3c2253fa779d550be555984b225f2bb"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991134_lsd.m3u8?auth_key=1687282562-0-0-ed4eb93f20458487bd2cd20985f230dc&edge_slice=true&sub_m3u8=true&user_session_id=d3c2253fa779d550be555984b225f2bb"
   },
   {
    "type": "Vebo",
@@ -128,7 +128,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/800px-UEFA_Euro_2024_Logo.svg.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -139,22 +139,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1687282982-0-0-ba961b7ef65053573132482630ef04bb&edge_slice=true&user_session_id=dfe6fe09a44be354084b8e57f65071da&sub_m3u8=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991124_lsd.m3u8?auth_key=1687282982-0-0-ba961b7ef65053573132482630ef04bb&edge_slice=true&user_session_id=dfe6fe09a44be354084b8e57f65071da&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991128_lhd.m3u8?user_session_id=d70893c26f10e6fb6904031547b2f29b&auth_key=1687282622-0-0-719ace58b64033394589c435c97c0f2e&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991128_lsd.m3u8?user_session_id=d70893c26f10e6fb6904031547b2f29b&auth_key=1687282622-0-0-719ace58b64033394589c435c97c0f2e&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Vebo",
@@ -172,7 +172,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/800px-UEFA_Euro_2024_Logo.svg.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -183,22 +183,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-400382_lhd.m3u8?auth_key=1687282862-0-0-c283c39969d9e72a7832e58668ceb2ca&edge_slice=true&user_session_id=b7e4f5154410afe778a03cfde84134f9&sub_m3u8=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-400382_lsd.m3u8?auth_key=1687282862-0-0-c283c39969d9e72a7832e58668ceb2ca&edge_slice=true&user_session_id=b7e4f5154410afe778a03cfde84134f9&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-348199_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1687282382-0-0-acf73db449ac300cdfb4f6239669c41f&user_session_id=d761bc01d1aab0821307367f2c262f8e"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-348199_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1687282382-0-0-acf73db449ac300cdfb4f6239669c41f&user_session_id=d761bc01d1aab0821307367f2c262f8e"
   },
   {
    "type": "Vebo",
@@ -216,7 +216,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/800px-UEFA_Euro_2024_Logo.svg.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -237,12 +237,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=fb90cb386791c8e6bf50f740e9ec4771&txTime=649228e2"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-991114_lsd.m3u8?txSecret=fb90cb386791c8e6bf50f740e9ec4771&txTime=649228e2"
   },
   {
    "type": "Vebo",
@@ -260,7 +260,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/800px-UEFA_Euro_2024_Logo.svg.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -271,22 +271,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-499490_lhd.m3u8?sub_m3u8=true&user_session_id=37e2b21d78d601a2261f8ee6c91884af&auth_key=1687282802-0-0-f72b8e0c5eccc4b50a694b29349ade54&edge_slice=true"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-499490_lsd.m3u8?sub_m3u8=true&user_session_id=37e2b21d78d601a2261f8ee6c91884af&auth_key=1687282802-0-0-f72b8e0c5eccc4b50a694b29349ade54&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-344687_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=2e3ad81e0f9c66f7297626058432850d&auth_key=1687282382-0-0-e9da92d47fea6d1008fe1feef0cf9313"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-344687_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=2e3ad81e0f9c66f7297626058432850d&auth_key=1687282382-0-0-e9da92d47fea6d1008fe1feef0cf9313"
   },
   {
    "type": "Vebo",
@@ -304,7 +304,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/800px-UEFA_Euro_2024_Logo.svg.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -315,22 +315,22 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=28e5f4bcda121b0d973758d00303bfd2&txTime=64922bb2"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-434154_lsd.m3u8?txSecret=28e5f4bcda121b0d973758d00303bfd2&txTime=64922bb2"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=22862dc99c6b75e36fafa60a2c2bc0d8&txTime=64922a4a"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=22862dc99c6b75e36fafa60a2c2bc0d8&txTime=64922a4a"
   },
   {
    "type": "Vebo",
@@ -348,7 +348,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
     "LeagueName": "Friendly",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   }
 ]
