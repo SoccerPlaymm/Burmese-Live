@@ -1,7 +1,7 @@
 [
   {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5855.png",
-    "AwayName": "Georgia U21",
+    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6638.png",
+    "AwayName": "Germany U21",
     "Date": "June 27",
     "Link": [
   {
@@ -17,35 +17,35 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991136_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1687884124-0-0-d50943b9ee28a649118d0f55d60538ed&user_session_id=85a2af37d7a47aaf818754b7fd4296f1"
+   "link": "0"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991136_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1687884124-0-0-d50943b9ee28a649118d0f55d60538ed&user_session_id=85a2af37d7a47aaf818754b7fd4296f1"
+   "link": "0"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687884484-0-0-e4c7198cafb487f3fe305393192b39ce&sub_m3u8=true&user_session_id=caf3bef2f77d1a4441406449c04b1caa&edge_slice=true"
+   "link": "0"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991118_lsd.m3u8?auth_key=1687884484-0-0-e4c7198cafb487f3fe305393192b39ce&sub_m3u8=true&user_session_id=caf3bef2f77d1a4441406449c04b1caa&edge_slice=true"
+   "link": "0"
   }
              ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6635.png",
-    "HomeName": "Netherlands U21",
+    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5846.png",
+    "HomeName": "England U21",
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png",
-    "LeagueName": "EURO U21 - Grp.A",
+    "LeagueName": "EURO U21 - Grp.C",
     "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   },
   {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8506.png",
-    "AwayName": "Belgium U21",
+    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5833.png",
+    "AwayName": "Czechia U21",
     "Date": "June 27",
     "Link": [
   {
@@ -61,29 +61,29 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "https://pull01.rrwes.live/live/stream-171964_lhd.m3u8?txSecret=7ad9e333d47e1bca375e2b11f06e029a&txTime=649b57e8"
+   "link": "0"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "https://pull01.rrwes.live/live/stream-171964_lsd.m3u8?txSecret=7ad9e333d47e1bca375e2b11f06e029a&txTime=649b57e8"
+   "link": "0"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-105723_lhd.m3u8?user_session_id=1ae46fc8064a52419f3fadbed0f7d9d4&sub_m3u8=true&auth_key=1687884484-0-0-1e4e5526e3663a1fc019f244eff33c5a&edge_slice=true"
+   "link": "0"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-105723_lsd.m3u8?user_session_id=1ae46fc8064a52419f3fadbed0f7d9d4&sub_m3u8=true&auth_key=1687884484-0-0-1e4e5526e3663a1fc019f244eff33c5a&edge_slice=true"
+   "link": "0"
   }
              ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8557.png",
-    "HomeName": "Portugal U21",
+    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5828.png",
+    "HomeName": "Israel U21",
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png",
-    "LeagueName": "EURO U21 - Grp.A",
+    "LeagueName": "EURO U21 - Grp.C",
     "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   }
