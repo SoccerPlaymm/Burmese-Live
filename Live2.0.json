@@ -17,22 +17,22 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1688230985-0-0-41f60e991b24b496dc826278c2982e0a&user_session_id=a890f720e6928eaaa38b77213b7ec5aa&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991134_lsd.m3u8?auth_key=1688230985-0-0-41f60e991b24b496dc826278c2982e0a&user_session_id=a890f720e6928eaaa38b77213b7ec5aa&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1688230985-0-0-28b2a77aa2f124586c3542b1372efa23&user_session_id=d785b27008e3df5464900d64f7f78020&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991138_lsd.m3u8?auth_key=1688230985-0-0-28b2a77aa2f124586c3542b1372efa23&user_session_id=d785b27008e3df5464900d64f7f78020&sub_m3u8=true&edge_slice=true"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5855.png",
