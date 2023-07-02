@@ -1,50 +1,6 @@
 [
   {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8557.png",
-    "AwayName": "Portugal U21",
-    "Date": "July 02",
-    "Link": [
-  {
-   "type": "China",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "0"
-  },
-  {
-   "type": "Soco",
-   "quality": "HD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1688318106-0-0-c5b68af366a07ef3ca9907537e4a255b&edge_slice=true&user_session_id=3eb9394fbf91b1fe4829fa02fcd1e734&sub_m3u8=true"
-  },
-  {
-   "type": "Soco",
-   "quality": "SD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?auth_key=1688318106-0-0-c5b68af366a07ef3ca9907537e4a255b&edge_slice=true&user_session_id=3eb9394fbf91b1fe4829fa02fcd1e734&sub_m3u8=true"
-  },
-  {
-   "type": "Vebo",
-   "quality": "HD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1688318106-0-0-c5b68af366a07ef3ca9907537e4a255b&edge_slice=true&user_session_id=3eb9394fbf91b1fe4829fa02fcd1e734&sub_m3u8=true"
-  },
-  {
-   "type": "Vebo",
-   "quality": "SD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?auth_key=1688318106-0-0-c5b68af366a07ef3ca9907537e4a255b&edge_slice=true&user_session_id=3eb9394fbf91b1fe4829fa02fcd1e734&sub_m3u8=true"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5846.png",
-    "HomeName": "England U21",
-    "Hot": "Hot",
-    "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png",
-    "LeagueName": "EURO U21",
-    "LiveUpcoming": "Live",
-    "Time": "10:30 PM"
-  },
-  {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8557.png",
     "AwayName": "Portugal U19",
     "Date": "July 03",
     "Link": [
@@ -76,7 +32,7 @@
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0
+   "link": "0"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5931.png",
