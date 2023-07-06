@@ -17,22 +17,22 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=9e942e697a21bc3eae911abc769b27fa&txTime=64a7356c"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-991114_lsd.m3u8?txSecret=9e942e697a21bc3eae911abc769b27fa&txTime=64a7356c"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=14e060c507aa749cca6d7e1e0df09d01&txTime=64a7356c"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-348199_lsd.m3u8?txSecret=14e060c507aa749cca6d7e1e0df09d01&txTime=64a7356c"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7738.png",
@@ -40,7 +40,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/UEFA_European_Under-19_Football_Championship_logo.svg/1200px-UEFA_European_Under-19_Football_Championship_logo.svg.png",
     "LeagueName": "EURO U19",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   }
 ]
