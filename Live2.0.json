@@ -1,50 +1,6 @@
 [
   {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5932.png",
-    "AwayName": "Spain U19",
-    "Date": "July 07",
-    "Link": [
-  {
-   "type": "China",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "0"
-  },
-  {
-   "type": "Soco",
-   "quality": "HD",
-   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991136_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1688748368-0-0-72dd083b871e20186a7885687cf9252b&user_session_id=7ec43639ad78c65ef039c21e00bee578"
-  },
-  {
-   "type": "Soco",
-   "quality": "SD",
-   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991136_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1688748368-0-0-72dd083b871e20186a7885687cf9252b&user_session_id=7ec43639ad78c65ef039c21e00bee578"
-  },
-  {
-   "type": "Vebo",
-   "quality": "HD",
-   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991118_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1688748368-0-0-758aab4ae930efbc08a019fad4cca891&user_session_id=2fdf950dd37aa8e13fa4b598264f9f71"
-  },
-  {
-   "type": "Vebo",
-   "quality": "SD",
-   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991118_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1688748368-0-0-758aab4ae930efbc08a019fad4cca891&user_session_id=2fdf950dd37aa8e13fa4b598264f9f71"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5960.png",
-    "HomeName": "Greece U19",
-    "Hot": "Hot",
-    "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/UEFA_European_Under-19_Football_Championship_logo.svg/1200px-UEFA_European_Under-19_Football_Championship_logo.svg.png",
-    "LeagueName": "EURO U19",
-    "LiveUpcoming": "Live",
-    "Time": "10:30 PM"
-  },
-  {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5932.png",
     "AwayName": "Spain U21",
     "Date": "July 08",
     "Link": [
