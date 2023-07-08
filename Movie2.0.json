@@ -1,5 +1,41 @@
 [
 {
+    "Name":"Float",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-06-30/649e8d220a7d7.png",
+    "dLink":"http://www.zegomovie.com/Videos/Float22/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Float22/index.m3u8"   
+  },
+ {
+    "Name":"Eradication",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-06-28/649bbeee044d5.png",
+    "dLink":"http://www.zegomovie.com/Videos/Eradication22/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Eradication22/index.m3u8"   
+  },
+ {
+    "Name":"The Chalice of Blood",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-06-28/649bbc2712bfb.png",
+    "dLink":"http://www.zegomovie.com/Videos/Verimalja22/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Verimalja22/index.m3u8"
+  },
+{
+    "Name":"Extreme Festival",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-07-06/64a681db0ab03.png",
+    "dLink":"http://www.zegomovie.com/Videos/ExtremeFestival/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/ExtremeFestival/index.m3u8"   
+  },
+ {
+    "Name":"I Like Movies",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-07-06/64a680fa53bf5.png",
+    "dLink":"http://www.zegomovie.com/Videos/ILlikeMovies/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/ILlikeMovies/index.m3u8"   
+  },
+ {
+    "Name":"Agilan",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-07-06/64a645d9148ef.png",
+    "dLink":"http://www.zegomovie.com/Videos/Agilanee/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Agilanee/index.m3u8"
+  },
+{
     "Name":"The Sky Coffin in Qinling Town",
     "Image":"https://imgsrc.cineserie.com/2023/06/2428496.jpg?ver=1",
     "dLink":"http://www.zegomovie.com/Videos/QinglingTownCoffin/index.m3u8",
