@@ -17,27 +17,27 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?user_session_id=7ab7621ca286aa679c5f72a1bcfa2d30&edge_slice=true&auth_key=1688920988-0-0-764d3f44d309829e4a0f9a93f86ea3c3&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991140_lsd.m3u8?user_session_id=7ab7621ca286aa679c5f72a1bcfa2d30&edge_slice=true&auth_key=1688920988-0-0-764d3f44d309829e4a0f9a93f86ea3c3&sub_m3u8=true"
   },
   {
    "type": "Vebo",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/phoSD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5929.png",
@@ -45,7 +45,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/UEFA_European_Under-19_Football_Championship_logo.svg/1200px-UEFA_European_Under-19_Football_Championship_logo.svg.png",
     "LeagueName": "EURO U19",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   },
   {
@@ -66,27 +66,27 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1688920928-0-0-dda58ceda0340b46a1e61bd9b1dfafd2&edge_slice=true&user_session_id=10024bd7cc7d2beaa861207e9ff5dffa&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991136_lsd.m3u8?auth_key=1688920928-0-0-dda58ceda0340b46a1e61bd9b1dfafd2&edge_slice=true&user_session_id=10024bd7cc7d2beaa861207e9ff5dffa&sub_m3u8=true"
   },
   {
    "type": "Vebo",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/mySD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7738.png",
@@ -94,7 +94,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/UEFA_European_Under-19_Football_Championship_logo.svg/1200px-UEFA_European_Under-19_Football_Championship_logo.svg.png",
     "LeagueName": "EURO U19",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   }
 ]
