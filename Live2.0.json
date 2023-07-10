@@ -1,8 +1,8 @@
 [
   {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5931.png",
-    "AwayName": "Poland U19",
-    "Date": "July 09",
+    "AwayImage": "https://i.ibb.co/0VRGgbR/download-16.png",
+    "AwayName": "Leeds United",
+    "Date": "July 12",
     "Link": [
   {
    "type": "China",
@@ -17,41 +17,41 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?user_session_id=7ab7621ca286aa679c5f72a1bcfa2d30&edge_slice=true&auth_key=1688920988-0-0-764d3f44d309829e4a0f9a93f86ea3c3&sub_m3u8=true"
+   "link": "0"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991140_lsd.m3u8?user_session_id=7ab7621ca286aa679c5f72a1bcfa2d30&edge_slice=true&auth_key=1688920988-0-0-764d3f44d309829e4a0f9a93f86ea3c3&sub_m3u8=true"
+   "link": "0"
   },
   {
    "type": "Vebo",
    "quality": "FHD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8"
+   "link": "0"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8"
+   "link": "0"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/phoSD/playlist.m3u8"
+   "link": "0"
   }
              ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5929.png",
-    "HomeName": "Italy U19",
+    "HomeImage": "https://i.ibb.co/rZFH50R/download-1.png",
+    "HomeName": "Manchester United",
     "Hot": "Hot",
-    "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/UEFA_European_Under-19_Football_Championship_logo.svg/1200px-UEFA_European_Under-19_Football_Championship_logo.svg.png",
-    "LeagueName": "EURO U19",
-    "LiveUpcoming": "Live",
-    "Time": "10:30 PM"
+    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
+    "LeagueName": "Club Friendly",
+    "LiveUpcoming": "Upcoming",
+    "Time": "9:30 PM"
   },
   {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/401896.png",
-    "AwayName": "Malta U19",
-    "Date": "July 09",
+    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/208110.png",
+    "AwayName": "Westfalia Rhynern",
+    "Date": "July 12",
     "Link": [
   {
    "type": "China",
@@ -66,35 +66,35 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1688920928-0-0-dda58ceda0340b46a1e61bd9b1dfafd2&edge_slice=true&user_session_id=10024bd7cc7d2beaa861207e9ff5dffa&sub_m3u8=true"
+   "link": "0"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991136_lsd.m3u8?auth_key=1688920928-0-0-dda58ceda0340b46a1e61bd9b1dfafd2&edge_slice=true&user_session_id=10024bd7cc7d2beaa861207e9ff5dffa&sub_m3u8=true"
+   "link": "0"
   },
   {
    "type": "Vebo",
    "quality": "FHD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8"
+   "link": "0"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8"
+   "link": "0"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/mySD/playlist.m3u8"
+   "link": "0"
   }
              ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7738.png",
-    "HomeName": "Portugal U19",
+    "HomeImage": "https://i.ibb.co/L6tK4v1/download-77.png",
+    "HomeName": "Dortmund",
     "Hot": "Hot",
-    "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/UEFA_European_Under-19_Football_Championship_logo.svg/1200px-UEFA_European_Under-19_Football_Championship_logo.svg.png",
-    "LeagueName": "EURO U19",
-    "LiveUpcoming": "Live",
+    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
+    "LeagueName": "Club Friendly",
+    "LiveUpcoming": "Upcoming",
     "Time": "10:30 PM"
   }
 ]
