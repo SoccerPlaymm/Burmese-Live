@@ -7,37 +7,37 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-78951465_lhd.flv?auth_key=1689176783-0-0-333b90e94de339685facbc067eca5951"
   },
   {
    "type": "China",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-78951465_lsd.flv?auth_key=1689176783-0-0-333b90e94de339685facbc067eca5951"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991121_lhd.m3u8?user_session_id=5fb03b6be6436070f1fd525fb385ffec&sub_m3u8=true&edge_slice=true&auth_key=1689176229-0-0-8fb9c0336f48948e08f801ce9ef09b96"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991121_lsd.m3u8?user_session_id=5fb03b6be6436070f1fd525fb385ffec&sub_m3u8=true&edge_slice=true&auth_key=1689176229-0-0-8fb9c0336f48948e08f801ce9ef09b96"
   },
   {
    "type": "Vebo",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://1123793335.cdn.vnns.org/may1FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://1123793335.cdn.vnns.org/may1SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/rZFH50R/download-1.png",
@@ -45,7 +45,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
     "LeagueName": "Club Friendly",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
