@@ -66,27 +66,27 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-479379_lhd.m3u8?edge_slice=true&user_session_id=8f1d5a6a2cd84246d1f5c8c21fcff4a1&sub_m3u8=true&auth_key=1689180369-0-0-cdebd40f9b3c2192fa59fc705e26c820"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-479379_lsd.m3u8?edge_slice=true&user_session_id=8f1d5a6a2cd84246d1f5c8c21fcff4a1&sub_m3u8=true&auth_key=1689180369-0-0-cdebd40f9b3c2192fa59fc705e26c820"
   },
   {
    "type": "Vebo",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/L6tK4v1/download-77.png",
@@ -94,7 +94,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
     "LeagueName": "Club Friendly",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   }
 ]
