@@ -49,55 +49,6 @@
     "Time": "6:00 PM"
   },
   {
-    "AwayImage": "https://i.ibb.co/wK5L6HX/download-8.png",
-    "AwayName": "Aston Villa",
-    "Date": "July 15",
-    "Link": [
-  {
-   "type": "China",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "0"
-  },
-  {
-   "type": "Soco",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "Soco",
-   "quality": "SD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "quality": "SD",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10006.png",
-    "HomeName": "Walsall",
-    "Hot": "Hot",
-    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
-    "LeagueName": "Friendly",
-    "LiveUpcoming": "Upcoming",
-    "Time": "6:30 PM"
-  },
-  {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8595.png",
     "AwayName": "Brondby IF",
     "Date": "July 15",
