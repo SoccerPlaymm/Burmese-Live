@@ -1,103 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/L6tK4v1/download-77.png",
-    "AwayName": "Dortmund",
-    "Date": "July 19",
-    "Link": [
-  {
-   "type": "China",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "0"
-  },
-  {
-   "type": "Soco",
-   "quality": "HD",
-   "link": "https://pull.niues.live/live/stream-113906_lhd.m3u8?auth_key=1689784730-0-0-d31743cee77c9527bfffbc7fa2620d99"
-  },
-  {
-   "type": "Soco",
-   "quality": "SD",
-   "link": "https://pull.niues.live/live/stream-113906_lsd.m3u8?auth_key=1689784730-0-0-d31743cee77c9527bfffbc7fa2620d99"
-  },
-  {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "quality": "SD",
-   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/playlist.m3u8"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7782.png",
-    "HomeName": "Oberhausen",
-    "Hot": "Hot",
-    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
-    "LeagueName": "Club Friendly",
-    "LiveUpcoming": "Live",
-    "Time": "10:30 PM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/T12PsPR/download-3.png",
-    "AwayName": "Liverpool",
-    "Date": "July 19",
-    "Link": [
-  {
-   "type": "China",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "0"
-  },
-  {
-   "type": "Soco",
-   "quality": "HD",
-   "link": "https://pull.niues.live/live/stream-991149_lhd.m3u8?auth_key=1689788270-0-0-1fa9da2219161c0009fffed4ab3465fa"
-  },
-  {
-   "type": "Soco",
-   "quality": "SD",
-   "link": "https://pull.niues.live/live/stream-991149_lsd.m3u8?auth_key=1689788270-0-0-1fa9da2219161c0009fffed4ab3465fa"
-  },
-  {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "quality": "SD",
-   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8295.png",
-    "HomeName": "Karlsruher SC",
-    "Hot": "Hot",
-    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
-    "LeagueName": "Club Friendly",
-    "LiveUpcoming": "Live",
-    "Time": "11:00 PM"
-  },
-  {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9841.png",
     "AwayName": "Wrexham",
     "Date": "July 20",
@@ -115,27 +17,27 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-991121_lhd.m3u8?txSecret=a8d5961f27550936de0875993b6a4fc5&txTime=64b8c1da"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-991121_lsd.m3u8?txSecret=a8d5961f27550936de0875993b6a4fc5&txTime=64b8c1da"
   },
   {
    "type": "Vebo",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/MMN9Rw5/download.png",
@@ -143,7 +45,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
     "LeagueName": "Club Friendly",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "6:00 AM"
   },
   {
