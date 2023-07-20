@@ -49,55 +49,6 @@
     "Time": "9:30 PM"
   },
   {
-    "AwayImage": "https://api.sofascore.app/api/v1/team/389187/image",
-    "AwayName": "Anaune",
-    "Date": "July 20",
-    "Link": [
-  {
-   "type": "China",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "0"
-  },
-  {
-   "type": "Soco",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "Soco",
-   "quality": "SD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "quality": "SD",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/rxJP1dw/download-41.png",
-    "HomeName": "Napoli",
-    "Hot": "Hot",
-    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
-    "LeagueName": "Friendly",
-    "LiveUpcoming": "Upcoming",
-    "Time": "10:30 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/cx92kG0/download-79.png",
     "AwayName": "PSG",
     "Date": "July 21",
