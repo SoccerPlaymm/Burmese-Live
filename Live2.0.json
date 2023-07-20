@@ -17,27 +17,27 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-991128_lhd.m3u8?txSecret=dbb99f5383e49a752d964e209e1e9e16&txTime=64b9a406"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-991128_lsd.m3u8?txSecret=dbb99f5383e49a752d964e209e1e9e16&txTime=64b9a406"
   },
   {
    "type": "Vebo",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/YpGpV2N/download-57.png",
@@ -45,7 +45,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
     "LeagueName": "Friendly",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
