@@ -5,24 +5,24 @@
     "Date": "July 21",
     "Link": [
   {
-   "type": "China",
+   "type": "Match Tv",
    "quality": "HD",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/hd-en-23xmvkhp6849qg8/playlist.m3u8"
   },
   {
-   "type": "China",
+   "type": "CCTV",
    "quality": "SD",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/sd-23xmvkhp6849qg8/playlist.m3u8"
   },
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-348199_lhd.m3u8?auth_key=1689928190-0-0-0040b405cc7c7c52c492c2c0eda48225"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-348199_lsd.m3u8?auth_key=1689928190-0-0-0040b405cc7c7c52c492c2c0eda48225"
   },
   {
    "type": "Vebo",
