@@ -49,55 +49,6 @@
     "Time": "4:30 PM"
   },
   {
-    "AwayImage": "https://i.ibb.co/6Xd01b7/download-9.png",
-    "AwayName": "Tottenham",
-    "Date": "July 23",
-    "Link": [
-  {
-   "type": "China",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "China",
-   "quality": "SD",
-   "link": "0"
-  },
-  {
-   "type": "Soco",
-   "quality": "HD",
-   "link": "https://pull01.rrwes.live/live/stream-273067_lhd.m3u8?txSecret=a118e2924ecc74b79cef77a187e7e5ad&txTime=64bd4aa0"
-  },
-  {
-   "type": "Soco",
-   "quality": "SD",
-   "link": "https://pull01.rrwes.live/live/stream-273067_lsd.m3u8?txSecret=a118e2924ecc74b79cef77a187e7e5ad&txTime=64bd4aa0"
-  },
-  {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "quality": "SD",
-   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/V3Rk4tH/download-14.png",
-    "HomeName": "Leicester City",
-    "Hot": "Hot",
-    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
-    "LeagueName": "Club Friendly",
-    "LiveUpcoming": "Live",
-    "Time": "4:30 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/v4DMkVK/download-2.png",
     "AwayName": "Manchester City",
     "Date": "July 23",
