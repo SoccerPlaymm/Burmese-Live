@@ -17,27 +17,27 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991151_lhd.m3u8?auth_key=1690181248-0-0-9693863a8bebf39b62455e4bb9aefbf4&sub_m3u8=true&edge_slice=true&user_session_id=7d4e605b7e0bd21598c1026994fced19"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991151_lsd.m3u8?auth_key=1690181248-0-0-9693863a8bebf39b62455e4bb9aefbf4&sub_m3u8=true&edge_slice=true&user_session_id=7d4e605b7e0bd21598c1026994fced19"
   },
   {
    "type": "Vebo",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/chaSD/playlist.m3u8"
   }
              ],
     "HomeImage": "data:image/png;base64,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",
@@ -45,7 +45,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Logo_of_the_2023_FIFA_Women%27s_World_Cup.svg/1200px-Logo_of_the_2023_FIFA_Women%27s_World_Cup.svg.png",
     "LeagueName": "Women's World Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:30 PM"
   },
   {
