@@ -5,14 +5,14 @@
     "Date": "July 26",
     "Link": [
   {
-   "type": "China",
+   "type": "English",
    "quality": "HD",
-   "link": "0"
+   "link": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8"
   },
   {
-   "type": "China",
+   "type": "English",
    "quality": "SD",
-   "link": "0"
+   "link": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
   },
   {
    "type": "Soco",
