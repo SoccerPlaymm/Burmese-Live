@@ -56,7 +56,7 @@
   {
    "type": "China",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sportsgala.one/hls/hlsch26.m3u8?sportsgala.xyz?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIzIDExOjM3OjA1IEFNJmhhc2hfdmFsdWU9Z0o4M0crSlBCVDRJSmI3OFpaWGxCUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTE3LjE4LjIzMS4yNiZzdHJtX2xlbj01"
   },
   {
    "type": "China",
@@ -66,12 +66,12 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1690374988-0-0-9bf41e6f5af02b512ce2929712d52e39&sub_m3u8=true&edge_slice=true&user_session_id=0d6e2390b81604bb9cd8649a19c074df"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991116_lsd.m3u8?auth_key=1690374988-0-0-9bf41e6f5af02b512ce2929712d52e39&sub_m3u8=true&edge_slice=true&user_session_id=0d6e2390b81604bb9cd8649a19c074df"
   },
   {
    "type": "Vebo",
