@@ -5,9 +5,9 @@
     "Date": "July 26",
     "Link": [
   {
-   "type": "China",
+   "type": "English",
    "quality": "HD",
-   "link": "0"
+   "link": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
   },
   {
    "type": "China",
@@ -17,27 +17,27 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991166_lhd.m3u8?auth_key=1690359328-0-0-813f8686a01ec4d42c133b099cb5f335&edge_slice=true&sub_m3u8=true&user_session_id=b76a42d74fa72ae2f682e23a2117b0a5"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991166_lsd.m3u8?auth_key=1690359328-0-0-813f8686a01ec4d42c133b099cb5f335&edge_slice=true&sub_m3u8=true&user_session_id=b76a42d74fa72ae2f682e23a2117b0a5"
   },
   {
    "type": "Vebo",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8"
   }
              ],
     "HomeImage": "data:image/png;base64,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",
@@ -45,7 +45,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Logo_of_the_2023_FIFA_Women%27s_World_Cup.svg/1200px-Logo_of_the_2023_FIFA_Women%27s_World_Cup.svg.png",
     "LeagueName": "Women's World Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:00 PM"
   },
   {
