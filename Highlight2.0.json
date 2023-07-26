@@ -2,6 +2,54 @@
   {
     "AwayImage": "https://i.ibb.co/v4DMkVK/download-2.png",
     "AwayName": "Manchester City",
+    "Date": "July 26",
+    "Link": [
+  {
+   "type": "Highlight",
+   "quality": "HD",
+   "link": "https://m.topravideo.com:443/UpFiles/2023/7/26/42/259246/ 720p.m3u8"
+  },
+  {
+   "type": "Highlight",
+   "quality": "SD",
+   "link": "https://m.topravideo.com:443/UpFiles/2023/7/26/42/259246/ 360p.m3u8"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/D46m1WD/download-65.png",
+    "HomeName": "Bayern",
+    "Hot": "Hot",
+    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
+    "LeagueName": "Club Friendly",
+    "LiveUpcoming": "‌Live",
+    "Time": "1 - 2"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/6Xd01b7/download-9.png",
+    "AwayName": "Tottenham",
+    "Date": "July 26",
+    "Link": [
+  {
+   "type": "Highlight",
+   "quality": "HD",
+   "link": "https://m.topravideo.com:443/UpFiles/2023/7/26/42/259255/ 720p.m3u8"
+  },
+  {
+   "type": "Highlight",
+   "quality": "SD",
+   "link": "https://m.topravideo.com:443/UpFiles/2023/7/26/42/259255/ 360p.m3u8"
+  }
+             ],
+    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/67366.png",
+    "HomeName": "Lion City Sailors FC",
+    "Hot": "Hot",
+    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
+    "LeagueName": "Club Friendly",
+    "LiveUpcoming": "Live",
+    "Time": "1 - 5"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/v4DMkVK/download-2.png",
+    "AwayName": "Manchester City",
     "Date": "July 23",
     "Link": [
   {
