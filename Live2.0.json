@@ -1,54 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/McsHxxG/download-4.png",
-    "AwayName": "Newcastle",
-    "Date": "July 27",
-    "Link": [
-  {
-   "type": ">> English <<",
-   "quality": "HD",
-   "link": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
-  },
-  {
-   "type": "English",
-   "quality": "SD",
-   "link": "https://179720687.global.cdnfastest.com/live/sd-23xmvkhpe2k9qg8/playlist.m3u8"
-  },
-  {
-   "type": "Soco",
-   "quality": "HD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991147_lhd.m3u8?sub_m3u8=true&auth_key=1690419208-0-0-c4875d256ef9aae164312e3d99411899&user_session_id=a0043808633255b6922ff3969132eba9&edge_slice=true"
-  },
-  {
-   "type": "Soco",
-   "quality": "SD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991147_lsd.m3u8?sub_m3u8=true&auth_key=1690419208-0-0-c4875d256ef9aae164312e3d99411899&user_session_id=a0043808633255b6922ff3969132eba9&edge_slice=true"
-  },
-  {
-   "type": "Vebo",
-   "quality": "FHD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "quality": "SD",
-   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/MMN9Rw5/download.png",
-    "HomeName": "Chelsea",
-    "Hot": "Hot",
-    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
-    "LeagueName": "Club Friendly",
-    "LiveUpcoming": "Live",
-    "Time": "6:45 AM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/N27SsT5/download-35.png",
     "AwayName": "Real Madrid",
     "Date": "July 27",
@@ -152,9 +103,9 @@
     "Date": "July 27",
     "Link": [
   {
-   "type": "China",
+   "type": "English",
    "quality": "HD",
-   "link": "0"
+   "link": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
   },
   {
    "type": "China",
@@ -164,27 +115,27 @@
   {
    "type": "Soco",
    "quality": "HD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991175_lhd.m3u8?edge_slice=true&auth_key=1690427548-0-0-bc61e95cd7ba620a1b0a6734b4af6aab&sub_m3u8=true&user_session_id=6d82d679bebabcc084c2a91fc869de43"
   },
   {
    "type": "Soco",
    "quality": "SD",
-   "link": "0"
+   "link": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991175_lsd.m3u8?edge_slice=true&auth_key=1690427548-0-0-bc61e95cd7ba620a1b0a6734b4af6aab&sub_m3u8=true&user_session_id=6d82d679bebabcc084c2a91fc869de43"
   },
   {
    "type": "Vebo",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/bN749H2/download-12.png",
@@ -192,7 +143,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
     "LeagueName": "Club Friendly",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 AM"
   },
   {
