@@ -191,7 +191,7 @@
     "HomeName": "Leicester City",
     "Hot": "Hot",
     "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
-    "LeagueName": "Club Friendly",
+    "LeagueName": "Club Club Friendly",
     "LiveUpcoming": "Upcoming",
     "Time": "3:30 PM"
   },
@@ -289,8 +289,155 @@
     "HomeName": "Manchester City",
     "Hot": "Hot",
     "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
-    "LeagueName": "Club Friendly",
+    "LeagueName": "Club Club Friendly",
     "LiveUpcoming": "Upcoming",
     "Time": "5:30 PM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/gzBVDwK/download-18.png",
+    "AwayName": "Brentford",
+    "Date": "July 30",
+    "Link": [
+  {
+   "type": "China",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "China",
+   "quality": "360P",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "360P",
+   "link": "0"
+  },
+{
+   "type": "Vebo",
+   "quality": "1080P",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "480P",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/wK5L6HX/download-8.png",
+    "HomeName": "Aston Villa",
+    "Hot": "Hot",
+    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
+    "LeagueName": "Club Friendly",
+    "LiveUpcoming": "Upcoming",
+    "Time": "10:30 PM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/8YZYVzF/download-15.png",
+    "AwayName": "Fulham",
+    "Date": "July 31",
+    "Link": [
+  {
+   "type": "China",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "China",
+   "quality": "360P",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "360P",
+   "link": "0"
+  },
+{
+   "type": "Vebo",
+   "quality": "1080P",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "480P",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/MMN9Rw5/download.png",
+    "HomeName": "Chelsea",
+    "Hot": "Hot",
+    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
+    "LeagueName": "Club Friendly",
+    "LiveUpcoming": "Upcoming",
+    "Time": "1:15 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/L6tK4v1/download-77.png",
+    "AwayName": "Dortmund",
+    "Date": "July 31",
+    "Link": [
+  {
+   "type": "China",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "China",
+   "quality": "360P",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "360P",
+   "link": "0"
+  },
+{
+   "type": "Vebo",
+   "quality": "1080P",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "480P",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/rZFH50R/download-1.png",
+    "HomeName": "Manchester United",
+    "Hot": "Hot",
+    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
+    "LeagueName": "Club Friendly",
+    "LiveUpcoming": "Upcoming",
+    "Time": "7:30 AM"
   }
 ]
