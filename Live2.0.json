@@ -103,9 +103,9 @@
     "Date": "July 30",
     "Link": [
   {
-   "type": "China",
+   "type": "English",
    "quality": "720P",
-   "link": "0"
+   "link": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
   },
   {
    "type": "China",
@@ -115,27 +115,27 @@
   {
    "type": "Soco",
    "quality": "720P",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991173_lhd.m3u8?user_session_id=11c9f4f1d15640cc1524a04d6d9a1188&sub_m3u8=true&auth_key=1690710389-0-0-09bbb9000d54f44e9c1827a2d5155c88&edge_slice=true"
   },
   {
    "type": "Soco",
    "quality": "360P",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991173_lsd.m3u8?user_session_id=11c9f4f1d15640cc1524a04d6d9a1188&sub_m3u8=true&auth_key=1690710389-0-0-09bbb9000d54f44e9c1827a2d5155c88&edge_slice=true"
   },
 {
    "type": "Vebo",
    "quality": "1080P",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "720P",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "480P",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/V3Rk4tH/download-14.png",
@@ -143,7 +143,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
     "LeagueName": "Club Club Friendly",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "3:30 PM"
   },
   {
