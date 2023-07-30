@@ -149,7 +149,7 @@
 },
  { "channelName" : "Mazzima Tv",
    "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTooWsmLRMVcsuV8BG-f4NP0obS9n3NgjZ07A&usqp=CAU",
-   "link" : "https://mizzima-live.b-cdn.net/live2_720.m3u8"
+   "link" : "https://livecdn.rumsport.com/stream/44/index.m3u8?|Referer=https://live-streamfootball.com/index.php"
 },
 { "channelName" : "MRTV-4",
    "image" : "http://static.pyoneplay.com/static/live/li_bg_1571902845.jpg",
