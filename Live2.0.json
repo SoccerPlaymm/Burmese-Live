@@ -1,54 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/NV6t3Ck/download-39.png",
-    "AwayName": "Atletico Madrid",
-    "Date": "July 30",
-    "Link": [
-  {
-   "type": "English",
-   "quality": "720P",
-   "link": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
-  },
-  {
-   "type": "English",
-   "quality": "360P",
-   "link": "https://livecdn.rumsport.com/stream/44/index.m3u8?|Referer=https://live-streamfootball.com/wowhaha.php"
-  },
-  {
-   "type": "Soco",
-   "quality": "720P",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-372601_lhd.m3u8?edge_slice=true&user_session_id=89bb703ed202be8b4baf0e7d8f5e125c&sub_m3u8=true&auth_key=1690716629-0-0-404c0a3b63ab67626582c641d51da140"
-  },
-  {
-   "type": "Soco",
-   "quality": "360P",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-372601_lsd.m3u8?edge_slice=true&user_session_id=89bb703ed202be8b4baf0e7d8f5e125c&sub_m3u8=true&auth_key=1690716629-0-0-404c0a3b63ab67626582c641d51da140"
-  },
-{
-   "type": "Vebo",
-   "quality": "1080P",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "quality": "720P",
-   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "quality": "480P",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/v4DMkVK/download-2.png",
-    "HomeName": "Manchester City",
-    "Hot": "Hot",
-    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
-    "LeagueName": "Club Club Friendly",
-    "LiveUpcoming": "‌Live",
-    "Time": "6:10 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/gzBVDwK/download-18.png",
     "AwayName": "Brentford",
     "Date": "July 30",
