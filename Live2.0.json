@@ -1,103 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/gzBVDwK/download-18.png",
-    "AwayName": "Brentford",
-    "Date": "July 30",
-    "Link": [
-  {
-   "type": "England",
-   "quality": "1080P",
-   "link": "0"
-  },
-  {
-   "type": "English Test",
-   "quality": "720P",
-   "link": "https://livecdn-001.rumsport.com/stream2/9/index.m3u8?|Referer=https://live-streamfootball.com/wowhaha.php"
-  },
-  {
-   "type": "Soco",
-   "quality": "720P",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991185_lhd.m3u8?sub_m3u8=true&user_session_id=ac5351d7da88d438314471ed094faba3&edge_slice=true&auth_key=1690734629-0-0-953b9fc8e7ab5139d4f2cb572d407884"
-  },
-  {
-   "type": "Soco",
-   "quality": "360P",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991185_lsd.m3u8?sub_m3u8=true&user_session_id=ac5351d7da88d438314471ed094faba3&edge_slice=true&auth_key=1690734629-0-0-953b9fc8e7ab5139d4f2cb572d407884"
-  },
-{
-   "type": "Vebo",
-   "quality": "1080P",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "quality": "720P",
-   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "quality": "480P",
-   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/wK5L6HX/download-8.png",
-    "HomeName": "Aston Villa",
-    "Hot": "Hot",
-    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
-    "LeagueName": "Club Friendly",
-    "LiveUpcoming": "Live",
-    "Time": "10:30 PM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/8YZYVzF/download-15.png",
-    "AwayName": "Fulham",
-    "Date": "July 31",
-    "Link": [
-  {
-   "type": "China",
-   "quality": "720P",
-   "link": "0"
-  },
-  {
-   "type": "China",
-   "quality": "360P",
-   "link": "0"
-  },
-  {
-   "type": "Soco",
-   "quality": "720P",
-   "link": "0"
-  },
-  {
-   "type": "Soco",
-   "quality": "360P",
-   "link": "0"
-  },
-{
-   "type": "Vebo",
-   "quality": "1080P",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "quality": "720P",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "quality": "480P",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/MMN9Rw5/download.png",
-    "HomeName": "Chelsea",
-    "Hot": "Hot",
-    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
-    "LeagueName": "Club Friendly",
-    "LiveUpcoming": "Upcoming",
-    "Time": "1:15 AM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/L6tK4v1/download-77.png",
     "AwayName": "Dortmund",
     "Date": "July 31",
@@ -115,27 +17,27 @@
   {
    "type": "Soco",
    "quality": "720P",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991194_lhd.m3u8?edge_slice=true&auth_key=1690767389-0-0-bedecdda1561ba58de904f899320dabe&sub_m3u8=true&user_session_id=b364364c2efe73c3a97895e1a268940e"
   },
   {
    "type": "Soco",
    "quality": "360P",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991194_lsd.m3u8?edge_slice=true&auth_key=1690767389-0-0-bedecdda1561ba58de904f899320dabe&sub_m3u8=true&user_session_id=b364364c2efe73c3a97895e1a268940e"
   },
 {
    "type": "Vebo",
    "quality": "1080P",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "720P",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "480P",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/rZFH50R/download-1.png",
@@ -143,7 +45,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
     "LeagueName": "Club Friendly",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 AM"
   }
 ]
