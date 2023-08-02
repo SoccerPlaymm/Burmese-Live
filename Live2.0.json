@@ -103,9 +103,9 @@
     "Date": "Aug 02",
     "Link": [
   {
-   "type": "China",
+   "type": "English",
    "quality": "720P",
-   "link": "0"
+   "link": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
   },
   {
    "type": "China",
@@ -115,27 +115,27 @@
   {
    "type": "Soco",
    "quality": "720P",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=b9a215f6a01524449d7bb554b888df39&txTime=64ca8fe5"
   },
   {
    "type": "Soco",
    "quality": "360P",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-144861_lsd.m3u8?txSecret=b9a215f6a01524449d7bb554b888df39&txTime=64ca8fe5"
   },
 {
    "type": "Vebo",
    "quality": "1080P",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "720P",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "480P",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/D46m1WD/download-65.png",
@@ -143,7 +143,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
     "LeagueName": "Club Friendly",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "6:00 PM"
   },
   {
