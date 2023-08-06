@@ -49,55 +49,6 @@
     "Time": "7:30 PM"
   },
   {
-    "AwayImage": "https://i.ibb.co/SvkRPGx/download-38.png",
-    "AwayName": "Rayo Vallecano",
-    "Date": "Aug 06",
-    "Link": [
-  {
-   "type": "China",
-   "quality": "720P",
-   "link": "0"
-  },
-  {
-   "type": "China",
-   "quality": "360P",
-   "link": "0"
-  },
-  {
-   "type": "Soco",
-   "quality": "720P",
-   "link": "0"
-  },
-  {
-   "type": "Soco",
-   "quality": "360P",
-   "link": "0"
-  },
-{
-   "type": "Vebo",
-   "quality": "1080P",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "quality": "720P",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "quality": "480P",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/RBH2X6r/download-13.png",
-    "HomeName": "Brighton",
-    "Hot": "Hot",
-    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
-    "LeagueName": "Club Friendly",
-    "LiveUpcoming": "Upcoming",
-    "Time": "8:30 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/09qLvpm/download-60.png",
     "AwayName": "Ajax",
     "Date": "Aug 06",
