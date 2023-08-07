@@ -17,27 +17,27 @@
   {
    "type": "Soco",
    "quality": "720P",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911950_lhd.m3u8?edge_slice=true&auth_key=1691373929-0-0-cce2fc5846c1254466917cf170ac16de&user_session_id=8862cd0459b0bd77977accb985c2b818&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "quality": "360P",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911950_lsd.m3u8?edge_slice=true&auth_key=1691373929-0-0-cce2fc5846c1254466917cf170ac16de&user_session_id=8862cd0459b0bd77977accb985c2b818&sub_m3u8=true"
   },
 {
    "type": "Vebo",
    "quality": "1080P",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "720P",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "quality": "480P",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6399.png",
@@ -45,7 +45,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Leagues_Cup_logo_white-on-black.svg/2560px-Leagues_Cup_logo_white-on-black.svg.png",
     "LeagueName": "Leagues Cup - Round of 32",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:00 AM"
   },
   {
