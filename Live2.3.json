@@ -20,25 +20,25 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991160_lhd.m3u8?auth_key=1691512169-0-0-ab1f0dfab31224d388ea19fb9c067389&edge_slice=true&sub_m3u8=true&user_session_id=f62033f70da7fff034c64a6587087144"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991160_lsd.m3u8?auth_key=1691512169-0-0-ab1f0dfab31224d388ea19fb9c067389&edge_slice=true&sub_m3u8=true&user_session_id=f62033f70da7fff034c64a6587087144"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991160_lhd.m3u8?auth_key=1691512169-0-0-ab1f0dfab31224d388ea19fb9c067389&edge_slice=true&sub_m3u8=true&user_session_id=f62033f70da7fff034c64a6587087144"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991160_lsd.m3u8?auth_key=1691512169-0-0-ab1f0dfab31224d388ea19fb9c067389&edge_slice=true&sub_m3u8=true&user_session_id=f62033f70da7fff034c64a6587087144"
   },
   {
    "type": "Vebo",
@@ -52,64 +52,8 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
     "LeagueName": "Club Friendly",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:30 AM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/YpGpV2N/download-57.png",
-    "AwayName": "Milan",
-    "Date": "Aug 09",
-    "Link": [
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "0"
-  },
-{
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/0mCdqDz/download-50.png",
-    "HomeName": "Monza",
-    "Hot": "Hot",
-    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
-    "LeagueName": "Club Friendly",
-    "LiveUpcoming": "Upcoming",
-    "Time": "1:30 AM"
   },
   {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
