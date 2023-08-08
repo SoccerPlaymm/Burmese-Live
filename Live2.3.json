@@ -18,36 +18,43 @@
   },
   {
    "type": "English",
+   "Vip": "Non",
    "quality": "720P",
    "link": "https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8"
   },
   {
    "type": "China",
+   "Vip": "Non",
    "quality": "360P",
    "link": "0"
   },
   {
    "type": "Soco",
+   "Vip": "Non",
    "quality": "720P",
    "link": "https://pull01.rrwes.live/live/stream-991121_lhd.m3u8?txSecret=01df57df0d416871e5a15bd8330a791f&txTime=64d242c1"
   },
   {
    "type": "Soco",
+   "Vip": "Non",
    "quality": "360P",
    "link": "https://pull01.rrwes.live/live/stream-991121_lsd.m3u8?txSecret=01df57df0d416871e5a15bd8330a791f&txTime=64d242c1"
   },
 {
    "type": "Vebo",
+   "Vip": "Non",
    "quality": "1080P",
    "link": "https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
+   "Vip": "Non",
    "quality": "720P",
    "link": "https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
+   "Vip": "Non",
    "quality": "480P",
    "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/playlist.m3u8"
   }
