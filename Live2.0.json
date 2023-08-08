@@ -101,8 +101,43 @@
     "AwayImage": "https://i.ibb.co/6Xd01b7/download-9.png",
     "AwayName": "Tottenham",
     "Date": "Aug 09",
-    "Hd1Link": "0",
-    "Hd1Name": "CN FHD",
+    "Link": [
+  {
+   "type": "China",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "China",
+   "quality": "360P",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "360P",
+   "link": "0"
+  },
+{
+   "type": "Vebo",
+   "quality": "1080P",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "480P",
+   "link": "0"
+  }
+             ],
     "HomeImage": "https://i.ibb.co/jh44yWL/download-66.png",
     "HomeName": "Barcelona",
     "Hot": "Hot",
@@ -115,8 +150,43 @@
     "AwayImage": "https://i.ibb.co/YpGpV2N/download-57.png",
     "AwayName": "Milan",
     "Date": "Aug 09",
-    "Hd1Link": "0",
-    "Hd1Name": "CN FHD",
+    "Link": [
+  {
+   "type": "China",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "China",
+   "quality": "360P",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "360P",
+   "link": "0"
+  },
+{
+   "type": "Vebo",
+   "quality": "1080P",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "480P",
+   "link": "0"
+  }
+             ],
     "HomeImage": "https://i.ibb.co/0mCdqDz/download-50.png",
     "HomeName": "Monza",
     "Hot": "Hot",
@@ -129,8 +199,43 @@
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
     "AwayName": "Al Nassr FC",
     "Date": "Aug 09",
-    "Hd1Link": "0",
-    "Hd1Name": "CN FHD",
+    "Link": [
+  {
+   "type": "China",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "China",
+   "quality": "360P",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "360P",
+   "link": "0"
+  },
+{
+   "type": "Vebo",
+   "quality": "1080P",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "480P",
+   "link": "0"
+  }
+             ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101655_small.png",
     "HomeName": "Al Shorta",
     "Hot": "Hot",
@@ -143,8 +248,43 @@
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6097.png",
     "AwayName": "Trento",
     "Date": "Aug 09",
-    "Hd1Link": "0",
-    "Hd1Name": "CN FHD",
+    "Link": [
+  {
+   "type": "China",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "China",
+   "quality": "360P",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "360P",
+   "link": "0"
+  },
+{
+   "type": "Vebo",
+   "quality": "1080P",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "480P",
+   "link": "0"
+  }
+             ],
     "HomeImage": "https://i.ibb.co/YpGpV2N/download-57.png",
     "HomeName": "Milan",
     "Hot": "Hot",
@@ -157,8 +297,43 @@
     "AwayImage": "https://i.ibb.co/P13TnDX/download-42.png",
     "AwayName": "Inter",
     "Date": "Aug 09",
-    "Hd1Link": "0",
-    "Hd1Name": "CN FHD",
+    "Link": [
+  {
+   "type": "China",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "China",
+   "quality": "360P",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "Soco",
+   "quality": "360P",
+   "link": "0"
+  },
+{
+   "type": "Vebo",
+   "quality": "1080P",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "720P",
+   "link": "0"
+  },
+  {
+   "type": "Vebo",
+   "quality": "480P",
+   "link": "0"
+  }
+             ],
     "HomeImage": "https://i.ibb.co/gZkbzFF/download-71.png",
     "HomeName": "RB Salzburg",
     "Hot": "Hot",
