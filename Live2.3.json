@@ -17,9 +17,15 @@
    "link": "https://us.score911.cc/pt_elevensport1/index.m3u8?|Referer=https://live-streamfootball.com"
   },
   {
+   "type": "English",
+   "Vip": "Non",
+   "quality": "HD",
+   "link": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
+  },
+  {
    "type": "Soco",
    "Vip": "Non",
-   "quality": "FHD",
+   "quality": "HD",
    "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991160_lhd.m3u8?auth_key=1691512169-0-0-ab1f0dfab31224d388ea19fb9c067389&edge_slice=true&sub_m3u8=true&user_session_id=f62033f70da7fff034c64a6587087144"
   },
   {
