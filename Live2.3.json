@@ -5,57 +5,57 @@
     "Date": "Aug 08",
     "Link": [
   {
-   "type": "English [ HD ]",
+   "type": "English [ VIP ]",
    "Vip": "Vip",
-   "quality": "VIP",
+   "quality": "FHD",
    "link": "https://livecdn-001.rumsport.com/stream/2/index.fmp4.m3u8?|Referer=https://live-streamfootball.com"
   },
   {
-   "type": "English [ HD ]",
+   "type": "English [ VIP ]",
    "Vip": "Vip",
-   "quality": "VIP",
+   "quality": "HD",
    "link": "https://livecdn-001.rumsport.com/stream2/2/index.fmp4.m3u8?|Referer=https://live-streamfootball.com"
   },
   {
    "type": "Portuguese [ HD ]",
    "Vip": "Vip",
-   "quality": "VIP",
+   "quality": "HD",
    "link": "https://us.score911.cc/pt_sporttv1/index.m3u8?|Referer=https://live-streamfootball.com"
   },
   {
-   "type": "English [ HD ]",
+   "type": "English",
    "Vip": "Non",
-   "quality": "Normal",
+   "quality": "HD",
    "link": "https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8"
   },
   {
-   "type": "Soco [ HD ]",
+   "type": "Soco",
    "Vip": "Non",
-   "quality": "Normal",
+   "quality": "HD",
    "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911946_lhd.m3u8?edge_slice=true&auth_key=1691494109-0-0-0f6d1c198e4ba08786ee92b3a17447da&sub_m3u8=true&user_session_id=6078a5c42a974f40728e391bd8f8a952"
   },
   {
-   "type": "Soco [ SD ]",
+   "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
    "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911946_lsd.m3u8?edge_slice=true&auth_key=1691494109-0-0-0f6d1c198e4ba08786ee92b3a17447da&sub_m3u8=true&user_session_id=6078a5c42a974f40728e391bd8f8a952"
   },
 {
-   "type": "Vebo [ FHD]",
+   "type": "Vebo",
    "Vip": "Non",
-   "quality": "Normal",
+   "quality": "FHD",
    "link": "https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8"
   },
   {
-   "type": "Vebo [ HD]",
+   "type": "Vebo",
    "Vip": "Non",
-   "quality": "Normal",
+   "quality": "HD",
    "link": "https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8"
   },
   {
-   "type": "Vebo [ SD ]",
+   "type": "Vebo",
    "Vip": "Non",
-   "quality": "Normal",
+   "quality": "SD",
    "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/playlist.m3u8"
   }
              ],
