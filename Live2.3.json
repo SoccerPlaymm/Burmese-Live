@@ -5,16 +5,16 @@
     "Date": "Aug 09",
     "Link": [
   {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "English [ VIP ]",
+   "type": "Arabic [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "0"
+   "link": "https://s2.yalla-kora.co/broadcast/aZLbU2HLDBH9Vi84zJDYvA/1691596608/1691596347/1/ssc2-extra.m3u8?|Referer=https://yalla-goalz.com/"
+  },
+  {
+   "type": "Arabic [ VIP ]",
+   "Vip": "Vip",
+   "quality": "SD",
+   "link": "https://s1.yalla-kora.co/broadcast/nttH58ERKnvmdkU7I99Zdw/1691596597/1691596336/1/ssc1-extra.m3u8?|Referer=https://yalla-goalz.com/"
   },
   {
    "type": "Soco",
