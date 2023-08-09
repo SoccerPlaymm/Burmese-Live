@@ -19,32 +19,32 @@
   {
    "type": "Soco",
    "Vip": "Non",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "HD",
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-381973_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1691595870-0-0-e3946baa352a472ce65fd0ce28ad43fa&user_session_id=206ed07d0697a050151bfc4e9803e9c4"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-381973_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1691595870-0-0-e3946baa352a472ce65fd0ce28ad43fa&user_session_id=206ed07d0697a050151bfc4e9803e9c4"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101655_small.png",
@@ -52,7 +52,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/1/19/Arab_Club_Champions_Cup_logo.png",
     "LeagueName": "Arab Club Champions Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
