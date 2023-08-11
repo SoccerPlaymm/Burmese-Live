@@ -88,19 +88,19 @@
    "type": "English 1 [ VIP ]",
    "Vip": "Vip",
    "quality": "FHD",
-   "link": "https://us6.score911.cc/us_usa/index.m3u8"
+   "link": "https://cdnet2.score911.cc/us_usa/index.m3u8?|Referer=https://ggsport.tv/"
   },
   {
    "type": "English 2 [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "https://cdnet2.score911.cc/uk_ssmain/index.m3u8"
+   "link": "https://cdnet2.score911.cc/uk_ssmain/index.m3u8?|Referer=https://ggsport.tv/"
   },
   {
    "type": "English 3 [ VIP ]",
    "Vip": "Vip",
    "quality": "FHD",
-   "link": "https://cdnet2.score911.cc/uk_ssepl/index.m3u8"
+   "link": "https://cdnet2.score911.cc/uk_ssepl/index.m3u8?|Referer=https://ggsport.tv/"
   },
   {
    "type": "English 4 [ VIP ]",
@@ -118,7 +118,7 @@
    "type": "Portuguese [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "https://us.score911.cc/pt_elevensport1/index.m3u8"
+   "link": "https://cdnet2.score911.cc/pt_elevensport1/index.m3u8?|Referer=https://ggsport.tv/"
   },
   {
    "type": "Soco",
