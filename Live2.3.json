@@ -8,19 +8,31 @@
    "type": "English 1 [ VIP ]",
    "Vip": "Vip",
    "quality": "FHD",
-   "link": "https://cdnet2.score911.cc/uk_viaplay1/index.m3u8"
+   "link": "https://cdnet2.score911.cc/uk_viaplay1/index.m3u8?|Referer=https://ggsport.tv/"
   },
   {
    "type": "English 2 [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "https://us.score911.cc/espn6/index.m3u8?|Referer=https://ggsport.tv"
+   "link": "https://us.score911.cc/espn6/index.m3u8?|Referer=https://ggsport.tv/"
   },
   {
    "type": "English 3 [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "https://us.score911.cc/za_ssliga/index.m3u8?|Referer=https://ggsport.tv"
+   "link": "https://us.score911.cc/za_ssliga/index.m3u8?|Referer=https://ggsport.tv/"
+  },
+  {
+   "type": "English 4 [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "English 5 [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "0"
   },
   {
    "type": "Portuguese [ VIP ]",
