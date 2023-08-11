@@ -5,46 +5,58 @@
     "Date": "Aug 12",
     "Link": [
   {
-   "type": "English [ VIP ]",
+   "type": "English 1 [ VIP ]",
    "Vip": "Vip",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://cdnet2.score911.cc/uk_viaplay1/index.m3u8"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "English 2 [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "0"
+   "link": "https://us.score911.cc/espn6/index.m3u8?|Referer=https://ggsport.tv"
+  },
+  {
+   "type": "English 3 [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://us.score911.cc/za_ssliga/index.m3u8?|Referer=https://ggsport.tv"
+  },
+  {
+   "type": "Portuguese [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://us.score911.cc/pt_elevensport2/index.m3u8?|Referer=https://ggsport.tv"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991186_lhd.m3u8?sub_m3u8=true&auth_key=1691777190-0-0-1f21374e899b7e9d71178cc2cc809243&user_session_id=46447a80b35ca73a74000d07fb426fd9&edge_slice=true"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991186_lsd.m3u8?sub_m3u8=true&auth_key=1691777190-0-0-1f21374e899b7e9d71178cc2cc809243&user_session_id=46447a80b35ca73a74000d07fb426fd9&edge_slice=true"
   },
 {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
+   "type": "China",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull.lianggexinxi.xyz/live/stream-466384_lhd.flv?auth_key=1691777737-0-0-8269b5e8830c0366034d8f17366fd018"
+  },
+  {
+   "type": "China",
+   "Vip": "Non",
+   "quality": "SD",
+   "link": "https://pull.lianggexinxi.xyz/live/stream-466384_lsd.flv?auth_key=1691777737-0-0-8269b5e8830c0366034d8f17366fd018"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may101/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/yPjv50N/download-30.png",
@@ -52,7 +64,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/7657c838a66d3ca33cccabbc1526f853.png",
     "LeagueName": "Laliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:00 AM"
   },
   {
