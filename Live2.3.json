@@ -53,16 +53,16 @@
    "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991186_lsd.m3u8?sub_m3u8=true&auth_key=1691777190-0-0-1f21374e899b7e9d71178cc2cc809243&user_session_id=46447a80b35ca73a74000d07fb426fd9&edge_slice=true"
   },
 {
-   "type": "China",
+   "type": "Arabic",
    "Vip": "Non",
    "quality": "HD",
-   "link": "https://pull.lianggexinxi.xyz/live/stream-466384_lhd.flv?auth_key=1691777737-0-0-8269b5e8830c0366034d8f17366fd018"
+   "link": "https://cdn-rtmp-2-inlive.global.ssl.fastly.net:443/video/live/hls-720p/YRqNHm1vf0-almeria_x_rayo_v_27u-app.in.live_720p/index.m3u8"
   },
   {
-   "type": "China",
+   "type": "Arabic",
    "Vip": "Non",
    "quality": "SD",
-   "link": "https://pull.lianggexinxi.xyz/live/stream-466384_lsd.flv?auth_key=1691777737-0-0-8269b5e8830c0366034d8f17366fd018"
+   "link": "https://cdn-rtmp-2-inlive.global.ssl.fastly.net:443/video/live/hls-720p/YRqNHm1vf0-almeria_x_rayo_v_27u-app.in.live_360p/index.m3u8"
   },
   {
    "type": "Vebo",
