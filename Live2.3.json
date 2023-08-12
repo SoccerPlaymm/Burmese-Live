@@ -5,19 +5,19 @@
     "Date": "Aug 12",
     "Link": [
   {
-   "type": "English [ VIP ]",
+   "type": "English 1 [ VIP ]",
    "Vip": "Vip",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://livecdn.rumsport.com/stream/8/index.m3u8?|Referer=https://live-streamfootball.com"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "English 1 [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "0"
+   "link": "https://s6.kora-360.com/live/ch1pe.m3u8?|Referer=https://yalla-shoot.kooora365.com/"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "English 2 [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
    "link": "https://nl2.score911.cc/uk_itv1/index.m3u8?|Referer=https://ggsport.tv/"
