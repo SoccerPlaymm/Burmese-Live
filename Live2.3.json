@@ -169,24 +169,6 @@
    "Vip": "Non",
    "quality": "SD",
    "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911963_lsd.m3u8?edge_slice=true&auth_key=1691863650-0-0-9146d40cb98358b7f11efdd6bc5d42ab&sub_m3u8=true&user_session_id=7f980f9c376d1eafdea35b3e466fca8d"
-  },
-{
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "https://179720687.global.cdnfastest.com/live/hd-en-jw2r09h6zed8rz8/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "https://179720687.global.cdnfastest.com/live/sd-jw2r09h6zed8rz8/playlist.m3u8"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8306.png",
