@@ -75,14 +75,20 @@
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "HD",
+   "link": "https://vod.score911.cc/uk_ssfb/index.m3u8?|Referer=https://ggsport.tv/"
   },
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
    "quality": "SD",
    "link": "https://s6.kora-360.com/live/ch3pe.m3u8?|Referer=https://yalla-shoot.kooora365.com/"
+  },
+  {
+   "type": "Portuguese [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://us.score911.cc/pt_elevensport1/index.m3u8?|Referer=https://ggsport.tv/"
   },
   {
    "type": "Soco",
@@ -141,6 +147,18 @@
    "link": "0"
   },
   {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://vod.score911.cc/uk_bts1/index.m3u8?|Referer=https://ggsport.tv/"
+  },
+  {
+   "type": "Portuguese [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://us.score911.cc/pt_elevensport3/index.m3u8?|Referer=https://ggsport.tv/"
+  },
+  {
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
@@ -156,19 +174,19 @@
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/cx92kG0/download-79.png",
@@ -176,7 +194,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/0b222ee18016b5ad1678262db6487812.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
