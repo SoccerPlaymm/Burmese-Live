@@ -17,34 +17,46 @@
    "link": "0"
   },
   {
-   "type": "Soco",
-   "Vip": "Non",
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://s6.kora-360.com/live/ch6pe.m3u8?|Referer=https://yalla-shoot.kooora365.com/"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
    "quality": "HD",
    "link": "0"
   },
   {
    "type": "Soco",
    "Vip": "Non",
+   "quality": "HD",
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911959_lsd.m3u8?auth_key=1691802690-0-0-fea79f5287745e4c990c6de95fd056a2&edge_slice=true&sub_m3u8=true&user_session_id=8a518bdf4f8dbdd8bfa4c7a818860362"
+  },
+  {
+   "type": "Soco",
+   "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911959_lhd.m3u8?auth_key=1691802690-0-0-fea79f5287745e4c990c6de95fd056a2&edge_slice=true&sub_m3u8=true&user_session_id=8a518bdf4f8dbdd8bfa4c7a818860362"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/960720.png",
@@ -52,7 +64,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10043.png",
     "LeagueName": "Leagues Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:00 AM"
   }
 ]
