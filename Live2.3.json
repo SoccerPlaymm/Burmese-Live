@@ -132,43 +132,55 @@
    "type": "English [ VIP ]",
    "Vip": "Vip",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://livecdn.rumsport.com/stream/20_fhd/index.m3u8?|Referer=https://live-streamfootball.com"
   },
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
+   "link": "https://livecdn.rumsport.com/stream/20/index.m3u8?|Referer=https://live-streamfootball.com"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "FHD",
    "link": "0"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "SD",
+   "link": "https://s6.kora-360.com/live/ch3pe.m3u8?|Referer=https://yalla-shoot.kooora365.com/"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911961_lhd.m3u8?sub_m3u8=true&auth_key=1691868450-0-0-46a662a16f44c6c8b442e3ccfa0df014&user_session_id=a3e52899de289a3b7b6ea622cb2ea52a&edge_slice=true"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911961_lsd.m3u8?sub_m3u8=true&auth_key=1691868450-0-0-46a662a16f44c6c8b442e3ccfa0df014&user_session_id=a3e52899de289a3b7b6ea622cb2ea52a&edge_slice=true"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/cuonFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@cuonSD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/D46m1WD/download-65.png",
@@ -176,7 +188,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/DFL-Supercup_logo_%282017%29.svg/1200px-DFL-Supercup_logo_%282017%29.svg.png",
     "LeagueName": "Super Cup - Final",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -200,13 +212,13 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-379975_lhd.m3u8?txSecret=4e344efb3bed577eda5663c4866859db&txTime=64d82372"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-379975_lsd.m3u8?txSecret=4e344efb3bed577eda5663c4866859db&txTime=64d82372"
   },
 {
    "type": "Vebo",
