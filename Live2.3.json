@@ -244,31 +244,31 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-231997_lhd.m3u8?txSecret=6f2a6c5e56a46fbe5e877635434eb1c0&txTime=64d7ec22"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-231997_lsd.m3u8?txSecret=6f2a6c5e56a46fbe5e877635434eb1c0&txTime=64d7ec22"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@phoSD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/Px76w8v/download-27.png",
@@ -276,7 +276,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/7657c838a66d3ca33cccabbc1526f853.png",
     "LeagueName": "Laliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
@@ -300,31 +300,31 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911953_lhd.m3u8?sub_m3u8=true&auth_key=1691854350-0-0-c3d5520ea87c6c00c9872beadc7cb4f2&edge_slice=true&user_session_id=ebed6443bd5366f58eaea0d584c32f17"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911953_lsd.m3u8?sub_m3u8=true&auth_key=1691854350-0-0-c3d5520ea87c6c00c9872beadc7cb4f2&edge_slice=true&user_session_id=ebed6443bd5366f58eaea0d584c32f17"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/zNhmF1y/download-70.png",
@@ -332,7 +332,7 @@
     "Hot": "",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/0b222ee18016b5ad1678262db6487812.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
@@ -356,31 +356,31 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-991121_lhd.m3u8?txSecret=f288af278b97fcba2585853acd466125&txTime=64d7ec9a"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-991121_lsd.m3u8?txSecret=f288af278b97fcba2585853acd466125&txTime=64d7ec9a"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/mySD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2529.png",
@@ -388,7 +388,7 @@
     "Hot": "Hot",
     "LeagueImage": "",
     "LeagueName": "Arab Club Champions Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
