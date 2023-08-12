@@ -217,8 +217,14 @@
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
-   "quality": "FHD",
+   "quality": "HD",
    "link": "https://vod.score911.cc/uk_viaplay1/index.m3u8?|Referer=https://ggsport.tv/"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "SD",
+   "link": "https://s5.kora-360.com/live/ch4pe.m3u8?|Referer=https://yalla-shoot.kooora365.com/"
   },
   {
    "type": "Portuguese [ VIP ]",
