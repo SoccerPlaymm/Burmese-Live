@@ -14,12 +14,6 @@
    "type": "English [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
    "link": "https://nl2.score911.cc/uk_itv1/index.m3u8?|Referer=https://ggsport.tv/"
   },
   {
@@ -27,6 +21,12 @@
    "Vip": "Vip",
    "quality": "HD",
    "link": "https://us.score911.cc/pt_sporttv1/index.m3u8?|Referer=https://ggsport.tv/"
+  },
+  {
+   "type": "English",
+   "Vip": "Non",
+   "quality": "HD",
+   "link": "https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8"
   },
   {
    "type": "Soco",
