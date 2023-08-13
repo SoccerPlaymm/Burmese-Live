@@ -1,109 +1,29 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/T12PsPR/download-3.png",
-    "AwayName": "Liverpool",
-    "Date": "Aug 13",
-    "Link": [
-  {
-   "type": "English ✓ [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://cdnet2.score911.cc/uk_ssmain/index.m3u8?|Referer=https://play.azencode.com/"
-  },
-  {
-   "type": "English ✓ [ VVIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://cdnet2.score911.cc/uk_ssepl/index.m3u8?|Referer=https://play.azencode.com/"
-  },
-  {
-   "type": "Portuguese ✓ [ VVIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://us.score911.cc/pt_elevensport1/index.m3u8?|Referer=https://play.azencode.com/"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://reels2watch.com/hls/s2.m3u8?|Referer=https://gamerarcades.com/aassets/t2.html/"
-  },
-  {
-   "type": "SKY PL [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://s5.kora-360.com/live/ch2pe.m3u8?|Referer=https://1scores.live/"
-  },
-  {
-   "type": "beIN EN [ VIP ]",
-   "Vip": "Vip",
-   "quality": "SD",
-   "link": "https://s5.kora-360.com/live/ch55pe.m3u8?|Referer=https://1scores.live/"
-  },
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911961_lhd.m3u8?auth_key=1691942790-0-0-24ea9dbb532a2674f7ba4d920f98f63c&edge_slice=true&sub_m3u8=true&user_session_id=37298932800501525f9ae265861100c4"
-  },
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911961_lsd.m3u8?auth_key=1691942790-0-0-24ea9dbb532a2674f7ba4d920f98f63c&edge_slice=true&sub_m3u8=true&user_session_id=37298932800501525f9ae265861100c4"
-  },
-{
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "FHD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/MMN9Rw5/download.png",
-    "HomeName": "Chelsea",
-    "Hot": "Hot",
-    "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
-    "LeagueName": "Premier League",
-    "LiveUpcoming": "Live",
-    "Time": "10:00 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/1mg68jB/download-24.png",
     "AwayName": "Real Betis",
     "Date": "Aug 14",
     "Link": [
   {
-   "type": "English [ VIP ]",
+   "type": "English ✓ [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
    "link": "https://cdnet2.score911.cc/uk_viaplay1/index.m3u8?|Referer=https://play.azencode.com/"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "English ✓  [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
    "link": "https://us.score911.cc/espn20/index.m3u8?|Referer=https://play.azencode.com/"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "English ✓ [ VIP ]",
    "Vip": "Vip",
    "quality": "FHD",
    "link": "https://us.score911.cc/za_ssliga/index.m3u8?|Referer=https://play.azencode.com/"
   },
   {
-   "type": "Portuguese [ VIP ]",
+   "type": "Portuguese ✓ [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
    "link": "https://us.score911.cc/pt_elevensport1/index.m3u8?|Referer=https://play.azencode.com/"
@@ -146,62 +66,6 @@
     "LeagueName": "Laliga",
     "LiveUpcoming": "Live",
     "Time": "12:00 AM"
-  },
-  {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10039.png",
-    "AwayName": "Egnatia",
-    "Date": "Aug 14",
-    "Link": [
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "0"
-  },
-{
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/P13TnDX/download-42.png",
-    "HomeName": "Inter",
-    "Hot": "Hot",
-    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
-    "LeagueName": "Club Friendly",
-    "LiveUpcoming": "Upcoming",
-    "Time": "12:30 AM"
   },
   {
     "AwayImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAEZ0FNQQAAsY58+1GTAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAHp5JREFUeNrtXQl8FNX9n3tmd2f2yCbZnIQQQqqEG+QQBMRbOa1a61FP2qqtaPXv0VatVG2r1lrPSrGK9Wg5RLxakYIKeCKnHIGE3Pdmr5mde+b/m8lBQg4SCE1S8vgM2cy+ffPe7/j+vr/fvJ0gyGDr04Z2p9P2tYuWQdfhg+LqiWDR3WMXrPr5sfoR3RxuIvw3dlCsPWkm051eRE+GJNbURrAi0RwUbufNGO4wtAXJCd2WaU8Gx3fFGGwXTw+KuQusiOs8KKDb/bFBkfVtI05Y4xSpua9ZqDKTxyh6TT0RefVtXD1UbOMfkZGie274Ph7/z+e6uHkbbp3jrpzL06PyyMhLb6JqcQVlnWMXnhdnJo3GI3/9B06kJquui2djwrsbTPHz7S04ijK06v/1bbpeG9RCT7/CQn+Ru+xCBKVpHTFNVKupw4UPPjHknfucTWPy0IcMPb7M0EMRh3XOMX0iD+cxmLMZX7/Z5NdtYJvH9z90O68HQ1j4mRXO5nNJv7+HVw+XYeEX33A650yT4GhHWoT3Nxrilm2OPlGAJfzM/7wu0+NHuqz1Wee8t1+nVS78qRDfsNVFZKRqCb++DTdVTWtWgBkXEd+S62nc6xZqbnmAQmlKCzz7G9yiDcGlz5rs/HN1eN/hPOdMvvSMhS3X8lx3qeK74waXcqiYBwUgIFzFe9u1ntbz8f/qZ0bN4vv56OvvsK6LZunuq+azkWVvhS0F+O66OZb48BKuZbwbL0eif18brVn8S7f1e8L/LWZgbAkU0DKe92fXOuSdezVQgKU8e97tMD8Sk0EBfeMB7qsXKJbwYys/iNfe+oDGnDEWSVv7F1fy0w+YxfkXdPgZsDqXcvBwnLtqPln/qz8q7PxzVMzndgUf+jNvipJlkbLVj84fwTpmTYmJm77gEBwzfL+4sUO4rLn5/hp+7XqGnjAST1v1PJ305P1E9K33jDY46+GkxAd/5tAqa5XyC66TTD6Opa1+HoP5u8NPvyrK3xU4OpGFZTRa6xNVV/y8Qfp6F96igJjAnIgMTygGOM6apFo/wc0RgxfdADVu+ZvdKjksk8WcjNwxOzPRhqXPGShJUN5br5Z9d94Ai+CV8POvUUd3TbzvJ7bLc4vOF4n0lA7dXA9HGUOIe8RPv2bh+grmZhkiLTnaug8oE0NwnIit/lBRD5W4teo6NvLySpvNWdDZkzVrtUEXfN7TfMC16T6LARjrahRCQ1htmWBVrW0xWGKC2AxLR7fY6n+5/A8vifvuvplBCYJseOwF3uDjbBs9xSWZmTGJpceeJiTc8xPTVFQNIK9Tg8ETPBIIkwS4s2KRNbF4y3spiZYxUHpdQ4uwtIpq3Z5ngofqyZqTHrtLhvVK1mu1sNSou+cPvr4LwgTeTiAgKNv9UbwL57K84LfPmYG/PkYC7MiA6e2EEHp2RQRwOTH1zacNMiudCz/3Gu+95Wry6H4prz5Om4IYxXweF0rgeOiJZTGYA9fGUEjKnpMpq5bQ24yBYljzRI3uLJmZPNbR3Fc9UCyCAvqOBZmS3DhpgmhhB7jPQzdiYxzHA51/VvjoM/uz4le7MCPKtxOsxWaAYYjAiDiwarXh8WUUKKBdEqiVViBadZCGuYj8uo+R6Ktr2PYwFbFxGvdytrDp0d8TiKx0G3oM8DTrFBiFijHM0UrQTVVvY0llZ19tSF/uaPakE86JTkgBalGZLTjH5LFYrLQSAVzXqPwRpikrElA6lhye1Sm+mpqONnlDp5YXXPoMCgowo6+sloF+tgTotn2e0/i3P2K7EoZaVG5BJE2PGykD2yJSX3sSIbIzfY0KrMIbYTQi4ylJNBAC1QhFSeaMMQKcdhm1Qflor+k3eUD0tTWo72fXaoEXlzKuC2fG6NF5OARAZ/iF1wULZpr7cVcv0JkzRkeaf6//5R9dwEiOOb6864DzkG+cDB7gPJF5KgVFrLxrv+C64Cwu/d2/xgGiCAuuLAcQv9huzzMCVDPhl7fQWV++LUvbvws7z5psXzO8fGWnMcD+3KtrcOHd/7B9woKUfUWOikW3yHpdSOJ+cAlH5Q0jIJkS6u/9Q6M1moYJipCp3CwcLJlpPnC/D65ro4n1fltY0Q3D+gxiGI0dZIWG11ijs5gKaph2wEeNtv26iDf2j4p5i8n4R5tjztlTKGpkLiXv3B+DwK9xP7jYJg3BR5/nGh5/iccTfSY7d47XVCCW3/JATPhwk7NpLVbCJ0MMoF0XzmKaDyov54Rk2M1y9KXbrWoo/VCh3FktCHNzgilJFFhX990VRc3WntL7hZn24wOTUhEMMyBm0GR2hgjZONOmD7yHcS4REizXcRXjxnK8/MAwFgb8YuyC1VNPeimi5cLR45hw08IBDnRLWAA1RK8qoAPltjYQ9XB5e5oM3nYs4WMuh2jNtUfGdjIUgCf7o9n7PjKB0ahVVy5JbEnQpk8Ip3/4NwKSMqVs9lV2aZYckiZl7fpAhWCqHB4xx2+do04bLgWee0hjpoyzBIFJX+zgq2++jwB+3ZJdpq18NuQ8eypWMf/HpLj5GxsOAEbiaaueUyN/XyvX3b7ULj26Lp4VSV3xJMK/87FRfcM9Ldw8u+DjCqCodGHSpMS2k8eNYUWbIqauI4eHn+1phrnm8DM8tkuVt+3Rymb90Nt80rfk+igcOKzbBcrVpS+287V3PIJDfHH0SQwADm2iDsaDOZ1t0nFx8zYvBFCLMycwU8by9uTvuEEH9+dCT71MN9FVJXPDaxgIn42v38xDFitBXzZj/QoTLKwlsUNdTqd1jcBLj6JW3agJRvDG6zroI9BC2ecgFvlc588QWs6zLhf049pl8XOmCXhSgo9ISfI5Zk0RjnYUFMdZlCZbBMtddqGQ+OhdbgQy+NjKD8Lipi8lKj+PgDGME5HhSStHBx/8k/0TslgU87oV93WXkpC6S5Hl/7SVxV1xsQ7nqchLbwpg3Z6KS25yRl97OwYCcbALzmtHN8mh6Q7/r2+TunPt5OeX4q2V2FHzXD2faIIp03PNAvxYY7rmnaM11YLk6h/d7S2/+EZXUeaZuFV07JcKiH+8hZW+2S2ANTqSn3lQAOulGh59QbMooA0/ecNsy4lv/FI78pmtdnmAzM7ssMAF7s/Qo/Lix0J+IjWJSXzsrk6VBR6hsPPOwZW9h4T4p18J7IJzcdTJdF0TUlRbVkC3DWBxwtHxpN8pwOb7jWk6xl16gU+rqhWjr652HIEGp9YYvI+wKguPG2HHobfLOd5YVw4MhQgs/52VeXfq9rF/vCcYEV7x3PgDFyRTHSqLXXiuVVeiYEyDX/mBBW00O/88rau1hJf9A4f5aQCl7mFlm1059d/wgWWP8pib1fqtAsTPv3Up+wptawk9uRwYvNbi6vC68doYanTG3dvUhp56mZW27YnT+SOcvl/c1Km1alV1ZN29v7cyXixl+WPAsIh2RMNz7SL7mrF/vk/E3v4IhwBseK9d2CWWQ8B1lkyYpzb84aW48O9PgXLLpHW/IeVvj4v9VgE2ndix17YQec+BNlhphKN2AQ5PTNBaQQPWdJMD64AeojU33YciYIWOKWM9XWbor67hgAgIZE6WE2OdbbJUPJAoMdMnOoy4KAOkKf5f3iobMUFhzprksN7rsvRSUOwIPvS0s3LhT13AnAhDiMddF8xwWiWYfquApoy3I8XYQdJ91TyrLKABDCjuaxfamCrvPtChIJQDRQ7IVuXuXLVm8f04YHS7QOy+cq6Vc+AWg/LecrXHOjAPx1jn3D+cq3dKuQOJsueGy3iYpz0mEUhUgHlZuYBm6sZxy7FXEh/nuWc6c4U9LYLRg+Fo0ZDpSY30hexQA/yajxzyHTcIznPOdA2r/EIGJVj3fR1WLiD869NOmUXDYy/S3PcvipPDs7qsD6nF5Uzw4Wdiib+9s02gBCXb8ymZtCAK+QbdyLAy5Kxv13Huaxaaoaf+1uF4af98RmQmjfYm//kBBbwnjLnAs1CUCC59NgreSfeJAkxZIeKbvmxnkXpDuGVcSGZQgBmrXoS3vp6paXj5nGto3//dHHPOnkpZdDC+fkus4cm/OlonRdJXuxRE1VQzJhBNsYOovvFe1f+bJbKyp+AI9lfWovB5XtlfiDZXRkNPv+Jixo+UIRFrtOJEn6hV15MQS2LKdwfdLZ61v5COvrI6TKSnEHiCV7TmD+tS4bzWPFbFvMVO7y1XCc6ZU6CPh9aKK5TI39+R+XXr3f2iFjTYjq8WNLgvqI9bjyBIO8dvovmsPCi2LmA5jcZOmgL06V5mUMR96AHflbv5Bp7UB8XWefNzMn56Os+eFAWs/iqV3VvODUq5i5afGZVPX1jQnxKxwTaogEEFDLaTWoroSUtLkOJjh0TMEam8kexRqCS3LNKEgcoaZoYFkqqLUmZJvRM7UMnqe8rdtKaj5KACTvQimKmdmReU506oMTMSxBaGgJOuOEGnoCikjYYmoR6WRzP9Eef47MYtRBro5atDvvgH2wPGoRrXce29yU0RpIcv39ejnRevf5Ypv7c94P6fUMDM04Kxq2eUkRyjuTCcVtyBaYI79QyE9Z9mErS3nVANXebFcBHO1+8xIlVfYtNGlDmnjWhAdpe5+Zc3ZuFVYbpHN8BRzLT0S3PJYyO0K7XrMoIuaQ2lG/0oaqoD3gMSOUW+5bwiFTgxh1OcEshdxCdkzaFACV1v+cBp1uU/DbGOQN5liBg5HKspWIWOQr5hn7xmj/b65ozY+9sDPebC/qHnIe7AhC7vI+iqEAYFDHwIygkI4n3zD2Iso7H+oedHU0//oQPDmeOCEIcnmxs66W5EaNjPl337DHHNjDLue2k8//SHwxiAqP96DOv3LGjc0Aj/0PcPkG4XjmdPvjeWPuoGNwi/W4HUNPVO7yy5Er7Hjpj1JO5OmchPygmx9y88IFGEoQ10BfSqBWUnx6U7Ly5kGMZh5kx7UGXcWceEinioQGko3aTwdbtRRax1kkyCkD76JhPgop3HYARDDp10F1a+c5lwOrKBXXJhEf/4e8Odpjlw6XSvTTzBpcr3zS9AaIpAhk39tQrBVA+Vf8pX7H65orPPlO14IVq49WGTcaVHDV20mAqqSg2u4q/+wNYXvR9s5RqGaW2ObQyreMaYxQ5f+jR+fHaYvWZ6GX8qeMAx+91y3mHV7dDYzHF3xAjKTdQX/xutL3rPEpg/Lf86A0WxdsqW+QrMNFS6ct+KtKPfqylYbcUPFcUIMh4+pNYVvqe6A+ORWN0ug2R8aNqoGwlJqBEvGlfI7Sp1CztKPK7+JFizmze7uusBXWLt1NyGWH5mlPVlzox5UqdwpMPvcHiGWkbLmobGaHJDh/tzkoZdbDp9I0SMaL+LDRgJLUaK7HsPuhaXIlVfsGU7ngcqS1F8cA9esu0pbejEX4B+GO0n5xTjkMyp/UkBaGe7EXobgqwk67qZZSROsmp6/g0ttyu9adM4gnbHrNd1hR+YR6y+yqKV0WDJx2EpVo6lnnalnD3l/g5v8gCE2Xt1gP3QIGmJciaLGWN+zAyb/CuMr9vDQiKHpORdIXtdKjN3QrX8vwxBnVv/iAbZ41RdgbyrebDGlsCpxGtFXWn8Di3gOUtQXDR5+AKWZlO5hMzZMvB7w0rGKr9bQWBkx/s4HZ4c242Hz3hUhuDsitXuiJmm6ZT4ChUgDQel4InZFxIwvnzJ+Brq3W9TVFnFBlTp4oQ9YO74ahMnnYofkqzW56VYiQJsRgTBW5aJVu9/y13wyV1SpPJzgWC8BNBJB82mO53e4ajYcKijO22m0zvM3kkHlu8BYRNs0ii2tmCVcPjzpUxy7kLJig/W1pCk4Qs0htSp6XlB9ZTygBSvHB+SKLK+jAviKEa22afjDkzyNAovEC/6/GGLweAAOc6SbX+CbJeR3CkTZKCaCJs40giWrG83D4bLkIHGOpvyAz1YvF4E6CJJ2oNknXG3wvpPbylJ+DLPwiu/e0WbeVrQ2LAn6dRRwJisiNmI92d2uq/S6cslSMYvqlKQbVVzYcIVWxDr6DSIoYS1p5SJhwvF0m1PmYip4+kjf6R4M6azsZrtvMWKwAuIpvIFwyWN5nP1b2mGNGRJxehTAoLGDIkiAAOa0zec6ry2Q1GQEQMNxYFJod2+n5w++kanpkSVos+XEr6MmcaI2X/CIBPDCrc8yB/+6vcc485sw8zYxFFWVZXMCQj6KeMBwwKCxriHYKCFLiuUQEsxyAVkV8L30PKdL5pg1V1ydoAfweHNdYXKNkZpNg3nkkZh+zfcbmhyyP6cL2N6lEue4D6qZmTHC4BE/bsBdN/6xJ6W4lAZ2pV6zIddAF1krWqkoSuqJ3WyFI8UaQDsROf9Wd0yZ4AWzFAFvHTHsyoIn3UnjxESc+aaoBTMvonQWmnuIVawZzxOhTklPIBzaDyGIixBe1v4tyaHZcBm3RKcJ22KznCZLisbE8NFYrhyCxIq20TqavyY5skm5ttshguMp8BjLMVxQ8b/PAxCphpKNiBC6A0ld8ZjbZVGOG3c5xjd2lndZ1TUMHt2B++4FeCgGiuXGE6SR4plThz4fyxS9WUiMBYIpJho2pZu9qgUHSrb4EwesUjHCQflH3o+BNx3KSG4Dyn99s8OGFSHDLijqG1bPk3qRh8bNXbSOh9d7LB/GEdKyNHqr6KyUO1oVUOD12Y7i6BdKYI/69x41sQ74g5vTrsyhSKGHKHyT+xvniQNn0dBoFeAqnrZ5NHxETOfULnAxA5iSNM36E+VPECQCbKxTiO2WJw3fXpCuGJrbVLOJSgIWS/c8hCenLsAhRiggaL0SPXXqGlqdO70Ry1LxhprPlKoPPxCu73+tQfW4L6MWQZBuamErDl8qHSjzCWORsp3PK8OO/M3OIqSbZgXRGhLYWRIIE+NGBCXcSfgnQyQ02bBWZPuSmyufGZPuS8M9LDli85Jw+caICjVEr4i1IgVu5frsbqdHT7wSBHrHOHyz3hf5kwW8gw8ePjfjljtdiFt5I9wDCPb0V4pVmbHAF4izFNCAVa5tTpMaxRTai34yBemW5WdWwu/6V3M0GW0at8bfEPJeqYRojpvlXtXQKSJRyOVXxJWojV08v3s0eznSO2pxn7uT2WIMU4JBVjtULULSfMFWUARcHxfp9zeNDQtVrdLDldsRiOVn5Mg+G4FZcoZEMPlm2nKFTDSR93EdCZ82/Lrv7PXcrCaHVAKOKFMeHdZYy4Uren6sY0ohuOmqZsOT46AU275qDc1T8okIZC7IIIcVUMHeHNkjrsVBQrqxElnF8Zi6tHqr7FInBTAFNhTxgO2FXkJiANqqOwT0591TlcqQEHIlmDYpJyLzP0f3yoqYtCGn6GT7ubdgfE2VEl8NW/deGn+lK7EqIOf3aeC9cd8GTM6zR+EhgJRU2LslgOBXrk9mZ8ZtQzhmGNVR2jz60If12cKiCs4/eUhrzA1t4CVoqU8JErdsT6DdCRJzQowdbnxq6mxspgq1RsY4VAMTaSOsBuJLNv+LBks/khIybvccCXmc0dDUd3BtfbPTfsSe4WFjsmKcnAcs9/OEjcPCug7D7Daum2p6NTckFm9/0106Bn3tAUG00Qqdy+vAqbD+TLOwlQ5ZPJ1uzGAlpZZR2u3o560qQjNZXLDpz9i3fONA/UU+bqdRNW+N4FhmXaNR4ocpsRYqeLyn6ZZX39vYT/REj5a+y27v5LlS+sdJwQ/kPixeWf/qVteVLT1YYg1GtanEGS1w7VO59dF3tgk5FuOr9vFs0mj2SOBcY8YrfnGA0HaaWXGbYIPwUiQG6DR6m3wQ1GsqqldSkga7Wwsrg0FZewW+PrddnBPHXkNUNLZrHVjprU3Vex+2RKC+dpnmSdu/TA47Uplu9eVDPcLBVjtb5uGUKMzo2rp9ufIvFlPyDjF2bTU6c02PamTZWAoJsCTHq7YwoG1W3iOc0ljaFW2nkiIkUCTOnxcjK4JaFOhjfcPPb+dr9cdWicIDfu5LfsTooU1rv/KZtp+FYSbWwNP0cs2ZsVuO+8wV/z14/GcaQ9pljXhJOsEgRtp+de7GgWZWZM8fGFyc8WAcgTaXV+MHI5DwkWCWxBi+DDVCDNlDlWsF0lHYkveEA8d5Kv3v+Wsi9Liso1DHcgAbb22MWvzfj/3r53JUaHhgLN0+zOy9V1467y1pbC5Dwg/cKxyDQRzsaFsk2RtyLUe/UMyCXJa/nW8BVetlVT0xSOMrJrGE+/noFI/vBEPNErqPQ8wEbU7Va4Vn2aySW6Fn4BsZQ1N5rMm3skchdnHtgicJgGHTVUMgng1MnnEIs2fda7niOUX8EVfPMrIsoQ8ujZPLalzOvuVRaOmjPTgibrdEw6KhLozOOQE2FPv5ziWXFQkTES2sQc/vVfMmrBEpbmMbkOEtVvC0GURFCf7h8zWWYgVzcPXHnxbqDnwT1dcRvUn3huhAPNx9TfLxzG7KksjkB/1Ygwwqy0tuB2adCztagaK//H9YY4rz6yIzR1f5ir49B4jOXcBnzRsLgXM55hPKre2mnDJY3Rf5ky6Ga4A1vjKva9hYuggVx1mxN+ty7XqUP1O+FbzuZoeXo4awV5UAGp/8TU7OU5uLTj2HwiyPOH1zRnc3nJOWDynGDcPrGLrCt9TEodeIHgzZpgMl+HqKhYQtJcBaipFa7YZDSXrDWBRVhwxP9vvjy3fmOUAzO8xeVDjQU0WqnptI69pqB3GzyGJIt4UA4p6MQagWxDUREYPiSKv92CS24s9rp+/MkqbO6GGv2hsDWEcWuuqPbQWoZxJIgRnjWbTSThkFGtkoZoUxmWhEhVjJYhQv4+GGGDPr6CK5UGh6IEq9rjT/oo9y/29b+/udgrNz4g2PZQc/brXFECp6FaFMvmsxDgb8MpCTQ/cX9UxYs1Xqey6b1L0iTlhYXJuAzIqI4Qo8c+ahdnRDRQDIEbcdtgvfbI3ES0NHn+GWxumLW88KVvYrVpQ699TvRJvbVSzKiu6inXru07dzh63v3PpX8CvFm8+4Oef/Xf2CVccE1glmuhW6ERWUQjMtJ/ALak42cCTWEUDY70ecA8Guf3CIn5qboMlmzfGLVh9Va8mYjqGPIXryPXT84LslgMJPMDLCSkBkjc3HEhBL/wRhP7QJg4Lx0D4lldrJoI90m3W1N2OL725r/7HV4ykUBQ564ycMHaoxiXURujBp2dBGz80EltyUaEDxyCxNdHfj1+46q2TkglHvPW/ARh6hyIM4v75Bez1s0pjHKNJp6rgLVp+0+yS2N3zDrIkbm80+yDsrX+gR/W/nl5048brGG8k9md4eXMT79d2FHskgCS0uM6JV4UYGfCbAlB3/A/JWocES3TRup7qkxggI9q4oRFzzJCoA8PMJhQxV7CUuDj3og/lk6qAI0F50cXw8UfAI8Z0kgvoooyLvIxrvERQUZHA66K0FIxRTHkDo5YFHSj8zpg9gMGT0UAAWsArKek+Sc/wS6SfU+QkTma8LlUF79bhoGiyy80DexAM/dW4eaveOc7rn0AyYiLojncXTUQNdBEIcjKcspTR7T/lqmiYArFE21/BmTtK3ObBapaGMU9qYQ1imJaXykuQ06AjM6LIMEguScLoyd8Ss8oye2G9m1EEXTd2/qrPYUzzBAygd9s37851kgqZoKEmh6CEE8d0N8CRH0PRFNBXJmgtG7rlNR1tgrio4PLXhV59w3dJ+oHGOk9vVWvN3BSeP3dUHQ5sBXPS+tEU19rUtR+kaGX8xRiKlBumWY2aWD2IKGxgCI8ictzAzPDEue/Ge9kD+6Z985fFJJ4cGmkixlQURc8GGZ0Lp1uqnlbN5x1I3j7Z52cAzojjtfYZeUFp4RlVOCRJrWEkDCv/CAS+EY6tUXdw7+zZm7Q+gsD+0WyFpNSfBzTuR/DrAqRph7MVN1Z8lqmCZ/SkDGFOHh7ir51RRgGmN3uZCotdB8pcTqvohpGXr1T6w7r75V7W3WvnZ2ooeSfA1U+bYWpHiUd4/qNsAoJ5l7mH16lKt553WB81JNpcLpEBq18yUOV34+evq+xva+3Xm4l3rrss2zCMPzZ5hLXvU33y/Rx5XwXXYRaenxnl77ioiHbRGtm0uNUajt05ce7K0v66xgGxm/vbd77/A9Q0X7RiBECI8dLHWcKmfYltIGlOfl30xtklLARQK3CHTMRcPH7BmlX9fW34QFDAX97au2fxlfmrgO2dDYE1MDEnTAsyHjlUzdps5pLxNeHrZ5Z64D3r307E1GePX/j21oGwtgGhALsW9dbehp9ckfemiWJngttmjc2KMg08Fc1OjsvXzyr1NLnzBgeqnj9qwTu1A2VdA+0LJXaegenUv2DiMyBpsxIg66FwmCX8uILNnXb5SnEgrQcfaAp46c0C9eZF+WswwrwQhJ5iww6CbAfLv2DcpW8LA209A04BthJW7pVvvir/A8w0rZsego5jc0bPe7sOGWz/ZXa05rKZ1jEoicF23O3/AWK53MLCYDrJAAAAAElFTkSuQmCC",
