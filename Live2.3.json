@@ -243,44 +243,56 @@
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "HD",
+   "link": "https://us.score911.cc/za_ssliga/index.m3u8?|Referer=https://play.azencode.com/"
   },
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "0"
+   "link": "https://cdnet2.score911.cc/uk_viaplay1/index.m3u8?|Referer=https://play.azencode.com/"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://us.score911.cc/espn13/index.m3u8?|Referer=https://play.azencode.com/"
+  },
+  {
+   "type": "Portuguese [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://us.score911.cc/pt_elevensport3/index.m3u8?|Referer=https://play.azencode.com/"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9911957_lhd.m3u8?txSecret=0cbe184447a18a302a06221fa18b7e8c&txTime=64d93ffa"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9911957_lsd.m3u8?txSecret=0cbe184447a18a302a06221fa18b7e8c&txTime=64d93ffa"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/5svpMRP/download-36.png",
@@ -288,7 +300,7 @@
     "Hot": "",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/7657c838a66d3ca33cccabbc1526f853.png",
     "LeagueName": "Laliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
@@ -312,13 +324,13 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991184_lhd.m3u8?sub_m3u8=true&user_session_id=7e4a8157872637d0d5f3fd02e74d229d&auth_key=1691941350-0-0-f52f9b4b7d0b6d83b0594059d079a81d&edge_slice=true"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991184_lsd.m3u8?sub_m3u8=true&user_session_id=7e4a8157872637d0d5f3fd02e74d229d&auth_key=1691941350-0-0-f52f9b4b7d0b6d83b0594059d079a81d&edge_slice=true"
   },
 {
    "type": "Vebo",
