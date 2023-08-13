@@ -129,6 +129,24 @@
     "Date": "Aug 13",
     "Link": [
   {
+   "type": "English - Special [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://cdnet2.score911.cc/uk_ssmain/index.m3u8?|Referer=https://play.azencode.com/"
+  },
+  {
+   "type": "English - Special [ VVIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://cdnet2.score911.cc/uk_ssepl/index.m3u8?|Referer=https://play.azencode.com/"
+  },
+  {
+   "type": "Portuguese - Special [ VVIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://us.score911.cc/pt_elevensport1/index.m3u8?|Referer=https://play.azencode.com/"
+  },
+  {
    "type": "English [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
@@ -145,24 +163,6 @@
    "Vip": "Vip",
    "quality": "SD",
    "link": "https://s5.kora-360.com/live/ch55pe.m3u8?|Referer=https://1scores.live/"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://cdnet2.score911.cc/uk_ssmain/index.m3u8?|Referer=https://play.azencode.com/"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://cdnet2.score911.cc/uk_ssepl/index.m3u8?|Referer=https://play.azencode.com/"
-  },
-  {
-   "type": "Portuguese [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://us.score911.cc/pt_elevensport1/index.m3u8?|Referer=https://play.azencode.com/"
   },
   {
    "type": "Soco",
