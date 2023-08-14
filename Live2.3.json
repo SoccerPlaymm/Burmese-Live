@@ -5,19 +5,19 @@
     "Date": "Aug 15",
     "Link": [
   {
-   "type": "English [ VIP ]",
+   "type": "English ✓ [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
    "link": "https://us.score911.cc/za_ssliga/index.m3u8?|Referer=https://play.azencode.com/"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "English ✓ [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
    "link": "https://cdnet2.score911.cc/uk_viaplay1/index.m3u8?|Referer=https://play.azencode.com/"
   },
   {
-   "type": "Portuguese [ VIP ]",
+   "type": "Portuguese ✓ [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
    "link": "https://us.score911.cc/pt_elevensport2/index.m3u8?|Referer=https://play.azencode.com/"
@@ -79,6 +79,18 @@
    "link": "0"
   },
   {
+   "type": "English ✓ [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://us.score911.cc/us_fs2/index.m3u8"
+  },
+  {
+   "type": "Portuguese ✓ [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://us.score911.cc/pt_sporttv3/index.m3u8"
+  },
+  {
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
@@ -94,19 +106,19 @@
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101915.png",
@@ -114,7 +126,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/536.png",
     "LeagueName": "Saudi Pro League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:30 AM"
   },
   {
