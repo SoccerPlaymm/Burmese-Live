@@ -147,34 +147,58 @@
    "link": "0"
   },
   {
-   "type": "Soco",
-   "Vip": "Non",
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "FHD",
+   "link": "0"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "0"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "FHD",
+   "link": "0"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
    "quality": "HD",
    "link": "0"
   },
   {
    "type": "Soco",
    "Vip": "Non",
+   "quality": "HD",
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911961_lhd.m3u8?user_session_id=2e57dd0825bf6f2d96c418727cfffdc3&auth_key=1692041790-0-0-df8657cf67da2ceb75d03a5a7a75729b&sub_m3u8=true&edge_slice=true"
+  },
+  {
+   "type": "Soco",
+   "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911961_lsd.m3u8?user_session_id=2e57dd0825bf6f2d96c418727cfffdc3&auth_key=1692041790-0-0-df8657cf67da2ceb75d03a5a7a75729b&sub_m3u8=true&edge_slice=true"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/rZFH50R/download-1.png",
@@ -182,7 +206,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
