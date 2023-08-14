@@ -23,6 +23,12 @@
    "link": "https://us.score911.cc/pt_elevensport2/index.m3u8?|Referer=https://play.azencode.com/"
   },
   {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://s6.kora-360.com/live/ch5pe.m3u8?|Referer=https://1scores.live/"
+  },
+  {
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
@@ -67,18 +73,6 @@
     "Date": "Aug 15",
     "Link": [
   {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
    "type": "English ✓ [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
@@ -89,6 +83,12 @@
    "Vip": "Vip",
    "quality": "HD",
    "link": "https://us.score911.cc/pt_sporttv3/index.m3u8"
+  },
+  {
+   "type": "SSC [ VIP ]",
+   "Vip": "Vip",
+   "quality": "FHD",
+   "link": "https://s6.kora-360.com/live/ssc1.m3u8?|Referer=https://1scores.live/"
   },
   {
    "type": "Soco",
