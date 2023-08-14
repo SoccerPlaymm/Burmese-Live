@@ -215,46 +215,52 @@
     "Date": "Aug 15",
     "Link": [
   {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "English [ VIP ]",
+   "type": "ViaPlay [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "0"
+   "link": "https://cdnet2.score911.cc/uk_viaplay1/index.m3u8?|Referer=https://play.azencode.com/"
+  },
+  {
+   "type": "Laliga [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://us.score911.cc/za_ssliga/index.m3u8?|Referer=https://play.azencode.com/"
+  },
+  {
+   "type": "Portuguese [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://us.score911.cc/pt_elevensport2/index.m3u8?|Referer=https://play.azencode.com/"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-231997_lhd.m3u8?edge_slice=true&auth_key=1692043950-0-0-0f998af6d4090d2c81692aa99e1b22d4&user_session_id=d9605bc2e573ebf3f447bf05cd7cf702&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-231997_lsd.m3u8?edge_slice=true&auth_key=1692043950-0-0-0f998af6d4090d2c81692aa99e1b22d4&user_session_id=d9605bc2e573ebf3f447bf05cd7cf702&sub_m3u8=true"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/NV6t3Ck/download-39.png",
@@ -262,7 +268,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/7657c838a66d3ca33cccabbc1526f853.png",
     "LeagueName": "Laliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:00 AM"
   }
 ]
