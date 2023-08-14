@@ -7,26 +7,32 @@
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "HD",
+   "link": "https://us.score911.cc/za_ssliga/index.m3u8?|Referer=https://play.azencode.com/"
   },
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "0"
+   "link": "https://cdnet2.score911.cc/uk_viaplay1/index.m3u8?|Referer=https://play.azencode.com/"
+  },
+  {
+   "type": "Portuguese [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://us.score911.cc/pt_elevensport2/index.m3u8?|Referer=https://play.azencode.com/"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-248798_lhd.m3u8?user_session_id=919a4d1a639da40259f6e4150b71c349&auth_key=1692036090-0-0-88debdbb30c0b746ce733f79a064754b&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-248798_lsd.m3u8?user_session_id=919a4d1a639da40259f6e4150b71c349&auth_key=1692036090-0-0-88debdbb30c0b746ce733f79a064754b&edge_slice=true&sub_m3u8=true"
   },
 {
    "type": "Vebo",
@@ -52,7 +58,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/7657c838a66d3ca33cccabbc1526f853.png",
     "LeagueName": "Laliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:00 AM"
   },
   {
@@ -76,13 +82,13 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911974_lhd.m3u8?auth_key=1692036090-0-0-0f23357d4158680e02d63a914a3f7015&user_session_id=9a3a62ece76080c70149cc2f3560b6b5&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911974_lsd.m3u8?auth_key=1692036090-0-0-0f23357d4158680e02d63a914a3f7015&user_session_id=9a3a62ece76080c70149cc2f3560b6b5&edge_slice=true&sub_m3u8=true"
   },
 {
    "type": "Vebo",
