@@ -20,13 +20,13 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911956_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b76d47dd4708ac9ce73f7ade07f9e89d&auth_key=1692089850-0-0-629c2ec09f883f3fa3c01c463da96da6"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911956_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b76d47dd4708ac9ce73f7ade07f9e89d&auth_key=1692089850-0-0-629c2ec09f883f3fa3c01c463da96da6"
   },
 {
    "type": "Vebo",
@@ -52,7 +52,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Logo_of_the_2023_FIFA_Women%27s_World_Cup.svg/1200px-Logo_of_the_2023_FIFA_Women%27s_World_Cup.svg.png",
     "LeagueName": "Women's World Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 PM"
   },
   {
