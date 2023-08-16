@@ -32,31 +32,31 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911967_lhd.m3u8?auth_key=1692214590-0-0-3af30891c7509036c3c40d7d2d4bea3f&sub_m3u8=true&user_session_id=8979c223aa2555bee03fd8949269ca01&edge_slice=true"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911967_lsd.m3u8?auth_key=1692214590-0-0-3af30891c7509036c3c40d7d2d4bea3f&sub_m3u8=true&user_session_id=8979c223aa2555bee03fd8949269ca01&edge_slice=true"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/v4DMkVK/download-2.png",
@@ -64,7 +64,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/UEFA_Super_Cup_logo.svg/1200px-UEFA_Super_Cup_logo.svg.png",
     "LeagueName": "UEFA Super Cup - Final",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
