@@ -5,13 +5,19 @@
     "Date": "Aug 19",
     "Link": [
    {
-   "type": "English [ VIP ]",
+   "type": "beIN ✓ [ VIP ]",
    "Vip": "Vip",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://livecdn.rumsport.com/stream/3_fhd/index.m3u8?|Referer=https://live-streamfootball.com"
   },
   {
-   "type": "Super Sport [ VIP ]",
+   "type": "beIN ✓ [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://livecdn.rumsport.com/stream/3/index.m3u8?|Referer=https://live-streamfootball.com"
+  },
+  {
+   "type": "Super Sport ✓ [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
    "link": "https://reels2watch.com/hls/s3.m3u8?|Referer=https://techclips.net/"
