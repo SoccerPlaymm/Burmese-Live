@@ -129,7 +129,7 @@
     "Date": "Aug 19",
     "Link": [
   {
-   "type": "DAZN [ VIP ]",
+   "type": "DAZN ✓ [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
    "link": "https://fdaskj.1stream.one/scripts/MTE5NjM=/caxi.m3u8?|Referer=https://1stream.soccer/"
@@ -185,13 +185,13 @@
     "Date": "Aug 19",
     "Link": [
   {
-   "type": "English [ VIP ]",
+   "type": "English ✓ [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
    "link": "https://nflarcadia.xyz/hls/s2.m3u8?|Referer=https://techclips.net/"
   },
   {
-   "type": "USA [ VIP ]",
+   "type": "USA ✓ [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
    "link": "https://xwssgs.1stream.one/scripts/MTE5NDU=/caxi.m3u8?|Referer=https://1stream.soccer/"
@@ -247,46 +247,52 @@
     "Date": "Aug 19",
     "Link": [
   {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "English [ VIP ]",
+   "type": "TNT ✓ [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "0"
+   "link": "https://xwssgs.1stream.one/scripts/MTE5NDk=/caxi.m3u8?|Referer=https://1stream.soccer/"
+  },
+  {
+   "type": "BT ✓ [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://cdn3.reels2watch.com/hls/s6.m3u8?|Referer=https://techclips.net/"
+  },
+  {
+   "type": "beIN [ VIP ]",
+   "Vip": "Vip",
+   "quality": "SD",
+   "link": "https://s6.kora-360.com/live/ch7pe.m3u8?|Referer=https://1scores.live/"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-379975_lhd.m3u8?txSecret=b42e03bea8308c28bead8e1bf3a19d69&txTime=64e00d27"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-379975_lsd.m3u8?txSecret=b42e03bea8308c28bead8e1bf3a19d69&txTime=64e00d27"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8550.png",
@@ -294,7 +300,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/0b222ee18016b5ad1678262db6487812.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
@@ -318,13 +324,13 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991145_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1692387031-0-0-daf195a69a85791ef2425550e31aa808&user_session_id=22b20f34e36c5dc7884f7e37510b495c"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991145_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1692387031-0-0-daf195a69a85791ef2425550e31aa808&user_session_id=22b20f34e36c5dc7884f7e37510b495c"
   },
 {
    "type": "Vebo",
