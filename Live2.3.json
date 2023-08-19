@@ -1,197 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/gzBVDwK/download-18.png",
-    "AwayName": "Brentford",
-    "Date": "Aug 19",
-    "Link": [
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "FHD",
-   "link": "https://xwssgs.1stream.one/scripts/MTE5NzA=/caxi.m3u8?|Referer=https://1stream.soccer/"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://www.60mins.org/live/link3/index.m3u8?|Referer=https://fctvlive.com/"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "SD",
-   "link": "https://s5.kora-360.com/live/ch4pe.m3u8?|Referer=https://1scores.live/"
-  },
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911954_lhd.m3u8?edge_slice=true&user_session_id=af8c7877950f40af475341208e190422&sub_m3u8=true&auth_key=1692453451-0-0-db0daab3fb15e1de9e90b611f20935d0"
-  },
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911954_lsd.m3u8?edge_slice=true&user_session_id=af8c7877950f40af475341208e190422&sub_m3u8=true&auth_key=1692453451-0-0-db0daab3fb15e1de9e90b611f20935d0"
-  },
-{
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "FHD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/8YZYVzF/download-15.png",
-    "HomeName": "Fulham",
-    "Hot": "",
-    "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
-    "LeagueName": "Premier League",
-    "LiveUpcoming": "Live",
-    "Time": "8:30 PM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/jfz7Sks/download-5.png",
-    "AwayName": "Bournemouth",
-    "Date": "Aug 19",
-    "Link": [
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "English ✓ [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://nflarcadia.xyz/hls/s2.m3u8?|Referer=https://techclips.net/"
-  },
-  {
-   "type": "English ✓ [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://xwssgs.1stream.one/scripts/MTE5NzI=/caxi.m3u8?|Referer=https://1stream.soccer/"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://www.60mins.org/live/link1/index.m3u8?|Referer=https://fctvlive.com/"
-  },
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911982_lhd.m3u8?auth_key=1692453451-0-0-3ee7e792e21a6c50ef93fdf723847bc8&edge_slice=true&sub_m3u8=true&user_session_id=ca73b62b923dc92b6e851b31d501c734"
-  },
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911982_lsd.m3u8?auth_key=1692453451-0-0-3ee7e792e21a6c50ef93fdf723847bc8&edge_slice=true&sub_m3u8=true&user_session_id=ca73b62b923dc92b6e851b31d501c734"
-  },
-{
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "FHD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/T12PsPR/download-3.png",
-    "HomeName": "Liverpool",
-    "Hot": "Hot",
-    "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
-    "LeagueName": "Premier League",
-    "LiveUpcoming": "Live",
-    "Time": "8:30 PM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/RBH2X6r/download-13.png",
-    "AwayName": "Brighton",
-    "Date": "Aug 19",
-    "Link": [
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "FHD",
-   "link": "https://nflarcadia.xyz/hls/s7.m3u8?|Referer=https://techclips.net/"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://xwssgs.1stream.one/scripts/MTE5NzE=/caxi.m3u8?|Referer=https://1stream.soccer/"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://www.60mins.org/live/link2/index.m3u8?|Referer=https://fctvlive.com/"
-  },
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911981_lhd.m3u8?auth_key=1692453571-0-0-8ed74b079e2302f628882362a7ae0c35&user_session_id=aedf0a8c30b9dfd769be53011d43d7b4&sub_m3u8=true&edge_slice=true"
-  },
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911981_lsd.m3u8?auth_key=1692453571-0-0-8ed74b079e2302f628882362a7ae0c35&user_session_id=aedf0a8c30b9dfd769be53011d43d7b4&sub_m3u8=true&edge_slice=true"
-  },
-{
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "FHD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/QJMLcrP/download-10.png",
-    "HomeName": "Wolves",
-    "Hot": "",
-    "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
-    "LeagueName": "Premier League",
-    "LiveUpcoming": "Live",
-    "Time": "8:30 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/5svpMRP/download-36.png",
     "AwayName": "Celta Vigo",
     "Date": "Aug 19",
@@ -268,31 +76,31 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911983_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1692464311-0-0-7b1041227c3a49659543cf1b1ee819c9&user_session_id=4bbd4f08d5b3b4bb642f449b0ff2a273"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911983_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1692464311-0-0-7b1041227c3a49659543cf1b1ee819c9&user_session_id=4bbd4f08d5b3b4bb642f449b0ff2a273"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may3SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/6Xd01b7/download-9.png",
@@ -300,7 +108,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
   {
@@ -324,13 +132,13 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911991_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1692464311-0-0-0cf9aad0ff0146bb4ff13417a3de45cc&user_session_id=fb5c3f9379591ffb7e285be1b68aebaa"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911991_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1692464311-0-0-0cf9aad0ff0146bb4ff13417a3de45cc&user_session_id=fb5c3f9379591ffb7e285be1b68aebaa"
   },
 {
    "type": "Vebo",
@@ -356,7 +164,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
   {
@@ -380,31 +188,31 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911987_lhd.m3u8?edge_slice=true&auth_key=1692464371-0-0-f44b23abeb862aaaeb14255ffa940102&sub_m3u8=true&user_session_id=52f79ba57d70e8d292c46892f24b55dd"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911987_lsd.m3u8?edge_slice=true&auth_key=1692464371-0-0-f44b23abeb862aaaeb14255ffa940102&sub_m3u8=true&user_session_id=52f79ba57d70e8d292c46892f24b55dd"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9891.png",
@@ -412,7 +220,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
   {
@@ -436,31 +244,31 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-105723_lhd.m3u8?txSecret=243f39c7331539bcf7d85d3c4f6dd0d8&txTime=64e13b43"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-105723_lsd.m3u8?txSecret=243f39c7331539bcf7d85d3c4f6dd0d8&txTime=64e13b43"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/L6tK4v1/download-77.png",
@@ -468,7 +276,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.fifplay.com/img/public/bundesliga-logo.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
   {
