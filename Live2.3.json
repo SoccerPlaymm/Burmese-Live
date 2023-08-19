@@ -299,14 +299,14 @@
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "HD",
+   "link": "https://reels2watch.com/hls/s3.m3u8?|Referer=https://techclips.net/"
   },
   {
    "type": "English [ VIP ]",
-   "Vip": "Vip",
+   "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://dw2rhzxa9d7uo.cloudfront.net/hls/f06aa8130b7b8cab.m3u8"
   },
   {
    "type": "Soco",
