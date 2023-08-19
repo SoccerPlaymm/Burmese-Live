@@ -194,7 +194,7 @@
    "type": "English [ VIP ]",
    "Vip": "Non",
    "quality": "HD",
-   "link": "https://storage.googleapis.com/w16siijc6o5c02l/main.m3u8"
+   "link": "https://m4iswbjnhzrz.fordems.live/live/for-dems1/chunks.m3u8"
   },
   {
    "type": "English [ VIP ]",
@@ -330,13 +330,13 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991156_lhd.m3u8?user_session_id=adfe25fb1a2a3f8b308937e76b5919ed&edge_slice=true&sub_m3u8=true&auth_key=1692476431-0-0-ce5adac51be4006befab45f64b0cdb5a"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991156_lsd.m3u8?user_session_id=adfe25fb1a2a3f8b308937e76b5919ed&edge_slice=true&sub_m3u8=true&auth_key=1692476431-0-0-ce5adac51be4006befab45f64b0cdb5a"
   },
 {
    "type": "Vebo",
@@ -362,7 +362,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/0b222ee18016b5ad1678262db6487812.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:00 AM"
   }
 ]
