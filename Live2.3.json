@@ -294,7 +294,13 @@
    "type": "English [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "0"
+   "link": "https://www.60mins.org/live/link3/index.m3u8?|Referer=https://fctvlive.com/"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "SD",
+   "link": "https://s5.kora-360.com/live/ch4pe.m3u8?|Referer=https://1scores.live/"
   },
   {
    "type": "Soco",
@@ -312,19 +318,19 @@
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/8YZYVzF/download-15.png",
@@ -332,7 +338,7 @@
     "Hot": "",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -349,8 +355,20 @@
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
-   "quality": "HD",
+   "quality": "FHD",
    "link": "0"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "FHD",
+   "link": "0"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://www.60mins.org/live/link1/index.m3u8?|Referer=https://fctvlive.com/"
   },
   {
    "type": "Soco",
@@ -368,19 +386,19 @@
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/T12PsPR/download-3.png",
@@ -388,7 +406,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -405,8 +423,14 @@
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
-   "quality": "HD",
+   "quality": "FHD",
    "link": "0"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://www.60mins.org/live/link2/index.m3u8?|Referer=https://fctvlive.com/"
   },
   {
    "type": "Soco",
@@ -424,19 +448,19 @@
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/QJMLcrP/download-10.png",
@@ -444,7 +468,7 @@
     "Hot": "",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
