@@ -309,6 +309,18 @@
    "link": "https://dw2rhzxa9d7uo.cloudfront.net/hls/f06aa8130b7b8cab.m3u8"
   },
   {
+   "type": "Laliga [ VIP ]",
+   "Vip": "Non",
+   "quality": "FHD",
+   "link": "https://m4iswbjnhzrz.fordems.live/live/for-dems2/chunks.m3u8"
+  },
+  {
+   "type": "Laliga [ VIP ]",
+   "Vip": "Non",
+   "quality": "HD",
+   "link": "https://realbitsport.com/n-2.m3u8"
+  },
+  {
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
