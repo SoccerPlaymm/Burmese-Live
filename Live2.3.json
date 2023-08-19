@@ -184,12 +184,7 @@
     "AwayName": "Newcastle",
     "Date": "Aug 20",
     "Link": [
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Non",
-   "quality": "FHD",
-   "link": "https://webudit.cdndac.lol/lb/premium10/index.m3u8"
-  },
+  
   {
    "type": "English [ VIP ]",
    "Vip": "Non",
@@ -201,12 +196,6 @@
    "Vip": "Non",
    "quality": "HD",
    "link": "https://us.catchystream.xyz/playlist/stream_1.m3u8"
-  },
-  {
-   "type": "Arabic [ VIP ]",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "https://dw2rhzxa9d7uo.cloudfront.net/hls/ac02b3203d32779c.m3u8"
   },
   {
    "type": "English [ VIP ]",
