@@ -62,13 +62,13 @@
     "Link": [
   {
    "type": "English [ VIP ]",
-   "Vip": "Vip",
+   "Vip": "Non",
    "quality": "FHD",
    "link": "https://storage.googleapis.com/rcwhusjqgipgpke/main.m3u8"
   },
   {
    "type": "English [ VIP ]",
-   "Vip": "Vip",
+   "Vip": "Non",
    "quality": "HD",
    "link": "https://storage.googleapis.com/rcwhusjqgipgpke/mux_video_ts/index-1.m3u8"
   },
@@ -80,7 +80,7 @@
   },
   {
    "type": "English [ VIP ]",
-   "Vip": "Vip",
+   "Vip": "Non",
    "quality": "HD",
    "link": "https://dw2rhzxa9d7uo.cloudfront.net/hls/ac02b3203d32779c.m3u8"
   },
@@ -131,14 +131,14 @@
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "HD",
+   "link": "https://reels2watch.com/hls/s10.m3u8?|Referer=https://techclips.net/"
   },
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "0"
+   "link": "https://xwssgs.1stream.one/scripts/MTE5Nzc=/caxi.m3u8?|Referer=https://1stream.soccer/"
   },
   {
    "type": "Soco",
