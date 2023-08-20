@@ -99,8 +99,20 @@
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "HD",
+   "link": "https://83nzh7qpaxswin.sharecast.ws/hls/191e545c38bd9d48-89f3ce4d45f35163cc09c06fd37c24a91fc7a42c1e43c7c7d39e51fad381b5e9/live.m3u8?|Referer=https://sharecast.ws/"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://m4iswbjnhzrz.fordems.live/live/for-dems1/chunks.m3u8?|Referer=https://fordems.live/"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://weak.hiweak12.store/live/usa/weak.m3u8?|Referer=https://weakstream.org/"
   },
   {
    "type": "English [ VIP ]",
