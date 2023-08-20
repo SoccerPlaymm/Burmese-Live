@@ -256,13 +256,13 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-991121_lhd.m3u8?txSecret=9eff43709afcb06afeb17b519f678339&txTime=64e2965f"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-991121_lsd.m3u8?txSecret=9eff43709afcb06afeb17b519f678339&txTime=64e2965f"
   },
 {
    "type": "Vebo",
@@ -300,7 +300,7 @@
     "Hot": "",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/0b222ee18016b5ad1678262db6487812.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:30 PM"
   },
   {
@@ -312,13 +312,13 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=31c80aa510e949aef8a8f6f4704a23c1&txTime=64e2965f"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-434154_lsd.m3u8?txSecret=31c80aa510e949aef8a8f6f4704a23c1&txTime=64e2965f"
   },
 {
    "type": "Vebo",
@@ -356,7 +356,7 @@
     "Hot": "",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/7657c838a66d3ca33cccabbc1526f853.png",
     "LeagueName": "Laliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:30 PM"
   },
   {
