@@ -1,5 +1,41 @@
 [
 {
+    "Name":"Serendipity Love",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-06-12/6486f81861bea.png",
+    "dLink":"http://www.zegomovie.com/Videos/Serendipity%20Love/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Serendipity%20Love/index.m3u8"   
+  },
+ {
+    "Name":"Boonie Bears: Back to Earth",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-04-07/642fec867cc3f.png",
+    "dLink":"http://www.zegomovie.com/Videos/BoonieBears23/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/BoonieBears23/index.m3u8"   
+  },
+ {
+    "Name":"S-Girl",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-03-11/640c33e465231.png",
+    "dLink":"http://www.zegomovie.com/Videos/SGirl/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/SGirl/index.m3u8"
+  },
+{
+    "Name":"The Year of the Dog",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-08-18/64df4f04a4e6b.png",
+    "dLink":"http://www.zegomovie.com/Videos/TheYearoftheDog22/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/TheYearoftheDog22/index.m3u8"   
+  },
+ {
+    "Name":"Miguel Wants to Fight",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-08-18/64df48df89170.png",
+    "dLink":"http://www.zegomovie.com/Videos/MiguelWantstoFight23/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/MiguelWantstoFight23/index.m3u8"   
+  },
+ {
+    "Name":"Snow and the Bear",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-08-18/64df128f4c215.png",
+    "dLink":"http://www.zegomovie.com/Videos/SnowAndTheBear22/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/SnowAndTheBear22/index.m3u8"
+  },
+{
     "Name":"Farhana",
     "Image":"http://zegomovie.com/Uploads/vod/2023-07-20/64b90d0ce1727.png",
     "dLink":"http://www.zegomovie.com/Videos/Farhana23/index.m3u8",
