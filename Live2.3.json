@@ -1,61 +1,5 @@
 [
   {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png",
-    "AwayName": "Cagliari",
-    "Date": "Aug 21",
-    "Link": [
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911984_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e0fd677a4c757a91806c66d7ef7b099a&auth_key=1692638191-0-0-42e2ceb24a108239f53ed80578075a88"
-  },
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911984_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e0fd677a4c757a91806c66d7ef7b099a&auth_key=1692638191-0-0-42e2ceb24a108239f53ed80578075a88"
-  },
-{
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "FHD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/soiFHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@soiSD/playlist.m3u8"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "FHD",
-   "link": "https://us.catchystream.xyz/playlist/stream_2.m3u8?|Referer=https://catchystream.com/"
-  },
-  {
-   "type": "TNT [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://trgoals.m3u8gala.store/yayinch1.m3u8?|Referer=https://yehfullhd.live/"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/T8v9CbT/download-51.png",
-    "HomeName": "Torino",
-    "Hot": "",
-    "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "11:00 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/DzBDBrj/download-25.png",
     "AwayName": "Sevilla",
     "Date": "Aug 21",
@@ -120,43 +64,43 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911981_lhd.m3u8?edge_slice=true&user_session_id=e9fe669e53f01441e222e739a6dcc593&auth_key=1692645931-0-0-0b8a9d1f66a0eaba06606c478342a122&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911981_lsd.m3u8?edge_slice=true&user_session_id=e9fe669e53f01441e222e739a6dcc593&auth_key=1692645931-0-0-0b8a9d1f66a0eaba06606c478342a122&sub_m3u8=true"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/playlist.m3u8"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "TNT [ VIP ]",
    "Vip": "Vip",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "HD",
+   "link": "https://realbitsport.com/n-3.m3u8?|Referer=https://realbitsport.com/"
   },
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "0"
+   "link": "https://m4iswbjnhzrz.fordems.live/live/for-dems3/chunks.m3u8?|Referer=https://fordems.live/"
   }
              ],
     "HomeImage": "https://www.soccer24.com/res/image/data/j3Tyh1GG-bucnXust.png",
@@ -164,7 +108,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -176,13 +120,13 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911985_lhd.m3u8?edge_slice=true&user_session_id=d34a0517e17fea64b414619f5ff85f6d&auth_key=1692645931-0-0-8d2d41bc2ba825e1a25ce0d2ab512a3c&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911985_lsd.m3u8?edge_slice=true&user_session_id=d34a0517e17fea64b414619f5ff85f6d&auth_key=1692645931-0-0-8d2d41bc2ba825e1a25ce0d2ab512a3c&sub_m3u8=true"
   },
 {
    "type": "Vebo",
@@ -200,6 +144,18 @@
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
+   "link": "0"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "FHD",
+   "link": "0"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
    "link": "0"
   },
   {
