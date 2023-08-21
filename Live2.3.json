@@ -8,31 +8,31 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911984_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e0fd677a4c757a91806c66d7ef7b099a&auth_key=1692638191-0-0-42e2ceb24a108239f53ed80578075a88"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911984_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e0fd677a4c757a91806c66d7ef7b099a&auth_key=1692638191-0-0-42e2ceb24a108239f53ed80578075a88"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/soiFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@soiSD/playlist.m3u8"
   },
   {
    "type": "English [ VIP ]",
@@ -41,10 +41,10 @@
    "link": "0"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "TNT [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "0"
+   "link": "https://trgoals.m3u8gala.store/yayinch1.m3u8?|Referer=https://yehfullhd.live/"
   }
              ],
     "HomeImage": "https://i.ibb.co/T8v9CbT/download-51.png",
@@ -52,7 +52,7 @@
     "Hot": "",
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
   {
