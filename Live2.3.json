@@ -153,10 +153,10 @@
    "link": "https://us.catchystream.xyz/playlist/stream_1.m3u8"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "SKY PL [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "0"
+   "link": "https://bdcz0sjph3j81z.sharecast.ws/hls/85a16d88c4327f40-753aa7bccc1566e7b0327d16902e805ad8d4c68f22041e39cc2a3be5f6794584/live.m3u8?|Referer=https://sharecast.ws/"
   },
   {
    "type": "SKY MAIN [ VIP ]",
@@ -165,10 +165,16 @@
    "link": "https://asdas.azzureedge.xyz/scripts/MTIwNzQ=/caxi.m3u8?|Referer=https://1stream.soccer/"
   },
   {
+   "type": "beIN [ VIP ]",
+   "Vip": "Vip",
+   "quality": "SD",
+   "link": "https://bdcz0sjph3j81z.sharecast.ws/hls/d6093294c8f0376a-fea85013d3f60cb11f8eda5ac7906b1366f8b513ff9980fee9f194398936909f/live.m3u8?|Referer=https://sharecast.ws/"
+  }
+  {
    "type": "English [ VIP ]",
    "Vip": "Vip",
-   "quality": "HD",
-   "link": "0"
+   "quality": "SD",
+   "link": "https://play2-cf.ddi2ank3.cc/auth%3D800172b6d969d1119316f072a45b5634840487cd306b46a3423ed1572546a67d63d91000667f99b4dcfe678284e59aaaebb9eb269fe4597e00ca9aa48a54e01d6495a15bbc73b98822221c01fb548726cbae4fe3c48e76b13a08a733d696c7c7b93c60757520a44103a5b248c147272b1047f78f387968bdb8a75929abbf5101a3780148f2a6aed44073779ceba40b582504bcea66150a5ad6cb25bfaa37d41d%26cid%3DS9DYGtm9QD_Sly-p1RJUy230817%26_v%3D2%26_r%3DkYyY6y%26_vis%3D731b2c220aaaab805f2b821997356a48b7ff3305f082eef2b51c18971be45a14%26_vvs%3D0824638163691bc9da8bbb236dd6e4805869d166042dd43f22eb116695ad20e5/app/c198032.m3u8?|Referer=https://play2.score808pro.com/"
   }
              ],
     "HomeImage": "https://i.ibb.co/PF2LKYS/download-6.png",
