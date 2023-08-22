@@ -1,188 +1,114 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/YpGpV2N/download-57.png",
-    "AwayName": "Milan",
+    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102119.png",
+    "AwayName": "Shabab Al -Ahli Dubai FC",
     "Date": "Aug 22",
     "Link": [
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911981_lhd.m3u8?edge_slice=true&user_session_id=e9fe669e53f01441e222e739a6dcc593&auth_key=1692645931-0-0-0b8a9d1f66a0eaba06606c478342a122&sub_m3u8=true"
+   "link": "0"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911981_lsd.m3u8?edge_slice=true&user_session_id=e9fe669e53f01441e222e739a6dcc593&auth_key=1692645931-0-0-0b8a9d1f66a0eaba06606c478342a122&sub_m3u8=true"
+   "link": "0"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8"
+   "link": "0"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
+   "link": "0"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/playlist.m3u8"
+   "link": "0"
   },
   {
-   "type": "TNT [ VIP ]",
+   "type": "English [ VIP ]",
    "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://realbitsport.com/n-3.m3u8?|Referer=https://realbitsport.com/"
+   "quality": "FHD",
+   "link": "0"
   },
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "https://m4iswbjnhzrz.fordems.live/live/for-dems3/chunks.m3u8?|Referer=https://fordems.live/"
+   "link": "0"
   }
              ],
-    "HomeImage": "https://www.soccer24.com/res/image/data/j3Tyh1GG-bucnXust.png",
-    "HomeName": "Bologna",
+    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
+    "HomeName": "Al Nassr FC",
     "Hot": "Hot",
-    "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "1:15 AM"
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/525.png",
+    "LeagueName": "AFC Champions League",
+    "LiveUpcoming": "Upcoming",
+    "Time": "11:50 PM"
   },
   {
-    "AwayImage": "https://i.ibb.co/bN749H2/download-12.png",
-    "AwayName": "Arsenal",
-    "Date": "Aug 22",
+    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/960720.png",
+    "AwayName": "Inter Miami FC",
+    "Date": "Aug 24",
     "Link": [
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911985_lhd.m3u8?edge_slice=true&user_session_id=d34a0517e17fea64b414619f5ff85f6d&auth_key=1692645931-0-0-8d2d41bc2ba825e1a25ce0d2ab512a3c&sub_m3u8=true"
+   "link": "0"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911985_lsd.m3u8?edge_slice=true&user_session_id=d34a0517e17fea64b414619f5ff85f6d&auth_key=1692645931-0-0-8d2d41bc2ba825e1a25ce0d2ab512a3c&sub_m3u8=true"
+   "link": "0"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
+   "link": "0"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
+   "link": "0"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "https://us.catchystream.xyz/playlist/stream_1.m3u8"
-  },
-  {
-   "type": "SKY PL [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://bdcz0sjph3j81z.sharecast.ws/hls/85a16d88c4327f40-753aa7bccc1566e7b0327d16902e805ad8d4c68f22041e39cc2a3be5f6794584/live.m3u8?|Referer=https://sharecast.ws/"
-  },
-  {
-   "type": "SKY MAIN [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://asdas.azzureedge.xyz/scripts/MTIwNzQ=/caxi.m3u8?|Referer=https://1stream.soccer/"
-  },
-  {
-   "type": "beIN [ VIP ]",
-   "Vip": "Vip",
-   "quality": "SD",
-   "link": "https://bdcz0sjph3j81z.sharecast.ws/hls/d6093294c8f0376a-fea85013d3f60cb11f8eda5ac7906b1366f8b513ff9980fee9f194398936909f/live.m3u8?|Referer=https://sharecast.ws/"
+   "link": "0"
   },
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
-   "quality": "SD",
-   "link": "https://play2-cf.ddi2ank3.cc/auth%3D800172b6d969d1119316f072a45b5634840487cd306b46a3423ed1572546a67d63d91000667f99b4dcfe678284e59aaaebb9eb269fe4597e00ca9aa48a54e01d6495a15bbc73b98822221c01fb548726cbae4fe3c48e76b13a08a733d696c7c7b93c60757520a44103a5b248c147272b1047f78f387968bdb8a75929abbf5101a3780148f2a6aed44073779ceba40b582504bcea66150a5ad6cb25bfaa37d41d%26cid%3DS9DYGtm9QD_Sly-p1RJUy230817%26_v%3D2%26_r%3DkYyY6y%26_vis%3D731b2c220aaaab805f2b821997356a48b7ff3305f082eef2b51c18971be45a14%26_vvs%3D0824638163691bc9da8bbb236dd6e4805869d166042dd43f22eb116695ad20e5/app/c198032.m3u8?|Referer=https://play2.score808pro.com/"
+   "quality": "FHD",
+   "link": "0"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "0"
   }
              ],
-    "HomeImage": "https://i.ibb.co/PF2LKYS/download-6.png",
-    "HomeName": "Crystal Palace",
+    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/722265.png",
+    "HomeName": "Cincinnati",
     "Hot": "Hot",
-    "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
-    "LeagueName": "Premier League",
-    "LiveUpcoming": "Live",
-    "Time": "1:30 AM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/SvkRPGx/download-38.png",
-    "AwayName": "Rayo Vallecano",
-    "Date": "Aug 22",
-    "Link": [
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-494201_lhd.m3u8?auth_key=1692648751-0-0-363871f2365f057f16852b6ad1c6ffa3&user_session_id=5710a81ed93c47a4e6ccb548f095d5f3&sub_m3u8=true&edge_slice=true"
-  },
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-494201_lsd.m3u8?auth_key=1692648751-0-0-363871f2365f057f16852b6ad1c6ffa3&user_session_id=5710a81ed93c47a4e6ccb548f095d5f3&sub_m3u8=true&edge_slice=true"
-  },
-{
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "0"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7878.png",
-    "HomeName": "Granada",
-    "Hot": "",
-    "LeagueImage": "https://www.ilike-movie.com/fw-img/7657c838a66d3ca33cccabbc1526f853.png",
-    "LeagueName": "Laliga",
-    "LiveUpcoming": "Live",
-    "Time": "2:00 AM"
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9441.png",
+    "LeagueName": "Open Cup - Semi Final",
+    "LiveUpcoming": "Upcoming",
+    "Time": "5:30 AM"
   }
 ]
