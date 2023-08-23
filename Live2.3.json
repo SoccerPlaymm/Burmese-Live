@@ -8,31 +8,31 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911996_lhd.m3u8?user_session_id=f5cc243a68d9d6254a0c2f196d121b8d&auth_key=1692834271-0-0-a620a326af875ca48b6c478f206607d8&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911996_lsd.m3u8?user_session_id=f5cc243a68d9d6254a0c2f196d121b8d&auth_key=1692834271-0-0-a620a326af875ca48b6c478f206607d8&edge_slice=true&sub_m3u8=true"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
   },
   {
    "type": "English [ VIP ]",
@@ -52,7 +52,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9441.png",
     "LeagueName": "Open Cup - Semi Final",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "5:30 AM"
   },
   {
