@@ -35,12 +35,6 @@
    "link": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
   },
   {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "https://asdas.azzureedge.xyz/scripts/MTIxMzU=/caxi.m3u8"
-  },
-  {
    "type": "CITY TV [ VIP ]",
    "Vip": "Vip",
    "quality": "FHD",
@@ -51,6 +45,12 @@
    "Vip": "Vip",
    "quality": "HD",
    "link": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?|Referer=https://plstreams.org/"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://asdas.azzureedge.xyz/scripts/MTIxMzU=/caxi.m3u8?|Referer=https://1stream.soccer/"
   },
   {
    "type": "English [ VIP ]",
