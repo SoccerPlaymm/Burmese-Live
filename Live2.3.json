@@ -153,10 +153,16 @@
    "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   },
   {
-   "type": "SPL [ VIP ]",
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "FHD",
+   "link": "https://livecdn.rumsport.com/stream/2_fhd/index.m3u8?|Referer=https://live-streamfootball.com"
+  },
+  {
+   "type": "English [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "https://us.catchystream.xyz/playlist/stream_1.m3u8?|Referer=https://catchystream.com/"
+   "link": "https://livecdn.rumsport.com/stream/2/index.m3u8?|Referer=https://live-streamfootball.com"
   },
   {
    "type": "SKY PL [ VIP ]",
