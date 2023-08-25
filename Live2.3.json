@@ -101,6 +101,12 @@
    "Vip": "Vip",
    "quality": "HD",
    "link": "https://asdas.azzureedge.xyz/scripts/MTIyMzY=/caxi.m3u8?|Referer=https://1stream.soccer/"
+  },
+  {
+   "type": "English [ VIP ]",
+   "Vip": "Vip",
+   "quality": "SD",
+   "link": "0"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/177356.png",
@@ -120,43 +126,43 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-239019_lhd.m3u8?sub_m3u8=true&auth_key=1692990931-0-0-f407d80b41b908e60b063a80c2b21c43&edge_slice=true&user_session_id=e9667b28c6e02f71becdb7c485d7225b"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-239019_lsd.m3u8?sub_m3u8=true&auth_key=1692990931-0-0-f407d80b41b908e60b063a80c2b21c43&edge_slice=true&user_session_id=e9667b28c6e02f71becdb7c485d7225b"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may3SD/playlist.m3u8"
   },
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://us.catchystream.xyz/playlist/stream_2.m3u8?|Referer=https://catchystream.com/"
   },
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "0"
+   "link": "https://weak.hiweak12.store/live/ssf/weak.m3u8?|Referer=https://weakstream.org/"
   }
              ],
     "HomeImage": "https://i.ibb.co/HdHxByy/download-76.png",
@@ -164,7 +170,7 @@
     "Hot": "",
     "LeagueImage": "https://www.fifplay.com/img/public/bundesliga-logo.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:00 AM"
   },
   {
