@@ -209,10 +209,16 @@
    "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "SPL [ VIP ]",
    "Vip": "Vip",
-   "quality": "FHD",
-   "link": "0"
+   "quality": "HD",
+   "link": "https://us.catchystream.xyz/playlist/stream_1.m3u8?|Referer=https://catchystream.com/"
+  },
+  {
+   "type": "SKY PL [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://fdaskj.1stream.one/scripts/MTIyNDQ=/caxi.m3u8?|Referer=https://1stream.soccer/"
   },
   {
    "type": "English [ VIP ]",
@@ -223,13 +229,7 @@
   {
    "type": "English [ VIP ]",
    "Vip": "Vip",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
+   "quality": "SD",
    "link": "0"
   }
              ],
