@@ -333,10 +333,10 @@
    "link": "0"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "USA [ VIP ]",
    "Vip": "Vip",
-   "quality": "HD",
-   "link": "0"
+   "quality": "SD",
+   "link": "https://s6.kora-360.com/live/ch4pe.m3u8?|Referer=https://1scores.live/"
   }
              ],
     "HomeImage": "https://i.ibb.co/bN749H2/download-12.png",
@@ -513,10 +513,10 @@
    "link": "0"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "beIN ENG [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "0"
+   "link": "https://s5.kora-360.com/live/ch2pe.m3u8?|Referer=https://1scores.live/"
   }
              ],
     "HomeImage": "https://i.ibb.co/rZFH50R/download-1.png",
