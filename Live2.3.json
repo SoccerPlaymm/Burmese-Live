@@ -328,9 +328,9 @@
   },
   {
    "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "0"
+   "Vip": "Non",
+   "quality": "SD",
+   "link": "https://a03ddb580441.us-east-1.playback.live-video.net/api/video/v1/us-east-1.311122646616.channel.ahamFUQk4Wyj.m3u8"
   },
   {
    "type": "USA [ VIP ]",
@@ -508,9 +508,9 @@
   },
   {
    "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "0"
+   "Vip": "Non",
+   "quality": "SD",
+   "link": "https://a03ddb580441.us-east-1.playback.live-video.net/api/video/v1/us-east-1.311122646616.channel.PSqLxs6oTybL.m3u8"
   },
   {
    "type": "beIN ENG [ VIP ]",
