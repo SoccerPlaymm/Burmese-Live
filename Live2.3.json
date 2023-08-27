@@ -221,7 +221,7 @@
    "link": "https://obevcimanyd179314182.thapcam.link/live/cuonSD/playlist.m3u8"
   },
   {
-   "type": "SKY FOOTBALL [ VIP ]",
+   "type": "SKY FB [ VIP ]",
    "Vip": "Vip",
    "quality": "FHD",
    "link": "https://m4iswbjnhzrz.fordems.live/live/for-dems3/chunks.m3u8?|Referer=https://fordems.live/"
@@ -256,13 +256,13 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991184_lhd.m3u8?auth_key=1693156531-0-0-57825f1a914a563e4cd3367f3eb27d76&sub_m3u8=true&edge_slice=true&user_session_id=bd394305252a1e67bbdedcda11651fbf"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991184_lsd.m3u8?auth_key=1693156531-0-0-57825f1a914a563e4cd3367f3eb27d76&sub_m3u8=true&edge_slice=true&user_session_id=bd394305252a1e67bbdedcda11651fbf"
   },
 {
    "type": "Vebo",
@@ -312,31 +312,31 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9911989_lhd.m3u8?txSecret=6c4fdace717b3753ef3474c297f05303&txTime=64ebcb3f"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9911989_lsd.m3u8?txSecret=6c4fdace717b3753ef3474c297f05303&txTime=64ebcb3f"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/mySD/playlist.m3u8"
   },
   {
    "type": "English [ VIP ]",
@@ -356,7 +356,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
   {
