@@ -153,6 +153,12 @@
    "link": "https://storage.googleapis.com/ywmohhamkj/main.m3u8"
   },
   {
+   "type": "English [ VIP ]",
+   "Vip": "Non",
+   "quality": "HD",
+   "link": "https://storage.googleapis.com/lajover1/selector.m3u8"
+  },
+  {
    "type": "USA [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
