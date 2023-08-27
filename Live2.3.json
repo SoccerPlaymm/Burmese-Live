@@ -153,22 +153,22 @@
    "link": "https://storage.googleapis.com/ywmohhamkj/main.m3u8"
   },
   {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
    "type": "USA [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
    "link": "https://asdas.azzureedge.xyz/scripts/MTI0NDY=/caxi.m3u8?|Referer=https://1stream.soccer/"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "USA [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "0"
+   "link": "https://wekppssx.azureedge.net/live/usa/playlist.m3u8?|Referer=https://weakstream.org/"
+  },
+  {
+   "type": "SKY PL [ VIP ]",
+   "Vip": "Vip",
+   "quality": "SD",
+   "link": "https://s5.kora-360.com/live/ch2pe.m3u8?|Referer=https://1scores.live/"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8657.png",
