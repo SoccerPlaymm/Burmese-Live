@@ -36,9 +36,9 @@
   },
   {
    "type": "SVariety [ VIP ]",
-   "Vip": "Non",
+   "Vip": "Vip",
    "quality": "HD",
-   "link": "https://m4iswbjnhzrz.fordems.live/live/for-dems2/chunks.m3u8"
+   "link": "https://m4iswbjnhzrz.fordems.live/live/for-dems2/chunks.m3u8?|Referer=https://fordems.live/"
   },
   {
    "type": "English [ VIP ]",
@@ -97,16 +97,16 @@
    "link": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8"
   },
   {
-   "type": "SKY PL [ VIP ]",
-   "Vip": "Non",
+   "type": "SKY Pl [ VIP ]",
+   "Vip": "Vip",
    "quality": "HD",
-   "link": "https://storage.googleapis.com/ywmohhamkj/main.m3u8"
+   "link": "https://storage.googleapis.com/pjxrbneiix/main.m3u8?|Referer=https://fordems.live/"
   },
   {
    "type": "English [ VIP ]",
-   "Vip": "Non",
+   "Vip": "Vip",
    "quality": "HD",
-   "link": "https://storage.googleapis.com/lajover1/selector.m3u8"
+   "link": "https://storage.googleapis.com/linuceovo1/selector.m3u8?|Referer=https://realbitsport.com/"
   },
   {
    "type": "USA [ VIP ]",
