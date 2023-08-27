@@ -1,117 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/f0wRMJt/download-56.png",
-    "AwayName": "Lecce",
-    "Date": "Aug 27",
-    "Link": [
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991184_lhd.m3u8?auth_key=1693156531-0-0-57825f1a914a563e4cd3367f3eb27d76&sub_m3u8=true&edge_slice=true&user_session_id=bd394305252a1e67bbdedcda11651fbf"
-  },
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991184_lsd.m3u8?auth_key=1693156531-0-0-57825f1a914a563e4cd3367f3eb27d76&sub_m3u8=true&edge_slice=true&user_session_id=bd394305252a1e67bbdedcda11651fbf"
-  },
-{
-   "type": "Vietnam",
-   "Vip": "Non",
-   "quality": "FHD",
-   "link": "https://bofang.3979live.tv/huxun/873.m3u8?txSecret=ae7e3cf18477033cd55dad45bfff47e1&txTime=64EBEA4E"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "0"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "0"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/Sc8jcxx/download-53.png",
-    "HomeName": "Fiorentina",
-    "Hot": "",
-    "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "11:00 PM"
-  },
-  {
-    "AwayImage": "https://www.soccer24.com/res/image/data/j3Tyh1GG-bucnXust.png",
-    "AwayName": "Bologna",
-    "Date": "Aug 27",
-    "Link": [
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "https://pull01.rrwes.live/live/stream-9911989_lhd.m3u8?txSecret=6c4fdace717b3753ef3474c297f05303&txTime=64ebcb3f"
-  },
-  {
-   "type": "Soco",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "https://pull01.rrwes.live/live/stream-9911989_lsd.m3u8?txSecret=6c4fdace717b3753ef3474c297f05303&txTime=64ebcb3f"
-  },
-{
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "FHD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "HD",
-   "link": "https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo",
-   "Vip": "Non",
-   "quality": "SD",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/mySD/playlist.m3u8"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "FHD",
-   "link": "0"
-  },
-  {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
-   "quality": "HD",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/Xj0bkGg/download-48.png",
-    "HomeName": "Juventus",
-    "Hot": "Hot",
-    "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "11:00 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/mTH2ByB/download-28.png",
     "AwayName": "Osasuna",
     "Date": "Aug 28",
@@ -176,31 +64,31 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911991_lhd.m3u8?auth_key=1693164391-0-0-9cc757ae0f5d20cb0d4da775d6f273d8&sub_m3u8=true&edge_slice=true&user_session_id=36816172b51452e29855c8392b4c93f3"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911991_lhd.m3u8?auth_key=1693164391-0-0-9cc757ae0f5d20cb0d4da775d6f273d8&sub_m3u8=true&edge_slice=true&user_session_id=36816172b51452e29855c8392b4c93f3"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8"
   },
   {
    "type": "English [ VIP ]",
@@ -220,7 +108,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -232,31 +120,31 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911976_lhd.m3u8?auth_key=1693164331-0-0-8cbdfda763f4b7fa7c78a1b2aa433edf&edge_slice=true&sub_m3u8=true&user_session_id=89287a0932dac4813c764ee01a2fec74"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911976_lsd.m3u8?auth_key=1693164331-0-0-8cbdfda763f4b7fa7c78a1b2aa433edf&edge_slice=true&sub_m3u8=true&user_session_id=89287a0932dac4813c764ee01a2fec74"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8"
   },
   {
    "type": "English [ VIP ]",
@@ -276,7 +164,7 @@
     "Hot": "",
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -288,31 +176,31 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911998_lhd.m3u8?edge_slice=true&user_session_id=977b2b5ec77c113e3d99d0979ecf74dc&sub_m3u8=true&auth_key=1693164331-0-0-9d30e198b6dd95a26b9820a80bb20adb"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911998_lsd.m3u8?edge_slice=true&user_session_id=977b2b5ec77c113e3d99d0979ecf74dc&sub_m3u8=true&auth_key=1693164331-0-0-9d30e198b6dd95a26b9820a80bb20adb"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   },
   {
    "type": "English [ VIP ]",
@@ -332,7 +220,7 @@
     "Hot": "",
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -344,13 +232,13 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=5b5893d4b1c672690349598bc35faa26&txTime=64ebe9b7"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=5b5893d4b1c672690349598bc35faa26&txTime=64ebe9b7"
   },
 {
    "type": "Vebo",
@@ -388,7 +276,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:00 AM"
   }
 ]
