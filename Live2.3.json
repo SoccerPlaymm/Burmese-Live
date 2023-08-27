@@ -17,16 +17,16 @@
    "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-494201_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1693136791-0-0-2ffb4ae03361d49e049207ecabda6d4d&user_session_id=a075c16f589bcfdd0b29bfe75ebaf690"
   },
 {
-   "type": "Vebo",
+   "type": "Vebo ENG",
    "Vip": "Non",
    "quality": "fhD",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/sd-1l4rjnhjwnn3m7v/playlist.m3u8"
   },
   {
-   "type": "Vebo",
+   "type": "Vebo ENG",
    "Vip": "Non",
    "quality": "hD",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/hd-en-1l4rjnhjwnn3m7v/playlist.m3u8"
   },
   {
    "type": "Vebo",
