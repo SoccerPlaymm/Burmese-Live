@@ -368,13 +368,13 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911954_lhd.m3u8?sub_m3u8=true&auth_key=1693151551-0-0-b265d956a2a4ff300104c5cc7af34e47&edge_slice=true&user_session_id=d004d9192c83bc54a5f4279596c8825f"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911954_lsd.m3u8?sub_m3u8=true&auth_key=1693151551-0-0-b265d956a2a4ff300104c5cc7af34e47&edge_slice=true&user_session_id=d004d9192c83bc54a5f4279596c8825f"
   },
 {
    "type": "Vebo",
@@ -386,13 +386,13 @@
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8"
   },
   {
    "type": "English [ VIP ]",
@@ -412,7 +412,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:35 PM"
   },
   {
