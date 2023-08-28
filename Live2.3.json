@@ -64,13 +64,13 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-479849_lhd.m3u8?auth_key=1693246532-0-0-bd22e944b488a162f593aa87478f5335&sub_m3u8=true&edge_slice=true&user_session_id=3b00312dc0e13595b2904cd723535def"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-479849_lsd.m3u8?auth_key=1693246532-0-0-bd22e944b488a162f593aa87478f5335&sub_m3u8=true&edge_slice=true&user_session_id=3b00312dc0e13595b2904cd723535def"
   },
 {
    "type": "Vebo",
@@ -91,16 +91,16 @@
    "link": "0"
   },
   {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
+   "type": "LaLiga [ VIP ]",
+   "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://livenflstream.xyz/playlist/stream_1.m3u8"
   },
   {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
+   "type": "LaLiga [ VIP ]",
+   "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports.freesport.info/playlist/streamfree2.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/6BFq3Lt/download-22.png",
@@ -108,7 +108,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:00 AM"
   },
   {
