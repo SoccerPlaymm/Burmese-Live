@@ -8,43 +8,43 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=24e267575ec30dacc7b9704839acbe54&txTime=64ed1cfc"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-144861_lsd.m3u8?txSecret=24e267575ec30dacc7b9704839acbe54&txTime=64ed1cfc"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/soiFHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@soiSD/playlist.m3u8"
   },
   {
-   "type": "English [ VIP ]",
-   "Vip": "Vip",
+   "type": "TNT [ VIP ]",
+   "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://livenflstream.xyz/playlist/stream_2.m3u8"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "TNT[ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
-   "link": "0"
+   "link": "https://sports.freesport.info/playlist/streamfree1.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/dkf4cTv/download-54.png",
@@ -52,7 +52,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
   {
