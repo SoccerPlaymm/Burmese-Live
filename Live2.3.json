@@ -8,31 +8,31 @@
    "type": "Soco",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912041_lhd.m3u8?user_session_id=038d63ce4f0eff351c365aa9c2d37e0d&auth_key=1693334732-0-0-61da38da06fe06b0d4f23eb61f1394e3&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "Soco",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912041_lsd.m3u8?user_session_id=038d63ce4f0eff351c365aa9c2d37e0d&auth_key=1693334732-0-0-61da38da06fe06b0d4f23eb61f1394e3&edge_slice=true&sub_m3u8=true"
   },
 {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   },
   {
    "type": "English [ VIP ]",
@@ -52,7 +52,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/536.png",
     "LeagueName": "Saudi Pro League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:30 AM"
   },
   {
