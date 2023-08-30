@@ -5,43 +5,55 @@
     "Date": "Aug 31",
     "Link": [
   {
-   "type": "Soco",
+   "type": "Vietnam HD",
    "Vip": "Non",
-   "quality": "HD",
-   "link": "0"
+   "quality": "FHD",
+   "link": "https://bofang.3979live.tv/huxun/873.m3u8?txSecret=e3287e71a681e13bc9025e26b9bb94df&txTime=64EFF875"
   },
   {
-   "type": "Soco",
+   "type": "Soco SD",
    "Vip": "Non",
    "quality": "SD",
    "link": "0"
   },
 {
-   "type": "Vebo",
+   "type": "Vebo FHD",
    "Vip": "Non",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
   },
   {
-   "type": "Vebo",
+   "type": "Vebo HD",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
-   "type": "Vebo",
+   "type": "Vebo SD",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "English HD [ VIP ]",
+   "Vip": "Non",
+   "quality": "FHD",
+   "link": "https://webproxifiers.online/playlist/stream_e1.m3u8"
+  },
+  {
+   "type": "SKY Football HD [ VIP ]",
    "Vip": "Vip",
    "quality": "FHD",
-   "link": "0"
+   "link": "https://s2.albula.xyz/hls/source-1/index.m3u8?|Referer=https://perrzo.com/"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "quality": "HD",
+   "link": "https://m4iswbjnhzrz.fordems.live/live/for-dems1/chunks.m3u8?|Referer=https://fordems.live/"
+  },
+  {
+   "type": "English SD [ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
    "link": "0"
@@ -52,7 +64,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
     "LeagueName": "EFL Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -61,43 +73,43 @@
     "Date": "Aug 31",
     "Link": [
   {
-   "type": "Soco",
+   "type": "Vietnam HD",
    "Vip": "Non",
    "quality": "HD",
-   "link": "0"
+   "link": "https://bofang.3979live.tv/huxun/1438.m3u8?txSecret=da9a5dfc0c2bf0a832db9c9576d76a4e&txTime=64EFF892"
   },
   {
-   "type": "Soco",
+   "type": "Soco SD",
    "Vip": "Non",
    "quality": "SD",
-   "link": "0"
+   "link": "https://bofang.3979live.tv/huxun/1438.m3u8?txSecret=da9a5dfc0c2bf0a832db9c9576d76a4e&txTime=64EFF892"
   },
 {
-   "type": "Vebo",
+   "type": "Vebo FHD",
    "Vip": "Non",
    "quality": "FHD",
    "link": "0"
   },
   {
-   "type": "Vebo",
+   "type": "Vebo. HD",
    "Vip": "Non",
    "quality": "HD",
    "link": "0"
   },
   {
-   "type": "Vebo",
+   "type": "Vebo SD",
    "Vip": "Non",
    "quality": "SD",
    "link": "0"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "English FHD [ VIP ]",
    "Vip": "Vip",
    "quality": "FHD",
    "link": "0"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "English HD[ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
    "link": "0"
@@ -108,7 +120,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
     "LeagueName": "EFL Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -117,43 +129,43 @@
     "Date": "Aug 31",
     "Link": [
   {
-   "type": "Soco",
+   "type": "Soco HD",
    "Vip": "Non",
    "quality": "HD",
    "link": "0"
   },
   {
-   "type": "Soco",
+   "type": "Soco SD",
    "Vip": "Non",
    "quality": "SD",
    "link": "0"
   },
 {
-   "type": "Vebo",
+   "type": "Vebo FHD",
    "Vip": "Non",
    "quality": "FHD",
    "link": "0"
   },
   {
-   "type": "Vebo",
+   "type": "Vebo. HD",
    "Vip": "Non",
    "quality": "HD",
    "link": "0"
   },
   {
-   "type": "Vebo",
+   "type": "Vebo SD",
    "Vip": "Non",
    "quality": "SD",
    "link": "0"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "English FHD [ VIP ]",
    "Vip": "Vip",
    "quality": "FHD",
    "link": "0"
   },
   {
-   "type": "English [ VIP ]",
+   "type": "English HD[ VIP ]",
    "Vip": "Vip",
    "quality": "HD",
    "link": "0"
