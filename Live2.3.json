@@ -37,7 +37,7 @@
   {
    "type": "UEFA [ VIP ]",
    "Vip": "Non",
-   "link": "https://live-uefa-com.akamaized.net/hls/live/2036934/310823_UCLGS/master.m3u8"
+   "link": "https://live-uefa-com.akamaized.net:443/hls/live/2036934/310823_UCLGS/master_1.m3u8"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
@@ -105,12 +105,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9912018_lhd.m3u8?user_session_id=c2703b078b5181dc4dab910f17e63f72&auth_key=1693502492-0-0-48a005fd3a68c3ad5bc80252a6d47e67&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9912018_lsd.m3u8?user_session_id=c2703b078b5181dc4dab910f17e63f72&auth_key=1693502492-0-0-48a005fd3a68c3ad5bc80252a6d47e67&sub_m3u8=true&edge_slice=true"
   },
 {
    "type": "Vebo FHD",
