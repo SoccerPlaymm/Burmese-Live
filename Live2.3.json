@@ -36,7 +36,7 @@
   },
   {
    "type": "UEFA [ VIP ]",
-   "Vip": "Non",
+   "Vip": "Vip",
    "link": "https://live-uefa-com.akamaized.net:443/hls/live/2036934/310823_UCLGS/master_1.m3u8"
   }
              ],
@@ -252,12 +252,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-379975_lhd.m3u8?txSecret=e7f07c7112a1ff016dcbb306cc8781f6&txTime=64f11410"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-379975_lsd.m3u8?txSecret=e7f07c7112a1ff016dcbb306cc8781f6&txTime=64f11410"
   },
 {
    "type": "Vebo FHD",
