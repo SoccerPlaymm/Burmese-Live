@@ -143,7 +143,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
     "LeagueName": "Europa League Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:30 PM"
   },
   {
@@ -154,12 +154,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991145_lhd.m3u8?auth_key=1693504232-0-0-fa127bb50f45e635ed083c24703dbf53&sub_m3u8=true&edge_slice=true&user_session_id=332916fe3f5a3ad9392aeeb5a5cf0805"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991145_lsd.m3u8?auth_key=1693504232-0-0-fa127bb50f45e635ed083c24703dbf53&sub_m3u8=true&edge_slice=true&user_session_id=332916fe3f5a3ad9392aeeb5a5cf0805"
   },
 {
    "type": "Vebo FHD",
@@ -192,7 +192,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
     "LeagueName": "Europa League Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:30 PM"
   },
   {
@@ -203,12 +203,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-372746_lhd.m3u8?auth_key=1693504232-0-0-1e68f921a084c08f17d765a7fc4a3650&sub_m3u8=true&edge_slice=true&user_session_id=760928e0c75f8f1e3700c6b71d2cd0b5"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-372746_lsd.m3u8?auth_key=1693504232-0-0-1e68f921a084c08f17d765a7fc4a3650&sub_m3u8=true&edge_slice=true&user_session_id=760928e0c75f8f1e3700c6b71d2cd0b5"
   },
 {
    "type": "Vebo FHD",
@@ -241,7 +241,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
     "LeagueName": "Europa League Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:30 PM"
   },
   {
@@ -290,7 +290,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
     "LeagueName": "Europa League Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:30 PM"
   },
   {
