@@ -301,27 +301,27 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912003_lhd.m3u8?user_session_id=eea11f0952bc90a8d31af62e3c43a550&auth_key=1693665452-0-0-5d64e173c92c0cb0c2f8478e49282153&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912003_lsd.m3u8?user_session_id=eea11f0952bc90a8d31af62e3c43a550&auth_key=1693665452-0-0-5d64e173c92c0cb0c2f8478e49282153&edge_slice=true&sub_m3u8=true"
   },
 {
    "type": "Vebo FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/trauFHD/playlist.m3u8"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8"
   },
   {
    "type": "Vebo SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/trauSD/playlist.m3u8"
   },
   {
    "type": "English FHD [ VIP ]",
@@ -339,7 +339,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -350,27 +350,27 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912008_lhd.m3u8?user_session_id=408f768a84743d9be05783ff409ea072&auth_key=1693665512-0-0-5eec059a305e8aacdbd7660438e29a22&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912008_lsd.m3u8?user_session_id=408f768a84743d9be05783ff409ea072&auth_key=1693665512-0-0-5eec059a305e8aacdbd7660438e29a22&edge_slice=true&sub_m3u8=true"
   },
 {
    "type": "Vebo FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
   },
   {
    "type": "Vebo SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may3SD/playlist.m3u8"
   },
   {
    "type": "English FHD [ VIP ]",
@@ -388,7 +388,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -399,26 +399,36 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912041_lhd.m3u8?auth_key=1693665572-0-0-9ccde4ac2a5adf793e5c96d7eba22216&sub_m3u8=true&user_session_id=22b98753e655f5499bca0dc0b4fdddf3&edge_slice=true"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912041_lsd.m3u8?auth_key=1693665572-0-0-9ccde4ac2a5adf793e5c96d7eba22216&sub_m3u8=true&user_session_id=22b98753e655f5499bca0dc0b4fdddf3&edge_slice=true"
   },
 {
    "type": "Vebo FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo SD",
    "Vip": "Non",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
+  },
+  {
+   "type": "English FHD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English HD[ VIP ]",
+   "Vip": "Vip",
    "link": "0"
   },
   {
@@ -437,7 +447,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -448,26 +458,36 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912038_lhd.m3u8?auth_key=1693665572-0-0-60f00856f35c20afc11e2ad91b934662&sub_m3u8=true&user_session_id=a22406f4cf3f40f88419880e857aae16&edge_slice=true"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912038_lsd.m3u8?auth_key=1693665572-0-0-60f00856f35c20afc11e2ad91b934662&sub_m3u8=true&user_session_id=a22406f4cf3f40f88419880e857aae16&edge_slice=true"
   },
 {
    "type": "Vebo FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
   },
   {
    "type": "Vebo SD",
    "Vip": "Non",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8"
+  },
+  {
+   "type": "English FHD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English HD[ VIP ]",
+   "Vip": "Vip",
    "link": "0"
   },
   {
@@ -486,7 +506,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -497,12 +517,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991145_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1693665692-0-0-428d1b088d7b5cc4abbda4441c9650cb&user_session_id=1c15bde456c7ea6dbe93b30042aa737e"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991145_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1693665692-0-0-428d1b088d7b5cc4abbda4441c9650cb&user_session_id=1c15bde456c7ea6dbe93b30042aa737e"
   },
 {
    "type": "Vebo FHD",
@@ -535,7 +555,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:45 PM"
   },
   {
