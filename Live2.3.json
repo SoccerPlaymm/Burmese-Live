@@ -56,12 +56,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912026_lhd.m3u8?edge_slice=true&auth_key=1693745132-0-0-57dbc7ddafe342fc5e4b1f91c746366e&sub_m3u8=true&user_session_id=61992f1c4e53128cc92380b934b19e50"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912026_lsd.m3u8?edge_slice=true&auth_key=1693745132-0-0-57dbc7ddafe342fc5e4b1f91c746366e&sub_m3u8=true&user_session_id=61992f1c4e53128cc92380b934b19e50"
   },
 {
    "type": "Vebo FHD",
@@ -80,13 +80,13 @@
   },
   {
    "type": "English FHD [ VIP ]",
-   "Vip": "Vip",
-   "link": "0"
+   "Vip": "Non",
+   "link": "https://livenflstream.xyz/playlist/stream_5.m3u8"
   },
   {
-   "type": "English HD[ VIP ]",
+   "type": "ViaPlay HD[ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://asdas.azzureedge.xyz/scripts/MTI3NzY=/caxi.m3u8?|Referer=https://1stream.eu/"
   }
              ],
     "HomeImage": "https://i.ibb.co/THrGZYk/download-37.png",
@@ -94,7 +94,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "6:30 PM"
   },
   {
