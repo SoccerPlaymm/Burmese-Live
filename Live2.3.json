@@ -7,12 +7,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991148_lhd.m3u8?auth_key=1693741352-0-0-55f0e396ba9d31f0f8a8f07ca9739e07&user_session_id=0eb4cb7ef702d477eb9edc511531f318&edge_slice=true&sub_m3u8=true"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991148_lsd.m3u8?auth_key=1693741352-0-0-55f0e396ba9d31f0f8a8f07ca9739e07&user_session_id=0eb4cb7ef702d477eb9edc511531f318&edge_slice=true&sub_m3u8=true"
   },
 {
    "type": "Vebo FHD",
@@ -45,7 +45,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "5:30 PM"
   },
   {
