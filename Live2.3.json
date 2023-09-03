@@ -316,12 +316,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911989_lhd.m3u8?edge_slice=true&auth_key=1693750592-0-0-86994363690f0d26c74390fabde8d28d&sub_m3u8=true&user_session_id=6050d34340aae2580a7f90429a66bd4b"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911989_lsd.m3u8?edge_slice=true&auth_key=1693750592-0-0-86994363690f0d26c74390fabde8d28d&sub_m3u8=true&user_session_id=6050d34340aae2580a7f90429a66bd4b"
   },
 {
    "type": "Vebo FHD",
@@ -341,12 +341,12 @@
   {
    "type": "English FHD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://livecdn.rumsport.com/stream/20_fhd/index.m3u8?|Referer=https://live-streamfootball.com"
   },
   {
    "type": "English HD[ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://livecdn.rumsport.com/stream/20/index.m3u8?|Referer=https://live-streamfootball.com"
   }
              ],
     "HomeImage": "https://i.ibb.co/PhsdbQP/download-68.png",
@@ -354,7 +354,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:00 PM"
   },
   {
