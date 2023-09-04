@@ -7,37 +7,37 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912037_lhd.m3u8?user_session_id=9d022a077adbf19209d70dba412ab901&auth_key=1693794992-0-0-22eb3662b9a21c1ecd6e19375f1c5920&sub_m3u8=true&edge_slice=true"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912037_lsd.m3u8?user_session_id=9d022a077adbf19209d70dba412ab901&auth_key=1693794992-0-0-22eb3662b9a21c1ecd6e19375f1c5920&sub_m3u8=true&edge_slice=true"
   },
 {
    "type": "Vebo FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   },
   {
-   "type": "English FHD [ VIP ]",
-   "Vip": "Vip",
-   "link": "0"
+   "type": "Apple TV FHD [ VIP ]",
+   "Vip": "Non",
+   "link": "https://livenflstream.xyz/playlist/stream_2.m3u8"
   },
   {
-   "type": "English HD[ VIP ]",
+   "type": "Apple TV HD[ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://fdaskj.1stream.one/scripts/MTI4MDg=/caxi.m3u8?|Referer=https://1stream.eu/"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/867280.png",
@@ -45,7 +45,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/130.png",
     "LeagueName": "Major League Soccer",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 AM"
   }
 ]
