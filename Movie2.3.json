@@ -1,5 +1,17 @@
 [
 {
+    "Name":"Yahoo+",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-08-21/64e34220d06ea.png",
+    "dLink":"http://www.zegomovie.com/Download/Yahoo22/Yahoo22.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/Yahoo22/index.m3u8"   
+  },
+  {
+    "Name":"Ostrov",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-08-21/64e2e78a7a0f1.png",
+    "dLink":"http://www.zegomovie.com/Download/Ostrov23/Ostrov23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/Ostrov23/index.m3u8"   
+  },
+{
     "Name":"National Treasure: Edge of History Ep (1)",
     "Image":"http://zegomovie.com/Uploads/vod/2023-08-21/64e32dca82aa3.png",
     "dLink":"http://www.zegomovie.com/Download/NationalTreasureEdgeofHistoryS01E01/NationalTreasureEdgeofHistoryS01E01.mp4",
@@ -178,217 +190,217 @@
  {
     "Name":"Daliland",
     "Image":"http://zegomovie.com/Uploads/vod/2023-07-12/64ae7dedd4bf7.jpg",
-    "dLink":"http://www.zegomovie.com/Download/Daliland22/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/Daliland22/Daliland22.mp4",
     "pLink": "http://www.zegomovie.com/Videos/Daliland22/index.m3u8"   
   },
  {
     "Name":"The Wraith Within",
     "Image":"http://zegomovie.com/Uploads/vod/2023-07-12/64ae2bde47042.png",
-    "dLink":"http://www.zegomovie.com/Download/TheWraithWithin23/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/TheWraithWithin23/TheWraithWithin23.mp4",
     "pLink": "http://www.zegomovie.com/Videos/TheWraithWithin23/index.m3u8"
   },
 {
     "Name":"Float",
     "Image":"http://zegomovie.com/Uploads/vod/2023-06-30/649e8d220a7d7.png",
-    "dLink":"http://www.zegomovie.com/Download/Float22/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/Float22/Float22.mp4",
     "pLink": "http://www.zegomovie.com/Videos/Float22/index.m3u8"   
   },
  {
     "Name":"Eradication",
     "Image":"http://zegomovie.com/Uploads/vod/2023-06-28/649bbeee044d5.png",
-    "dLink":"http://www.zegomovie.com/Download/Eradication22/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/Eradication22/Eradication22.mp4",
     "pLink": "http://www.zegomovie.com/Videos/Eradication22/index.m3u8"   
   },
  {
     "Name":"The Chalice of Blood",
     "Image":"http://zegomovie.com/Uploads/vod/2023-06-28/649bbc2712bfb.png",
-    "dLink":"http://www.zegomovie.com/Download/Verimalja22/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/Verimalja22/Verimalja22.mp4",
     "pLink": "http://www.zegomovie.com/Videos/Verimalja22/index.m3u8"
   },
 {
     "Name":"Extreme Festival",
     "Image":"http://zegomovie.com/Uploads/vod/2023-07-06/64a681db0ab03.png",
-    "dLink":"http://www.zegomovie.com/Download/ExtremeFestival/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/ExtremeFestival/ExtremeFestival.mp4",
     "pLink": "http://www.zegomovie.com/Videos/ExtremeFestival/index.m3u8"   
   },
  {
     "Name":"I Like Movies",
     "Image":"http://zegomovie.com/Uploads/vod/2023-07-06/64a680fa53bf5.png",
-    "dLink":"http://www.zegomovie.com/Download/ILlikeMovies/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/ILlikeMovies/ILlikeMovies.mp4",
     "pLink": "http://www.zegomovie.com/Videos/ILlikeMovies/index.m3u8"   
   },
  {
     "Name":"Agilan",
     "Image":"http://zegomovie.com/Uploads/vod/2023-07-06/64a645d9148ef.png",
-    "dLink":"http://www.zegomovie.com/Download/Agilanee/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/Agilanee/Agilanee.mp4",
     "pLink": "http://www.zegomovie.com/Videos/Agilanee/index.m3u8"
   },
 {
     "Name":"The Sky Coffin in Qinling Town",
     "Image":"https://imgsrc.cineserie.com/2023/06/2428496.jpg?ver=1",
-    "dLink":"http://www.zegomovie.com/Download/QinglingTownCoffin/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/QinglingTownCoffin/QinglingTownCoffin.mp4",
     "pLink": "http://www.zegomovie.com/Videos/QinglingTownCoffin/index.m3u8"   
   },
  {
     "Name":"Becky",
     "Image":"http://zegomovie.com/Uploads/vod/2023-07-01/64a00225197c8.png",
-    "dLink":"http://www.zegomovie.com/Download/becky20/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/becky20/becky20.mp4",
     "pLink": "http://www.zegomovie.com/Videos/becky20/index.m3u8"   
   },
  {
     "Name":"Coyote",
     "Image":"http://zegomovie.com/Uploads/vod/2023-07-01/64a003572d567.png",
-    "dLink":"http://www.zegomovie.com/Download/Coyote23/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/Coyote23/Coyote23.mp4",
     "pLink": "http://www.zegomovie.com/Videos/Coyote23/index.m3u8"
   },
  {
     "Name":"Reality",
     "Image":"http://zegomovie.com/Uploads/vod/2023-06-02/64797c3b4807a.png",
-    "dLink":"http://www.zegomovie.com/Download/Reality/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/Reality/Reality.mp4",
     "pLink": "http://www.zegomovie.com/Videos/Reality/index.m3u8"   
   },
  {
     "Name":"The Swan Princess: A Fairytale Is Born",
     "Image":"http://zegomovie.com/Uploads/vod/2023-06-01/64782a6ab3ae9.png",
-    "dLink":"http://www.zegomovie.com/Download/TheSwanPrincessAFairytaleIsBorn/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/TheSwanPrincessAFairytaleIsBorn/TheSwanPrincessAFairytaleIsBorn.mp4",
     "pLink": "http://www.zegomovie.com/Videos/TheSwanPrincessAFairytaleIsBorn/index.m3u8"   
   },
  {
     "Name":"Jethica",
     "Image":"http://zegomovie.com/Uploads/vod/2023-06-01/647809aa5fceb.png",
-    "dLink":"http://www.zegomovie.com/Download/Jethica/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/Jethica/Jethica.mp4",
     "pLink": "http://www.zegomovie.com/Videos/Jethica/index.m3u8"
   },
  {
     "Name":"Flickering Lights",
     "Image":"http://zegomovie.com/Uploads/vod/2023-05-29/64748069a680f.png",
-    "dLink":"http://www.zegomovie.com/Download/FlickeringLight/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/FlickeringLight/FlickeringLight.mp4",
     "pLink": "http://www.zegomovie.com/Videos/FlickeringLight/index.m3u8"   
   },
  {
     "Name":"Yaanai Mugathaan",
     "Image":"http://zegomovie.com/Uploads/vod/2023-05-29/64747eaccb1a8.png",
-    "dLink":"http://www.zegomovie.com/Download/YaanaiMugathaan/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/YaanaiMugathaan/YaanaiMugathaan.mp4",
     "pLink": "http://www.zegomovie.com/Videos/YaanaiMugathaan/index.m3u8"   
   },
  {
     "Name":"Big George Foreman",
     "Image":"http://zegomovie.com/Uploads/vod/2023-05-29/64747e03b6f46.png",
-    "dLink":"http://www.zegomovie.com/Download/BigGeorgeForeman/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/BigGeorgeForeman/BigGeorgeForeman.mp4",
     "pLink": "http://www.zegomovie.com/Videos/BigGeorgeForeman/index.m3u8"
   },
  {
     "Name":"Mummies",
     "Image":"http://zegomovie.com/Uploads/vod/2023-03-30/642550b69721a.png",
-    "dLink":"http://www.zegomovie.com/Download/Mummies/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/Mummies/Mummies.mp4",
     "pLink": "http://www.zegomovie.com/Videos/Mummies/index.m3u8"   
   },
  {
     "Name":"The Magician’s Elephant",
     "Image":"http://zegomovie.com/Uploads/vod/2023-03-19/6416df27e24f1.png",
-    "dLink":"http://www.zegomovie.com/Download/TheMagiciansElephant/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/TheMagiciansElephant/TheMagiciansElephant.mp4",
     "pLink": "http://www.zegomovie.com/Videos/TheMagiciansElephant/index.m3u8"   
   },
  {
     "Name":"Barbie: Skipper and the Big Babysittig Adventure",
     "Image":"http://zegomovie.com/Uploads/vod/2023-03-14/64104a975e702.png",
-    "dLink":"http://www.zegomovie.com/Download/BarbieSkipperandtheBigBabysittingAdventure/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/BarbieSkipperandtheBigBabysittingAdventure/BarbieSkipperandtheBigBabysittingAdventure.mp4",
     "pLink": "http://www.zegomovie.com/Videos/BarbieSkipperandtheBigBabysittingAdventure/index.m3u8"
   },
  {
     "Name":"Discontinued",
     "Image":"http://zegomovie.com/Uploads/vod/2023-05-27/64718f5dc0fcf.png",
-    "dLink":"http://www.zegomovie.com/Download/Discontinued/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/Discontinued/Discontinued.mp4",
     "pLink": "http://www.zegomovie.com/Videos/Discontinued/index.m3u8"   
   },
  {
     "Name":"Come Out Fighting",
     "Image":"http://zegomovie.com/Uploads/vod/2023-05-24/646d8adc653ae.png",
-    "dLink":"http://www.zegomovie.com/Download/ComeOutFighting/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/ComeOutFighting/ComeOutFighting.mp4",
     "pLink": "http://www.zegomovie.com/Videos/ComeOutFighting/index.m3u8"   
   },
  {
     "Name":"Moving On",
     "Image":"http://zegomovie.com/Uploads/vod/2023-05-20/64687eb580172.png",
-    "dLink":"http://www.zegomovie.com/Download/MovingOn/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/MovingOn/MovingOn.mp4",
     "pLink": "http://www.zegomovie.com/Videos/MovingOn/index.m3u8"
   },
  {
     "Name":"Software Blues",
     "Image":"http://zegomovie.com/Uploads/vod/2023-04-07/642fe4b7bf680.png",
-    "dLink":"http://www.zegomovie.com/Download/BluesTel/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/BluesTel/BluesTel.mp4",
     "pLink": "http://www.zegomovie.com/Videos/BluesTel/index.m3u8"   
   },
  {
     "Name":"Pakka Commercial",
     "Image":"http://zegomovie.com/Uploads/vod/2023-04-06/642ea0a987b3d.png",
-    "dLink":"http://www.zegomovie.com/Download/PakkaCommercial/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/PakkaCommercial/PakkaCommercial.mp4",
     "pLink": "http://www.zegomovie.com/Videos/PakkaCommercial/index.m3u8"   
   },
  {
     "Name":"Dear Friend",
     "Image":"http://zegomovie.com/Uploads/vod/2023-03-31/64265894c5d06.png",
-    "dLink":"http://www.zegomovie.com/Download/DearFriend/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/DearFriend/DearFriend.mp4",
     "pLink": "http://www.zegomovie.com/Videos/DearFriend/index.m3u8"
   },
   {
     "Name":"John Wick",
     "Image":"http://zegomovie.com/Uploads/vod/2019-05-24/5ce7d49f07493.jpg",
-    "dLink":"http://www.zegomovie.com/Download/JohnWick/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/JohnWick/JohnWick.mp4",
     "pLink": "http://www.zegomovie.com/Videos/JohnWick/index.m3u8"   
   },
  {
     "Name":"John Wick: Chapter 2",
     "Image":"http://zegomovie.com/Uploads/vod/2023-02-08/63e377fbcb966.png",
-    "dLink":"http://www.zegomovie.com/Download/JohnWickChapter2/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/JohnWickChapter2/JohnWickChapter2.mp4",
     "pLink": "http://www.zegomovie.com/Videos/JohnWickChapter2/index.m3u8"   
   },
  {
     "Name":"JOHN WICK CHAPTER 3",
     "Image":"http://zegomovie.com/Uploads/vod/2019-10-28/5db666ef7241d.jpg",
-    "dLink":"http://www.zegomovie.com/Download/JOHNWICKCHAPTER3/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/JOHNWICKCHAPTER3/JOHNWICKCHAPTER3.mp4",
     "pLink": "http://www.zegomovie.com/Videos/JOHNWICKCHAPTER3/index.m3u8"
   },
   {
     "Name":"John Wick : Chapter 4",
     "Image":"http://zegomovie.com/Uploads/vod/2023-05-24/646d90ec9e183.png",
-    "dLink":"http://www.zegomovie.com/Download/JohnWickChapter4/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/JohnWickChapter4/JohnWickChapter4.mp4",
     "pLink": "http://www.zegomovie.com/Videos/JohnWickChapter4/index.m3u8"   
   },
  {
     "Name":"OMG! Oh My Girl",
     "Image":"http://zegomovie.com/Uploads/vod/2023-02-19/63f190735f6bd.png",
-    "dLink":"http://www.zegomovie.com/Download/OMG/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/OMG/OMG.mp4",
     "pLink": "http://www.zegomovie.com/Videos/OMG/index.m3u8"   
   },
  {
     "Name":"The Lost Lotteries",
     "Image":"http://zegomovie.com/Uploads/vod/2022-11-18/637754a023bfe.jpg",
-    "dLink":"http://www.zegomovie.com/Download/TheLostLotteries/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/TheLostLotteries/TheLostLotteries.mp4",
     "pLink": "http://www.zegomovie.com/Videos/TheLostLotteries/index.m3u8"
   },
   {
     "Name":"The Ghost Station",
     "Image":"http://zegomovie.com/Uploads/vod/2023-05-24/646d92b0b21b7.png",
-    "dLink":"http://www.zegomovie.com/Download/TheGhostStation/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/TheGhostStation/TheGhostStation.mp4",
     "pLink": "http://www.zegomovie.com/Videos/TheGhostStation/index.m3u8"   
   },
  {
     "Name":"Gangnam Zombies",
     "Image":"http://zegomovie.com/Uploads/vod/2023-03-08/64084e1c2899e.png",
-    "dLink":"http://www.zegomovie.com/Download/GangnamZombies/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/GangnamZombies/GangnamZombies.mp4",
     "pLink": "http://www.zegomovie.com/Videos/GangnamZombies/index.m3u8"   
   },
  {
     "Name":"A Single Rider",
     "Image":"http://zegomovie.com/Uploads/vod/2023-03-08/64084a753e1c6.png",
-    "dLink":"http://www.zegomovie.com/Download/ASingleRider/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/ASingleRider/ASingleRider.mp4",
     "pLink": "http://www.zegomovie.com/Videos/ASingleRider/index.m3u8"
   },
   {
     "Name":"Kathal",
     "Image":"http://zegomovie.com/Uploads/vod/2023-05-22/646aed73c637a.png",
-    "dLink":"http://www.zegomovie.com/Download/Kathal/index.mp4",
+    "dLink":"http://www.zegomovie.com/Download/Kathal/Kathal.mp4",
     "pLink": "http://www.zegomovie.com/Videos/Kathal/index.m3u8"   
   },
  {
