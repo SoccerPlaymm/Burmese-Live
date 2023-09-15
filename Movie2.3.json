@@ -1,5 +1,23 @@
 [
 {
+    "Name":"Thai Massage",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-04-19/643f69e2ed611.png",
+    "dLink":"http://www.zegomovie.com/Download/ThaiMassage/ThaiMassage.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/ThaiMassage/index.m3u8"   
+  },
+  {
+    "Name":"Love Today",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-04-07/642fe945a465b.png",
+    "dLink":"http://www.zegomovie.com/Download/LoveToday/LoveToday.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/LoveToday/index.m3u8"   
+  },
+{
+    "Name":"Neetho",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-04-19/643f8fd24138f.png",
+    "dLink":"http://www.zegomovie.com/Download/Neetho/Neetho.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/Neetho/index.m3u8"   
+  },
+{
     "Name":"Yahoo+",
     "Image":"http://zegomovie.com/Uploads/vod/2023-08-21/64e34220d06ea.png",
     "dLink":"http://www.zegomovie.com/Download/Yahoo22/Yahoo22.mp4",
