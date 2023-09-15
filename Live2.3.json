@@ -7,7 +7,7 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=f51ad71389c672db3ebe189a5db65e09&txTime=6504ece2"
   },
   {
    "type": "Soco SD",
@@ -17,7 +17,7 @@
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
@@ -37,7 +37,12 @@
   {
    "type": "English HD[ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://livecdn-iptv001.rumsport.com/stream/2314/index.m3u8?|Referer=https://live-streamfootball.com"
+  },
+  {
+   "type": "English HD[ VIP ]",
+   "Vip": "Vip",
+   "link": "https://livecdn.rumsport.com/stream/1/index.m3u8?|Referer=https://live-streamfootball.com"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2529.png",
@@ -45,7 +50,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/536.png",
     "LeagueName": "Saudi Pro League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:30 AM"
   },
   {
