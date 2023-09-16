@@ -154,37 +154,37 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1694892642-0-0-4c2e022cd80250d2f494681b124f0bbf"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1694892642-0-0-4c2e022cd80250d2f494681b124f0bbf"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-552917_lhd.m3u8?auth_key=1694892371-0-0-3ec6409d0bf282ac9ad3c9aa522d5cf1"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://ds1.enjoyhd.club/stream/es92/index.m3u8?token=c2VydmVyX3RpbWU9MTY5NDg4OTE4NCZoYXNoX3ZhbHVlPU1qSXpNbUUwT0RnNE56a3lOV0kxWXpKbU1EY3hNRFEwWldFNVkyUmhNalkmZXhwaXJ5PTE2OTQ4OTk5ODQmaXA9MTE3LjE4LjIzMC4xOTU="
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://embed.sportsurge.stream/playlist/streamfree10.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://livenflstream.xyz/playlist/stream_ufc1.m3u8"
   },
   {
    "type": "English HD[ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://bscfsdf.azzureedge.xyz/scripts/MTMyNTU=/caxi.m3u8?|Referer=https://1stream.eu/"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
@@ -192,7 +192,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
