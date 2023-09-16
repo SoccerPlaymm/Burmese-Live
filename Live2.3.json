@@ -61,12 +61,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912034_lhd.m3u8?auth_key=1694868462-0-0-07c9f4743c22f95f6a86cd20d99ca8c4"
   },
   {
-   "type": "Soco SD",
+   "type": "China SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.lianggexinxi.xyz/live/stream-789274_lhd.flv?auth_key=1694868381-0-0-84e17f3c7eed5abfb1a5676151750d13"
   },
   {
    "type": "Vebo HD",
@@ -76,22 +76,22 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sports.freesport.info/playlist/streamfree7.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://embed.sportsurge.stream/playlist/streamfree7.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://webproxifiers.online/playlist/stream_e10.m3u8"
   },
   {
    "type": "English HD[ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://realbitsport.com/n-6.m3u8?|Referer=https://realbitsport.com/"
   }
              ],
     "HomeImage": "https://i.ibb.co/8KWFTPM/download-31.png",
@@ -99,7 +99,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "6:30 PM"
   },
   {
