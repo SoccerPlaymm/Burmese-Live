@@ -7,37 +7,42 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=ac88a888e92f0184c8cb22420fcc4c08&txTime=6505e11a"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=ac88a888e92f0184c8cb22420fcc4c08&txTime=6505e11a"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
-   "type": "English FHD",
+   "type": "SPL(English) HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://livenflstream.xyz/playlist/stream_1.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "TNT(English) HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://embed.sportsurge.stream/playlist/streamfree1.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "SPL(English) HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sports.freesport.info/playlist/streamfree1.m3u8"
   },
   {
-   "type": "English HD[ VIP ]",
+   "type": "English FHD[ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://realbitsport.com/n-1.m3u8?|Referer=https://realbitsport.com/"
+  },
+  {
+   "type": "USA(English) HD[ VIP ]",
+   "Vip": "Vip",
+   "link": "https://xwssgs.1stream.one/scripts/MTMyNDI=/caxi.m3u8?|Referer=https://1stream.eu/"
   }
              ],
     "HomeImage": "https://i.ibb.co/QJMLcrP/download-10.png",
@@ -45,7 +50,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "6:00 PM"
   },
   {
