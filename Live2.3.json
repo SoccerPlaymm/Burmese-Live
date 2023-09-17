@@ -1,54 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/mTH2ByB/download-28.png",
-    "AwayName": "Osasuna",
-    "Date": "Sep 17",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-120778_lhd.m3u8?auth_key=1694954622-0-0-f33741b224542f2a21b91b1f713b27e2"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-120778_lhd.m3u8?auth_key=1694954622-0-0-f33741b224542f2a21b91b1f713b27e2"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "https://webproxifiers.online/playlist/stream_e10.m3u8"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "https://embed.sportsurge.stream/playlist/streamfree7.m3u8"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "https://sports.freesport.info/playlist/streamfree7.m3u8"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "https://fdaskj.1stream.one/scripts/MTMzOTE=/caxi.m3u8?|Referer=https://1stream.eu/"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/6BFq3Lt/download-22.png",
-    "HomeName": "Getafe",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-    "LeagueName": "LaLiga",
-    "LiveUpcoming": "Live",
-    "Time": "6:30 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/MMN9Rw5/download.png",
     "AwayName": "Chelsea",
     "Date": "Sep 17",
@@ -409,12 +360,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=b13f4a392ddae80cb1114d510616651c&txTime=65075a36"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=b13f4a392ddae80cb1114d510616651c&txTime=65075a36"
   },
   {
    "type": "Vebo HD",
@@ -422,24 +373,24 @@
    "link": "0"
   },
   {
-   "type": "English FHD",
+   "type": "English HD 1",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://webproxifiers.online/playlist/stream_e10.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English HD 2",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://embed.sportsurge.stream/playlist/streamfree7.m3u8"
   },
   {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "0"
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "https://livecdn-001.rumsport.com/stream/3/stream/3_hd/chunks.m3u8?|Referer=https://live-streamfootball.com"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://livecdn.rumsport.com/stream/3/index.m3u8?|Referer=https://live-streamfootball.com"
   }
              ],
     "HomeImage": "https://i.ibb.co/7Vsf3Tg/download-21.png",
@@ -447,7 +398,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:45 PM"
   },
   {
