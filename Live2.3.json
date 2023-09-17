@@ -360,12 +360,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=fa1a586cf69d0b6456efe1cdb63a7d5b&txTime=65074e7e"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=fa1a586cf69d0b6456efe1cdb63a7d5b&txTime=65074e7e"
   },
   {
    "type": "Vebo HD",
@@ -373,14 +373,14 @@
    "link": "0"
   },
   {
-   "type": "English FHD",
+   "type": "English HD 1",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://webproxifiers.online/playlist/stream_e11.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English HD 2",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://embed.sportsurge.stream/playlist/streamfree8.m3u8"
   },
   {
    "type": "English HD",
@@ -390,7 +390,7 @@
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://livecdn.rumsport.com/stream/20/index.m3u8?|Referer=https://live-streamfootball.com"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/94937.png",
@@ -398,7 +398,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:00 PM"
   },
   {
