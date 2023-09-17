@@ -409,12 +409,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912003_lhd.m3u8?auth_key=1694965962-0-0-063d634303529a7d6950d2b32ae76bf4"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912003_lhd.m3u8?auth_key=1694965962-0-0-063d634303529a7d6950d2b32ae76bf4"
   },
   {
    "type": "Vebo HD",
@@ -424,22 +424,22 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://livenflstream.xyz/playlist/stream_3.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://embed.sportsurge.stream/playlist/streamfree6.m3u8"
   },
   {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "0"
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "https://livecdn.rumsport.com/stream/23_fhd/index.m3u8?|Referer=https://live-streamfootball.com"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://livecdn.rumsport.com/stream/23/index.m3u8?|Referer=https://live-streamfootball.com"
   }
              ],
     "HomeImage": "https://i.ibb.co/zNhmF1y/download-70.png",
@@ -447,7 +447,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:35 PM"
   },
   {
