@@ -7,12 +7,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1694949582-0-0-20fa09a880c1107ee6816d5e266f8930"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1694949582-0-0-20fa09a880c1107ee6816d5e266f8930"
   },
   {
    "type": "Vebo HD",
@@ -22,22 +22,22 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://livenflstream.xyz/playlist/stream_2.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://embed.sportsurge.stream/playlist/streamfree10.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sports.freesport.info/playlist/streamfree10.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://fdaskj.1stream.one/scripts/MTMzOTU=/caxi.m3u8?|Referer=https://1stream.eu/"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png",
@@ -45,7 +45,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "5:00 PM"
   },
   {
