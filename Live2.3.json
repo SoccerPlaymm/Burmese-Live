@@ -105,27 +105,27 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912038_lhd.m3u8?auth_key=1695149260-0-0-2b7c87d1f923ad54d7a2d30f1f729578"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912038_lsd.m3u8?auth_key=1695149260-0-0-2b7c87d1f923ad54d7a2d30f1f729578"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://realbitsport.com/n-7.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://webproxifiers.online/playlist/stream_e6.m3u8"
   },
   {
    "type": "English HD",
@@ -143,7 +143,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/525.png",
     "LeagueName": "AFC Champions League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:30 AM"
   },
   {
