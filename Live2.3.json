@@ -81,7 +81,7 @@
   {
    "type": "English SD",
    "Vip": "Non",
-   "link": "https://ds1.sportea.online/stream/es14/index.m3u8?token=c2VydmVyX3RpbWU9MTY5NTIzNDYyOSZoYXNoX3ZhbHVlPU9EUTJOREpqWW1GbU16WTJNR1F5TkRjNE9XRTBOVE5qTm1VNU5UTTBaVFkmZXhwaXJ5PTE2OTUyNDU0MjkmaXA9MzcuMTExLjQ2LjY1"
+   "link": "https://storage.googleapis.com/for-dems/main.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -130,7 +130,7 @@
   {
    "type": "English 2 HD",
    "Vip": "Non",
-   "link": "https://storage.googleapis.com/for-dems/main.m3u8"
+   "link": "https://forlive01.fordems.live/live/for-dems3/chunks.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -277,7 +277,7 @@
   {
    "type": "English 2 HD",
    "Vip": "Non",
-   "link": "https://ds1.sportea.online/stream/es17/index.m3u8?token=c2VydmVyX3RpbWU9MTY5NTIzNDg0NiZoYXNoX3ZhbHVlPU5qSTVOV0l5TWpGa1lXTTBZekptTWpZMU9XTTJNVEkyWldGaE5EZ3paR1UmZXhwaXJ5PTE2OTUyNDU2NDYmaXA9MzcuMTExLjQ2LjY1"
+   "link": "https://forlive01.fordems.live/live/for-dems6/chunks.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
