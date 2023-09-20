@@ -1,5 +1,23 @@
 [
 {
+    "Name":"Ngeri-Ngeri Sedap",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-06-16/648c074eba012.png",
+    "dLink":"http://www.zegomovie.com/Download/NgeriNgeriSedap/NgeriNgeriSedap.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/NgeriNgeriSedap/index.m3u8"   
+  },
+  {
+    "Name":"Smile or Hug",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-06-17/648d7a32ddd6b.png",
+    "dLink":"http://www.zegomovie.com/Download/SmileorHug22/SmileorHug22.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/SmileorHug22/index.m3u8"   
+  },
+{
+    "Name":"Sightseers",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-06-17/648d7b9b9e26b.png",
+    "dLink":"http://www.zegomovie.com/Download/Sightseers12/Sightseers12.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/Sightseers12/index.m3u8"   
+  },
+{
     "Name":"Lyle, Lyle, Crocodile",
     "Image":"http://zegomovie.com/Uploads/vod/2022-11-24/637f36d95b408.jpg",
     "dLink":"http://www.zegomovie.com/Download/LyleLyleCrocodile/LyleLyleCrocodile.mp4",
