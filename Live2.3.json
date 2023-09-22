@@ -56,17 +56,17 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=1022db94541388d35e938c4cf9c885e6&txTime=650e2508"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=1022db94541388d35e938c4cf9c885e6&txTime=650e2508"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
@@ -74,19 +74,19 @@
    "link": "0"
   },
   {
-   "type": "English HD",
+   "type": "English Test",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sb1.livemodo.click/OPA9KJ9JZ48gLiFK3SPXXw/1695433497/33372e3131312e34362e313039/ff171/playlist.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English Test",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sb1.livemodo.click/7IR2pTgetCj9Pdi_b21hqg/1695433471/33372e3131312e34362e313039/ff171/playlist.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://xwssgs.1stream.one/scripts/MTM1Njc=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
@@ -94,7 +94,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/536.png",
     "LeagueName": "Saudi Pro League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:30 AM"
   },
   {
