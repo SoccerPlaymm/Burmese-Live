@@ -154,12 +154,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912052_lhd.m3u8?txSecret=d3bbc7ddafffc7cbbd01f90e9ff428e2&txTime=650f8150"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912052_lhd.m3u8?txSecret=d3bbc7ddafffc7cbbd01f90e9ff428e2&txTime=650f8150"
   },
   {
    "type": "Vebo HD",
@@ -169,7 +169,7 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://forlive01.fordems.live/live/for-dems4/chunks.m3u8"
   },
   {
    "type": "English HD",
@@ -177,9 +177,9 @@
    "link": "0"
   },
   {
-   "type": "English HD",
+   "type": "English Test",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://nes03.quest123.top:8088/live/socolivepro20014/playlist.m3u8?id=119060&pk=83a353d51d6f19ddc78c68d3188e0bea2c51155f54fc73b69ad9bf15f44529f6338f1ea2f18f68e1143d8811cfcd2eaf85808396d75bd45c4f7fe7534106bf9d"
   },
  {
    "type": "English HD [ VIP ]",
@@ -192,7 +192,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
