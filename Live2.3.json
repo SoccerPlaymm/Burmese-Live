@@ -417,14 +417,14 @@
    "link": "https://forlive01.fordems.live/live/for-dems3/chunks.m3u8"
   },
   {
-   "type": "English Test",
+   "type": "English 1 HD",
    "Vip": "Non",
-   "link": "https://hjprtmfykxdvqace.cdnrecruit.net:8443/hls/o4mgn8yigzx30e.m3u8?s=ZDb1a11L0APv6kpJCd5kGQ&e=1695499500"
+   "link": "https://storage.googleapis.com/cdpzngtxdsl/main.m3u8"
   },
  {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "https://xwssgs.1stream.one/scripts/MTM1ODI=/caxi.m3u8?|Referer=https://1stream.soccer/"
+   "type": "English 2 HD",
+   "Vip": "Non",
+   "link": "https://storage.googleapis.com/ungsamovo1/selector.m3u8"
   },
   {
    "type": "English Test [ VIP ]",
