@@ -88,8 +88,18 @@
    "Vip": "Non",
    "link": "https://b7i4j3n3.stackpathcdn.com/rarate2336/1695488779/src/live.m3u8"
   },
+  {
+   "type": "English FHD [ VIP ]",
+   "Vip": "Vip",
+   "link": "https://livecdn.rumsport.com/stream/2/index.m3u8?|Referer=https://live-streamfootball.com"
+  },
+  {
+   "type": "English 1 HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "https://livecdn-001.rumsport.com/stream/2/stream/2_hd/chunks.m3u8?|Referer=https://live-streamfootball.com"
+  },
  {
-   "type": "English HD [ VIP ]",
+   "type": "English 2 HD [ VIP ]",
    "Vip": "Vip",
    "link": "https://bscfsdf.azzureedge.xyz/scripts/MTM1ODY=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
