@@ -61,22 +61,22 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912004_lhd.m3u8?auth_key=1695476500-0-0-e032ce352acf9cc1ba32048eba99db72"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912004_lsd.m3u8?auth_key=1695476500-0-0-e032ce352acf9cc1ba32048eba99db72"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://forlive01.fordems.live/live/for-dems4/chunks.m3u8"
   },
   {
    "type": "English HD",
@@ -84,14 +84,14 @@
    "link": "0"
   },
   {
-   "type": "English HD",
+   "type": "Test HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://work.ovo-line.com/live/n-5/playlist.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://bscfsdf.azzureedge.xyz/scripts/MTM1NzY=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/YpGpV2N/download-57.png",
@@ -99,7 +99,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
   {
