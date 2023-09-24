@@ -105,32 +105,32 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912035_lhd.m3u8?txSecret=6b6fc04e8f29d026d9a0956174625bda&txTime=65107600"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912035_lhd.m3u8?txSecret=6b6fc04e8f29d026d9a0956174625bda&txTime=65107600"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_5.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://forlive01.fordems.live/live/for-demsla-1/chunks.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://live-nd3n15l5.rmbl.ws/slot-57/qabj-u78q/chunklist.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -143,7 +143,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "6:30 PM"
   },
   {
