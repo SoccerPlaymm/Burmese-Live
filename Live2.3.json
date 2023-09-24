@@ -7,27 +7,27 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1695554320-0-0-6c28ea296f0cab37d19b4b99fc9ab420"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1695554320-0-0-6c28ea296f0cab37d19b4b99fc9ab420"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_6.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://forlive01.fordems.live/live/for-demsse-1/chunks.m3u8"
   },
   {
    "type": "English HD",
@@ -45,7 +45,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "5:00 PM"
   },
   {
