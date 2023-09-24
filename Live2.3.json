@@ -493,12 +493,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-379975_lhd.m3u8?txSecret=132a34754a5bb009716eeaf9f47c4af2&txTime=6510a030"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-379975_lhd.m3u8?txSecret=132a34754a5bb009716eeaf9f47c4af2&txTime=6510a030"
   },
   {
    "type": "Vebo HD",
@@ -531,7 +531,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:35 PM"
   },
   {
