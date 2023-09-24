@@ -439,22 +439,22 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=1cab693c26a42196986d5bfe503c74f0&txTime=65108aa0"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-379816_lsd.m3u8?txSecret=1cab693c26a42196986d5bfe503c74f0&txTime=65108aa0"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_7.m3u8"
   },
   {
    "type": "English HD",
@@ -469,7 +469,7 @@
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://bscfsdf.azzureedge.xyz/scripts/MTM3MTA=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/51zs1r9/download-63.png",
@@ -477,7 +477,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:00 PM"
   },
   {
