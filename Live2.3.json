@@ -449,17 +449,22 @@
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/hd-en-2y8m4zhwo2ojql0/playlist.m3u8"
+  },
+  {
+   "type": "Vebo SD",
+   "Vip": "Non",
+   "link": "https://179720687.global.cdnfastest.com/live/sd-2y8m4zhwo2ojql0/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_5.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://forlive01.fordems.live/live/for-demsla-1/chunks.m3u8"
   },
   {
    "type": "English HD",
