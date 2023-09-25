@@ -1,5 +1,23 @@
 [
 {
+    "Name":"The Magic Flute",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-12/645e0ab23aa5b.png",
+    "dLink":"http://www.zegomovie.com/Download/TheMagicFlute/TheMagicFlute.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/TheMagicFlute/index.m3u8"   
+  },
+  {
+    "Name":"Legacy Peak",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-09/6459e9e65bad8.png",
+    "dLink":"http://www.zegomovie.com/Download/LegacyPeak/LegacyPeak.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/LegacyPeak/index.m3u8"   
+  },
+{
+    "Name":"Miracle in Cell No. 7",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-04-26/64488e01cbfd6.png",
+    "dLink":"http://www.zegomovie.com/Download/MiracleinCellNo7/MiracleinCellNo7.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/MiracleinCellNo7/index.m3u8"   
+  },
+{
     "Name":"She Will",
     "Image":"http://zegomovie.com/Uploads/vod/2023-04-04/642bb0f93695d.png",
     "dLink":"http://www.zegomovie.com/Download/SheWill/SheWill.mp4",
