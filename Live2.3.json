@@ -123,17 +123,17 @@
    "link": "0"
   },
   {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "0"
+   "type": "English 1 HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "https://reels2watch.com/hls/s4.m3u8?|Referer=https://techclips.net/"
   },
   {
-   "type": "English HD [ VIP ]",
+   "type": "English 2 HD [ VIP ]",
    "Vip": "Vip",
    "link": "https://realbitsport.com/n-5.m3u8"
   },
  {
-   "type": "English HD [ VIP ]",
+   "type": "English 3 HD [ VIP ]",
    "Vip": "Vip",
    "link": "https://s3asjkbd.101streams.co/scripts/MTM3OTg=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
