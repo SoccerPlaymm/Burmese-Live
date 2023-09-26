@@ -56,22 +56,22 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=81df1b502aa77db044f333a822f36bc9&txTime=65137739"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=81df1b502aa77db044f333a822f36bc9&txTime=65137739"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://forlive01.fordems.live/live/for-dems1/chunks.m3u8"
   },
   {
    "type": "English HD",
@@ -79,14 +79,14 @@
    "link": "0"
   },
   {
-   "type": "English HD",
+   "type": "Test SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "http://77.247.109.23:8080/hls/streama213190/index.m3u8?cst=b3fc1529248e69415bf1d068f8c104f9"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://bscfsdf.azzureedge.xyz/scripts/MTM3OTc=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/Xj0bkGg/download-48.png",
@@ -105,17 +105,17 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1695756581-0-0-317ec1375a71c76e6fe420b075203c3e"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1695756581-0-0-317ec1375a71c76e6fe420b075203c3e"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
@@ -128,14 +128,14 @@
    "link": "0"
   },
   {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "0"
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "https://realbitsport.com/n-5.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://s3asjkbd.101streams.co/scripts/MTM3OTg=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8171.png",
@@ -143,7 +143,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/209.png",
     "LeagueName": "DFB Pokal",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
