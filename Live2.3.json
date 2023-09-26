@@ -1,54 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/yPjv50N/download-30.png",
-    "AwayName": "Almeria",
-    "Date": "Sep 26",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1695750401-0-0-e895861373190334ca3ad1fad4ea6998"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1695750401-0-0-e895861373190334ca3ad1fad4ea6998"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "https://forlive01.fordems.live/live/for-dems2/chunks.m3u8"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "https://temp.margheritahowe.store/live/SuperSportLaliga/caxis.m3u8?|Referer=https://bestsolaris.com/"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "https://fdaskj.1stream.one/scripts/MTM3OTY=/caxi.m3u8?|Referer=https://1stream.soccer/"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/DzBDBrj/download-25.png",
-    "HomeName": "Sevilla",
-    "Hot": "Hot",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-    "LeagueName": "LaLiga",
-    "LiveUpcoming": "Live",
-    "Time": "11:30 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/f0wRMJt/download-56.png",
     "AwayName": "Lecce",
     "Date": "Sep 27",
@@ -223,12 +174,12 @@
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/hd-en-4jwq2ghz3gw6m0v/playlist.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/sd-4jwq2ghz3gw6m0v/playlist.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
