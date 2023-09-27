@@ -30,14 +30,14 @@
    "link": "https://realbitsport.com/n-9.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "Test SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "http://37.49.225.118:8080/hls/streama211837/index.m3u8?cst=04fbcdcbfc7683cc9332d3ea1c4f215d"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://xwssgs.1stream.one/scripts/MTM4MTQ=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png",
