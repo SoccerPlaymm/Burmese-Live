@@ -1,28 +1,28 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/f0wRMJt/download-56.png",
-    "AwayName": "Lecce",
+    "AwayImage": "https://i.ibb.co/YpGpV2N/download-57.png",
+    "AwayName": "Milan",
     "Date": "Sep 27",
     "Link": [
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=81df1b502aa77db044f333a822f36bc9&txTime=65137739"
+   "link": "0"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=81df1b502aa77db044f333a822f36bc9&txTime=65137739"
+   "link": "0"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8"
+   "link": "0"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "https://forlive01.fordems.live/live/for-dems1/chunks.m3u8"
+   "link": "0"
   },
   {
    "type": "English HD",
@@ -30,136 +30,38 @@
    "link": "0"
   },
   {
-   "type": "Test SD",
+   "type": "English HD",
    "Vip": "Non",
-   "link": "http://77.247.109.23:8080/hls/streama213190/index.m3u8?cst=b3fc1529248e69415bf1d068f8c104f9"
+   "link": "0"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "https://bscfsdf.azzureedge.xyz/scripts/MTM3OTc=/caxi.m3u8?|Referer=https://1stream.soccer/"
+   "link": "0"
   }
              ],
-    "HomeImage": "https://i.ibb.co/Xj0bkGg/download-48.png",
-    "HomeName": "Juventus",
+    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png",
+    "HomeName": "Cagliari",
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "1:15 AM"
+    "LiveUpcoming": "Upcoming",
+    "Time": "11:00 PM"
   },
   {
-    "AwayImage": "https://i.ibb.co/D46m1WD/download-65.png",
-    "AwayName": "Bayern",
+    "AwayImage": "https://i.ibb.co/dkf4cTv/download-54.png",
+    "AwayName": "Salernitana",
     "Date": "Sep 27",
     "Link": [
   {
    "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1695756581-0-0-317ec1375a71c76e6fe420b075203c3e"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1695756581-0-0-317ec1375a71c76e6fe420b075203c3e"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8"
-  },
-  {
-   "type": "English FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "English 1 HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "https://reels2watch.com/hls/s4.m3u8?|Referer=https://techclips.net/"
-  },
-  {
-   "type": "English 2 HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "https://realbitsport.com/n-5.m3u8"
-  },
- {
-   "type": "English 3 HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "https://s3asjkbd.101streams.co/scripts/MTM3OTg=/caxi.m3u8?|Referer=https://1stream.soccer/"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8171.png",
-    "HomeName": "Preussen Munster",
-    "Hot": "Hot",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/209.png",
-    "LeagueName": "DFB Pokal",
-    "LiveUpcoming": "Live",
-    "Time": "1:15 AM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/PF2LKYS/download-6.png",
-    "AwayName": "Crystal Palace",
-    "Date": "Sep 27",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1695757421-0-0-9a09cf46c92406749f45132a3b734d5d"
-  },
-  {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1695757421-0-0-9a09cf46c92406749f45132a3b734d5d"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "https://forlive01.fordems.live/live/for-dems4/chunks.m3u8"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "https://storage.googleapis.com/realbitrings2/selector.m3u8"
-  },
-  {
-   "type": "Test SD",
-   "Vip": "Non",
-   "link": "http://37.49.225.118:8080/hls/streama213880/index.m3u8?cst=eb4b1127d5e3f078b2e4a96beba7c6d3"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "https://xwssgs.1stream.one/scripts/MTM4MDA=/caxi.m3u8?|Referer=https://1stream.soccer/"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/rZFH50R/download-1.png",
-    "HomeName": "Manchester United",
-    "Hot": "Hot",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
-    "LeagueName": "EFL Cup",
-    "LiveUpcoming": "Live",
-    "Time": "1:30 AM"
-  },
-  {
-    "AwayImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAMAAADVRocKAAAAA3NCSVQICAjb4U/gAAAAOVBMVEVHcEzsAADrAADrAADsAADrAADrAADsAADrAADsAADrAADrAADqAADlAADpAADrAADxAADuAADsAAAWxcxbAAAAD3RSTlMAv6xX3ZyU+s/rcINCFihkjtdfAAADdElEQVRoge1ZiW7bMAz1Lct2I5H//7EjddKJizU2gw2bH1Cg6sEnHuKVprlx41/D3Lbz44PyNwAP/QcJJnAOOlWRW08opwGdQ1uO/LvtIsHDkFXyoSMFSIU2nz2Au0rQzOBgjt+ugA74a4rnln41XJXfLGQVP6zbtg4e0XcjYjmTNutlgsay3T2Brm7JHZuFfJb+OI8xGJ6RxTFlhE5EuSwPzWNPgPilQTAXFUyIn84Xla67OAisNnLsA6NsIYpOVxiMtVW+86MOAb2nAr876BAs87dQeAU3bvzXaAmL/ME42IpO9i4L/+3bBEhZQWSC3nrACm9FLR4pfeDbBJTTBMGXrRkvJlKRqamZQXORYPapwjBiJq3NzOSvE4QcTYYJCGS+OkiB4IvLJrokM5Q0ZQLWoBRIrmn4AQIQBGBFCKtr0KPZlTI1H+Quq396VVoaUNd73AZphOkQ+2ozfYqAG+sQ/faAQoOgaX1koMf20kqoEDSrzRQ4PFHoENADNinhAQy7QVCLoHnMvlDIrlSNgF7AUFwhzKRFsPGtl+QKOdvoEDy6NAuOsfYo14NmND4Pm3Ei0c2mVNGwTLOU7PQJeMQvBGHGuQn+KMH6HEUKfVEiiJOZU4kiGud9TTiJYAwzZuiRsPaO4ykCqmF1MVRMlLcI6EVdpkn9xFZk3v1XJlhzCynr/iAe4c8R9C5NenFyKM6wbytILXi/fe9366ZCsHmxdolY9i7/MYy8Vw3T+UUFblXfHw+enFAJtlgOxI3tKRdEfxY54qG1fj9/9O6o9v0ERtxMEMQuz5f+qCVN3anNF9vI9S8EcTxAk2Ru5qSFSHeoQne5KLy2fCIFTsVQkFpVGAQZ556iwkZ/cnp1t0DxZr8zBKuQ+haOWn96L8X3TgGygiAgFVIi5FC7sF7mCEQXX23nhSuHnOt4WsOTHohS6YI2f18J1ux7eElMb4KbrHzb9sUU/OYurq/7UH5T4Xk2xejF8HwWYTV+nAkmUFn+8kNCOGCYUD6+C+BIR/9y0Q7xUoQKxCL2dNWWSz9ofD7BDCFBWzE2baGF15KftkXoSsDHac3rfHoQEIZYhDgkrxbwqXG5jtVB6IZM15kwQwEcDv3n8YjjH6a+brcUVMJkILd1YE7V4N+CfMs7QTCdyodPRxitc/Yzt8/oL+a2Gzf+RvwC8L1OHw13c/wAAAAASUVORK5CYII=",
-    "AwayName": "Reims",
-    "Date": "Sep 27",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-379975_lhd.m3u8?txSecret=746db28b021c0a4a8ecf47d6048b0ae9&txTime=65137abd"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-379975_lhd.m3u8?txSecret=746db28b021c0a4a8ecf47d6048b0ae9&txTime=65137abd"
+   "link": "0"
   },
   {
    "type": "Vebo HD",
@@ -169,79 +71,912 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "https://forlive01.fordems.live/live/for-dems5/chunks.m3u8"
+   "link": "0"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "https://179720687.global.cdnfastest.com/live/hd-en-4jwq2ghz3gw6m0v/playlist.m3u8"
+   "link": "0"
   },
   {
-   "type": "English SD",
+   "type": "English HD",
    "Vip": "Non",
-   "link": "https://179720687.global.cdnfastest.com/live/sd-4jwq2ghz3gw6m0v/playlist.m3u8"
+   "link": "0"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "https://s3asjkbd.101streams.co/scripts/MTM3OTk=/caxi.m3u8?|Referer=https://1stream.soccer/"
+   "link": "0"
   }
              ],
-    "HomeImage": "data:image/png;base64,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",
-    "HomeName": "LOSC",
-    "Hot": "Hot",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-    "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Live",
-    "Time": "1:30 AM"
+    "HomeImage": "https://i.ibb.co/18PSn4Z/download-47.png",
+    "HomeName": "Empoli",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+    "LeagueName": "Serie A",
+    "LiveUpcoming": "Upcoming",
+    "Time": "11:00 PM"
   },
   {
-    "AwayImage": "https://i.ibb.co/jh44yWL/download-66.png",
-    "AwayName": "Barcelona",
+    "AwayImage": "https://i.ibb.co/HqHFbmq/download-43.png",
+    "AwayName": "Atalanta",
     "Date": "Sep 27",
     "Link": [
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=49b023f1f1a6ce4f3a629670407ae440&txTime=65138021"
+   "link": "0"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=49b023f1f1a6ce4f3a629670407ae440&txTime=65138021"
+   "link": "0"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
+   "link": "0"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "https://forlive01.fordems.live/live/for-dems2/chunks.m3u8"
+   "link": "0"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "https://storage.googleapis.com/realbitrings3/selector.m3u8"
+   "link": "0"
   },
   {
-   "type": "Test HD",
+   "type": "English HD",
    "Vip": "Non",
-   "link": "http://77.247.109.250:8080/hls/streama211165/index.m3u8?cst=774646b93462584d489249427cedb959"
+   "link": "0"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "https://s3asjkbd.101streams.co/scripts/MTM4MDE=/caxi.m3u8?|Referer=https://1stream.soccer/"
+   "link": "0"
   }
              ],
-    "HomeImage": "https://i.ibb.co/LNCtfK0/download-32.png",
-    "HomeName": "Mallorca",
+    "HomeImage": "https://i.ibb.co/wMNphZd/download-49.png",
+    "HomeName": "Verona",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+    "LeagueName": "Serie A",
+    "LiveUpcoming": "Upcoming",
+    "Time": "11:00 PM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/6BFq3Lt/download-22.png",
+    "AwayName": "Getafe",
+    "Date": "Sep 27",
+    "Link": [
+  {
+   "type": "Soco HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/8KWFTPM/download-31.png",
+    "HomeName": "Athletic Club",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
+    "LeagueName": "LaLiga",
+    "LiveUpcoming": "Upcoming",
+    "Time": "11:30 PM"
+  },
+  {
+    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8306.png",
+    "AwayName": "Las Palmas",
+    "Date": "Sep 27",
+    "Link": [
+  {
+   "type": "Soco HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/N27SsT5/download-35.png",
+    "HomeName": "Real Madrid",
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Live",
+    "LiveUpcoming": "Upcoming",
+    "Time": "11:30 PM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/THrGZYk/download-37.png",
+    "AwayName": "Girona",
+    "Date": "Sep 27",
+    "Link": [
+  {
+   "type": "Soco HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/7Vsf3Tg/download-21.png",
+    "HomeName": "Villarreal",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
+    "LeagueName": "LaLiga",
+    "LiveUpcoming": "Upcoming",
+    "Time": "11:30 PM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/ZN6PsyW/download-45.png",
+    "AwayName": "Sassuolo",
+    "Date": "Sep 28",
+    "Link": [
+  {
+   "type": "Soco HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/P13TnDX/download-42.png",
+    "HomeName": "Inter",
+    "Hot": "Hot",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+    "LeagueName": "Serie A",
+    "LiveUpcoming": "Upcoming",
+    "Time": "1:15 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/T8v9CbT/download-51.png",
+    "AwayName": "Torino",
+    "Date": "Sep 28",
+    "Link": [
+  {
+   "type": "Soco HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/1mCtxQQ/download-58.png",
+    "HomeName": "Lazio",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+    "LeagueName": "Serie A",
+    "LiveUpcoming": "Upcoming",
+    "Time": "1:15 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/h169GkS/download-59.png",
+    "AwayName": "Udinese",
+    "Date": "Sep 28",
+    "Link": [
+  {
+   "type": "Soco HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/rxJP1dw/download-41.png",
+    "HomeName": "Napoli",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+    "LeagueName": "Serie A",
+    "LiveUpcoming": "Upcoming",
+    "Time": "1:15 AM"
+  },
+  {
+    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10194.png",
+    "AwayName": "Stoke",
+    "Date": "Sep 28",
+    "Link": [
+  {
+   "type": "Soco HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/jfz7Sks/download-5.png",
+    "HomeName": "Bournemouth",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
+    "LeagueName": "EFL Cup",
+    "LiveUpcoming": "Upcoming",
+    "Time": "1:15 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/0VgNnHq/download-17.png",
+    "AwayName": "Everton",
+    "Date": "Sep 28",
+    "Link": [
+  {
+   "type": "Soco HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/wK5L6HX/download-8.png",
+    "HomeName": "Aston Villa",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
+    "LeagueName": "EFL Cup",
+    "LiveUpcoming": "Upcoming",
+    "Time": "1:15 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/bN749H2/download-12.png",
+    "AwayName": "Arsenal",
+    "Date": "Sep 28",
+    "Link": [
+  {
+   "type": "Soco HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/gzBVDwK/download-18.png",
+    "HomeName": "Brentford",
+    "Hot": "Hot",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
+    "LeagueName": "EFL Cup",
+    "LiveUpcoming": "Upcoming",
+    "Time": "1:15 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/RBH2X6r/download-13.png",
+    "AwayName": "Brighton",
+    "Date": "Sep 28",
+    "Link": [
+  {
+   "type": "Soco HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/MMN9Rw5/download.png",
+    "HomeName": "Chelsea",
+    "Hot": "Hot",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
+    "LeagueName": "EFL Cup",
+    "LiveUpcoming": "Upcoming",
+    "Time": "1:15 AM"
+  },
+  {
+    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9850.png",
+    "AwayName": "Norwich",
+    "Date": "Sep 28",
+    "Link": [
+  {
+   "type": "Soco HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/8YZYVzF/download-15.png",
+    "HomeName": "Fulham",
+    "Hot": "Hot",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
+    "LeagueName": "EFL Cup",
+    "LiveUpcoming": "Upcoming",
+    "Time": "1:15 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/0B03V1F/download-19.png",
+    "AwayName": "West Ham",
+    "Date": "Sep 28",
+    "Link": [
+  {
+   "type": "Soco HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8430.png",
+    "HomeName": "Lincoln",
+    "Hot": "Hot",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
+    "LeagueName": "EFL Cup",
+    "LiveUpcoming": "Upcoming",
+    "Time": "1:15 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/V3Rk4tH/download-14.png",
+    "AwayName": "Leicester City",
+    "Date": "Sep 28",
+    "Link": [
+  {
+   "type": "Soco HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/T12PsPR/download-3.png",
+    "HomeName": "Liverpool",
+    "Hot": "Hot",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
+    "LeagueName": "EFL Cup",
+    "LiveUpcoming": "Upcoming",
+    "Time": "1:15 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/v4DMkVK/download-2.png",
+    "AwayName": "Manchester City",
+    "Date": "Sep 28",
+    "Link": [
+  {
+   "type": "Soco HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/McsHxxG/download-4.png",
+    "HomeName": "Newcastle",
+    "Hot": "Hot",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
+    "LeagueName": "EFL Cup",
+    "LiveUpcoming": "Upcoming",
+    "Time": "1:30 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/SvkRPGx/download-38.png",
+    "AwayName": "Rayo Vallecano",
+    "Date": "Sep 28",
+    "Link": [
+  {
+   "type": "Soco HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/SrkThSS/download-26.png",
+    "HomeName": "Cadiz",
+    "Hot": "Hot",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
+    "LeagueName": "LaLiga",
+    "LiveUpcoming": "Upcoming",
     "Time": "2:00 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/Px76w8v/download-27.png",
+    "AwayName": "Real Sociedad",
+    "Date": "Sep 28",
+    "Link": [
+  {
+   "type": "Soco HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/LNsh3hr/download-34.png",
+    "HomeName": "Valencia",
+    "Hot": "Hot",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
+    "LeagueName": "LaLiga",
+    "LiveUpcoming": "Upcoming",
+    "Time": "2:00 AM"
+  },
+  {
+    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8259.png",
+    "AwayName": "Houston",
+    "Date": "Sep 28",
+    "Link": [
+  {
+   "type": "Soco HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English HD [ VIP ]",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/960720.png",
+    "HomeName": "Inter Miami FC",
+    "Hot": "Hot",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/9441.png",
+    "LeagueName": "Open Cup",
+    "LiveUpcoming": "Upcoming",
+    "Time": "7:00 AM"
   }
 ]
