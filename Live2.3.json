@@ -301,22 +301,22 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-479684_lhd.m3u8?auth_key=1695841901-0-0-f1025c233628b9177d99079811399fbb"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-479684_lsd.m3u8?auth_key=1695841901-0-0-f1025c233628b9177d99079811399fbb"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_6.m3u8"
   },
   {
    "type": "English HD",
@@ -331,7 +331,7 @@
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://bscfsdf.azzureedge.xyz/scripts/MTM4NDU=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/P13TnDX/download-42.png",
@@ -339,7 +339,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -350,22 +350,22 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1695841901-0-0-8c1037bf4a321751859a97f8c8909632"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912047_lsd.m3u8?auth_key=1695841901-0-0-8c1037bf4a321751859a97f8c8909632"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may81/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_e1.m3u8"
   },
   {
    "type": "English HD",
@@ -380,7 +380,7 @@
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://bscfsdf.azzureedge.xyz/scripts/MTM4NDY=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/1mCtxQQ/download-58.png",
@@ -388,7 +388,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -399,12 +399,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=5b54d95234911d866dedeb85dd2d35f5&txTime=6514c4f9"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=5b54d95234911d866dedeb85dd2d35f5&txTime=6514c4f9"
   },
   {
    "type": "Vebo HD",
@@ -414,7 +414,7 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_7.m3u8"
   },
   {
    "type": "English HD",
@@ -437,56 +437,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
-    "Time": "1:15 AM"
-  },
-  {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10194.png",
-    "AwayName": "Stoke",
-    "Date": "Sep 28",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/jfz7Sks/download-5.png",
-    "HomeName": "Bournemouth",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
-    "LeagueName": "EFL Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -497,27 +448,27 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-427856_lhd.m3u8?txSecret=667aa5a3332c1c32bfdfa0bd78605f90&txTime=6514c87d"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-427856_lhd.m3u8?txSecret=667aa5a3332c1c32bfdfa0bd78605f90&txTime=6514c87d"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_1.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://forlive01.fordems.live/live/for-dems5/chunks.m3u8"
   },
   {
    "type": "English HD",
@@ -527,7 +478,7 @@
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://xwssgs.1stream.one/scripts/MTM4MjA=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/wK5L6HX/download-8.png",
@@ -535,7 +486,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
     "LeagueName": "EFL Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -546,27 +497,27 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1695841961-0-0-59a04b50c07179faed2fc62cd3ae38a7"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1695841961-0-0-59a04b50c07179faed2fc62cd3ae38a7"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_2.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://forlive01.fordems.live/live/for-dems2/chunks.m3u8"
   },
   {
    "type": "English HD",
@@ -576,7 +527,7 @@
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://xwssgs.1stream.one/scripts/MTM4MjM=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/gzBVDwK/download-18.png",
@@ -584,7 +535,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
     "LeagueName": "EFL Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -595,27 +546,27 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1695842021-0-0-e072519fbdc80c1d56c8306767871b3c"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1695842021-0-0-e072519fbdc80c1d56c8306767871b3c"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_3.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://forlive01.fordems.live/live/for-dems4/chunks.m3u8"
   },
   {
    "type": "English HD",
@@ -625,7 +576,7 @@
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://xwssgs.1stream.one/scripts/MTM4MjE=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/MMN9Rw5/download.png",
@@ -633,105 +584,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
     "LeagueName": "EFL Cup",
-    "LiveUpcoming": "Upcoming",
-    "Time": "1:15 AM"
-  },
-  {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9850.png",
-    "AwayName": "Norwich",
-    "Date": "Sep 28",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/8YZYVzF/download-15.png",
-    "HomeName": "Fulham",
-    "Hot": "Hot",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
-    "LeagueName": "EFL Cup",
-    "LiveUpcoming": "Upcoming",
-    "Time": "1:15 AM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/0B03V1F/download-19.png",
-    "AwayName": "West Ham",
-    "Date": "Sep 28",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8430.png",
-    "HomeName": "Lincoln",
-    "Hot": "Hot",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
-    "LeagueName": "EFL Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -742,27 +595,27 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=c03e63e2dd5220b5eb65b17fbfff9749&txTime=6514c535"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=c03e63e2dd5220b5eb65b17fbfff9749&txTime=6514c535"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_4.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://forlive01.fordems.live/live/for-dems3/chunks.m3u8"
   },
   {
    "type": "English HD",
@@ -772,7 +625,7 @@
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://s3asjkbd.101streams.co/scripts/MTM4MjI=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/T12PsPR/download-3.png",
@@ -780,7 +633,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
     "LeagueName": "EFL Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -791,27 +644,27 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1695842081-0-0-a2f3abc0b65ff0e8e9b83a5ad6a7657a"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1695842081-0-0-a2f3abc0b65ff0e8e9b83a5ad6a7657a"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_5.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://forlive01.fordems.live/live/for-dems1/chunks.m3u8"
   },
   {
    "type": "English HD",
@@ -821,7 +674,7 @@
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://xwssgs.1stream.one/scripts/MTM4MjQ=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/McsHxxG/download-4.png",
@@ -840,12 +693,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912051_lhd.m3u8?auth_key=1695842081-0-0-7d4099adf795dacdd1f963702743045e"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912051_lsd.m3u8?auth_key=1695842081-0-0-7d4099adf795dacdd1f963702743045e"
   },
   {
    "type": "Vebo HD",
