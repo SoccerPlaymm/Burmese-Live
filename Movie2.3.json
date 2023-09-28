@@ -1,5 +1,23 @@
 [
 {
+    "Name":"My Blood and Bones in a Flowing Galaxy",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-08-22/64e43ec3087e9.png",
+    "dLink":"http://www.zegomovie.com/Download/BonesinaFlowingGalaxy20/BonesinaFlowingGalaxy20.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/BonesinaFlowingGalaxy20/index.m3u8"   
+  },
+  {
+    "Name":"Scarlett",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-08-15/64db3aa821aa0.jpg",
+    "dLink":"http://www.zegomovie.com/Download/Scarlett20/Scarlett20.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/Scarlett20/index.m3u8"   
+  },
+{
+    "Name":"Bloodshot",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-08-15/64db0ca74f4d7.png",
+    "dLink":"http://www.zegomovie.com/Download/Bloodshot20/Bloodshot20.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/Bloodshot20/index.m3u8"   
+  },
+{
     "Name":"The Magic Flute",
     "Image":"http://zegomovie.com/Uploads/vod/2023-05-12/645e0ab23aa5b.png",
     "dLink":"http://www.zegomovie.com/Download/TheMagicFlute/TheMagicFlute.mp4",
