@@ -7,17 +7,17 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1695920801-0-0-3aac365e539709ed547929de79618c0f"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1695920801-0-0-3aac365e539709ed547929de79618c0f"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "English FHD",
@@ -37,7 +37,7 @@
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://xwssgs.1stream.one/scripts/MTM4NjA=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9891.png",
@@ -45,7 +45,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
   {
@@ -56,12 +56,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-462413_lhd.m3u8?auth_key=1695920861-0-0-b192526a013b1916ae246d49ed176846"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-462413_lsd.m3u8?auth_key=1695920861-0-0-b192526a013b1916ae246d49ed176846"
   },
   {
    "type": "Vebo HD",
@@ -71,7 +71,7 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-dems1.m3u8"
   },
   {
    "type": "English HD",
@@ -94,7 +94,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
   {
