@@ -1,54 +1,5 @@
 [
   {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8259.png",
-    "AwayName": "Houston",
-    "Date": "Sep 28",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1695845381-0-0-74be93bd858fdc3f8c135b6f979f0d52"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1695845381-0-0-74be93bd858fdc3f8c135b6f979f0d52"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/960720.png",
-    "HomeName": "Inter Miami FC",
-    "Hot": "Hot",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/9441.png",
-    "LeagueName": "Open Cup",
-    "LiveUpcoming": "Live",
-    "Time": "7:00 AM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/Sc8jcxx/download-53.png",
     "AwayName": "Fiorentina",
     "Date": "Sep 28",
