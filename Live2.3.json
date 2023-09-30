@@ -595,12 +595,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-368492_lhd.m3u8?auth_key=1696086281-0-0-80f15411dda61b9d36814950b030da54"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-368492_lsd.m3u8?auth_key=1696086281-0-0-80f15411dda61b9d36814950b030da54"
   },
   {
    "type": "Vebo HD",
@@ -633,7 +633,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:45 PM"
   },
   {
