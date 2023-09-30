@@ -1,54 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/RBH2X6r/download-13.png",
-    "AwayName": "Brighton",
-    "Date": "Sep 30",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912057_lhd.m3u8?txSecret=361449baab4d4eeaf60cd29b6bbecc82&txTime=651857bd"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912057_lhd.m3u8?txSecret=361449baab4d4eeaf60cd29b6bbecc82&txTime=651857bd"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "https://sportsleading.online/live/stream_1.m3u8"
-  },
-  {
-   "type": "English 1 HD",
-   "Vip": "Non",
-   "link": "https://chop.fordems.live/hls/for-dems1.m3u8"
-  },
-  {
-   "type": "English 2 HD",
-   "Vip": "Non",
-   "link": "https://work.ovo-line.com/live/n-1/chunks.m3u8"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "https://s3asjkbd.101streams.co/scripts/MTM5NjI=/caxi.m3u8?|Referer=https://1stream.soccer/"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/wK5L6HX/download-8.png",
-    "HomeName": "Aston Villa",
-    "Hot": "",
-    "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
-    "LeagueName": "Premier League",
-    "LiveUpcoming": "Live",
-    "Time": "6:00 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/7Vsf3Tg/download-21.png",
     "AwayName": "Villarreal",
     "Date": "Sep 30",
@@ -399,22 +350,22 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912018_lhd.m3u8?auth_key=1696084301-0-0-b275016b92e7fa145bddd35db89728d7"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912018_lsd.m3u8?auth_key=1696084301-0-0-b275016b92e7fa145bddd35db89728d7"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_1.m3u8"
   },
   {
    "type": "English HD",
@@ -424,12 +375,12 @@
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/naturrealbit1/selector.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://xwssgs.1stream.one/scripts/MTM5Njg=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/jfz7Sks/download-5.png",
@@ -437,7 +388,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -448,12 +399,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1696084361-0-0-a0c5809f9502484e45484ad61b8a7878"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1696084361-0-0-a0c5809f9502484e45484ad61b8a7878"
   },
   {
    "type": "Vebo HD",
@@ -463,7 +414,7 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_4.m3u8"
   },
   {
    "type": "English HD",
@@ -473,12 +424,12 @@
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://work.ovo-line.com/live/n-4/chunks.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://bscfsdf.azzureedge.xyz/scripts/MTM5NzI=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/0VgNnHq/download-17.png",
@@ -486,7 +437,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -497,22 +448,22 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1696084541-0-0-cbcd156d6a825516588422bc564cf23f"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1696084541-0-0-cbcd156d6a825516588422bc564cf23f"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_2.m3u8"
   },
   {
    "type": "English HD",
@@ -522,12 +473,12 @@
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/naturrealbit2/selector.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://s3asjkbd.101streams.co/scripts/MTM5NzA=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/rZFH50R/download-1.png",
@@ -535,7 +486,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -546,22 +497,22 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1696084541-0-0-3126b56c8274814ba7c98e9468d2b1b5"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912016_lsd.m3u8?auth_key=1696084541-0-0-3126b56c8274814ba7c98e9468d2b1b5"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_5.m3u8"
   },
   {
    "type": "English HD",
@@ -571,12 +522,12 @@
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://work.ovo-line.com/live/n-5/chunks.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://bscfsdf.azzureedge.xyz/scripts/MTM5Njc=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/McsHxxG/download-4.png",
@@ -584,7 +535,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -595,22 +546,22 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912003_lhd.m3u8?txSecret=f38f39986cfa5cd06848814a8a44c5d5&txTime=651878c9"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912003_lhd.m3u8?txSecret=f38f39986cfa5cd06848814a8a44c5d5&txTime=651878c9"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_6.m3u8"
   },
   {
    "type": "English HD",
@@ -620,12 +571,12 @@
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://work.ovo-line.com/live/n-6/chunks.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://fdaskj.1stream.one/scripts/MTM5NzE=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/0B03V1F/download-19.png",
@@ -633,7 +584,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -644,12 +595,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1696084661-0-0-e248ab22d0370b10becc8ddd819c3af7"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1696084661-0-0-e248ab22d0370b10becc8ddd819c3af7"
   },
   {
    "type": "Vebo HD",
@@ -659,7 +610,7 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_3.m3u8"
   },
   {
    "type": "English HD",
@@ -669,12 +620,12 @@
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/naturrealbit3/selector.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://s3asjkbd.101streams.co/scripts/MTM5Njk=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/QJMLcrP/download-10.png",
@@ -682,7 +633,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
