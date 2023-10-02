@@ -1,54 +1,5 @@
 [
   {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/606032.png",
-    "AwayName": "FC Istiklol",
-    "Date": "Oct 03",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912057_lhd.m3u8?txSecret=62a514cc0c3f788f0fef1af060fff2be&txTime=651b4329"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912057_lhd.m3u8?txSecret=62a514cc0c3f788f0fef1af060fff2be&txTime=651b4329"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "https://179720687.global.cdnfastest.com/live/hd-en-jw2r09h2l2w8rz8/playlist.m3u8"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "https://179720687.global.cdnfastest.com/live/sd-jw2r09h2l2w8rz8/playlist.m3u8"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "https://xwssgs.1stream.one/scripts/MTQxMjE=/caxi.m3u8?|Referer=https://1stream.soccer/"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
-    "HomeName": "Al Nassr FC",
-    "Hot": "Hot",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/525.png",
-    "LeagueName": "AFC Champions League",
-    "LiveUpcoming": "Live",
-    "Time": "12:30 AM"
-  },
-  {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png",
     "AwayName": "Cagliari",
     "Date": "Oct 03",
