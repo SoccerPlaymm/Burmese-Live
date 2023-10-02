@@ -1,103 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/0mCdqDz/download-50.png",
-    "AwayName": "Monza",
-    "Date": "Oct 02",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "https://179720687.global.cdnfastest.com/live/hd-en-k82rekh0511vrep/playlist.m3u8"
-  },
-  {
-   "type": "English SD",
-   "Vip": "Non",
-   "link": "https://179720687.global.cdnfastest.com/live/sd-k82rekh0511vrep/playlist.m3u8"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "https://s3asjkbd.101streams.co/scripts/MTQxMTA=/caxi.m3u8?|Referer=https://1stream.soccer/"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/ZN6PsyW/download-45.png",
-    "HomeName": "Sassuolo",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "11:00 PM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/wMNphZd/download-49.png",
-    "AwayName": "Verona",
-    "Date": "Oct 02",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "https://179720687.global.cdnfastest.com/live/hd-en-318q66h69kk0qo9/playlist.m3u8"
-  },
-  {
-   "type": "English SD",
-   "Vip": "Non",
-   "link": "https://179720687.global.cdnfastest.com/live/sd-318q66h69kk0qo9/playlist.m3u8"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "https://xwssgs.1stream.one/scripts/MTQxMDk=/caxi.m3u8?|Referer=https://1stream.soccer/"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/T8v9CbT/download-51.png",
-    "HomeName": "Torino",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "11:00 PM"
-  },
-  {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/606032.png",
     "AwayName": "FC Istiklol",
     "Date": "Oct 03",
@@ -154,17 +56,17 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-427856_lhd.m3u8?txSecret=83b50205d82111288993546e584f0634&txTime=651b6165"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-427856_lhd.m3u8?txSecret=83b50205d82111288993546e584f0634&txTime=651b6165"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
@@ -184,7 +86,7 @@
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://xwssgs.1stream.one/scripts/MTQxMTE=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/Sc8jcxx/download-53.png",
@@ -192,7 +94,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
