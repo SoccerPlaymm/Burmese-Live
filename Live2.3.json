@@ -1,59 +1,5 @@
 [
   {
-    "AwayImage": "https://www.soccer24.com/res/image/data/j3Tyh1GG-bucnXust.png",
-    "AwayName": "Bologna",
-    "Date": "Oct 07",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1696686462-0-0-82328ca4ceaafd5d45403eae075abc95"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912016_lsd.m3u8?auth_key=1696686462-0-0-82328ca4ceaafd5d45403eae075abc95"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "https://sportsleading.online/live/stream_5.m3u8"
-  },
-  {
-   "type": "English 1 HD",
-   "Vip": "Non",
-   "link": "https://chop.fordems.live/hls/for-dems5.m3u8"
-  },
-  {
-   "type": "English 2 HD",
-   "Vip": "Non",
-   "link": "https://work.312work312.pro/live/n-6/chunks.m3u8"
-  },
-  {
-   "type": "English 3 HD",
-   "Vip": "Non",
-   "link": "https://gobezwoo.xyz/chunklist/hlsch11.m3u8"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/P13TnDX/download-42.png",
-    "HomeName": "Inter",
-    "Hot": "Hot",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "7:30 PM"
-  },
-  {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8262.png",
     "AwayName": "SV Darmstadt",
     "Date": "Oct 07",
