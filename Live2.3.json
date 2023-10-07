@@ -547,17 +547,17 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1696693602-0-0-710631bb64f3d4ddd131b922d1781fb1"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1696693602-0-0-710631bb64f3d4ddd131b922d1781fb1"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
@@ -582,7 +582,7 @@
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://fdaskj.1stream.one/scripts/MTQyNjU=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/582759.png",
@@ -590,7 +590,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/536.png",
     "LeagueName": "Saudi Pro League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
@@ -601,12 +601,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912034_lhd.m3u8?txSecret=e726b132a503ca9e6066861098e880d1&txTime=6521c376"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912034_lhd.m3u8?txSecret=e726b132a503ca9e6066861098e880d1&txTime=6521c376"
   },
   {
    "type": "Vebo HD",
@@ -616,7 +616,7 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_7.m3u8"
   },
   {
    "type": "English HD",
@@ -636,7 +636,7 @@
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://fdaskj.1stream.one/scripts/MTQyNjI=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8550.png",
@@ -644,7 +644,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
