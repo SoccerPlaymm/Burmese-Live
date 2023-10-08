@@ -1,59 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/dkf4cTv/download-54.png",
-    "AwayName": "Salernitana",
-    "Date": "Oct 08",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1696763802-0-0-c4df2c56fd5877d3f8789e67c16879bb"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1696763802-0-0-c4df2c56fd5877d3f8789e67c16879bb"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "https://sportsleading.online/live/stream_5.m3u8"
-  },
-  {
-   "type": "English 1 HD",
-   "Vip": "Non",
-   "link": "https://gobezwoo.xyz/chunklist/hlsch1.m3u8"
-  },
-  {
-   "type": "English 2 HD",
-   "Vip": "Non",
-   "link": "https://chop.fordems.live/hls/for-dems4.m3u8"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/0mCdqDz/download-50.png",
-    "HomeName": "Monza",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "5:00 PM"
-  },
-  {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9746.png",
     "AwayName": "Le Havre",
     "Date": "Oct 08",
@@ -169,37 +115,37 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=7da1fdf54a682d4808acc04984c6961f&txTime=6522f49e"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=7da1fdf54a682d4808acc04984c6961f&txTime=6522f49e"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_1.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://work.312work312.pro/live/n-1/chunks.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-dems1.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://gobezwoo.xyz/chunklist/hlsch5.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -212,7 +158,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
   {
@@ -223,37 +169,37 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912048_lhd.m3u8?txSecret=c579abdf5fe3bcc5470709d4c2062d05&txTime=6522f4da"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912048_lhd.m3u8?txSecret=c579abdf5fe3bcc5470709d4c2062d05&txTime=6522f4da"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_2.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://work.312work312.pro/live/n-2/chunks.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-dems2.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://gobezwoo.xyz/chunklist/hlsch6.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -266,7 +212,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
   {
@@ -277,37 +223,37 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-991117_lhd.m3u8?auth_key=1696771722-0-0-49307038bc5e0a200f39e1a1b37ac2d9"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-991117_lsd.m3u8?auth_key=1696771722-0-0-49307038bc5e0a200f39e1a1b37ac2d9"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_3.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://work.312work312.pro/live/n-3/chunks.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-dems3.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://gobezwoo.xyz/chunklist/hlsch7.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -320,7 +266,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
   {
@@ -331,12 +277,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912020_lhd.m3u8?auth_key=1696772262-0-0-33c180da01cde4b1a3e878654fdf5a4e"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912020_lsd.m3u8?auth_key=1696772262-0-0-33c180da01cde4b1a3e878654fdf5a4e"
   },
   {
    "type": "Vebo HD",
@@ -374,7 +320,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
   {
@@ -385,12 +331,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-342075_lhd.m3u8?txSecret=caafce9dc1aba45eea4f2715f378f1b5&txTime=6522f516"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-342075_lhd.m3u8?txSecret=caafce9dc1aba45eea4f2715f378f1b5&txTime=6522f516"
   },
   {
    "type": "Vebo HD",
@@ -428,7 +374,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
   {
@@ -439,12 +385,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1696771782-0-0-0c4f6477f850bea43ce997d0f1ba1374"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1696771782-0-0-0c4f6477f850bea43ce997d0f1ba1374"
   },
   {
    "type": "Vebo HD",
@@ -482,7 +428,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
   {
@@ -493,12 +439,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912027_lhd.m3u8?auth_key=1696772082-0-0-ab5b427d03040b1d3e8c4753b994dd62"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912027_lsd.m3u8?auth_key=1696772082-0-0-ab5b427d03040b1d3e8c4753b994dd62"
   },
   {
    "type": "Vebo HD",
@@ -508,7 +454,7 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_4.m3u8"
   },
   {
    "type": "English HD",
@@ -536,7 +482,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
   {
@@ -547,12 +493,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-104707_lhd.m3u8?txSecret=894c8d030e8ce952e6c3b362c9cd08db&txTime=6522f462"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-104707_lhd.m3u8?txSecret=894c8d030e8ce952e6c3b362c9cd08db&txTime=6522f462"
   },
   {
    "type": "Vebo HD",
@@ -562,22 +508,22 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_5.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://work.312work312.pro/live/n-5/chunks.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-dems4.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://gobezwoo.xyz/chunklist/hlsch2.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -590,7 +536,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
   {
