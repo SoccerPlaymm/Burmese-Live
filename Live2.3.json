@@ -1,59 +1,5 @@
 [
   {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9746.png",
-    "AwayName": "Le Havre",
-    "Date": "Oct 08",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1696765482-0-0-1e9f723f467d4149d27ebe09cfa59521"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912084_lsd.m3u8?auth_key=1696765482-0-0-1e9f723f467d4149d27ebe09cfa59521"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "https://sportsleading.online/live/stream_8.m3u8"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "https://gobezwoo.xyz/chunklist/hlsch2.m3u8"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "https://chop.fordems.live/hls/for-dems7.m3u8"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/zNhmF1y/download-70.png",
-    "HomeName": "Marseille",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-    "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Live",
-    "Time": "5:30 PM"
-  },
-  {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8306.png",
     "AwayName": "Las Palmas",
     "Date": "Oct 08",
@@ -297,12 +243,12 @@
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/hd-en-6ypq3nh7jk82md7/playlist.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/sd-6ypq3nh7jk82md7/playlist.m3u8"
   },
   {
    "type": "English HD",
@@ -351,12 +297,12 @@
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/hd-en-3glrw7h3v4gkqdy/playlist.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/sd-3glrw7h3v4gkqdy/playlist.m3u8"
   },
   {
    "type": "English HD",
@@ -405,12 +351,12 @@
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/hd-en-y0or5jhz29weqwz/playlist.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/sd-y0or5jhz29weqwz/playlist.m3u8"
   },
   {
    "type": "English HD",
@@ -459,12 +405,12 @@
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/hd-en-3glrw7h3v4gkqdy/playlist.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/sd-3glrw7h3v4gkqdy/playlist.m3u8"
   },
   {
    "type": "English HD",
@@ -503,7 +449,7 @@
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/hd-en-4jwq2ghz810km0v/playlist.m3u8"
   },
   {
    "type": "English FHD",
