@@ -1,59 +1,5 @@
 [
   {
-    "AwayImage": "data:image/png;base64,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",
-    "AwayName": "Armenia",
-    "Date": "Oct 12",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=5ec960feb0197a30d2d48e764e42366e&txTime=652869f6"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=5ec960feb0197a30d2d48e764e42366e&txTime=652869f6"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "https://sportsleading.online/live/stream_1.m3u8"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "https://screenber.312work312.pro/live/n-1/chunks.m3u8"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "https://chop.fordems.live/hls/for-1.m3u8"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch11.m3u8"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "data:image/png;base64,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",
-    "HomeName": "Latvia",
-    "Hot": "Hot",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-    "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Live",
-    "Time": "10:30 PM"
-  },
-  {
     "AwayImage": "data:image/png;base64,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",
     "AwayName": "Norway",
     "Date": "Oct 13",
@@ -61,37 +7,37 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912003_lhd.m3u8?auth_key=1697137962-0-0-dcd29cc94210ebef32e664bdde7cfeae"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912003_lsd.m3u8?auth_key=1697137962-0-0-dcd29cc94210ebef32e664bdde7cfeae"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_2.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://screenber.312work312.pro/live/n-4/chunks.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-2.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch12.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -104,7 +50,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -115,37 +61,37 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1697137842-0-0-f8496c51b41abbc1ceeef28b036ffb2e"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1697137842-0-0-f8496c51b41abbc1ceeef28b036ffb2e"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_1.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://screenber.312work312.pro/live/n-1/chunks.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-1.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch13.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -158,7 +104,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -169,12 +115,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-379816_lhd.m3u8?auth_key=1697137902-0-0-f9a6c8c39918fda81354deaa551a1b9b"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-379816_lsd.m3u8?auth_key=1697137902-0-0-f9a6c8c39918fda81354deaa551a1b9b"
   },
   {
    "type": "Vebo HD",
@@ -184,22 +130,22 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_3.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://screenber.312work312.pro/live/n-2/chunks.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-3.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch11.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -212,7 +158,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -223,12 +169,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1697138802-0-0-b00c246bd54f883ce3c219557b866f9c"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1697138802-0-0-b00c246bd54f883ce3c219557b866f9c"
   },
   {
    "type": "Vebo HD",
@@ -238,22 +184,22 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_4.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://screenber.312work312.pro/live/n-3/chunks.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-4.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch17.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -266,7 +212,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -277,12 +223,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1697138382-0-0-cb302206696cfaad074adb0db0202a9d"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1697138382-0-0-cb302206696cfaad074adb0db0202a9d"
   },
   {
    "type": "Vebo HD",
@@ -292,22 +238,22 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_5.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://screenber.312work312.pro/live/n-7/chunks.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-5.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch14.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -320,7 +266,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -331,12 +277,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912082_lhd.m3u8?auth_key=1697137962-0-0-1d40db515a9526532746b7238de11424"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912082_lsd.m3u8?auth_key=1697137962-0-0-1d40db515a9526532746b7238de11424"
   },
   {
    "type": "Vebo HD",
@@ -346,22 +292,22 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_6.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://screenber.312work312.pro/live/n-5/chunks.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-6.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch16.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -374,7 +320,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -385,37 +331,37 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912061_lhd.m3u8?auth_key=1697138022-0-0-0de2072f579795cfe9b5990dccd5985f"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912061_lsd.m3u8?auth_key=1697138022-0-0-0de2072f579795cfe9b5990dccd5985f"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may12/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_7.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://screenber.312work312.pro/live/n-6/chunks.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch15.m3u8"
   },
   {
-   "type": "English HD",
+   "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-7.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -428,7 +374,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
