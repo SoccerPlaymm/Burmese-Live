@@ -7,7 +7,7 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": ""
+   "link": "0"
   },
   {
    "type": "Soco SD",
@@ -50,7 +50,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Live",
+    "LiveUpcoming": "Upcoming",
     "Time": "10:30 PM"
   },
   {
