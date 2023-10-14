@@ -7,17 +7,17 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1697301343-0-0-4b8e6788fef5a78960506eccb55c6ba5"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1697301343-0-0-4b8e6788fef5a78960506eccb55c6ba5"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
   },
   {
    "type": "English FHD",
@@ -27,17 +27,17 @@
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://screenber.312work312.pro/live/n-1/chunks.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-2.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch6.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -50,7 +50,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   },
   {
@@ -61,17 +61,17 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912078_lhd.m3u8?auth_key=1697301343-0-0-b18a33cccbb98ac27091e5f97cc9298c"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912078_lsd.m3u8?auth_key=1697301343-0-0-b18a33cccbb98ac27091e5f97cc9298c"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
@@ -81,17 +81,17 @@
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://screenber.312work312.pro/live/n-2/chunks.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-1.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch5.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -104,7 +104,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   },
   {
