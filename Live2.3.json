@@ -125,27 +125,27 @@
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
   },
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_4.m3u8"
+  },
+  {
+   "type": "English HD"
+   "Vip": "Non",
+   "link": "https://screenber.312work312.pro/live/n-3/chunks.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-3.m3u8"
   },
   {
    "type": "English HD",
    "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English HD",
-   "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch13.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -158,7 +158,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/10199.png",
     "LeagueName": "World Cup Qualification CONMEBOL",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 AM"
   }
 ]
