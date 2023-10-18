@@ -1,23 +1,5 @@
 [
 {
-    "Name":"Never Say Neve",
-    "Image":"http://zegomovie.com/Uploads/vod/2023-10-03/651be8492c2d6.png",
-    "dLink":"http://www.zegomovie.com/Videos/NeverSayNever/NeverSayNever.mp4",
-    "pLink": "http://www.zegomovie.com/Videos/NeverSayNever/index.m3u8"   
-  },
-  {
-    "Name":"Pawn",
-    "Image":"http://zegomovie.com/Uploads/vod/2023-09-01/64f14fdfa9197.png",
-    "dLink":"http://www.zegomovie.com/Videos/Pawn/Pawn.mp4",
-    "pLink": "http://www.zegomovie.com/Videos/Pawn/index.m3u8"   
-  },
-{
-    "Name":"Emergency Declaration",
-    "Image":"http://zegomovie.com/Uploads/vod/2023-09-01/64f14d78ecd94.png",
-    "dLink":"http://www.zegomovie.com/Videos/EmergencyDeclaration/EmergencyDeclaration.mp4",
-    "pLink": "http://www.zegomovie.com/Videos/EmergencyDeclaration/index.m3u8"   
-  },
-{
     "Name":"Wee Dragons",
     "Image":"http://zegomovie.com/Uploads/vod/2023-10-16/652d14ece9e1e.jpg",
     "dLink":"http://www.zegomovie.com/Download/WeeDragons18/WeeDragons18.mp4",
