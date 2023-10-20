@@ -115,12 +115,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1697830963-0-0-ff1d87bbe7604498b5dc14087eb7f1cc"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1697830963-0-0-ff1d87bbe7604498b5dc14087eb7f1cc"
   },
   {
    "type": "Vebo HD",
@@ -135,12 +135,12 @@
   {
    "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://screenber.312work312.pro/live/n-2/chunks.m3u8"
   },
   {
    "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-1.m3u8"
   },
   {
    "type": "English 3 HD",
@@ -158,7 +158,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
@@ -169,12 +169,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-342075_lhd.m3u8?txSecret=6cae61eb6350f1ddbafad3e0f3884392&txTime=65331efb"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-342075_lhd.m3u8?txSecret=6cae61eb6350f1ddbafad3e0f3884392&txTime=65331efb"
   },
   {
    "type": "Vebo HD",
