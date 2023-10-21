@@ -61,12 +61,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912030_lhd.m3u8?txSecret=b0189a6751153d0a611e297a19733fdd&txTime=65347003"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912030_lhd.m3u8?txSecret=b0189a6751153d0a611e297a19733fdd&txTime=65347003"
   },
   {
    "type": "Vebo HD",
@@ -81,12 +81,12 @@
   {
    "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://screenber.247ovo.com/live/n-7/chunks.m3u8"
   },
   {
    "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-9.m3u8"
   },
   {
    "type": "English 3 HD",
@@ -104,7 +104,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
@@ -115,12 +115,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1697917243-0-0-3616f817f30dde0256f0b29e5b6755fa"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1697917243-0-0-3616f817f30dde0256f0b29e5b6755fa"
   },
   {
    "type": "Vebo HD",
@@ -128,29 +128,29 @@
    "link": "0"
   },
   {
-   "type": "English FHD",
+   "type": "Bein FHD Test",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://live-ak.vimeocdn.com:443/exp=1697914150~acl=%2Fcc679bc6-0d85-4af4-affa-cc79e8729d01%2F%2A~hmac=6595418f8c63d4754f626654c951086a2774a46b2e02d6634874fbc0c665c084/cc679bc6-0d85-4af4-affa-cc79e8729d01/chunklist_b6256000.m3u8?max_segments=10"
   },
   {
    "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/ovringsonix1/mux_video_ts1/index-1.m3u8"
   },
   {
    "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/fjadwfbaheaw/main.m3u8"
   },
   {
-   "type": "English 3 HD",
+   "type": "Bein SD Test",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://live-ak.vimeocdn.com:443/exp=1697914150~acl=%2Fcc679bc6-0d85-4af4-affa-cc79e8729d01%2F%2A~hmac=6595418f8c63d4754f626654c951086a2774a46b2e02d6634874fbc0c665c084/cc679bc6-0d85-4af4-affa-cc79e8729d01/chunklist_b2056000.m3u8?max_segments=10"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://ss1.101streams.net/scripts/MTQ3Mzg=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8657.png",
@@ -158,7 +158,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
@@ -169,12 +169,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1697917243-0-0-ef95ffa888ace36151d4459f3632a9c8"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1697917243-0-0-ef95ffa888ace36151d4459f3632a9c8"
   },
   {
    "type": "Vebo HD",
@@ -184,27 +184,27 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_e2.m3u8"
   },
   {
    "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://screenber.247ovo.com/live/n-6/chunks.m3u8"
   },
   {
    "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-6.m3u8"
   },
   {
    "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch4.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://ss1.101streams.net/scripts/MTQ3NDI=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/5svpMRP/download-36.png",
@@ -212,7 +212,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   }
 ]
