@@ -1,59 +1,5 @@
 [
-  {
-    "AwayImage": "https://i.ibb.co/rxJP1dw/download-41.png",
-    "AwayName": "Napoli",
-    "Date": "Oct 21",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912045_lhd.m3u8?auth_key=1697895823-0-0-b45300dbe6bb45dbccb7519e88623bc9"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912045_lsd.m3u8?auth_key=1697895823-0-0-b45300dbe6bb45dbccb7519e88623bc9"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/may71/playlist.m3u8"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "https://sportsleading.online/live/stream_8.m3u8"
-  },
-  {
-   "type": "English 1 HD",
-   "Vip": "Non",
-   "link": "https://screenber.312work312.pro/live/n-7/chunks.m3u8"
-  },
-  {
-   "type": "English 2 HD",
-   "Vip": "Non",
-   "link": "https://chop.fordems.live/hls/for-7.m3u8"
-  },
-  {
-   "type": "English 3 HD",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch6.m3u8"
-  },
  {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/wMNphZd/download-49.png",
-    "HomeName": "Verona",
-    "Hot": "Hot",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "7:30 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/HdHxByy/download-76.png",
     "AwayName": "RB Leipzig",
     "Date": "Oct 21",
@@ -675,12 +621,12 @@
   {
    "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/hd-en-zp5rzgh6851oq82/playlist.m3u8"
   },
   {
    "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://179720687.global.cdnfastest.com/live/sd-zp5rzgh6851oq82/playlist.m3u8"
   },
   {
    "type": "English 3 HD",
@@ -724,7 +670,7 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://livenflstream.xyz/playlist/stream_10.m3u8"
   },
   {
    "type": "English 1 HD",
