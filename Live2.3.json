@@ -79,9 +79,9 @@
    "link": "https://webproxifiers.online/live/stream_1.m3u8"
   },
   {
-   "type": "English 1 HD",
+   "type": "Bein FHD Test",
    "Vip": "Non",
-   "link": "https://webproxifiers.online/live/stream_1.m3u8"
+   "link": "https://live-ak.vimeocdn.com:443/exp=1697914150~acl=%2Fcc679bc6-0d85-4af4-affa-cc79e8729d01%2F%2A~hmac=6595418f8c63d4754f626654c951086a2774a46b2e02d6634874fbc0c665c084/cc679bc6-0d85-4af4-affa-cc79e8729d01/chunklist_b6256000.m3u8?max_segments=10"
   },
   {
    "type": "English 2 HD",
@@ -89,9 +89,9 @@
    "link": "https://storage.googleapis.com/mifgnfirue22/main.m3u8"
   },
   {
-   "type": "English 3 HD",
+   "type": "Bein HD Test",
    "Vip": "Non",
-   "link": "https://storage.googleapis.com/mifgnfirue22/main.m3u8"
+   "link": "https://live-ak.vimeocdn.com:443/exp=1697914150~acl=%2Fcc679bc6-0d85-4af4-affa-cc79e8729d01%2F%2A~hmac=6595418f8c63d4754f626654c951086a2774a46b2e02d6634874fbc0c665c084/cc679bc6-0d85-4af4-affa-cc79e8729d01/chunklist_b3256000.m3u8?max_segments=10"
   },
  {
    "type": "English HD [ VIP ]",
