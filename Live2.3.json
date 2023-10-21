@@ -655,17 +655,17 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1697903263-0-0-39c5197b12b7049d2e9c35dbd18af2c7"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1697903263-0-0-39c5197b12b7049d2e9c35dbd18af2c7"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
@@ -698,7 +698,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/536.png",
     "LeagueName": "Saudi Pro League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
@@ -709,17 +709,17 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-359960_lhd.m3u8?auth_key=1697903263-0-0-1809274b8f679572d82298158cbaa61a"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-359960_lsd.m3u8?auth_key=1697903263-0-0-1809274b8f679572d82298158cbaa61a"
   },
   {
    "type": "Vebo HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8"
   },
   {
    "type": "English FHD",
@@ -729,17 +729,17 @@
   {
    "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/crystaovoreal3/mux_video_ts1/index-1.m3u8"
   },
   {
    "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-9.m3u8"
   },
   {
    "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch13.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -752,7 +752,7 @@
     "Hot": "Hot",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
