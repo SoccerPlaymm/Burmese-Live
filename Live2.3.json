@@ -385,12 +385,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1697982643-0-0-a8f0069d5bd55b4f32791edc6f2be5fd"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1697982643-0-0-a8f0069d5bd55b4f32791edc6f2be5fd"
   },
   {
    "type": "Vebo HD",
@@ -400,22 +400,22 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_6.m3u8"
   },
   {
    "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch11.m3u8"
   },
   {
    "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://screenber.247ovo.com/live/n-7/chunks.m3u8"
   },
   {
    "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-5.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -428,7 +428,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:00 PM"
   },
   {
