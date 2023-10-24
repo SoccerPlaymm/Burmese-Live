@@ -1,113 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/D46m1WD/download-65.png",
-    "AwayName": "Bayern",
-    "Date": "Oct 24",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1698167864-0-0-92b0e1843e48ab84392f9170eca6fb88"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1698167864-0-0-92b0e1843e48ab84392f9170eca6fb88"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "https://sportsleading.online/live/stream_1.m3u8"
-  },
-  {
-   "type": "English 1 HD",
-   "Vip": "Non",
-   "link": "https://crystalnower.crystalnew.pro/live/n-1/chunks.m3u8"
-  },
-  {
-   "type": "English 2 HD",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8"
-  },
-  {
-   "type": "English 3 HD",
-   "Vip": "Non",
-   "link": "https://chop.fordems.live/hls/for-2.m3u8"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8637.png",
-    "HomeName": "Galatasaray",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
-    "LeagueName": "Champions League",
-    "LiveUpcoming": "Live",
-    "Time": "11:15 PM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/gZkbzFF/download-71.png",
-    "AwayName": "RB Salzburg",
-    "Date": "Oct 24",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1698167864-0-0-7a6ab74e8ce564640f57044531db9de7"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1698167864-0-0-7a6ab74e8ce564640f57044531db9de7"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "https://sportsleading.online/live/stream_2.m3u8"
-  },
-  {
-   "type": "English 1 HD",
-   "Vip": "Non",
-   "link": "https://crystalnower.crystalnew.pro/live/n-2/chunks.m3u8"
-  },
-  {
-   "type": "English 2 HD",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch3.m3u8"
-  },
-  {
-   "type": "English 3 HD",
-   "Vip": "Non",
-   "link": "https://chop.fordems.live/hls/for-1.m3u8"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/P13TnDX/download-42.png",
-    "HomeName": "Inter",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
-    "LeagueName": "Champions League",
-    "LiveUpcoming": "Live",
-    "Time": "11:15 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/9WCfxWt/download-78.png",
     "AwayName": "Copenhagen",
     "Date": "Oct 25",
@@ -130,22 +22,22 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_1.m3u8"
   },
   {
    "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch2.m3u8"
   },
   {
    "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/tskingertinovo1/mux_video_ts/index-1.m3u8"
   },
   {
    "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://d1bf470icybnvz.cloudfront.net/index_1.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -158,7 +50,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
     "LeagueName": "Champions League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
@@ -184,22 +76,22 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_4.m3u8"
   },
   {
    "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch7.m3u8"
   },
   {
    "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/tskingertinovo4/mux_video_ts/index-1.m3u8"
   },
   {
    "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-4.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -212,7 +104,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
     "LeagueName": "Champions League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
@@ -238,22 +130,22 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_2.m3u8"
   },
   {
    "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8"
   },
   {
    "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://crystalnower.crystalnew.pro/live/n-2/chunks.m3u8"
   },
   {
    "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://d1730fvv5ukpde.cloudfront.net/index_1.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -266,7 +158,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
     "LeagueName": "Champions League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
@@ -292,22 +184,22 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_3.m3u8"
   },
   {
    "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch3.m3u8"
   },
   {
    "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://crystalnower.crystalnew.pro/live/n-3/chunks.m3u8"
   },
   {
    "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://d2hvbogg2ey4qc.cloudfront.net/index.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -320,7 +212,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
     "LeagueName": "Champions League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
@@ -346,22 +238,22 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_5.m3u8"
   },
   {
    "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch4.m3u8"
   },
   {
    "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://crystalnower.crystalnew.pro/live/n-5/chunks.m3u8"
   },
   {
    "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-6.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -374,7 +266,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
     "LeagueName": "Champions League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
@@ -400,22 +292,22 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_6.m3u8"
   },
   {
    "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch6.m3u8"
   },
   {
    "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://crystalnower.crystalnew.pro/live/n-6/chunks.m3u8"
   },
   {
    "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chop.fordems.live/hls/for-5.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -428,7 +320,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
     "LeagueName": "Champions League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   }
 ]
