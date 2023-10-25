@@ -1,38 +1,56 @@
 [
 {
+    "Name":"Thudikkum Karangal",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-10-23/6536466bb340b.jpg",
+    "dLink":"http://www.zegomovie.com/Download/ThudikkumKarangal23/ThudikkumKarangal23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/ThudikkumKarangal23/index.m3u8"   
+  },
+  {
+    "Name":"Maama Mascheendra",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-10-23/653626578b1c2.png",
+    "dLink":"http://www.zegomovie.com/Download/MaamaMaschindra23/MaamaMaschindra23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/MaamaMaschindra23/index.m3u8"   
+  },
+{
+    "Name":"Haami 2",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-10-23/65362345288d5.png",
+    "dLink":"http://www.zegomovie.com/Download/Haami222/Haami222.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/Haami222/index.m3u8"   
+  },
+{
     "Name":"The Breaking Ice",
     "Image":"http://zegomovie.com/Uploads/vod/2023-10-21/6533aabfc8d6d.jpg",
-    "dLink":"http://www.zegomovie.com/Videos/TheBreakingIce23/TheBreakingIce23.mp4",
+    "dLink":"http://www.zegomovie.com/Download/TheBreakingIce23/TheBreakingIce23.mp4",
     "pLink": "http://www.zegomovie.com/Videos/TheBreakingIce23/index.m3u8"   
   },
   {
     "Name":"Dragon Gate Posthouse 6: Concubine Tears",
     "Image":"http://zegomovie.com/Uploads/vod/2023-10-21/653355116e823.png",
-    "dLink":"http://www.zegomovie.com/Videos/DragonGatePosthouse618/DragonGatePosthouse618.mp4",
+    "dLink":"http://www.zegomovie.com/Download/DragonGatePosthouse618/DragonGatePosthouse618.mp4",
     "pLink": "http://www.zegomovie.com/Videos/DragonGatePosthouse618/index.m3u8"   
   },
 {
     "Name":"Snake and Crane Arts of Shaolin",
     "Image":"http://zegomovie.com/Uploads/vod/2023-10-19/6530b555c5604.png",
-    "dLink":"http://www.zegomovie.com/Videos/SnakeAndCraneArtsOfShaolin78/SnakeAndCraneArtsOfShaolin78.mp4",
+    "dLink":"http://www.zegomovie.com/Download/SnakeAndCraneArtsOfShaolin78/SnakeAndCraneArtsOfShaolin78.mp4",
     "pLink": "http://www.zegomovie.com/Videos/SnakeAndCraneArtsOfShaolin78/index.m3u8"   
   },
 {
     "Name":"Never Say Neve",
     "Image":"http://zegomovie.com/Uploads/vod/2023-10-03/651be8492c2d6.png",
-    "dLink":"http://www.zegomovie.com/Videos/NeverSayNever/NeverSayNever.mp4",
+    "dLink":"http://www.zegomovie.com/Download/NeverSayNever/NeverSayNever.mp4",
     "pLink": "http://www.zegomovie.com/Videos/NeverSayNever/index.m3u8"   
   },
   {
     "Name":"Pawn",
     "Image":"http://zegomovie.com/Uploads/vod/2023-09-01/64f14fdfa9197.png",
-    "dLink":"http://www.zegomovie.com/Videos/Pawn/Pawn.mp4",
+    "dLink":"http://www.zegomovie.com/Download/Pawn/Pawn.mp4",
     "pLink": "http://www.zegomovie.com/Videos/Pawn/index.m3u8"   
   },
 {
     "Name":"Emergency Declaration",
     "Image":"http://zegomovie.com/Uploads/vod/2023-09-01/64f14d78ecd94.png",
-    "dLink":"http://www.zegomovie.com/Videos/EmergencyDeclaration/EmergencyDeclaration.mp4",
+    "dLink":"http://www.zegomovie.com/Download/EmergencyDeclaration/EmergencyDeclaration.mp4",
     "pLink": "http://www.zegomovie.com/Videos/EmergencyDeclaration/index.m3u8"   
   },
 {
