@@ -1,59 +1,5 @@
 [
   {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8306.png",
-    "AwayName": "Las Palmas",
-    "Date": "Oct 28",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912064_lhd.m3u8?auth_key=1698497084-0-0-97f2d113aa6bab18c8d4c4d79b37309d"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912064_lsd.m3u8?auth_key=1698497084-0-0-97f2d113aa6bab18c8d4c4d79b37309d"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_10.m3u8"
-  },
-  {
-   "type": "English 1 HD",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch4.m3u8"
-  },
-  {
-   "type": "English 2 HD",
-   "Vip": "Non",
-   "link": "https://gtyhyhfjsdewqe.crystalnew.pro/live/n-3/chunks.m3u8"
-  },
-  {
-   "type": "English 3 HD",
-   "Vip": "Non",
-   "link": "https://real.fordems.live/hls/for-3.m3u8"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/yPjv50N/download-30.png",
-    "HomeName": "Almeria",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-    "LeagueName": "LaLiga",
-    "LiveUpcoming": "Live",
-    "Time": "6:30 PM"
-  },
-  {
     "AwayImage": "https://www.soccer24.com/res/image/data/j3Tyh1GG-bucnXust.png",
     "AwayName": "Bologna",
     "Date": "Oct 28",
