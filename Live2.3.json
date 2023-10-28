@@ -1,59 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/T8v9CbT/download-51.png",
-    "AwayName": "Torino",
-    "Date": "Oct 28",
-    "Link": [
-  {
-   "type": "Soco HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-247789_lhd.m3u8?auth_key=1698511184-0-0-485006f914877e52757cf1eea20d169b"
-  },
-  {
-   "type": "Soco SD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-247789_lsd.m3u8?auth_key=1698511184-0-0-485006f914877e52757cf1eea20d169b"
-  },
-  {
-   "type": "Vebo HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English FHD",
-   "Vip": "Non",
-   "link": "https://sportsleading.online/live/stream_5.m3u8"
-  },
-  {
-   "type": "English 1 HD",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch2.m3u8"
-  },
-  {
-   "type": "English 2 HD",
-   "Vip": "Non",
-   "link": "https://gtyhyhfjsdewqe.crystalnew.pro/live/n-4/chunks.m3u8"
-  },
-  {
-   "type": "English 3 HD",
-   "Vip": "Non",
-   "link": "https://real.fordems.live/hls/for-4.m3u8"
-  },
- {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/f0wRMJt/download-56.png",
-    "HomeName": "Lecce",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "10:30 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/McsHxxG/download-4.png",
     "AwayName": "Newcastle",
     "Date": "Oct 28",
@@ -223,12 +169,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-491685_lhd.m3u8?auth_key=1698521024-0-0-add1f711461ffe96b61b156eea33b21a"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-491685_lsd.m3u8?auth_key=1698521024-0-0-add1f711461ffe96b61b156eea33b21a"
   },
   {
    "type": "Vebo HD",
@@ -238,22 +184,22 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_5.m3u8"
   },
   {
    "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch2.m3u8"
   },
   {
    "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://gtyhyhfjsdewqe.crystalnew.pro/live/n-4/chunks.m3u8"
   },
   {
    "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/oomeruyeyee/mux_video_ts/index-1.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -266,7 +212,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:15 AM"
   },
   {
@@ -277,12 +223,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912003_lhd.m3u8?auth_key=1698521084-0-0-43041582920021ba36f10dc3d5e1bdb4"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912003_lsd.m3u8?auth_key=1698521084-0-0-43041582920021ba36f10dc3d5e1bdb4"
   },
   {
    "type": "Vebo HD",
@@ -292,22 +238,22 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_e10.m3u8"
   },
   {
    "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch4.m3u8"
   },
   {
    "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://gtyhyhfjsdewqe.crystalnew.pro/live/n-3/chunks.m3u8"
   },
   {
    "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/llooosehheud/mux_video_ts/index-1.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -320,7 +266,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
@@ -331,12 +277,12 @@
   {
    "type": "Soco HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1698521084-0-0-4a31cdb596edf1e28a0741a67491356f"
   },
   {
    "type": "Soco SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1698521084-0-0-4a31cdb596edf1e28a0741a67491356f"
   },
   {
    "type": "Vebo HD",
@@ -346,22 +292,22 @@
   {
    "type": "English FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_6.m3u8"
   },
   {
    "type": "English 1 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch11.m3u8"
   },
   {
    "type": "English 2 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://gtyhyhfjsdewqe.crystalnew.pro/live/n-5/chunks.m3u8"
   },
   {
    "type": "English 3 HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/aaakkeieiirrr/main.m3u8"
   },
  {
    "type": "English HD [ VIP ]",
@@ -374,7 +320,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   }
 ]
