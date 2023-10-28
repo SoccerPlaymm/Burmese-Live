@@ -472,9 +472,9 @@
    "link": "https://real.fordems.live/hls/for-1.m3u8"
   },
  {
-   "type": "English HD [ VIP ]",
-   "Vip": "Vip",
-   "link": "0"
+   "type": "Arabic",
+   "Vip": "Non",
+   "link": "https://livectorprodmedia17-euwe.licdn.com/19716783-6e0d-4d95-a4b6-82f8d6a56abc/L4E62dd9e91c1c6b000-livemanifest.ism/QualityLevels(3200000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und).m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/bN749H2/download-12.png",
