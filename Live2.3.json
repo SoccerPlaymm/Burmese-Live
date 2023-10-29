@@ -525,10 +525,20 @@
    "Vip": "Non",
    "link": "https://storage.googleapis.com/gjhawqrerurwef/main.m3u8"
   },
+  {
+   "type": "HD",
+   "Vip": "Non",
+   "link": "https://streamweu-livectorprodmedia17-euwe.licdn.com:443/14799fff-3a49-4a9e-aa18-81d20f12d8c3/L4E62def59a47067000-livemanifest.ism/QualityLevels(3200000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)"
+  },
+  {
+   "type": "SD",
+   "Vip": "Non",
+   "link": "https://streamweu-livectorprodmedia17-euwe.licdn.com:443/14799fff-3a49-4a9e-aa18-81d20f12d8c3/L4E62def59a47067000-livemanifest.ism/QualityLevels(400000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)"
+  },
  {
    "type": "English HD [ VIP ]",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://ss1.101streams.net/scripts/MTUxMjM=/caxi.m3u8?|Referer=https://1stream.soccer/"
   }
              ],
     "HomeImage": "https://i.ibb.co/rZFH50R/download-1.png",
