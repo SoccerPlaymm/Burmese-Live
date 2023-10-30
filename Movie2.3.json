@@ -1,5 +1,23 @@
 [
 {
+    "Name":"Long Live Love!",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-10-27/653b6c33b8e94.png",
+    "dLink":"http://www.zegomovie.com/Videos/LongLiveLove23/LongLiveLove23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/LongLiveLove23/index.m3u8"   
+  },
+  {
+    "Name":"Tiger Running",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-10-25/6538e1591ab84.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/TigerRunning23/TigerRunning23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/TigerRunning23/index.m3u8"   
+  },
+{
+    "Name":"Thunder Monk",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-09-20/650a750aaae24.png",
+    "dLink":"http://www.zegomovie.com/Videos/ThunderMonk23/ThunderMonk23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/ThunderMonk23/index.m3u8"   
+  },
+{
     "Name":"Thudikkum Karangal",
     "Image":"http://zegomovie.com/Uploads/vod/2023-10-23/6536466bb340b.jpg",
     "dLink":"http://www.zegomovie.com/Download/ThudikkumKarangal23/ThudikkumKarangal23.mp4",
