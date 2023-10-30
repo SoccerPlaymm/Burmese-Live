@@ -66,27 +66,27 @@
   {
    "type": "FHD - ENGLISH",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_2.m3u8"
   },
   {
    "type": "FHD - SOCO",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=b07faae6d2edb693509a913c13285519&txTime=654051bc"
   },
   {
    "type": "HD - VEBO",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8"
   },
   {
    "type": "HD - ENGLISH - 1",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8"
   },
   {
    "type": "HD2 - ENGLISH",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://mqm.fordems.live/hls/for-3.m3u8"
   },
   {
    "type": "HD3 - ENGLISH",
@@ -106,7 +106,7 @@
  {
    "type": "SD - SOCO",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=b07faae6d2edb693509a913c13285519&txTime=654051bc"
   }
              ],
     "HomeImage": "https://i.ibb.co/1mCtxQQ/download-58.png",
@@ -114,7 +114,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -125,12 +125,12 @@
   {
    "type": "FHD - ENGLISH",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_e10_abr.m3u8"
   },
   {
    "type": "FHD - SOCO",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1698696164-0-0-41420c104e0293f3fd5271c6bf061cb3"
   },
   {
    "type": "HD - VEBO",
@@ -140,12 +140,12 @@
   {
    "type": "HD - ENGLISH - 1",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch4.m3u8"
   },
   {
    "type": "HD2 - ENGLISH",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://mqm.fordems.live/hls/for-2.m3u8"
   },
   {
    "type": "HD3 - ENGLISH",
@@ -165,7 +165,7 @@
  {
    "type": "SD - SOCO",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1698696164-0-0-41420c104e0293f3fd5271c6bf061cb3"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7878.png",
@@ -173,7 +173,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   }
 ]
