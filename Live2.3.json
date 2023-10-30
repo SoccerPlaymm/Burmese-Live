@@ -1,124 +1,6 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/HqHFbmq/download-43.png",
-    "AwayName": "Atalanta",
-    "Date": "Oct 30",
-    "Link": [
-  {
-   "type": "FHD - ENGLISH",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "FHD - SOCO",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD - VEBO",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD - ENGLISH - 1",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD2 - ENGLISH",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD3 - ENGLISH",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD[ VIP ] - ENGLISH",
-   "Vip": "Vip",
-   "link": "0"
-  }
-  {
-   "type": "SD - ENGLISH",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "SD - SOCO",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/18PSn4Z/download-47.png",
-    "HomeName": "Empoli",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
-    "Time": "12:00 AM"
-  },
-  {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101911.png",
-    "AwayName": "Al Hazem",
-    "Date": "Oct 31",
-    "Link": [
-  {
-   "type": "FHD - ENGLISH",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "FHD - SOCO",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD - VEBO",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD - ENGLISH - 1",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD2 - ENGLISH",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD3 - ENGLISH",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD[ VIP ] - ENGLISH",
-   "Vip": "Vip",
-   "link": "0"
-  }
-  {
-   "type": "SD - ENGLISH",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "SD - SOCO",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2529.png",
-    "HomeName": "Al Hilal",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/536.png",
-    "LeagueName": "Saudi Pro League",
-    "LiveUpcoming": "Upcoming",
-    "Time": "12:30 AM"
-  },
-  {
-    "AwayImage": "https://m.media-amazon.com/images/I/51pqyHwRvlL._AC_UF894,1000_QL80_.jpg",
+    "AwayImage": "https://static.vebotv.app/leagues/%5Bremoval_ai%5D_tmp-634c72f586cc0.png",
     "AwayName": "LIVE EVENT",
     "Date": "Oct 31",
     "Link": [
@@ -130,7 +12,7 @@
   {
    "type": "FHD - SOCO",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8"
   },
   {
    "type": "HD - VEBO",
@@ -168,12 +50,12 @@
    "link": "0"
   }
              ],
-    "HomeImage": "https://m.media-amazon.com/images/I/51pqyHwRvlL._AC_UF894,1000_QL80_.jpg",
+    "HomeImage": "https://static.vebotv.app/leagues/%5Bremoval_ai%5D_tmp-634c72f586cc0.png",
     "HomeName": "Ballon d’Or 2023",
     "Hot": "",
-    "LeagueImage": "https://m.media-amazon.com/images/I/51pqyHwRvlL._AC_UF894,1000_QL80_.jpg",
+    "LeagueImage": "https://static.vebotv.app/leagues/%5Bremoval_ai%5D_tmp-634c72f586cc0.png",
     "LeagueName": "Ballon d’Or 2023",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:30 AM"
   },
   {
