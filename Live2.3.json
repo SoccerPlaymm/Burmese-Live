@@ -361,7 +361,7 @@
   {
    "type": "FULL HD -- ENGLISH",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_1.m3u8"
   },
   {
    "type": "FULL HD -- SOCO",
@@ -371,17 +371,17 @@
   {
    "type": "HD -- VEBO",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
   },
   {
    "type": "HD -- ENGLISH - 1",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sports1.freesportstime.com/playlist/streamfree6.m3u8"
   },
   {
    "type": "HD -- ENGLISH -- 2",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/goldesovoeri4/mux_video_ts/index-1.m3u8"
   },
   {
    "type": "HD -- ENGLISH -- 3",
@@ -391,7 +391,7 @@
   {
    "type": "HD[ VIP ] -- ENGLISH",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://xwssgs.101streams.online/scripts/MTUyMTk=/caxi.m3u8?|Referer=https://1stream.soccer/"
   },
   {
    "type": "SD -- ENGLISH",
@@ -409,7 +409,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
     "LeagueName": "EFL Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:45 AM"
   }
 ]
