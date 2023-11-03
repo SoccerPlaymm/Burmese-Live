@@ -1,5 +1,23 @@
 [
 {
+    "Name":"Thomas A Peeper",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-02/654376e82f93e.jpg",
+    "dLink":"http://www.zegomovie.com/Download/ThomasAPeeper23/ThomasAPeeper23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/ThomasAPeeper23/index.m3u8"   
+  },
+  {
+    "Name":"Five Nights at Freddy’s",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-02/6543767e1480d.jpg",
+    "dLink":"http://www.zegomovie.com/Download/fivenightsatfreddys23/fivenightsatfreddys23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/fivenightsatfreddys23/index.m3u8"   
+  },
+{
+    "Name":"American Hustle",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-02/65434e2a5f494.jpg",
+    "dLink":"http://www.zegomovie.com/Download/AmericanHustle13/AmericanHustle13.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/AmericanHustle13/index.m3u8"   
+  },
+{
     "Name":"Boudica",
     "Image":"http://zegomovie.com/Uploads/vod/2023-11-01/6541fe9785e02.PNG",
     "dLink":"http://www.zegomovie.com/Videos/BoudicaQueenOfWar23/BoudicaQueenOfWar23.mp4",
