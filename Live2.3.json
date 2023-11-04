@@ -1,64 +1,5 @@
 [
  {
-    "AwayImage": "https://i.ibb.co/rZFH50R/download-1.png",
-    "AwayName": "Manchester United",
-    "Date": "Nov 04",
-    "Link": [
-  {
-   "type": "FULL HD -- ENGLISH",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch5.m3u8"
-  },
-  {
-   "type": "FULL HD -- ENGLISH",
-   "Vip": "Non",
-   "link": "https://sportsleading.online/live/stream_1.m3u8"
-  },
-  {
-   "type": "FULL HD -- SOCO",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1699103925-0-0-3c4b7285337c41c2c5a23338d7c7648c"
-  },
-  {
-   "type": "HD -- VEBO",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-  },
-  {
-   "type": "HD -- ENGLISH -- 1",
-   "Vip": "Non",
-   "link": "https://livecdn-iptv001.rumsport.com/stream/3390/stream/3390_hd/chunks.m3u8?token=2532fe75cfdb57726442af4369b2b7133c472fa9&is_vip=false&verify=1699105260-mSHYOoUCQQ1KVBsYH3q0zZfBUZkA6nZmPkMugH6XKBA%3D"
-  },
-  {
-   "type": "HD -- ENGLISH -- 2",
-   "Vip": "Non",
-   "link": "https://livecdn-bp-001.rumsport.com/stream/2/stream/2_hd/chunks.m3u8?x-sign=04db701fbb2f5221a85eab8db9c002a7&x-time=1699105500&is_vip=false&token=2532fe75cfdb57726442af4369b2b7133c472fa9"
-  },
-  {
-   "type": "HD [ VIP ] -- ENGLISH",
-   "Vip": "Vip",
-   "link": "https://xwssgs.101streams.online/scripts/MTUyOTU=/caxi.m3u8?|Referer=https://1stream.soccer/"
-  },
-  {
-   "type": "SD -- ENGLISH",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "SD -- SOCO",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1699103925-0-0-3c4b7285337c41c2c5a23338d7c7648c"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/8YZYVzF/download-15.png",
-    "HomeName": "Fulham",
-    "Hot": "",
-    "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
-    "LeagueName": "Premier League",
-    "LiveUpcoming": "Live",
-    "Time": "7:00 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/THrGZYk/download-37.png",
     "AwayName": "Girona",
     "Date": "Nov 04",
@@ -479,12 +420,12 @@
   {
    "type": "FULL HD -- ENGLISH",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_2.m3u8"
   },
   {
    "type": "FULL HD -- ENGLISH",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch8.m3u8"
   },
   {
    "type": "FULL HD -- SOCO",
@@ -494,17 +435,17 @@
   {
    "type": "HD -- VEBO",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/Z2HD/playlist.m3u8"
   },
   {
    "type": "HD -- ENGLISH -- 1",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hisoverline.crystalnew.pro/live/n-2/chunks.m3u8"
   },
   {
    "type": "HD -- ENGLISH -- 2",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://cdn1.fordems.live/hls/for-2.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENGLISH",
@@ -527,7 +468,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
@@ -538,12 +479,12 @@
   {
    "type": "FULL HD -- ENGLISH",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_3.m3u8"
   },
   {
    "type": "FULL HD -- ENGLISH",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch12.m3u8"
   },
   {
    "type": "FULL HD -- SOCO",
@@ -553,17 +494,17 @@
   {
    "type": "HD -- VEBO",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8"
   },
   {
    "type": "HD -- ENGLISH -- 1",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://livecdn-bp.rumsport.com/stream/25/chunks.m3u8?x-sign=0d5452f97e5dd304f09edd54f4c1de03&x-time=1699109400&is_vip=false&token=2532fe75cfdb57726442af4369b2b7133c472fa9"
   },
   {
    "type": "HD -- ENGLISH -- 2",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://livecdn-bp-001.rumsport.com/stream/25/stream/25_hd/chunks.m3u8?x-sign=e61798f774944fd5ae2f8b11e5fdff95&x-time=1699109400&is_vip=false&token=2532fe75cfdb57726442af4369b2b7133c472fa9"
   },
   {
    "type": "HD [ VIP ] -- ENGLISH",
@@ -586,7 +527,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
@@ -597,12 +538,12 @@
   {
    "type": "FULL HD -- ENGLISH",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch9.m3u8"
   },
   {
    "type": "FULL HD -- ENGLISH",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_4.m3u8"
   },
   {
    "type": "FULL HD -- SOCO",
@@ -612,17 +553,17 @@
   {
    "type": "HD -- VEBO",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "HD -- ENGLISH -- 1",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://livecdn-bp-001.rumsport.com/stream/9/stream/9_hd/chunks.m3u8?x-sign=c758f200c5b95f3a152db99d418e2226&x-time=1699109520&is_vip=false&token=2532fe75cfdb57726442af4369b2b7133c472fa9"
   },
   {
    "type": "HD -- ENGLISH -- 2",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chopz.fordems.live/hls/for-4.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENGLISH",
@@ -645,7 +586,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
@@ -656,12 +597,12 @@
   {
    "type": "FULL HD -- ENGLISH",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_1.m3u8"
   },
   {
    "type": "FULL HD -- ENGLISH",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch5.m3u8"
   },
   {
    "type": "FULL HD -- SOCO",
@@ -671,17 +612,17 @@
   {
    "type": "HD -- VEBO",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
   },
   {
    "type": "HD -- ENGLISH -- 1",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/powdqhebqe/main.m3u8"
   },
   {
    "type": "HD -- ENGLISH -- 2",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/ungingerov1/mux_video_ts/index-1.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENGLISH",
@@ -704,7 +645,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
@@ -715,12 +656,12 @@
   {
    "type": "FULL HD -- ENGLISH",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_5.m3u8"
   },
   {
    "type": "FULL HD -- ENGLISH",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch11.m3u8"
   },
   {
    "type": "FULL HD -- SOCO",
@@ -730,17 +671,17 @@
   {
    "type": "HD -- VEBO",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
   },
   {
    "type": "HD -- ENGLISH -- 1",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://livecdn-bp-001.rumsport.com/stream/17/stream/17_hd/chunks.m3u8?x-sign=adfe912ef1d7d22fcfc7092795371bdb&x-time=1699109580&is_vip=false&token=2532fe75cfdb57726442af4369b2b7133c472fa9"
   },
   {
    "type": "HD -- ENGLISH -- 2",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://livecdn-bp.rumsport.com/stream/17/chunks.m3u8?x-sign=0dbda82342d4dc703aaa9e2c18adaa75&x-time=1699109580&is_vip=false&token=2532fe75cfdb57726442af4369b2b7133c472fa9"
   },
   {
    "type": "HD [ VIP ] -- ENGLISH",
@@ -763,7 +704,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
