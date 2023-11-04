@@ -140,7 +140,7 @@
   {
    "type": "HD -- VEBO",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
   },
   {
    "type": "HD -- ENGLISH -- 1",
@@ -151,6 +151,16 @@
    "type": "HD -- ENGLISH -- 2",
    "Vip": "Non",
    "link": "https://storage.googleapis.com/powdqhebqe/mux_video_ts/index-1.m3u8"
+  },
+  {
+   "type": "HD -- CHINA",
+   "Vip": "Non",
+   "link": "https://apisportvb90xltcbk.nsnd.live:443/live/sd-n54qllhp0yvgqvy/chunklist_w1441997743.m3u8"
+  },
+  {
+   "type": "HD -- THAI",
+   "Vip": "Non",
+   "link": "https://apisportvb90xltcbk.nsnd.live:443/live/hd-en-n54qllhp0yvgqvy/chunklist_w256194795.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENGLISH",
