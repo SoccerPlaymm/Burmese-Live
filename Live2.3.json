@@ -1,64 +1,5 @@
 [
  {
-    "AwayImage": "https://i.ibb.co/THrGZYk/download-37.png",
-    "AwayName": "Girona",
-    "Date": "Nov 04",
-    "Link": [
-  {
-   "type": "FULL HD -- ENGLISH",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
-  },
-  {
-   "type": "FULL HD -- ENGLISH",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch4.m3u8"
-  },
-  {
-   "type": "FULL HD -- SOCO",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912064_lhd.m3u8?txSecret=664cfb7057f5c28ce47ac260f1fd0457&txTime=654690a5"
-  },
-  {
-   "type": "HD -- VEBO",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8"
-  },
-  {
-   "type": "HD -- ENGLISH -- 1",
-   "Vip": "Non",
-   "link": "https://hisoverline.crystalnew.pro/live/n-6/chunks.m3u8"
-  },
-  {
-   "type": "HD -- ENGLISH -- 2",
-   "Vip": "Non",
-   "link": "https://chopz.fordems.live/hls/for-6.m3u8"
-  },
-  {
-   "type": "HD [ VIP ] -- ENGLISH",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "SD -- ENGLISH",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "SD -- SOCO",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912064_lhd.m3u8?txSecret=664cfb7057f5c28ce47ac260f1fd0457&txTime=654690a5"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/mTH2ByB/download-28.png",
-    "HomeName": "Osasuna",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-    "LeagueName": "LaLiga",
-    "LiveUpcoming": "Live",
-    "Time": "7:30 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/rxJP1dw/download-41.png",
     "AwayName": "Napoli",
     "Date": "Nov 04",
@@ -637,7 +578,7 @@
   {
    "type": "HD [ VIP ] -- ENGLISH",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://ss1.101streams.net/scripts/MTUyOTk=/caxi.m3u8?|Referer=https://1stream.soccer/"
   },
   {
    "type": "SD -- ENGLISH",
@@ -676,7 +617,7 @@
   {
    "type": "FULL HD -- SOCO",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-171964_lhd.m3u8?auth_key=1699113765-0-0-c94507f21301ba884fc48703071824d3"
   },
   {
    "type": "HD -- VEBO",
@@ -706,7 +647,7 @@
  {
    "type": "SD -- SOCO",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-171964_lsd.m3u8?auth_key=1699113765-0-0-c94507f21301ba884fc48703071824d3"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8657.png",
@@ -735,7 +676,7 @@
   {
    "type": "FULL HD -- SOCO",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1699113825-0-0-f7a1ccb6cb521951f744485fa7ed10a4"
   },
   {
    "type": "HD -- VEBO",
@@ -765,7 +706,7 @@
  {
    "type": "SD -- SOCO",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1699113825-0-0-f7a1ccb6cb521951f744485fa7ed10a4"
   }
              ],
     "HomeImage": "https://i.ibb.co/1mg68jB/download-24.png",
