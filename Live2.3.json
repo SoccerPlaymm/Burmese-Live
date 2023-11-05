@@ -1,64 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/yPjv50N/download-30.png",
-    "AwayName": "Almeria",
-    "Date": "Nov 05",
-    "Link": [
-  {
-   "type": "FULL HD -- ENGLISH",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch4.m3u8"
-  },
-  {
-   "type": "FULL HD -- ENGLISH",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
-  },
-  {
-   "type": "FULL HD -- SOCO",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-368492_lhd.m3u8?auth_key=1699191465-0-0-44a28c75cc57ff5a6cb2474a899a346c"
-  },
-  {
-   "type": "HD -- VEBO",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD -- ENGLISH -- 1",
-   "Vip": "Non",
-   "link": "https://chopz.fordems.live/hls/for-3.m3u8"
-  },
-  {
-   "type": "HD -- ENGLISH -- 2",
-   "Vip": "Non",
-   "link": "https://hisoverline.crystalnew.pro/live/n-2/chunks.m3u8"
-  },
-  {
-   "type": "HD [ VIP ] -- ENGLISH",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "SD -- ENGLISH",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "SD -- SOCO",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-368492_lsd.m3u8?auth_key=1699191465-0-0-44a28c75cc57ff5a6cb2474a899a346c"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9866.png",
-    "HomeName": "Deportivo Alaves",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-    "LeagueName": "LaLiga",
-    "LiveUpcoming": "Live",
-    "Time": "7:30 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/wK5L6HX/download-8.png",
     "AwayName": "Aston Villa",
     "Date": "Nov 05",
@@ -418,49 +359,54 @@
     "Date": "Nov 05",
     "Link": [
   {
-   "type": "FULL HD -- ENGLISH",
+   "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch4.m3u8"
   },
   {
-   "type": "FULL HD -- ENGLISH",
+   "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
   },
   {
-   "type": "FULL HD -- SOCO",
+   "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-372746_lhd.m3u8?txSecret=6a3fc12a391e6ca4994418ccc462798c&txTime=65480241"
   },
   {
-   "type": "HD -- VEBO",
+   "type": "HD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8"
   },
   {
-   "type": "HD -- ENGLISH -- 1",
+   "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hisoverline.crystalnew.pro/live/n-2/chunks.m3u8"
   },
   {
-   "type": "HD -- ENGLISH -- 2",
+   "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chopz.fordems.live/hls/for-3.m3u8"
   },
   {
-   "type": "HD [ VIP ] -- ENGLISH",
+   "type": "HD [ VIP ] -- ENG",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://reels2watch.com/hls/s3.m3u8?|Referer=https://techclips.net/"
   },
   {
-   "type": "SD -- ENGLISH",
+   "type": "HD [ VIP ] - ENG",
+   "Vip": "Vip",
+   "link": "https://weak.hiweak14.store/live/lltv/storage.m3u8?|Referer=https://weakspell.org/"
+  },
+  {
+   "type": "SD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://ds1.sportea.online/stream/ch27/index.m3u8?token=c2VydmVyX3RpbWU9MTY5OTE5NjQzMyZoYXNoX3ZhbHVlPU0ySTVNVE5qWkdJNVlUUTVaV0ZsTnpJeVpEbGlOemc0T0RReU1HVTFZMk0mZXhwaXJ5PTE2OTkyMDcyMzMmaXA9MTM2LjIyOC4xNzQuMzQ="
   },
  {
-   "type": "SD -- SOCO",
+   "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-372746_lhd.m3u8?txSecret=6a3fc12a391e6ca4994418ccc462798c&txTime=65480241"
   }
              ],
     "HomeImage": "https://i.ibb.co/LNsh3hr/download-34.png",
@@ -468,7 +414,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:45 PM"
   },
   {
@@ -536,47 +482,52 @@
     "Date": "Nov 05",
     "Link": [
   {
-   "type": "FULL HD -- ENGLISH",
+   "type": "FHD - ENG",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FULL HD -- ENGLISH",
+   "type": "FHD - ENG",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FULL HD -- SOCO",
+   "type": "FHD - VN",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD -- VEBO",
+   "type": "HD - VN",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD -- ENGLISH -- 1",
+   "type": "HD - ENG",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD -- ENGLISH -- 2",
+   "type": "HD - ENG",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] -- ENGLISH",
+   "type": "HD [ VIP ] -- ENG",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "SD -- ENGLISH",
+   "type": "HD [ VIP ] - ENG",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "SD - ENG",
    "Vip": "Non",
    "link": "0"
   },
  {
-   "type": "SD -- SOCO",
+   "type": "SD - VN",
    "Vip": "Non",
    "link": "0"
   }
