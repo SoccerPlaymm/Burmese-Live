@@ -163,9 +163,14 @@
    "link": "https://reels2watch.com/hls/s2.m3u8?|Referer=https://techclips.net/"
   },
   {
-   "type": "HD [ VIP ] - USA",
-   "Vip": "Vip",
-   "link": "https://weak.hiweak12.store/live/usa/weak.m3u8?|Referer=https://weakspell.org/"
+   "type": "SD - ENG",
+   "Vip": "Non",
+   "link": "https://schurch2.bozztv.com/livecdn304/myStream.sdp/playlist.m3u8"
+  },
+  {
+   "type": "SD - ENG",
+   "Vip": "Non",
+   "link": "https://videographlive.akamaized.net/in/vglivein/vgrec-sk-390867/playlist.m3u8"
   },
   {
    "type": "SD - ENG",
