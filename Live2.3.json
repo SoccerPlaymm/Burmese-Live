@@ -140,7 +140,7 @@
   {
    "type": "HD -- VEBO",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8"
   },
   {
    "type": "HD -- ENGLISH -- 1",
@@ -155,12 +155,12 @@
   {
    "type": "HD [ VIP ] -- ENGLISH",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://cdn3.reels2watch.com/hls/s2.m3u8?|Referer=https://techclips.net/"
   },
   {
-   "type": "SD -- ENGLISH",
+   "type": "SD -- Test",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://ds1.sportea.online/stream/ch72/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTY5OTE5MjQ5NyZoYXNoX3ZhbHVlPU1qZGtaakkwT1RNeU9USTNPREEyWXpoak1USm1NREF4Tm1NME5qTmtPV1UmZXhwaXJ5PTE2OTkyMDMyOTcmaXA9MTM2LjIyOC4xNzQuMzQ%3D"
   },
  {
    "type": "SD -- SOCO",
