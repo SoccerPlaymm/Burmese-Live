@@ -71,12 +71,12 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch5.m3u8"
   },
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sportsleading.online/live/stream_1.m3u8"
   },
   {
    "type": "FHD - VN",
@@ -86,32 +86,32 @@
   {
    "type": "HD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://d8l8poij2kuwp.cloudfront.net/index.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD [ VIP ] -- ENG",
-   "Vip": "Vip",
-   "link": "0"
+   "link": "https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8"
   },
   {
    "type": "HD [ VIP ] - ENG",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://nflarcadia.xyz/hls/s2.m3u8?|Referer=https://techclips.net/"
+  },
+  {
+   "type": "SD [ VIP ] -- ENG",
+   "Vip": "Vip",
+   "link": "https://xwssgs.101streams.online/scripts/MTU0NTg=/caxi.m3u8?|Referer=https://1stream.soccer/"
   },
   {
    "type": "SD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://cdn.sportea.in/ch8/index.m3u8?token=c2VydmVyX3RpbWU9MTY5OTMwMDE0OSZoYXNoX3ZhbHVlPU5UY3dZbVEzTldJd1l6YzRNalkwTXpreFlUVXlZMlpoWWpGa01XRTJZVGcmZXhwaXJ5PTE2OTkzMTA5NDkmaXA9MzcuMTExLjQ2LjY0"
   },
  {
    "type": "SD - VN",
@@ -124,7 +124,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   },
   {
@@ -135,12 +135,12 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch11.m3u8"
   },
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
   },
   {
    "type": "FHD - VN",
@@ -150,17 +150,17 @@
   {
    "type": "HD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch11.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hisoverline.crystalnew.pro/live/n-2/chunks.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -175,7 +175,7 @@
   {
    "type": "SD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://cdn.sportea.in/ch27/index.m3u8?token=c2VydmVyX3RpbWU9MTY5OTI5OTg2NiZoYXNoX3ZhbHVlPU0yWmpNR013WmpJek9UTXdOakk0WmpneU9UQmpaakppTm1Oalpqa3dZelEmZXhwaXJ5PTE2OTkzMTA2NjYmaXA9MzcuMTExLjQ2LjY0"
   },
  {
    "type": "SD - VN",
@@ -188,7 +188,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   }
 ]
