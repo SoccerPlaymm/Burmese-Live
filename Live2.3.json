@@ -1,7 +1,7 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/18PSn4Z/download-47.png",
-    "AwayName": "Empoli",
+    "AwayImage": "https://i.ibb.co/ZN6PsyW/download-45.png",
+    "AwayName": "Sassuolo",
     "Date": "Nov 07",
     "Link": [
   {
@@ -17,12 +17,17 @@
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1699294905-0-0-e040ff8f816cb99cccc80df8181aed1f"
+   "link": "https://pull.niues.live/live/stream-237299_lhd.m3u8?auth_key=1699302885-0-0-5f2b6ac8fc9d2fcd7eb2a38b93f4237c"
   },
   {
    "type": "HD - VN",
    "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8"
+   "link": "0"
+  },
+  {
+   "type": "HD - ENG",
+   "Vip": "Non",
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8"
   },
   {
    "type": "HD - ENG",
@@ -30,75 +35,6 @@
    "link": "https://hisoverline.crystalnew.pro/live/n-3/chunks.m3u8"
   },
   {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD [ VIP ] -- ENG",
-   "Vip": "Vip",
-   "link": "https://reels2watch.com/hls/s1.m3u8?|Referer=https://techclips.net/"
-  },
-  {
-   "type": "HD [ VIP ] - ENG",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "SD - ENG",
-   "Vip": "Non",
-   "link": "https://ds1.sportea.online/stream/ch1/index.m3u8?token=c2VydmVyX3RpbWU9MTY5OTI5MTE4NSZoYXNoX3ZhbHVlPU5qVmtaV1UxWTJJM09UUTVZMkUyWWpBMVptRmpaak5tTm1ZMlpUSTFZVFEmZXhwaXJ5PTE2OTkzMDE5ODUmaXA9MTM2LjIyOC4xNzQuMzQ="
-  },
- {
-   "type": "SD - VN",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1699294905-0-0-e040ff8f816cb99cccc80df8181aed1f"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9891.png",
-    "HomeName": "Frosinone",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "12:00 AM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/ZN6PsyW/download-45.png",
-    "AwayName": "Sassuolo",
-    "Date": "Nov 07",
-    "Link": [
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "FHD - VN",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD - VN",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
    "type": "HD [ VIP ] -- ENG",
    "Vip": "Vip",
    "link": "0"
@@ -111,12 +47,12 @@
   {
    "type": "SD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://ds1.sportea.online/stream/ch1/index.m3u8?token=c2VydmVyX3RpbWU9MTY5OTI5OTE3MCZoYXNoX3ZhbHVlPU1EQXdZVFV5TWpJek1UWTFPRFV5TXpWa01HWXdNVEl3WW1WbE16TTJOR0UmZXhwaXJ5PTE2OTkzMDk5NzAmaXA9MzcuMTExLjQ2LjY0"
   },
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-237299_lsd.m3u8?auth_key=1699302885-0-0-5f2b6ac8fc9d2fcd7eb2a38b93f4237c"
   }
              ],
     "HomeImage": "https://i.ibb.co/T8v9CbT/download-51.png",
@@ -124,7 +60,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -145,7 +81,7 @@
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1699302885-0-0-7293a2cb6dcc5ba749d4eb06a2bd6e46"
   },
   {
    "type": "HD - VN",
@@ -180,7 +116,7 @@
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1699302885-0-0-7293a2cb6dcc5ba749d4eb06a2bd6e46"
   }
              ],
     "HomeImage": "https://i.ibb.co/6Xd01b7/download-9.png",
@@ -209,7 +145,7 @@
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1699302885-0-0-4a676393d0a7da722440baf6b4efc25f"
   },
   {
    "type": "HD - VN",
@@ -244,7 +180,7 @@
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1699302885-0-0-4a676393d0a7da722440baf6b4efc25f"
   }
              ],
     "HomeImage": "https://i.ibb.co/6BFq3Lt/download-22.png",
