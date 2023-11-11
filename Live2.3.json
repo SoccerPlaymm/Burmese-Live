@@ -1,23 +1,23 @@
 [
   {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/546238.png",
-    "AwayName": "NYCFC",
+    "AwayImage": "https://i.ibb.co/6Xd01b7/download-9.png",
+    "AwayName": "Tottenham",
     "Date": "Nov 11",
     "Link": [
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_1.m3u8"
   },
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8"
   },
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1699666245-0-0-af34b49745346d4d28549a70480ea007"
+   "link": "https://pull01.rrwes.live/live/stream-9912048_lhd.m3u8?txSecret=cf20724f6a22c018a510965492afc682&txTime=654fc5fd"
   },
   {
    "type": "HD - VN",
@@ -27,22 +27,22 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://xhop.fordems.live/hls/for-1.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://reels2watch.com/hls/s2.m3u8"
   },
   {
    "type": "HD [ VIP ] - ENG",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://dfggdfgdfg.mainmasterbig.net/scripts/MTU2OTg=/caxi.m3u8"
   },
   {
    "type": "SD - ENG",
@@ -52,71 +52,7 @@
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1699666245-0-0-af34b49745346d4d28549a70480ea007"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/960720.png",
-    "HomeName": "Inter Miami FC",
-    "Hot": "",
-    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
-    "LeagueName": "Friendly",
-    "LiveUpcoming": "Live",
-    "Time": "7:30 AM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/6Xd01b7/download-9.png",
-    "AwayName": "Tottenham",
-    "Date": "Nov 11",
-    "Link": [
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "FHD - VN",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD - VN",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD [ VIP ] -- ENG",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "HD [ VIP ] - ENG",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "SD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "SD - VN",
-   "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912048_lhd.m3u8?txSecret=cf20724f6a22c018a510965492afc682&txTime=654fc5fd"
   }
              ],
     "HomeImage": "https://i.ibb.co/QJMLcrP/download-10.png",
@@ -124,7 +60,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:00 PM"
   },
   {
