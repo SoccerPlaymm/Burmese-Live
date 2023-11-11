@@ -1,69 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/THrGZYk/download-37.png",
-    "AwayName": "Girona",
-    "Date": "Nov 11",
-    "Link": [
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_4.m3u8"
-  },
-  {
-   "type": "FHD - VN",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912084_lhd.m3u8?txSecret=a2ccb8267f1fa74c869f0934f9f4ddc5&txTime=654fcb61"
-  },
-  {
-   "type": "HD - VN",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "https://xhop.fordems.live/hls/for-4.m3u8"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "https://hisoverline.crystalnew.pro/live/n-4/chunks.m3u8"
-  },
-  {
-   "type": "HD [ VIP ] -- ENG",
-   "Vip": "Vip",
-   "link": "https://gfdsw.mainmasterbig.net/scripts/MTU3MDM=/caxi2.m3u8?|Referer=https://1stream.soccer/"
-  },
-  {
-   "type": "HD [ VIP ] - ENG",
-   "Vip": "Vip",
-   "link": "https://reels2watch.com/hls/s3.m3u8?|Referer=https://techclips.net/"
-  },
-  {
-   "type": "SD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "SD - VN",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912084_lhd.m3u8?txSecret=a2ccb8267f1fa74c869f0934f9f4ddc5&txTime=654fcb61"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/SvkRPGx/download-38.png",
-    "HomeName": "Rayo Vallecano",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-    "LeagueName": "LaLiga",
-    "LiveUpcoming": "Live",
-    "Time": "7:30 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/YpGpV2N/download-57.png",
     "AwayName": "Milan",
     "Date": "Nov 11",
@@ -431,7 +367,7 @@
   {
    "type": "SD - ENG",
    "Vip": "Non",
-   "link": "https://cdn.sportea.in/es56/index.m3u8?token=c2VydmVyX3RpbWU9MTY5OTcxMzc4NiZoYXNoX3ZhbHVlPU5HUXlNRFl5TUdReE9UazNNbUUzTkRjM1pUSTBOMkl3TURrM1pUY3hPR0kmZXhwaXJ5PTE2OTk3MjQ1ODYmaXA9MTM2LjIyOC4xNzQuMzQ="
+   "link": "https://videographlive.akamaized.net/in/vglivein/vgrec-sk-989189/playlist.m3u8"
   },
  {
    "type": "SD - VN",
@@ -559,7 +495,7 @@
   {
    "type": "SD - USA",
    "Vip": "Non",
-   "link": "https://cdn.sportea.in/ch72/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTY5OTcxMzgxOCZoYXNoX3ZhbHVlPU5qTTRNbVUxTUdRMk9EUmpaVE0yTXpBMVpqVXdNR1JqTkRoak16Z3lOalUmZXhwaXJ5PTE2OTk3MjQ2MTgmaXA9MTM2LjIyOC4xNzQuMzQ%3D"
+   "link": "https://videographlive.akamaized.net/in/vglivein/vgrec-sk-291055/playlist.m3u8"
   },
  {
    "type": "SD - VN",
@@ -583,7 +519,7 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_4.m3u8"
   },
   {
    "type": "FHD - ENG",
@@ -593,7 +529,7 @@
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912081_lhd.m3u8?auth_key=1699718806-0-0-d9d3a87e0bf9cedd961d3115584cc65b"
   },
   {
    "type": "HD - VN",
@@ -603,22 +539,22 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hisoverline.crystalnew.pro/live/n-4/chunks.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://xhop.fordems.live/hls/for-4.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://nflarcadia.xyz/hls/s3.m3u8?|Referer=https://techclips.net/"
   },
   {
-   "type": "HD [ VIP ] - ENG",
+   "type": "SD [ VIP ] - ENG",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://jkhdsfj.bfst.live/scripts/MTU3MDQ=/caxi2.m3u8?|Referer=https://1stream.soccer/"
   },
   {
    "type": "SD - ENG",
@@ -628,7 +564,7 @@
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912081_lsd.m3u8?auth_key=1699718806-0-0-d9d3a87e0bf9cedd961d3115584cc65b"
   }
              ],
     "HomeImage": "https://i.ibb.co/yPjv50N/download-30.png",
@@ -636,7 +572,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:45 PM"
   },
   {
