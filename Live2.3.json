@@ -1,69 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/cx92kG0/download-79.png",
-    "AwayName": "PSG",
-    "Date": "Nov 11",
-    "Link": [
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_11.m3u8"
-  },
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch8.m3u8"
-  },
-  {
-   "type": "FHD - VN",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1699721326-0-0-8ff4b27ce9c53f7bcd049c6615110acc"
-  },
-  {
-   "type": "HD - VN",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "https://hisoverline.crystalnew.pro/live/n-6/chunks.m3u8"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "https://xhop.fordems.live/hls/for-6.m3u8"
-  },
-  {
-   "type": "HD [ VIP ] -- ENG",
-   "Vip": "Vip",
-   "link": "https://cdn3.reels2watch.com/hls/s6.m3u8?|Referer=https://techclips.net/"
-  },
-  {
-   "type": "HD [ VIP ] - ENG",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "SD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "SD - VN",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1699721326-0-0-8ff4b27ce9c53f7bcd049c6615110acc"
-  }
-             ],
-    "HomeImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAMAAADVRocKAAAAA3NCSVQICAjb4U/gAAAAOVBMVEVHcEzsAADrAADrAADsAADrAADrAADsAADrAADsAADrAADrAADqAADlAADpAADrAADxAADuAADsAAAWxcxbAAAAD3RSTlMAv6xX3ZyU+s/rcINCFihkjtdfAAADdElEQVRoge1ZiW7bMAz1Lct2I5H//7EjddKJizU2gw2bH1Cg6sEnHuKVprlx41/D3Lbz44PyNwAP/QcJJnAOOlWRW08opwGdQ1uO/LvtIsHDkFXyoSMFSIU2nz2Au0rQzOBgjt+ugA74a4rnln41XJXfLGQVP6zbtg4e0XcjYjmTNutlgsay3T2Brm7JHZuFfJb+OI8xGJ6RxTFlhE5EuSwPzWNPgPilQTAXFUyIn84Xla67OAisNnLsA6NsIYpOVxiMtVW+86MOAb2nAr876BAs87dQeAU3bvzXaAmL/ME42IpO9i4L/+3bBEhZQWSC3nrACm9FLR4pfeDbBJTTBMGXrRkvJlKRqamZQXORYPapwjBiJq3NzOSvE4QcTYYJCGS+OkiB4IvLJrokM5Q0ZQLWoBRIrmn4AQIQBGBFCKtr0KPZlTI1H+Quq396VVoaUNd73AZphOkQ+2ozfYqAG+sQ/faAQoOgaX1koMf20kqoEDSrzRQ4PFHoENADNinhAQy7QVCLoHnMvlDIrlSNgF7AUFwhzKRFsPGtl+QKOdvoEDy6NAuOsfYo14NmND4Pm3Ei0c2mVNGwTLOU7PQJeMQvBGHGuQn+KMH6HEUKfVEiiJOZU4kiGud9TTiJYAwzZuiRsPaO4ykCqmF1MVRMlLcI6EVdpkn9xFZk3v1XJlhzCynr/iAe4c8R9C5NenFyKM6wbytILXi/fe9366ZCsHmxdolY9i7/MYy8Vw3T+UUFblXfHw+enFAJtlgOxI3tKRdEfxY54qG1fj9/9O6o9v0ERtxMEMQuz5f+qCVN3anNF9vI9S8EcTxAk2Ru5qSFSHeoQne5KLy2fCIFTsVQkFpVGAQZ556iwkZ/cnp1t0DxZr8zBKuQ+haOWn96L8X3TgGygiAgFVIi5FC7sF7mCEQXX23nhSuHnOt4WsOTHohS6YI2f18J1ux7eElMb4KbrHzb9sUU/OYurq/7UH5T4Xk2xejF8HwWYTV+nAkmUFn+8kNCOGCYUD6+C+BIR/9y0Q7xUoQKxCL2dNWWSz9ofD7BDCFBWzE2baGF15KftkXoSsDHac3rfHoQEIZYhDgkrxbwqXG5jtVB6IZM15kwQwEcDv3n8YjjH6a+brcUVMJkILd1YE7V4N+CfMs7QTCdyodPRxitc/Yzt8/oL+a2Gzf+RvwC8L1OHw13c/wAAAAASUVORK5CYII=",
-    "HomeName": "Reims",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-    "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Live",
-    "Time": "10:30 PM"
-  },
-  {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png",
     "AwayName": "Cagliari",
     "Date": "Nov 11",
@@ -455,12 +391,12 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
   },
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8"
   },
   {
    "type": "FHD - VN",
@@ -475,12 +411,12 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hisoverline.crystalnew.pro/live/n-5/chunks.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_4.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -508,7 +444,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -519,12 +455,12 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_4.m3u8"
   },
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch11.m3u8"
   },
   {
    "type": "FHD - VN",
@@ -539,12 +475,12 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/osingertingovo2/mux_video_ts/index-1.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://xhop.fordems.live/hls/for-4.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -572,7 +508,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   },
   {
@@ -588,7 +524,7 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
   },
   {
    "type": "FHD - VN",
@@ -603,12 +539,12 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hisoverline.crystalnew.pro/live/n-6/chunks.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://xhop.fordems.live/hls/for-6.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -636,7 +572,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   }
 ]
