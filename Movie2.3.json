@@ -1,5 +1,23 @@
 [
 {
+    "Name":"Ghoomer",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-11/654f24b7c1598.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/Ghoomer23/Ghoomer23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/Ghoomer23/index.m3u8"   
+  },
+  {
+    "Name":"NH10",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-11/654f448e1597a.png",
+    "dLink":"http://www.zegomovie.com/Videos/NH1015/NH1015.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/NH1015/index.m3u8"   
+  },
+{
+    "Name":"The Road",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-11/654f21ec1f2f6.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/TheRoad23/TheRoad23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/TheRoad23/index.m3u8"   
+  },
+{
     "Name":"Thomas A Peeper",
     "Image":"http://zegomovie.com/Uploads/vod/2023-11-02/654376e82f93e.jpg",
     "dLink":"http://www.zegomovie.com/Download/ThomasAPeeper23/ThomasAPeeper23.mp4",
@@ -20,37 +38,37 @@
 {
     "Name":"Boudica",
     "Image":"http://zegomovie.com/Uploads/vod/2023-11-01/6541fe9785e02.PNG",
-    "dLink":"http://www.zegomovie.com/Videos/BoudicaQueenOfWar23/BoudicaQueenOfWar23.mp4",
+    "dLink":"http://www.zegomovie.com/Download/BoudicaQueenOfWar23/BoudicaQueenOfWar23.mp4",
     "pLink": "http://www.zegomovie.com/Videos/BoudicaQueenOfWar23/index.m3u8"   
   },
   {
     "Name":"Scrapper",
     "Image":"http://zegomovie.com/Uploads/vod/2023-11-01/6541e0731750c.jpg",
-    "dLink":"http://www.zegomovie.com/Videos/Scrapper23/Scrapper23.mp4",
+    "dLink":"http://www.zegomovie.com/Download/Scrapper23/Scrapper23.mp4",
     "pLink": "http://www.zegomovie.com/Videos/Scrapper23/index.m3u8"   
   },
 {
     "Name":"Testament of Youth",
     "Image":"http://zegomovie.com/Uploads/vod/2023-11-01/6541dfffa9507.jpg",
-    "dLink":"http://www.zegomovie.com/Videos/TestamentofYouth14/TestamentofYouth14.mp4",
+    "dLink":"http://www.zegomovie.com/Download/TestamentofYouth14/TestamentofYouth14.mp4",
     "pLink": "http://www.zegomovie.com/Videos/TestamentofYouth14/index.m3u8"   
   },
 {
     "Name":"Long Live Love!",
     "Image":"http://zegomovie.com/Uploads/vod/2023-10-27/653b6c33b8e94.png",
-    "dLink":"http://www.zegomovie.com/Videos/LongLiveLove23/LongLiveLove23.mp4",
+    "dLink":"http://www.zegomovie.com/Download/LongLiveLove23/LongLiveLove23.mp4",
     "pLink": "http://www.zegomovie.com/Videos/LongLiveLove23/index.m3u8"   
   },
   {
     "Name":"Tiger Running",
     "Image":"http://zegomovie.com/Uploads/vod/2023-10-25/6538e1591ab84.jpg",
-    "dLink":"http://www.zegomovie.com/Videos/TigerRunning23/TigerRunning23.mp4",
+    "dLink":"http://www.zegomovie.com/Download/TigerRunning23/TigerRunning23.mp4",
     "pLink": "http://www.zegomovie.com/Videos/TigerRunning23/index.m3u8"   
   },
 {
     "Name":"Thunder Monk",
     "Image":"http://zegomovie.com/Uploads/vod/2023-09-20/650a750aaae24.png",
-    "dLink":"http://www.zegomovie.com/Videos/ThunderMonk23/ThunderMonk23.mp4",
+    "dLink":"http://www.zegomovie.com/Download/ThunderMonk23/ThunderMonk23.mp4",
     "pLink": "http://www.zegomovie.com/Videos/ThunderMonk23/index.m3u8"   
   },
 {
