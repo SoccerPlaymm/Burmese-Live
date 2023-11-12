@@ -7,7 +7,7 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch5.m3u8"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch11.m3u8"
   },
   {
    "type": "FHD - ENG",
@@ -27,12 +27,12 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "https://hisoverline.crystalnew.pro/live/n-3/chunks.m3u8"
+   "link": "https://hisoverline.crystalnew.pro/live/n-4/chunks.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "https://xhop.fordems.live/hls/for-3.m3u8"
+   "link": "https://storage.googleapis.com/bvxzcasadqw/mux_video_ts/index-1.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -60,7 +60,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -209,7 +209,7 @@
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1699802446-0-0-4344901f1f2b2a59fd538941c2d5af70"
   },
   {
    "type": "HD - VN",
@@ -244,7 +244,7 @@
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1699802446-0-0-4344901f1f2b2a59fd538941c2d5af70"
   }
              ],
     "HomeImage": "https://i.ibb.co/0B03V1F/download-19.png",
@@ -391,7 +391,7 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch7.m3u8"
   },
   {
    "type": "FHD - ENG",
@@ -401,7 +401,7 @@
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1699802506-0-0-dc66ac569411e94b9a5ab823208ad6dd"
   },
   {
    "type": "HD - VN",
@@ -411,12 +411,12 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://xhop.fordems.live/hls/for-6.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hisoverline.crystalnew.pro/live/n-8/chunks.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -436,7 +436,7 @@
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1699802506-0-0-dc66ac569411e94b9a5ab823208ad6dd"
   }
              ],
     "HomeImage": "https://i.ibb.co/51zs1r9/download-63.png",
@@ -444,7 +444,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
   {
