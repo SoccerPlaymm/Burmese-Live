@@ -1,5 +1,23 @@
 [
 {
+    "Name":"Ardh",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-15/655493a8c9fea.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/Ardh22/Ardh22.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/Ardh22/index.m3u8"   
+  },
+  {
+    "Name":"Maanagaram",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-15/65546e28e3410.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/Maanagaram17/Maanagaram17.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/Maanagaram17/index.m3u8"   
+  },
+{
+    "Name":"Hu Ane Tu",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-14/655342f76030b.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/HuaneTu23/HuaneTu23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/HuaneTu23/index.m3u8"   
+  },
+{
     "Name":"Papa",
     "Image":"http://zegomovie.com/Uploads/vod/2023-11-13/6551dfe0df201.jpg",
     "dLink":"http://www.zegomovie.com/Videos/Papa23/Papa23.mp4",
