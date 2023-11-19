@@ -42,7 +42,7 @@
   {
    "type": "HD [ VIP ] -- ENG",
    "Vip": "Vip",
-   "link": "https://reels2watch.com/hls/s1.m3u8"
+   "link": "https://reels2watch.com/hls/s1.m3u8?|Referer=https://techclips.net/"
   },
   {
    "type": "HD [ VIP ] - ENG",
@@ -89,9 +89,14 @@
    "link": "https://pull.niues.live/live/stream-9912042_lhd.m3u8?auth_key=1700405326-0-0-472b581cf1157fffc552cfba75939395"
   },
   {
+   "type": "FHD - VN",
+   "Vip": "Non",
+   "link": "https://obevcimanyd179314182.thapcam.link/live/Z1FHD/playlist.m3u8"
+  },
+  {
    "type": "HD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8"
   },
   {
    "type": "HD - ENG",
@@ -106,7 +111,7 @@
   {
    "type": "HD [ VIP ] -- ENG",
    "Vip": "Vip",
-   "link": "https://reels2watch.com/hls/s2.m3u8"
+   "link": "https://reels2watch.com/hls/s2.m3u8?|Referer=https://techclips.net/"
   },
   {
    "type": "HD [ VIP ] - ENG",
@@ -116,7 +121,7 @@
   {
    "type": "SD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/Z1SD/playlist.m3u8"
   },
  {
    "type": "SD - VN",
