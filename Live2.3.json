@@ -7,17 +7,17 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_4.m3u8"
   },
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch7.m3u8"
   },
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9911969_lhd.m3u8?txSecret=323823d8d221e66760df974d0c2b742f&txTime=655be33e"
   },
   {
    "type": "HD - VN",
@@ -27,12 +27,12 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chopa.fordems.live/hls/for-4.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hisoverline.crystalnew.pro/live/n-4/chunks.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -52,7 +52,7 @@
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9911969_lhd.m3u8?txSecret=323823d8d221e66760df974d0c2b742f&txTime=655be33e"
   }
              ],
     "HomeImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAEZ0FNQQAAsY58+1GTAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAEgpJREFUeNrtXQmUFNUVfb3PvjAzDkiUGRU1IbiBB7MakrigIBCSaNSgRnEJRoKIiZqjKAkJ6FEwigaNQUUNcY9KjJIY44aCa0JigocBMcy+z3T3zHRP5d6aaqa66aWqu7oYtf85dbq7urrq133v3bf8VzMiuZEbuZEbuZEbuZEbn8bhMHPwli1bPJWVlTPwdpaiKJPwOgZb+accwzZs9dg2Y3tix44dz0ydOjVkuQDq6upm4uVGbONzept0vO9wOBbV1NRssEQA0HQnpLoMb3+Sw9bwULAthRCuhzAGkx3oTHUmgP/LHPhpUfu1wO66jCwAJ5gNC3gsxiTCnrfe6nO/8qo4dn3kkN7e/CGB62QffXzyz5LieyXxd4rZ85ueW+rjlaIiv1Jbo4Snfs0RmjzZJw6HS38ELGB6MjpKKICtW7d6CwoK/o23B+052O/v992+elDefidPQqH4E4sFyUoBGAEtxWclyVzjz8fYuR0ejziOmxLsu3yhUyko8Op9AhR5YiLHnJCCAP7sKPAVJeRbeeugbN4SDX5uDMliYEAGX3o5z7vixkGyhO6rw2EBp6bjA2bpP7heebVf3n03Lwd1copSXtuUB3ruS4alUQEcGyWAjRtTc2RuqBg5N2xQkmFpVABjopxFXZ3bkGPKDZFtHyTF0qgACqI+BYJeI1FBUge8D7Qx42g+ndHVVRizZ1SiQ92W3YyRm830HGbDxr2Tyiwhnr7gndm6oDHtV2zBYyQPp23StoOOPob+yJ2Nm1NyjtlmCkoFvqGM02QGPALCTXstIF2tNwJ+NgCwImiwQQHcWQPebv+Q4hymIyDFHotwmgE63mZ+QkbC1aGX5nBYtg0MyIAyaPrGBnD9/+K3LeHwJ8QJW6ANvYODcm9Pl5xfXCI+hyPq2D68ct+uUEg2+v3yIV4f6e1RvyvE/hPy8+ULvjw51OOVA1yu4d9rox+/52/+M9AvrwWD8lzAL924Ho/6dmGRHIjffDO/QMa53RKEQPNiCsG8/pruLjm3qFiKnU7bBOC0HPgkmv+0v1d+09UlKzs79xLU77q7ZQ2+e6+vT1hr3YBjj/L65Inq0XKYxyOP9/bKlW2tsq6ne28bwnloI/xuMY55FIL7PAT1dPUYmeD1qtelRbzT3yd3AeTbItfXjZs7O9T9T+LYj18UlBT4YU7Z3z1kcA8CqLUAWz/OLy6Wcmjeu/39UoLXqdBWAja7oV7e7BsuLu4CrbQO7k0r3LdTVyZ/rS8opzXWyz9xvql5+VIKC/gH3lO7F5SURv12LYSyFgqgztHltjwDt0YAEZDjbQad25fz8uR4gBHRuCtbW6VJ42gPKOU7oIrzIAhSB6mIk4tl/7chlPu7o62A7+/Dvvfwnd4vDWo3+BHO1YVzkl7OwDU8Gn3x2le0tcgvO9rVz5zb1Pz8zB2wCQG5s2tg0RPhbd9UUSE34oYf7umRZ8HTfw0G1Bs/GlTxECyDtHMWgLoAfqIXWk0+fwD7N/cNgUtbeBgUUwpNvoSajH13dnWq+4K6G5/k88n3cZ4vwm8UAfB/wTes7u6Ud3AeCoGC/EsgoPoOzuv0oiK5uqzcXJ/OiHXCCVSIANZDG6/BjX4XIJCzNwKE58C7z2ncS0f6R7yfAkFcVFKiOs5vYPsNQP41rIaDQDfqohtGS3rwfwjBXIqNYL4BAd4B4CnIyByWaRpPOjoV56bVHQo/Q0sZC5p02JgPuLMNun7i5PIfNDfJXNzwZQDo+vJRcl2ZqEKhNazUACZIm8Dhm5qDAD9fVlVUycWwiHpdZESNrwCABOv32j7+blZhofxI4/gFrc3yZ0RUsYPXPq2gUPVJTsybVrCio0PugS9YU1klX9Vo0o4M3G0ZwAa05hBoWSFAI1//CcAcD3o4ACAUOJwqxcRLmFQfoe2jRUQEwHFH197RzCXFww62IRSOm4y9A2dc7nSJH+Hoh6EBeQFWSIsqxDw+D8uzi/+z7wNiJlMG8O+Ehi1tb5P/AISHQz0pTzHaNdzlUa2LUJQEiz9VuuPHul2IqvY+59/hd7jpz0EKWgKLHGVjDmB7IhbC/krc4CP7jZb6cEh2axpaDdCo6XObGvb6DWmLURH5epOOxxOVGV7GMUzauuHAN+vCV/0x91Tth8TMLQ3hobB1DK5P7q/HfJgveGKSxGzSkTvboOvHpmCfzG9pgtMrkXOxTfK5pQfgMlG6XeP/WGBbIRjG84cjsXqjL5jyGosRVk5BBPQ+LKw5QRliUWuLzFf9QIGac3RgDgyL70IidhsslE7fDvoxJwAL1leP8XllFLTtt3B2dHgMJTtx8zT6oxCGbkmgsbSOpnAgpfZHSgovBgJJj6Ev+hUioV+ACikA5ghhHFOBuU3x5dmm/TbkAdG+m8723qpquRvg1yGjLXU65Bg4vVMQkVDTT9coKFGRTzGw6G9kMeiK0jLVtzwFyyPF0QJqQEl08kWfDB+Q+Cty+Q1wdhGNYiTCOhCtwgz4mZTLz25qVAuC84qHEr7IfNsGw+lTbprzc9sBemS8i+zz7MYGOQx8fix4mvWbl+A0PYjmWa95NkEhzKimG7WQo0Azf0A4ez8SQWbhDAzoX/4Fv/EgAoTJXq8t9GPSB2TupGth5p/DzfFGdyL+ZqWSSdPJcHrXtbdaCn6yUQjqe6p6NJK/gCr0F/z9qiVyPoe43ea1f2T7gOHJ0uGth4Yx1HMj1GOwtwuCuBiR0db+fkvBT7aPide8cLOsrKiUswqL1H17ws90qCUDgdiaB7A6+SISIF6U6f/roB/W7nnji0vL5ZauDjVXyFTLkx1HwS8sLVXXJabX71YrsMfl5YkX+wcGFbUa6soUbNuroQYvyNj8Ry3NUQAx7KNTZkp0U2e7afDNCoXh5tfB+9NAe9e0tap+gFvkmIfoA3w+W7Tf3jxAS/dnI+TcDIdHRzynsFAtfDEMnNvcqLqZTMFPtY/v5re0yDpkw2sREr8Ei1zf06Mqx5HwAUd6vbZpvz0+QDcpXmxpeXSf6g74gMsACJO00fARLweDWQOf40jkHXS0ZyEUXY2s9ytQAG52c3/2BRBncuxQ4ALMIW6P9CDqYAj6KLTvRPDuhYjHZzY0qPxbjiSJx2YKvn4wy21Xuyz65eZRFXJbV6fMbKxXF+yPz+OijVO2QxkYDusLetkWiK0+4KNwSK5vbxsOB+H4FsEhnlFULBciEgpAKCtGVSI6UuTy1hZZBqCe6O1VY3Rmrg0JhBK7L3LssdD2b4PmuJj/M221ayF80FX4vHa/apkIurm5o13WdQ+vT98HWqoykg3b3hlnwQVp/qSgnQMDUgt/QGfIzPjnHW3qihVBOgXWwFIFK6Sz4C9YqPss/MW15eVyRmODIc1neLlUE/RMCOCWzk51jfkiWFkHF4HwHb+/Du9nwBk/H/Cr/Uc1sMzjfD7btN8+H6BNkBr4rYLhZxfofKmdzwBkJmRngg4+ABAs1M3Ce3ZFsAR9e0WVvBRTYEtGO3/DsQtLy+SC5ia1wDe9sEAtdZBevgdr69Sqnx2wEgphjpYL2Mn9+yQR47ot+3KYA/wPGkkf0AvaOY8UBO28EaCwZYUcPBOCOhuREVtISBVXtrUYds5caz67qEgWl5XJRaCcdaCVP4PK5oDzuVC/CJbGNYY18AMU1vH5efIZZOls9mJtqEDf9JWOQPZpV0SSi7NUzJibawARsAgIq5MBvN8Crv8SHOK1ZaNUIbwwen/Vapgpd2m/GQugypwOtd9HP9i8RcFuhwUR3MvgQ9ZU7idnFBarvoY1niWgHfYLBfH9YlxzEL7mbiRkG/x+dS5ckjwTgiuIPGttuNP7Y+IDWP9/FM7vEUQ+PVpCRMCHStUOtUwREUw/QOKy4SpYRaTh6mj4kLsROtJFTvrfLtHXLn+HuJ7tJ4zx+TuWmWdB438MCzoRPE+B3o7f6u/lJ8i+v+LLl43wAfn4LTs1Kp0ucxiM6DXhOJPaDTCnFRQg3HTIeGhtPAq5FppKrezVNeXSKa+Gc6WgWLcRXd0m0ijshYBXVVaCahpUS/gQG6MpajavyagqFqAvQgFYDeU5ObcDI20pNj2P4Mwq6DGdc3w3ChpGXv5OU4PUIe7WAx/h9Rng/5Cu/Mr910Bby7Tw8AVoeDimZvS85qQpIP16g1pow7l4znigMiKjb5gHmtuzGGOUemxdkrSAmgJaQxXpgtXP1XCCRyDEZCcc1wZeD/apMT95mg6RZMCOataLuNAe8SOrtHYUvSNmi8op2hov4/+T8P5ZWBHPQ6FcDSfOLjkW3ng+UhLjf1LVDeUVqqNno4Af1yuM6bzOFvi2+oD3kYEuaW9XF2UmA6AjcMNVsIZbARwjIz/Oz8X0yQCHNaIJEMx/8ZsrEKYyB4hUU68GPX0Qp3TNxGsh6OZOhKysrl6FSIexPa1hEq73b/zmTVybbetMBlnx4TVPB+/zOo/5e9Rc5LOgxesRBBzj89lCQbblAYchybkHTvAtaNwYt0taw4MqQOxGJg9TMEy46BW4Pkvt5+dnqoceMqflXNPeGjcfiAx+x9CV2TSfA/gToqiI4jDxewvXmAhhNILrmRS+DkurgBIc7fOpJQl1v8+r+gw7tD/rAoiN1RlpcNVpWsNuNQmjU3ysevSQI8KxzFDvQlL2CjieyRe5np3QrNWTmlhDIp34Eyw9UvN5rlNwfloT/QSTLLYhLoHwngYlfR3CZrTl0HzSX2ARZ8IfMRZ7FgIzDX68+xab8wAzy4Es/56AsJDRxuwYx8heUW5DjyUpqhbzW3bRfQ9AXlBSIqc11Itf1++jvzb5nn2k7Bt9GPnG/uD5A7Ulxu8XlcgKcL1+UAhs/l0CuuLjTCwUMi/JyBFnywKsevaXjxnNiDQ+JThnJDw9GOCtraraw/HzmpvUMkKiOVFo5zQ1yh2guvnsdtCNiXFC3sgcztJA39PIlcHDhYrJxXP7mmC0kLTScN/N0I081tsrFzY3y0n1u9UGrUdAWZ444POsT8Jf8IE+UtB5ENYD2kqXGHyENm4Z2gTvK7KvytGWRk3Rv2P3NOP/c4qL5VzQCFfTWLsf6xl65ChiMZ1w6q+DQh6HENYC+B2agxdTzy/bU36wRgCWTirxudg/xI2ZLR3mio52WVBapjrjn7YNtbKwwspMmWu8JBG2uYwv8WQPfIu03xwFmXouzAzwiqFDuIhCgJknsKRM7Y9kz3w2bDqEwOSLMX7swv9IBd/e9QAD2p7ssAeqqmUH4vSDGc+DhtZH+J3hI8LLFwsDavx/cXGpfMbliv+YURbAz+QWbXLCSsyWnlGwn4ddzewbuhQaPhDzNOQC7GOZ+yD4DK/DYRv4SoYtg87sAa2YUwUjh7N7DS/zYkJMjrmgpSKHI3PaMXFcXPCVrAlASbFlKDMj/kcbQw93+PbkAuOh9ZfGPHwd73dWCsUK8O3NA8yCngRATno5slqWD1zQ+uXgfq+RCmYqisnE6aapg7Y+oGFZeKuVKS5HONoG3p9otJ3cgv2KjMTnhK2YUxqL33NBReGUfwvaBvAVOwSQjWQwQyfo0ihoxIE/cv5WRIbZc6Y9Oun4ATOhppL5PbpHFOBWAf8xAd8kBSkjxzqs1Pp9CP4+KkVkAfR9Df4+j4KyaUXZpCOrwB+Ra8IZP1lvP/CWgZ+VKGgk/e3nTIQzgsBPVYqI6v9QfN6+rIFudI3ByHHp1H8sBl8pLop94rw9HQHU6z+Ex40LWQ64GY3PFPgkfG+15odrapVkWBoSgMPheFP/OXTCNzMH22zUk0XgU2q9YuJ8MfvCJ5/kSIalUQt4Iuokp57qC9TUBJP++cpMly2tpKMUwFsW6cTsDxw6PuCcdnJeMiwNCWBgYOBRvOzcIwCXy+341TJHb21NcFAsHFbTUbpanyH4xKR3/Pigc8VypzijHjLY1tLS8lRCpkl2r9u3b/8uzGd91DXD4dDA08/0yfPPi3PHTo/093tHRHkik/8Pk8wYUoHv8/UNHlQbckw7WXzTp/sUpzM2spxVW1v7ZFoC4Kirq1uJlwWSG+mM5QD/p+mGoeqoqalZhJdVOSxNjxXA7upUBxn+S70aHa3A23E5bJNDBZyuAPiPGznY1J9K3rZtm8/j8cyR6H9pnv8pB9wvun9p7vf7H58wYUJ/Tg9zIzdyIzdyIzdyIzeSjf8DaAA488xtS1UAAAAASUVORK5CYII=",
@@ -60,7 +60,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -71,17 +71,17 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_3.m3u8"
   },
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch6.m3u8"
   },
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912081_lhd.m3u8?auth_key=1700502826-0-0-a476fbbbd76895482a4719348906d058"
   },
   {
    "type": "HD - VN",
@@ -91,12 +91,12 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chopa.fordems.live/hls/for-3.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hisoverline.crystalnew.pro/live/n-3/chunks.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -116,7 +116,7 @@
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912081_lsd.m3u8?auth_key=1700502826-0-0-a476fbbbd76895482a4719348906d058"
   }
              ],
     "HomeImage": "data:image/png;base64,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",
@@ -124,7 +124,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -135,17 +135,17 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_1.m3u8"
   },
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch5.m3u8"
   },
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1700502706-0-0-7577fae35839307c9b9c7ff9d90732ef"
   },
   {
    "type": "HD - VN",
@@ -155,12 +155,12 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chopa.fordems.live/hls/for-1.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -180,7 +180,7 @@
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1700502706-0-0-7577fae35839307c9b9c7ff9d90732ef"
   }
              ],
     "HomeImage": "data:image/png;base64,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",
@@ -188,7 +188,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -199,17 +199,17 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_5.m3u8"
   },
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch4.m3u8"
   },
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-479684_lhd.m3u8?auth_key=1700502886-0-0-ed32249c517ed008320a63a34beb604d"
   },
   {
    "type": "HD - VN",
@@ -219,12 +219,12 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chopa.fordems.live/hls/for-5.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hisoverline.crystalnew.pro/live/n-5/chunks.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -244,7 +244,7 @@
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-479684_lsd.m3u8?auth_key=1700502886-0-0-ed32249c517ed008320a63a34beb604d"
   }
              ],
     "HomeImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAEZ0FNQQAAsY58+1GTAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAOxAAADsQBlSsOGwAADcNJREFUeNrtXQtwU1Ua/vJq2vSRNk3a0BYIlrZgaW2xK09hQBaVogiszi7KrrrrDi7MOCOsouOIzuo6C+6wu67O+Fwd13GcXQUWAReEgijyUsujD0yhD/qgtE3TNknzzv4nTdnbkqY3JWkTuN/MmZt777kn937/+V/nnJsAAgQIECBAgAABNyJEwVQ+efKkTK1W30Mf7/N4PLfSdhyVlBucQwOVFionqGyvq6vbtWDBAmfIBVBbW7uMNluo5Aj9NiCqRSLRep1OtzskAqCeLiap/pE+Pi1wyxseKn8gIbxIwnAHqigeriUi/xWB/BGZ9ueJu03XpAHUwHLSgM8GHXYlJibaEhISIJPJRGKxOC6cT9K6dSs63n23Xx0Ha6c/lb3yMW3dOmjWrg0r026322K32z0mk0lERU6HJNy7IQ1YGsgcSYc6UVFREUMP+Cr3mEQisaenp7tjYmIUo9WV3CYTHJcu+SXYrxA4+y66NtygDqiIjY0FK9Qxra2trS4SSkx/B6f7+3NZWdneoRzzkCZIoVAsp81NV1RFJHL6yI8VLIx/yOXyWMYRkz3n8BTSgNKR+ID7uDtkcuwC+fyEQFzZAnHJVwA/4e6Qegns8gQJwBOIS74CGMfdIYcrjaSHZDpelQScj4s8AZClCMglLyfM3MCAcEkkiomkhzxDd2eZLIaj3QVnL5B3GQEjotEEOeb4QYdUIxFABKY3/ydUOglQFtwEkcsAZXkHcDk6zZUYUQplJeC06mE1EPlnotdfRLwAeqjX94rF6Lh9Hnoo1naI+25ZsgT45W+Bh5+kXGFKX11Wz0KldfZsOEQimKSRr+ARf4f1M2bgx/3vI31uLGzTliOu+jJSTT3oMp9AR5cHLvLGLocIHfNuh1mtQaOpAeo5alxKnoK8mTOR1t2NpKQkQQDBoqurC0ePHUdvzd+RO7kbjh3/hTIPaJ6qwsVyNaRznsHWbXtQWd2En63+HRrPlkGZsAO5Hgcc/wRSyEfoj2xAc9tGLL9vGQsiBAEEA6fTiY5LVdBWH0fqDvSNL1bQRmJA2iwDKk+8DFXuLKiSpXBVbEIOOWHZNg+U/Qn/OQ9skh8hzWtBZ2cnVCqVIIBg0NzcDIm9CuKWZNjQASMdO56UCI1UgthjJmTCgbZpMsikckz8F1BH9t6SqEAvxeAZHZ2Y4HAgxpoLieMsOgw/FQQQLLRaLWri1KgROeEalw4nOeM4UgOtXI4TEgm6yNQUyGO9Sc9ZOq+Tx4ANwtTYbGjRpHoF5pK5kCtJRkpyshAFBQu73Q71hEVQTrVRJOSGihLxnDwXYvPNKKBoqChOAZHpLDSiJmTI+3JER7YJeQVO5NJ+FhVF+kXEqhewxEgQQLDIzMxEfHwiWmW3wZrTAyNpQrvThcRbe5C7phXmFCukbR5onFLUZXQicVkbkgrNMCpsMCfY8X16B1xZRYhPUEes+Yn4MDQ7Oxtdkz2oaXYjqbgdWqccR05SNFOvQHq+FbIJhUh0NKM7rgHttTGoF1uhoZDUVGhEUqcI+blJKCiYJuQBI852lUqI22YgeYoBHefP4YdvpJR09SJZIYOpKg6qjK8hdopgq0jCQXcvnBoXjA0SJBWQZkzPhsy0GNIIT8YiPhGb2OXAt6eaYLXIEJ/tRMFtEtiddkrAqEAGcbwHmQ+YMM7tRoxMgnPHHHDbxLDr66FxG4ShiGuFnKKfSY3duH2pC79ZI8HerknoSlTh53cm4d/fzMKB04W4Z54Sxy2ZONidjtW/jsX8e1xILe9FjNstDEWERAhkVnoOuZFc4sGKHDe0mkKc68nC5udUMHW3ocmqxaMzGtDVWYvUJCsO7JBBed4ZDY8WHQLQWG1wr3oZO8/HYOGiu9DU1IwegwFKSRzaDU1Qpk/BBWMzppTk4pD+e2gWH0XK3n9EhQAi3gR5KB9gsxuWr/XQacejs9OI9sZGqFLScPOseVh0/y/QY7ZDQXlCe8NFeE43IO7TSkQLIl4DPD47nv7u+3BQaUlJQW3pEtzxt9eu1CmcMQNvrVyBwgNlSOmftBmj2bDrTgO4kFFhA2u3rXrwqnO3rl0HS5SQHrUCYGCTLYUzZ14tgIUL0VhcHFW9P+oE0EzEFj/55JV9m82GI2VlV/ZzNmzwzqBFE8bUB7S2tqKystKbrbKlfSlk39m4DcuAJRLJIGfgQQP18CXU0xkO7NoFS10dYp97DmcOHcJN2dmYVVqK96dORVFV1VXf5SZfwiZ5DBQ9sWK1Wr2lqKgIGo3mxhRAWloaTp06hQULFnjJYMSweQAmFDYhw2axrDk5sKxeDWdbG0oee8x7XY1eD+tDD+HI9OlYQYL55PnnkUXCWFNejmkvvIALH3wAGbXdMX489IcP96m6WOwVbGpqqnegjwl8586dUKvV0aEBrZs3h+UG1E1NKJfLUTR/PjIyMrxlAOg4F8d370bZ/v1YRMS7KURlD9BLAkltaYHJZELJXXd5y3A48vnnyNq3D61nhllSwcOk+V2lTR0kpAK4NFIBDPMAYjp/du9eZH/7LRJ5TJxcfO89XCatYQbKYzb3HbRYoKB2enp62LLAYdswkDbVrFuHgo4OtARYXT3k/fNYJq/iKYDwOGF2Q/2FR8+ZRr7gc3KgvJomU+UmW87gMPQNttmp50vIxjscDl5t/MdHPi+yR6ARwURh4pATzlNlB/ca7Wef4ej27cNf63Ih1pecSZgGUDupZIr4ouyjj6DbvTsk2juk+QlLGDqY5CAID0R8P9irlrXr16PzcuA1hk6jEWoSAmtF52urwGdLncMI4lJjI5qfegpKvqYmzL1/1PKAQMRzb3wqmZRdTzwRsJq9vh7zqa6IyhyfycmmkujLkve89hpeycvze+3uxx/Hzd3dISPSE4KcQxxu0j1BPuyEL77AV2Qm/KGNtCOZfICUU7+Tyg/MOTNnfuwYHBSG6rKzr7r2izffRO7Bg+Ht2SMQiDjUZPMmnWvWOGCLCFueeQatZC4GQ08JVpbP/Jyk8p1PAMXsO2nb+OKL3vVAKStWDIyczp+HkXKF+BFGOeHq/UGFoZ5QpviB2qJzYiLZ7XJddcpGJqr/pYUSTn1W00Kl1GZDMyVvNy9aNOA6FyV1Yua4R9qLw9T7R3csaDin7TvH3mtMfekljJs48aoqosET7L62WE5wS7+ZUqmg0+kGVNORT4jftMkrpFCQFsrOKB414nn2nto77sDCRx7xWy1OrYZ9GPJiS0r8Hl+ydi2q584NvqePpPePeh4w0pxgUJ1qyoTvfv31IavfUlyMH9nYzRDtMu3Rrlrl9xwbV7r7rbdQzV42vAbyPSEebQ1NHhBMTjBEXbaWM2vLFqi12iEvZQNoaeRM/U23m6m9+jVrMH/58iGvz5gwAZpXXkH3NQQboez9o+cDeAio6d57Mff++4dtqnjJEuwTi9lK9b4Ih0VD1O5uOraEoqfhsOjhh1F7552hMT0R7QOC0IoKjQZLt27l3QvzyZzk+/azaH86bXN88wl8sPSNN1DRX/daTM819v6gwlDtxo0hDb/60dLSgtzSUihTU3nVZxM1Dj+kSOL4vzDMzNwk8jXiAweQnpYWmqhnUB1byAXw9NNhUBIPfqDM9+7Fi+GiuN9oNF6ZsbL7xnVstbWwVlfD0dyMyY8+iqmzZ8O0ciXqqMfLsrLgptjfRdclZWZ665d/+SUufPghYtikS34+YsaP9x6Xy+Xe2TY2IZNMzn7OsmXYRWHtLaWlYTEAdXV1oRVAOMCmJGUyGQ4fPuzt2YwYRtJEygH63zZv3L4d7W+/7f18uqkJBfv24VfvvDNkm6cp3i84dcr7edyzz0L7YN8KCjZ/zMaKmMZVUUbNBM6mQtva2m7cKUn2Fow2QNTjBWd9Z/rRoyj/6isUzZvnt+qJvXsxwUf+YDAN4PV9o4zIXxnHGV9iXqJyy5Yh657bvLlvqHkUo5jrXgCDoTp4EFUnTlx1/BSZMaYh0UR+VAognZHtRwsqWBIX5ASRIIAR5hcJe/aghrOaoerkSaTs349ohDiaiO/v3Zm0/Y6jBeVk+7VhyFGu+ygoWOK5iNm2DQ16PRwUXib4m2SPElMkRZRCR+Hp0Vdf9S5TyQ3BkIAggGA0ot9+fvwxJFyyo3B5etT+YhZDNnfaMgrJjx4BDDOHHM0QR/XdXweCkV53xAtOWCD+xvIBghOO3F7vETLhsROMR3DCY0O+R3hLcuz8gEdwwoK5uXF8QJQTH9UC8FxHYWmgoYhe7o7b7baNyR1yBtz4vuo01uS7XC7zoEOdIxFAC3fHarWOyU9QsZexo4X4fthsNk8gLnkJQCQSfcfd7/K9mxuRDjrQSx9jAOJKFIhLvhow4KVdu90u7+7utkYF8WNIvtFo7CUNiA3EJS8BOByOT2lTz7G/UoPBICLpWt1j+WuEfIgfA/IZJ8SPlQTAOOX+1Iu+vb19Z9BRUE5Oju3ChQtPkfp8wjkspy9w9vT0mBUKBVu/KQv3n/v0khO2cn/738//AAzwD5zzFocDZrM53MTbyDo4e3t7mfOV++H09yUlJUP+hsKw/2pQW1v7F9o8AQEjwZ8mTZq0caRhqBc6nW49bf4qcBk0NhN3zw5Xiff/epA5eoDMDfvNmokCt4GpIp42EPnb+FQO6o9V9Hq9XCaTrcTAvzSPu8EJt4Dzl+YWi2Vbfn6+XeiHAgQIECBAgAABgfA/s4OBhipUGYQAAAAASUVORK5CYII=",
@@ -252,7 +252,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -263,12 +263,12 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_7.m3u8"
   },
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch9.m3u8"
   },
   {
    "type": "FHD - VN",
@@ -283,12 +283,12 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chopa.fordems.live/hls/for-1.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hisoverline.crystalnew.pro/live/n-7/chunks.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -316,7 +316,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -327,17 +327,17 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_3.m3u8"
   },
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch8.m3u8"
   },
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912004_lhd.m3u8?auth_key=1700502886-0-0-3b64e5e5f7ae2bc4e617053c80c39046"
   },
   {
    "type": "HD - VN",
@@ -347,12 +347,12 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chopa.fordems.live/hls/for-1.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hisoverline.crystalnew.pro/live/n-6/chunks.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -372,7 +372,7 @@
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912004_lsd.m3u8?auth_key=1700502886-0-0-3b64e5e5f7ae2bc4e617053c80c39046"
   }
              ],
     "HomeImage": "data:image/png;base64,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",
@@ -380,7 +380,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -391,17 +391,17 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_2.m3u8"
   },
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch3.m3u8"
   },
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1700502706-0-0-f33a08ba620e95683778053b574ae80a"
   },
   {
    "type": "HD - VN",
@@ -411,12 +411,12 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chopa.fordems.live/hls/for-2.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hisoverline.crystalnew.pro/live/n-2/chunks.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -436,7 +436,7 @@
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912047_lsd.m3u8?auth_key=1700502706-0-0-f33a08ba620e95683778053b574ae80a"
   }
              ],
     "HomeImage": "data:image/png;base64,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",
@@ -444,7 +444,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
     "LeagueName": "EURO Qualification",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   }
 ]
