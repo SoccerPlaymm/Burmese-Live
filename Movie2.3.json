@@ -1,5 +1,23 @@
 [
 {
+    "Name":"Haunted Mansion",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-22/655da1ae4b6c1.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/HauntedMansion23/HauntedMansion23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/HauntedMansion23/index.m3u8"   
+  },
+  {
+    "Name":"3 Days in Malay",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-22/655da2562d141.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/3DaysInMalay23/3DaysInMalay23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/3DaysInMalay23/index.m3u8"   
+  },
+{
+    "Name":"Hot Pursuit",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-22/655dc4f8a4475.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/HotPursuit15/HotPursuit15.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/HotPursuit15/index.m3u8"   
+  },
+{
     "Name":"The Protector",
     "Image":"http://zegomovie.com/Uploads/vod/2023-11-18/65588ecec4321.jpg",
     "dLink":"http://www.zegomovie.com/Videos/TheProtector85/TheProtector85.mp4",
