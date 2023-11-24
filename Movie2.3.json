@@ -1,5 +1,23 @@
 [
 {
+    "Name":"Chatrapathi",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-22/655dc47589ee3.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/ChatrapathiForthePeople23/ChatrapathiForthePeople23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/ChatrapathiForthePeople23/index.m3u8"   
+  },
+  {
+    "Name":"Kasargold",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-22/655da557384ce.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/Kasargold23/Kasargold23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/Kasargold23/index.m3u8"   
+  },
+{
+    "Name":"Mistake",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-22/655da4e515672.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/Mistake23/Mistake23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/Mistake23/index.m3u8"   
+  },
+{
     "Name":"Haunted Mansion",
     "Image":"http://zegomovie.com/Uploads/vod/2023-11-22/655da1ae4b6c1.jpg",
     "dLink":"http://www.zegomovie.com/Videos/HauntedMansion23/HauntedMansion23.mp4",
