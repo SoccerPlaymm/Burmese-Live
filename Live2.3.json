@@ -736,17 +736,17 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
   },
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch10.m3u8"
   },
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-237299_lhd.m3u8?txSecret=6f1d2e2abec2c7474413ec736a96ec69&txTime=6562620a"
   },
   {
    "type": "HD - VN",
@@ -756,12 +756,12 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/crystalnew2/mux_video_ts/index-1.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chopa.fordems.live/hls/for-6.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -781,7 +781,7 @@
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-237299_lhd.m3u8?txSecret=6f1d2e2abec2c7474413ec736a96ec69&txTime=6562620a"
   }
              ],
     "HomeImage": "https://i.ibb.co/LNsh3hr/download-34.png",
@@ -789,7 +789,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:45 PM"
   },
   {
