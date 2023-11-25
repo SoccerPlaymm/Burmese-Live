@@ -81,37 +81,37 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
   },
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch4.m3u8"
   },
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-259576_lhd.m3u8?auth_key=1700919707-0-0-68f434e4f212a60f850c1a326d6fb64c"
   },
   {
    "type": "HD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/crystalnew2/mux_video_ts/index-1.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://chopa.fordems.live/hls/for-6.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://cdn3.reels2watch.com/hls/s3.m3u8?|Referer=https://techclips.net/"
   },
   {
    "type": "HD [ VIP ] - ENG",
@@ -119,14 +119,14 @@
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-259576_lsd.m3u8?auth_key=1700919707-0-0-68f434e4f212a60f850c1a326d6fb64c"
   },
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/SvkRPGx/download-38.png",
@@ -134,7 +134,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
   {
