@@ -1,69 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/jh44yWL/download-66.png",
-    "AwayName": "Barcelona",
-    "Date": "Nov 25",
-    "Link": [
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
-  },
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch4.m3u8"
-  },
-  {
-   "type": "FHD - VN",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-259576_lhd.m3u8?auth_key=1700919707-0-0-68f434e4f212a60f850c1a326d6fb64c"
-  },
-  {
-   "type": "HD - VN",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "https://storage.googleapis.com/crystalnew2/mux_video_ts/index-1.m3u8"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "https://chopa.fordems.live/hls/for-6.m3u8"
-  },
-  {
-   "type": "HD [ VIP ] -- ENG",
-   "Vip": "Vip",
-   "link": "https://cdn3.reels2watch.com/hls/s3.m3u8?|Referer=https://techclips.net/"
-  },
-  {
-   "type": "HD [ VIP ] - ENG",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "SD - VN",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-259576_lsd.m3u8?auth_key=1700919707-0-0-68f434e4f212a60f850c1a326d6fb64c"
-  },
- {
-   "type": "SD - VN",
-   "Vip": "Non",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/SvkRPGx/download-38.png",
-    "HomeName": "Rayo Vallecano",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-    "LeagueName": "LaLiga",
-    "LiveUpcoming": "Live",
-    "Time": "7:30 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/1mCtxQQ/download-58.png",
     "AwayName": "Lazio",
     "Date": "Nov 25",
@@ -495,7 +431,7 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "https://cdn.sportea.in/es85/index.m3u8?token=c2VydmVyX3RpbWU9MTcwMDkyMzY0MiZoYXNoX3ZhbHVlPVpUVXpOakExT0RobVlqVTRPVFUxWXpZNFpUa3hNREl3WlRjd01tUTJZak0mZXhwaXJ5PTE3MDA5MzQ0NDImaXA9MTE3LjE4LjIzMS4yOQ=="
+   "link": "0"
   },
   {
    "type": "SD - VN",
@@ -564,7 +500,7 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "https://cdn.sportea.in/es86/index.m3u8?token=c2VydmVyX3RpbWU9MTcwMDkyMzY2NSZoYXNoX3ZhbHVlPU5qTXlNbVprTUdRNU9HUTJZamRrTmpaak16bGxZVEJqTTJaaU1Ua3paVGsmZXhwaXJ5PTE3MDA5MzQ0NjUmaXA9MTE3LjE4LjIzMS4yOQ=="
+   "link": "0"
   },
   {
    "type": "SD - VN",
@@ -633,7 +569,7 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "https://cdn.sportea.in/es87/index.m3u8?token=c2VydmVyX3RpbWU9MTcwMDkyMzU3MCZoYXNoX3ZhbHVlPU5UUXlNekk0WlRrNVlUYzJZamt5WkdRMlptWmpaV00yWlRZek5Ea3hZalkmZXhwaXJ5PTE3MDA5MzQzNzAmaXA9MTE3LjE4LjIzMS4yOQ=="
+   "link": "0"
   },
   {
    "type": "SD - VN",
@@ -702,7 +638,7 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "https://cdn.sportea.in/ch72/index.m3u8?token=c2VydmVyX3RpbWU9MTcwMDkyMzc0NiZoYXNoX3ZhbHVlPVltRmlOakEwWmpkaFpUTXdaV1kyTmpNMk9EVmtaRGd6T1dZek0yWTNOMlEmZXhwaXJ5PTE3MDA5MzQ1NDYmaXA9MTE3LjE4LjIzMS4yOQ=="
+   "link": "0"
   },
   {
    "type": "SD - VN",
@@ -771,7 +707,7 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "https://cdn.sportea.in/es88/index.m3u8?token=c2VydmVyX3RpbWU9MTcwMDkyMzc1NCZoYXNoX3ZhbHVlPU1qRmtNREZtWWpNek5tWTJZamt4Wmpnd1lUQmlPVEppT0RNek5HRmhPREUmZXhwaXJ5PTE3MDA5MzQ1NTQmaXA9MTE3LjE4LjIzMS4yOQ=="
+   "link": "0"
   },
   {
    "type": "SD - VN",
