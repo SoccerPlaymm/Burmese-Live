@@ -74,9 +74,9 @@
    "link": "0"
   },
   {
-   "type": "FHD - ENG",
+   "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8"
   },
   {
    "type": "FHD - VN",
@@ -86,7 +86,7 @@
   {
    "type": "HD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8"
   },
   {
    "type": "HD - ENG",
@@ -109,9 +109,9 @@
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/mySD/playlist.m3u8"
   },
  {
    "type": "SD - VN",
@@ -124,7 +124,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/525.png",
     "LeagueName": "AFC Champions League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:30 AM"
   },
   {
