@@ -3,8 +3,58 @@
     "AwayImage": "https://i.ibb.co/f0wRMJt/download-56.png",
     "AwayName": "Lecce",
     "Date": "Nov 28",
-    "Hd1Link": "0",
-    "Hd1Name": "CN FHD",
+    "Link": [
+  {
+   "type": "FHD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "FHD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "FHD - VN",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD - VN",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD [ VIP ] -- ENG",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "HD [ VIP ] - ENG",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "SD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "SD - VN",
+   "Vip": "Non",
+   "link": "0"
+  }
+             ],
     "HomeImage": "https://i.ibb.co/wMNphZd/download-49.png",
     "HomeName": "Verona",
     "Hot": "",
@@ -17,8 +67,58 @@
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101610.png",
     "AwayName": "Persepolis",
     "Date": "Nov 28",
-    "Hd1Link": "0",
-    "Hd1Name": "CN FHD",
+    "Link": [
+  {
+   "type": "FHD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "FHD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "FHD - VN",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD - VN",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD [ VIP ] -- ENG",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "HD [ VIP ] - ENG",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "SD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "SD - VN",
+   "Vip": "Non",
+   "link": "0"
+  }
+             ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
     "HomeName": "Al Nassr FC",
     "Hot": "",
@@ -31,8 +131,58 @@
     "AwayImage": "https://i.ibb.co/T8v9CbT/download-51.png",
     "AwayName": "Torino",
     "Date": "Nov 28",
-    "Hd1Link": "0",
-    "Hd1Name": "CN FHD",
+    "Link": [
+  {
+   "type": "FHD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "FHD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "FHD - VN",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD - VN",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD [ VIP ] -- ENG",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "HD [ VIP ] - ENG",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "SD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "SD - VN",
+   "Vip": "Non",
+   "link": "0"
+  }
+             ],
     "HomeImage": "https://www.soccer24.com/res/image/data/j3Tyh1GG-bucnXust.png",
     "HomeName": "Bologna",
     "Hot": "",
@@ -45,8 +195,58 @@
     "AwayImage": "https://i.ibb.co/QJMLcrP/download-10.png",
     "AwayName": "Wolves",
     "Date": "Nov 28",
-    "Hd1Link": "0",
-    "Hd1Name": "CN FHD",
+    "Link": [
+  {
+   "type": "FHD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "FHD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "FHD - VN",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD - VN",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD [ VIP ] -- ENG",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "HD [ VIP ] - ENG",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "SD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "SD - VN",
+   "Vip": "Non",
+   "link": "0"
+  }
+             ],
     "HomeImage": "https://i.ibb.co/8YZYVzF/download-15.png",
     "HomeName": "Fulham",
     "Hot": "",
@@ -59,8 +259,58 @@
     "AwayImage": "https://i.ibb.co/8KWFTPM/download-31.png",
     "AwayName": "Athletic Club",
     "Date": "Nov 28",
-    "Hd1Link": "0",
-    "Hd1Name": "CN FHD",
+    "Link": [
+  {
+   "type": "FHD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "FHD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "FHD - VN",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD - VN",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "HD [ VIP ] -- ENG",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "HD [ VIP ] - ENG",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "SD - ENG",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "SD - VN",
+   "Vip": "Non",
+   "link": "0"
+  }
+             ],
     "HomeImage": "https://i.ibb.co/THrGZYk/download-37.png",
     "HomeName": "Girona",
     "Hot": "",
