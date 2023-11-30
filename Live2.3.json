@@ -1,7 +1,7 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/RBH2X6r/download-13.png",
-    "AwayName": "Brighton",
+    "AwayImage": "https://i.ibb.co/51zs1r9/download-63.png",
+    "AwayName": "Leverkusen",
     "Date": "Dec 01",
     "Link": [
   {
@@ -12,76 +12,12 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_9.m3u8"
+   "link": "0"
   },
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1701368267-0-0-8d5e40e246b3a4ffb7612a7c9ad3f40e"
-  },
-  {
-   "type": "HD - VN",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_9.m3u8"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "https://storage.googleapis.com/sonteterintreal2/mux_video_ts/index-1.m3u8"
-  },
-  {
-   "type": "HD [ VIP ] -- ENG",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "HD [ VIP ] - ENG",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "SD - VN",
-   "Vip": "Non",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/cuonSD/playlist.m3u8"
-  },
- {
-   "type": "SD - VN",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1701368267-0-0-8d5e40e246b3a4ffb7612a7c9ad3f40e"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8563.png",
-    "HomeName": "AEK Athens",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
-    "LeagueName": "Europa League",
-    "LiveUpcoming": "Live",
-    "Time": "12:15 AM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/sFv8zdq/download-69.png",
-    "AwayName": "Sporting",
-    "Date": "Dec 01",
-    "Link": [
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_1.m3u8"
-  },
-  {
-   "type": "FHD - VN",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1701368327-0-0-62f009dd7630fdd0dfc4d36332d31d53"
+   "link": "https://pull.niues.live/live/stream-9912045_lhd.m3u8?auth_key=1701374087-0-0-e4cf70ded77a45edebe65ed9f2a13128"
   },
   {
    "type": "HD - VN",
@@ -91,12 +27,12 @@
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "https://sintertinf.crystalnew.pro/live/n-3/chunks.m3u8"
+   "link": "0"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch6.m3u8"
+   "link": "0"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -116,199 +52,7 @@
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912080_lsd.m3u8?auth_key=1701368327-0-0-62f009dd7630fdd0dfc4d36332d31d53"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/HqHFbmq/download-43.png",
-    "HomeName": "Atalanta",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
-    "LeagueName": "Europa League",
-    "LiveUpcoming": "Live",
-    "Time": "12:15 AM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/1mg68jB/download-24.png",
-    "AwayName": "Real Betis",
-    "Date": "Dec 01",
-    "Link": [
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_8.m3u8"
-  },
-  {
-   "type": "FHD - VN",
-   "Vip": "Non",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8"
-  },
-  {
-   "type": "HD - VN",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_8.m3u8"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD [ VIP ] -- ENG",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "HD [ VIP ] - ENG",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "SD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "SD - VN",
-   "Vip": "Non",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may3SD/playlist.m3u8"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10247.png",
-    "HomeName": "Sparta Prague",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
-    "LeagueName": "Europa League",
-    "LiveUpcoming": "Live",
-    "Time": "12:15 AM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/0B03V1F/download-19.png",
-    "AwayName": "West Ham",
-    "Date": "Dec 01",
-    "Link": [
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_10.m3u8"
-  },
-  {
-   "type": "FHD - VN",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912064_lhd.m3u8?txSecret=7286a372108e639bb5356141c372dc26&txTime=6569181b"
-  },
-  {
-   "type": "HD - VN",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "https://sintertinf.crystalnew.pro/live/n-1/chunks.m3u8"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8"
-  },
-  {
-   "type": "HD [ VIP ] -- ENG",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "HD [ VIP ] - ENG",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "SD - VN",
-   "Vip": "Non",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/chaSD/playlist.m3u8"
-  },
- {
-   "type": "SD - VN",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912064_lhd.m3u8?txSecret=7286a372108e639bb5356141c372dc26&txTime=6569181b"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/676140.png",
-    "HomeName": "TSC Backa Topola",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
-    "LeagueName": "Europa League",
-    "LiveUpcoming": "Live",
-    "Time": "12:15 AM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/51zs1r9/download-63.png",
-    "AwayName": "Leverkusen",
-    "Date": "Dec 01",
-    "Link": [
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "FHD - VN",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD - VN",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD [ VIP ] -- ENG",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "HD [ VIP ] - ENG",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "SD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "SD - VN",
-   "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912045_lsd.m3u8?auth_key=1701374087-0-0-e4cf70ded77a45edebe65ed9f2a13128"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8428.png",
@@ -316,7 +60,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
     "LeagueName": "Europa League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   },
   {
@@ -327,7 +71,7 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_1.m3u8"
   },
   {
    "type": "FHD - ENG",
@@ -337,22 +81,22 @@
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1701374027-0-0-f9f612346c84d60f74484d7b71d0d0ba"
   },
   {
    "type": "HD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/unicertincer1/mux_video_ts/index-1.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -365,14 +109,14 @@
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912080_lsd.m3u8?auth_key=1701374027-0-0-f9f612346c84d60f74484d7b71d0d0ba"
   },
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/T12PsPR/download-3.png",
@@ -380,71 +124,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
     "LeagueName": "Europa League",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:30 AM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/09qLvpm/download-60.png",
-    "AwayName": "Ajax",
-    "Date": "Dec 01",
-    "Link": [
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "FHD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "FHD - VN",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD - VN",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD [ VIP ] -- ENG",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "HD [ VIP ] - ENG",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "SD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "SD - VN",
-   "Vip": "Non",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/zNhmF1y/download-70.png",
-    "HomeName": "Marseille",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
-    "LeagueName": "Europa League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   },
   {
@@ -455,7 +135,7 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_2.m3u8"
   },
   {
    "type": "FHD - ENG",
@@ -465,22 +145,22 @@
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912003_lhd.m3u8?auth_key=1701374087-0-0-b26e3ef766437fc80089e3d87c465609"
   },
   {
    "type": "HD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch17.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/unicertincer3/mux_video_ts/index-1.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -493,14 +173,14 @@
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912003_lsd.m3u8?auth_key=1701374087-0-0-b26e3ef766437fc80089e3d87c465609"
   },
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/phoSD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9777.png",
@@ -508,7 +188,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
     "LeagueName": "Europa League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   }
 ]
