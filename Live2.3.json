@@ -12,27 +12,27 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_9.m3u8"
   },
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1701368267-0-0-8d5e40e246b3a4ffb7612a7c9ad3f40e"
   },
   {
    "type": "HD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_9.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/sonteterintreal2/mux_video_ts/index-1.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -45,14 +45,14 @@
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/cuonSD/playlist.m3u8"
   },
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1701368267-0-0-8d5e40e246b3a4ffb7612a7c9ad3f40e"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8563.png",
@@ -60,7 +60,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
     "LeagueName": "Europa League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:15 AM"
   },
   {
@@ -76,27 +76,27 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_1.m3u8"
   },
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1701368327-0-0-62f009dd7630fdd0dfc4d36332d31d53"
   },
   {
    "type": "HD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sintertinf.crystalnew.pro/live/n-3/chunks.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch6.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -109,14 +109,14 @@
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/trauSD/playlist.m3u8"
   },
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912080_lsd.m3u8?auth_key=1701368327-0-0-62f009dd7630fdd0dfc4d36332d31d53"
   }
              ],
     "HomeImage": "https://i.ibb.co/HqHFbmq/download-43.png",
@@ -124,7 +124,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
     "LeagueName": "Europa League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:15 AM"
   },
   {
@@ -140,22 +140,22 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_8.m3u8"
   },
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8"
   },
   {
    "type": "HD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_8.m3u8"
   },
   {
    "type": "HD - ENG",
@@ -180,7 +180,7 @@
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may3SD/playlist.m3u8"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10247.png",
@@ -188,7 +188,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
     "LeagueName": "Europa League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:15 AM"
   },
   {
@@ -204,27 +204,27 @@
   {
    "type": "FHD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_10.m3u8"
   },
   {
    "type": "FHD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912064_lhd.m3u8?txSecret=7286a372108e639bb5356141c372dc26&txTime=6569181b"
   },
   {
    "type": "HD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://sintertinf.crystalnew.pro/live/n-1/chunks.m3u8"
   },
   {
    "type": "HD - ENG",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8"
   },
   {
    "type": "HD [ VIP ] -- ENG",
@@ -237,14 +237,14 @@
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/chaSD/playlist.m3u8"
   },
  {
    "type": "SD - VN",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912064_lhd.m3u8?txSecret=7286a372108e639bb5356141c372dc26&txTime=6569181b"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/676140.png",
@@ -252,7 +252,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
     "LeagueName": "Europa League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:15 AM"
   },
   {
