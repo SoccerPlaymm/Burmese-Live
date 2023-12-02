@@ -257,9 +257,9 @@
    "link": "https://storage.googleapis.com/eagleoniclestn2/mux_video_ts/index-1.m3u8"
   },
  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
+   "type": "English | Test",
+   "Vip": "Non",
+   "link": "https://livecdn-bp.rumsport.com/stream/44/chunks.m3u8?x-sign=f3218abdd8b4bf5447b4d8853e09d816&x-time=1701537480&is_vip=false&token=861febd95aa58d850a7e70d6e302106f559f8b45"
   },
   {
    "type": "English | HD => VIP",
