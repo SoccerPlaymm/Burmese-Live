@@ -74,52 +74,57 @@
     "Date": "December 02",
     "Link": [
   {
-   "type": "FHD - ENG",
+   "type": "Soco | FHD",
+   "Vip": "Non",
+   "link": "https://pull.niues.live/live/stream-261808_lhd.m3u8?auth_key=1701528408-0-0-4817414d0dc4cf0c9000a4c507405dd8"
+  },
+  {
+   "type": "Soco | HD",
+   "Vip": "Non",
+   "link": "https://pull.niues.live/live/stream-261808_lsd.m3u8?auth_key=1701528408-0-0-4817414d0dc4cf0c9000a4c507405dd8"
+  },
+  {
+   "type": "Vebo | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - ENG",
+   "type": "Vebo | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - VN",
+   "type": "Vebo | SD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - VN",
+   "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_7.m3u8"
   },
   {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD - ENG",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "HD [ VIP ] -- ENG",
+   "type": "English | FHD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] - ENG",
+   "type": "English | HD",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch8.m3u8"
   },
   {
-   "type": "SD - ENG",
+   "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://lingestingoren.latsyoving.xyz/live/n-5/chunks.m3u8"
   },
  {
-   "type": "SD - VN",
+   "type": "English | HD => VIP",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
    "Vip": "Non",
    "link": "0"
   }
@@ -129,7 +134,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -138,52 +143,57 @@
     "Date": "December 02",
     "Link": [
   {
-   "type": "FHD - ENG",
+   "type": "Soco | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - ENG",
+   "type": "Soco | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - VN",
+   "type": "Vebo | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - VN",
+   "type": "Vebo | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "Vebo | SD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "English | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] -- ENG",
+   "type": "English | FHD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] - ENG",
+   "type": "English | HD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "English | HD",
    "Vip": "Non",
    "link": "0"
   },
  {
-   "type": "SD - VN",
+   "type": "English | HD => VIP",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
    "Vip": "Non",
    "link": "0"
   }
@@ -202,52 +212,57 @@
     "Date": "December 02",
     "Link": [
   {
-   "type": "FHD - ENG",
+   "type": "Soco | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - ENG",
+   "type": "Soco | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - VN",
+   "type": "Vebo | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - VN",
+   "type": "Vebo | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "Vebo | SD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "English | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] -- ENG",
+   "type": "English | FHD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] - ENG",
+   "type": "English | HD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "English | HD",
    "Vip": "Non",
    "link": "0"
   },
  {
-   "type": "SD - VN",
+   "type": "English | HD => VIP",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
    "Vip": "Non",
    "link": "0"
   }
@@ -266,52 +281,57 @@
     "Date": "December 02",
     "Link": [
   {
-   "type": "FHD - ENG",
+   "type": "Soco | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - ENG",
+   "type": "Soco | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - VN",
+   "type": "Vebo | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - VN",
+   "type": "Vebo | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "Vebo | SD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "English | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] -- ENG",
+   "type": "English | FHD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] - ENG",
+   "type": "English | HD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "English | HD",
    "Vip": "Non",
    "link": "0"
   },
  {
-   "type": "SD - VN",
+   "type": "English | HD => VIP",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
    "Vip": "Non",
    "link": "0"
   }
@@ -330,52 +350,57 @@
     "Date": "December 02",
     "Link": [
   {
-   "type": "FHD - ENG",
+   "type": "Soco | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - ENG",
+   "type": "Soco | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - VN",
+   "type": "Vebo | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - VN",
+   "type": "Vebo | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "Vebo | SD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "English | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] -- ENG",
+   "type": "English | FHD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] - ENG",
+   "type": "English | HD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "English | HD",
    "Vip": "Non",
    "link": "0"
   },
  {
-   "type": "SD - VN",
+   "type": "English | HD => VIP",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
    "Vip": "Non",
    "link": "0"
   }
@@ -394,52 +419,57 @@
     "Date": "December 02",
     "Link": [
   {
-   "type": "FHD - ENG",
+   "type": "Soco | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - ENG",
+   "type": "Soco | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - VN",
+   "type": "Vebo | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - VN",
+   "type": "Vebo | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "Vebo | SD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "English | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] -- ENG",
+   "type": "English | FHD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] - ENG",
+   "type": "English | HD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "English | HD",
    "Vip": "Non",
    "link": "0"
   },
  {
-   "type": "SD - VN",
+   "type": "English | HD => VIP",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
    "Vip": "Non",
    "link": "0"
   }
@@ -458,52 +488,57 @@
     "Date": "December 02",
     "Link": [
   {
-   "type": "FHD - ENG",
+   "type": "Soco | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - ENG",
+   "type": "Soco | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - VN",
+   "type": "Vebo | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - VN",
+   "type": "Vebo | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "Vebo | SD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "English | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] -- ENG",
+   "type": "English | FHD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] - ENG",
+   "type": "English | HD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "English | HD",
    "Vip": "Non",
    "link": "0"
   },
  {
-   "type": "SD - VN",
+   "type": "English | HD => VIP",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
    "Vip": "Non",
    "link": "0"
   }
@@ -522,52 +557,57 @@
     "Date": "December 02",
     "Link": [
   {
-   "type": "FHD - ENG",
+   "type": "Soco | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - ENG",
+   "type": "Soco | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - VN",
+   "type": "Vebo | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - VN",
+   "type": "Vebo | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "Vebo | SD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "English | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] -- ENG",
+   "type": "English | FHD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] - ENG",
+   "type": "English | HD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "English | HD",
    "Vip": "Non",
    "link": "0"
   },
  {
-   "type": "SD - VN",
+   "type": "English | HD => VIP",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
    "Vip": "Non",
    "link": "0"
   }
@@ -586,52 +626,57 @@
     "Date": "December 02",
     "Link": [
   {
-   "type": "FHD - ENG",
+   "type": "Soco | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - ENG",
+   "type": "Soco | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - VN",
+   "type": "Vebo | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - VN",
+   "type": "Vebo | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "Vebo | SD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "English | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] -- ENG",
+   "type": "English | FHD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] - ENG",
+   "type": "English | HD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "English | HD",
    "Vip": "Non",
    "link": "0"
   },
  {
-   "type": "SD - VN",
+   "type": "English | HD => VIP",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
    "Vip": "Non",
    "link": "0"
   }
@@ -650,52 +695,57 @@
     "Date": "December 02",
     "Link": [
   {
-   "type": "FHD - ENG",
+   "type": "Soco | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - ENG",
+   "type": "Soco | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - VN",
+   "type": "Vebo | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - VN",
+   "type": "Vebo | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "Vebo | SD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "English | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] -- ENG",
+   "type": "English | FHD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] - ENG",
+   "type": "English | HD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "English | HD",
    "Vip": "Non",
    "link": "0"
   },
  {
-   "type": "SD - VN",
+   "type": "English | HD => VIP",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
    "Vip": "Non",
    "link": "0"
   }
@@ -714,52 +764,57 @@
     "Date": "December 02",
     "Link": [
   {
-   "type": "FHD - ENG",
+   "type": "Soco | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - ENG",
+   "type": "Soco | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - VN",
+   "type": "Vebo | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - VN",
+   "type": "Vebo | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "Vebo | SD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "English | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] -- ENG",
+   "type": "English | FHD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] - ENG",
+   "type": "English | HD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "English | HD",
    "Vip": "Non",
    "link": "0"
   },
  {
-   "type": "SD - VN",
+   "type": "English | HD => VIP",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
    "Vip": "Non",
    "link": "0"
   }
@@ -778,52 +833,57 @@
     "Date": "December 03",
     "Link": [
   {
-   "type": "FHD - ENG",
+   "type": "Soco | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - ENG",
+   "type": "Soco | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - VN",
+   "type": "Vebo | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - VN",
+   "type": "Vebo | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "Vebo | SD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "English | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] -- ENG",
+   "type": "English | FHD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] - ENG",
+   "type": "English | HD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "English | HD",
    "Vip": "Non",
    "link": "0"
   },
  {
-   "type": "SD - VN",
+   "type": "English | HD => VIP",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
    "Vip": "Non",
    "link": "0"
   }
@@ -842,52 +902,57 @@
     "Date": "December 03",
     "Link": [
   {
-   "type": "FHD - ENG",
+   "type": "Soco | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - ENG",
+   "type": "Soco | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - VN",
+   "type": "Vebo | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - VN",
+   "type": "Vebo | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "Vebo | SD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "English | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] -- ENG",
+   "type": "English | FHD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] - ENG",
+   "type": "English | HD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "English | HD",
    "Vip": "Non",
    "link": "0"
   },
  {
-   "type": "SD - VN",
+   "type": "English | HD => VIP",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
    "Vip": "Non",
    "link": "0"
   }
@@ -906,52 +971,57 @@
     "Date": "December 03",
     "Link": [
   {
-   "type": "FHD - ENG",
+   "type": "Soco | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - ENG",
+   "type": "Soco | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - VN",
+   "type": "Vebo | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - VN",
+   "type": "Vebo | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "Vebo | SD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "English | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] -- ENG",
+   "type": "English | FHD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] - ENG",
+   "type": "English | HD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "English | HD",
    "Vip": "Non",
    "link": "0"
   },
  {
-   "type": "SD - VN",
+   "type": "English | HD => VIP",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
    "Vip": "Non",
    "link": "0"
   }
@@ -970,52 +1040,57 @@
     "Date": "December 03",
     "Link": [
   {
-   "type": "FHD - ENG",
+   "type": "Soco | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - ENG",
+   "type": "Soco | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - VN",
+   "type": "Vebo | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - VN",
+   "type": "Vebo | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "Vebo | SD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "English | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] -- ENG",
+   "type": "English | FHD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] - ENG",
+   "type": "English | HD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "English | HD",
    "Vip": "Non",
    "link": "0"
   },
  {
-   "type": "SD - VN",
+   "type": "English | HD => VIP",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
    "Vip": "Non",
    "link": "0"
   }
@@ -1034,52 +1109,57 @@
     "Date": "December 03",
     "Link": [
   {
-   "type": "FHD - ENG",
+   "type": "Soco | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - ENG",
+   "type": "Soco | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - VN",
+   "type": "Vebo | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - VN",
+   "type": "Vebo | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "Vebo | SD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "English | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] -- ENG",
+   "type": "English | FHD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] - ENG",
+   "type": "English | HD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "English | HD",
    "Vip": "Non",
    "link": "0"
   },
  {
-   "type": "SD - VN",
+   "type": "English | HD => VIP",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
    "Vip": "Non",
    "link": "0"
   }
@@ -1098,52 +1178,57 @@
     "Date": "December 03",
     "Link": [
   {
-   "type": "FHD - ENG",
+   "type": "Soco | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - ENG",
+   "type": "Soco | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "FHD - VN",
+   "type": "Vebo | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - VN",
+   "type": "Vebo | HD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "Vebo | SD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD - ENG",
+   "type": "English | FHD",
    "Vip": "Non",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] -- ENG",
+   "type": "English | FHD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "HD [ VIP ] - ENG",
+   "type": "English | HD",
    "Vip": "Vip",
    "link": "0"
   },
   {
-   "type": "SD - ENG",
+   "type": "English | HD",
    "Vip": "Non",
    "link": "0"
   },
  {
-   "type": "SD - VN",
+   "type": "English | HD => VIP",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
    "Vip": "Non",
    "link": "0"
   }
