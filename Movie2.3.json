@@ -1,5 +1,23 @@
 [
 {
+    "Name":"The X-Treme Riders",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-12-01/656951b2a9b46.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/XTremeRiders23/XTremeRiders23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/XTremeRiders23/index.m3u8"   
+  },
+  {
+    "Name":"Night of the Killer Bears",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-29/6566e5968ed3d.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/NightoftheKillerBears22/NightoftheKillerBears22.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/NightoftheKillerBears22/index.m3u8"   
+  },
+{
+    "Name":"Congrats My Ex!",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-17/6556d1ec28ee1.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/CongratsMyEx23/CongratsMyEx23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/CongratsMyEx23/index.m3u8"   
+  },
+{
     "Name":"Chatrapathi",
     "Image":"http://zegomovie.com/Uploads/vod/2023-11-22/655dc47589ee3.jpg",
     "dLink":"http://www.zegomovie.com/Videos/ChatrapathiForthePeople23/ChatrapathiForthePeople23.mp4",
