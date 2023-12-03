@@ -1,143 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/6Xd01b7/download-9.png",
-    "AwayName": "Tottenham",
-    "Date": "December 03",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912075_lhd.m3u8?auth_key=1701622488-0-0-01f5956d2cc668c8cdb00b97f45360db"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912075_lsd.m3u8?auth_key=1701622488-0-0-01f5956d2cc668c8cdb00b97f45360db"
-  },
-  {
-   "type": "Vebo | FHD",
-   "Vip": "Non",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo | SD",
-   "Vip": "Non",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_1.m3u8"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch14.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://storage.googleapis.com/ergshruetg/mux_video_ts/index-1.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://storage.googleapis.com/psychiester1/mux_video_ts/index-1.m3u8"
-  },
- {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/v4DMkVK/download-2.png",
-    "HomeName": "Manchester City",
-    "Hot": "",
-    "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
-    "LeagueName": "Premier League",
-    "LiveUpcoming": "Live",
-    "Time": "11:00 PM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/L6tK4v1/download-77.png",
-    "AwayName": "Dortmund",
-    "Date": "December 03",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912078_lhd.m3u8?auth_key=1701622428-0-0-2c4bdac784a8c0f41359da50c0828b1b"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912078_lsd.m3u8?auth_key=1701622428-0-0-2c4bdac784a8c0f41359da50c0828b1b"
-  },
-  {
-   "type": "Vebo | FHD",
-   "Vip": "Non",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/Z1FHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo | SD",
-   "Vip": "Non",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/Z1SD/playlist.m3u8"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_8.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_8.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/51zs1r9/download-63.png",
-    "HomeName": "Leverkusen",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
-    "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Live",
-    "Time": "11:00 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/1mDqD0w/download-55.png",
     "AwayName": "Roma",
     "Date": "December 03",
@@ -352,12 +214,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9911957_lhd.m3u8?txSecret=f26c7d467d0911510cf3008423ac4437&txTime=656d1cfa"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9911957_lhd.m3u8?txSecret=f26c7d467d0911510cf3008423ac4437&txTime=656d1cfa"
   },
   {
    "type": "Vebo | FHD",
@@ -382,17 +244,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_7.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch2.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://working.latsyoving.xyz/live/n-6/chunks.m3u8"
   },
  {
    "type": "English | HD => VIP",
@@ -410,7 +272,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -421,12 +283,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912011_lhd.m3u8?auth_key=1701632088-0-0-2e9d0b204c73a7037b723324e615f6b0"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912011_lsd.m3u8?auth_key=1701632088-0-0-2e9d0b204c73a7037b723324e615f6b0"
   },
   {
    "type": "Vebo | FHD",
@@ -456,7 +318,7 @@
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_5.m3u8"
   },
   {
    "type": "English | HD",
@@ -479,7 +341,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -490,12 +352,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=8ea3faf8b74cfbecd249cd20f18da660&txTime=656d1ee4"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=8ea3faf8b74cfbecd249cd20f18da660&txTime=656d1ee4"
   },
   {
    "type": "Vebo | FHD",
@@ -520,17 +382,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch10.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/psychiester2/mux_video_ts/index-1.m3u8"
   },
  {
    "type": "English | HD => VIP",
@@ -548,7 +410,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   }
 ]
