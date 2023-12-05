@@ -7,12 +7,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912075_lhd.m3u8?auth_key=1701793908-0-0-795fd879c0cf90732d4b277c99a4f304"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912075_lsd.m3u8?auth_key=1701793908-0-0-795fd879c0cf90732d4b277c99a4f304"
   },
   {
    "type": "Vebo | FHD",
@@ -22,7 +22,7 @@
   {
    "type": "Vebo | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may11/playlist.m3u8"
   },
   {
    "type": "Vebo | SD",
@@ -37,12 +37,12 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_3.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch9.m3u8"
   },
   {
    "type": "English | HD",
@@ -52,7 +52,7 @@
  {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://reels2watch.com/hls/s8.m3u8?|Referer=https://techclips.net/"
   },
   {
    "type": "English | HD => VIP",
@@ -65,7 +65,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/525.png",
     "LeagueName": "AFC Champions League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   },
   {
