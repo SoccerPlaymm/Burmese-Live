@@ -32,7 +32,7 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8"
   },
   {
    "type": "English | FHD",
@@ -42,7 +42,7 @@
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch2.m3u8"
   },
   {
    "type": "English | HD",
@@ -101,7 +101,7 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_2.m3u8"
   },
   {
    "type": "English | FHD",
@@ -117,6 +117,11 @@
    "type": "English | HD",
    "Vip": "Non",
    "link": "https://working.latsyoving.xyz/live/n-1/chunks.m3u8"
+  },
+  {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "https://cdn.alexsportz.online/es10/index.m3u8?token=c2VydmVyX3RpbWU9MTcwMTgwNjk5NCZoYXNoX3ZhbHVlPVpqVmtNR0k0TXpReFltTTRaVGd5WXpjNFpXSmxOR0V6WVdJelpUUTNNRFUmZXhwaXJ5PTE3MDE4MTc3OTQmaXA9MTE3LjE4LjIzMC4xMDc="
   },
  {
    "type": "English | HD => VIP",
