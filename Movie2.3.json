@@ -1,5 +1,23 @@
 [
 {
+    "Name":"Tales Of The Seven Orders",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-30/6568140214dfd.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/TalesOfTheSevenOrders23/TalesOfTheSevenOrders23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/TalesOfTheSevenOrders23/index.m3u8"   
+  },
+  {
+    "Name":"Fights Break Sphere",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-30/656849ed42f82.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/FightsBreakSphere23/FightsBreakSphere23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/FightsBreakSphere23/index.m3u8"   
+  },
+{
+    "Name":"The Sniper",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-25/6561be543c28a.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/TheSniper23/TheSniper23.mp4",
+    "pLink": "http://www.zegomovie.com/Videos/TheSniper23/index.m3u8"   
+  },
+{
     "Name":"The X-Treme Riders",
     "Image":"http://zegomovie.com/Uploads/vod/2023-12-01/656951b2a9b46.jpg",
     "dLink":"http://www.zegomovie.com/Videos/XTremeRiders23/XTremeRiders23.mp4",
