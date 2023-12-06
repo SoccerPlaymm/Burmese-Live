@@ -421,12 +421,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1701896508-0-0-55947132057dcaf1d30360932e9201e6"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1701896508-0-0-55947132057dcaf1d30360932e9201e6"
   },
   {
    "type": "Vebo | FHD",
@@ -469,9 +469,9 @@
    "link": "https://zzzzzzzzzzzzzzzz.fordems.live/live/zone-1/chunks.m3u8?|Referer=https://techclips.net/"
   },
   {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "https://cdn.alexsportz.online/es4/index.m3u8?token=c2VydmVyX3RpbWU9MTcwMTg5MTg2MCZoYXNoX3ZhbHVlPVptWmtPRFEwTVRNMVlXWTBObU00TjJSak16bGpNVE00TkdSak5HTmxNemcmZXhwaXJ5PTE3MDE5MDI2NjAmaXA9MTE3LjE4LjIzMC4xNTA="
   }
              ],
     "HomeImage": "https://i.ibb.co/wK5L6HX/download-8.png",
@@ -479,7 +479,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:45 AM"
   },
   {
@@ -490,12 +490,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912075_lhd.m3u8?auth_key=1701896508-0-0-2ff823e9ada064cd98b4c3aade125922"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912075_lsd.m3u8?auth_key=1701896508-0-0-2ff823e9ada064cd98b4c3aade125922"
   },
   {
    "type": "Vebo | FHD",
@@ -533,14 +533,19 @@
    "link": "https://storage.googleapis.com/terminostngovo3/mux_video_ts1/index-1.m3u8"
   },
  {
-   "type": "Special English | HD",
-   "Vip": "Vip",
-   "link": "https://soccerplaymm.github.io/LiveMatch/ManUnitedVsChelsea.m3u8"
+   "type": "Special English | Test",
+   "Vip": "Non",
+   "link": "https://video-weaver.sin04.hls.ttvnw.net/v1/playlist/CowFPU3y_PFbw25ChwGUs40hP1unJN1Z-gVi0dXb9YENXNlCg9lA3qAwDdFNpsg4nuiB8e4o8Qud_vrlsz1WhOdPKBdtZl1mOCFVTHy8WhxZHo8ORPXn4xa2RffCumr7Arr2zh8PQVhUaV35B6ox4VS1DwvMuE25JrmlhbAP7PmvJgBiypgWgM-jVZKPO4C3B277RLEOzE3H7X_fAuD4DKQ_-nt8morN5nKSrNn94cqXsVDCozZjCakha8ElpmzIMdY3YLHHrJm_8yn2a4jO4Udoom4CDS08S8BerIK23Tx7FDCaN3zJmqkpRLCK6tI1zl_qeFapGonwptE00OgM9Ou3nrKv-ClqoYMKdj7NekLIbDxGwHXAcoZnvCiKNaTJ2uDK9dVy7Bo_67RwP80KSqX1fJuqzUwLnavFNyXg8PwH-tmxrQNTYhFROG0rNWXiq3_GFcF9xIkSW5h4tEEJNOFNc7PoMjH_-E5gRAxDMjqEwY3IWMt5ao7q2z3v8j6qvW2BM7k0skDRhHHPUHZWNuyQvFMue_kpMhmcJUr4-ddn17IZa0_1xk7EC5ZXagyK-fbPr-sqlKqQifH2SRbktJe4r7aFIgcPpC72agJbCrfijSrrvbXpQwhreTUleC7x0cVGhRc1GxOsur_goM5mkswfSP32gjnlI-aE0DZMlYSyKfAy9E0DWcCiY_Ee-4Wntgin1rw3_iRCQarXvSrbM1u2Zagvi3KpjjjqnMtdbpkVjeIMgIvxqm1-9QTECsswQAY0Hoq0cWzK-hM6axxBiqqjWS-39bxr0VieD1SpOvJowxqLo34TLMzqyJiaaNhh4X9GCJp_TxJfhp8B2Cx5T6Nbt1RWkO8sO4pZUizlfxoMfJ5ZdjikkE2NspsIIAEqCXVzLXdlc3QtMjCWCA.m3u8"
   },
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
    "link": "https://zzzzzzzzzzzzzzzz.fordems.live/live/zone-2/chunks.m3u8?|Referer=https://techclips.net/"
+  },
+  {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "https://cdn.alexsportz.online/es5/index.m3u8?token=c2VydmVyX3RpbWU9MTcwMTg5MTg3OCZoYXNoX3ZhbHVlPU0ySTJNelJpWlRBek5ERXpaR1kzTUdVNFpXTXpOVGd3TVdNME5qZGtPR0kmZXhwaXJ5PTE3MDE5MDI2NzgmaXA9MTE3LjE4LjIzMC4xNTA="
   }
              ],
     "HomeImage": "https://i.ibb.co/rZFH50R/download-1.png",
@@ -548,7 +553,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:45 AM"
   }
 ]
