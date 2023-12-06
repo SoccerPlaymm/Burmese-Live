@@ -254,12 +254,12 @@
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "https://working.latsyoving.xyz/live/n-1/chunks.m3u8"
+   "link": "https://storage.googleapis.com/terminostngovo1/mux_video_ts1/index-1.m3u8"
   },
  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
+   "type": "English | Test",
+   "Vip": "Non",
+   "link": "https://cdn.ienjoyhd.site/es2/index.m3u8?token=c2VydmVyX3RpbWU9MTcwMTg5MDY1MyZoYXNoX3ZhbHVlPU4yRTFaVGN4WWpRMk4ySTJNbVptT1dJNFl6RTFOemRsTldabU5EZzBNek0mZXhwaXJ5PTE3MDE5MDE0NTMmaXA9MTE3LjE4LjIzMC4xNTA="
   },
   {
    "type": "English | HD => VIP",
