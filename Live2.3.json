@@ -7,12 +7,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912062_lhd.m3u8?auth_key=1701966588-0-0-aa9db90980af5e8b0dd280896b39b293"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912062_lsd.m3u8?auth_key=1701966588-0-0-aa9db90980af5e8b0dd280896b39b293"
   },
   {
    "type": "Vebo | FHD",
@@ -37,17 +37,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_3.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch2.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://working.latsyoving.xyz/live/n-3/chunks.m3u8"
   },
  {
    "type": "English | HD => VIP",
@@ -65,7 +65,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:00 AM"
   },
   {
@@ -76,12 +76,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1701966528-0-0-588548d3e4ede6e6c8915eba18ad286e"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1701966528-0-0-588548d3e4ede6e6c8915eba18ad286e"
   },
   {
    "type": "Vebo | FHD",
@@ -106,22 +106,22 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_1.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/terminostngovo1/mux_video_ts/index-1.m3u8"
   },
  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "https://cdn.alexsportz.online/es8/index.m3u8?token=c2VydmVyX3RpbWU9MTcwMTk2NzQzNCZoYXNoX3ZhbHVlPVltRTRNekU1TUdZd016VTNZemt4TVRoaVpHUTBZMlUyTlRSak4yVTFZekEmZXhwaXJ5PTE3MDE5NzgyMzQmaXA9MTE3LjE4LjIzMC4w"
   },
   {
    "type": "English | HD => VIP",
@@ -134,7 +134,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:00 AM"
   },
   {
@@ -145,12 +145,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1701966648-0-0-0d6000eaac410f7de2dc27a4e27e873d"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1701966648-0-0-0d6000eaac410f7de2dc27a4e27e873d"
   },
   {
    "type": "Vebo | FHD",
@@ -175,17 +175,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_2.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch6.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://working.latsyoving.xyz/live/n-2/chunks.m3u8"
   },
  {
    "type": "English | HD => VIP",
@@ -203,7 +203,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:45 AM"
   }
 ]
