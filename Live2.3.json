@@ -352,27 +352,27 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1702221709-0-0-eb2d3342e18688cef1df61145503761d"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1702221709-0-0-eb2d3342e18688cef1df61145503761d"
   },
   {
    "type": "Vebo | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8"
   },
   {
    "type": "Vebo | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8"
   },
   {
    "type": "Vebo | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179249207.thapcam.link/live/soiSD/playlist.m3u8"
   },
   {
    "type": "English | FHD",
@@ -387,12 +387,12 @@
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_5.m3u8"
   },
   {
-   "type": "English | HD",
+   "type": "English | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://cdn.alexsportz.online/es10/index.m3u8?token=c2VydmVyX3RpbWU9MTcwMjIxNzc3NSZoYXNoX3ZhbHVlPU1EQTNOVFkwTUdZM1kyVTVZelEyTm1abE5USmhaV0UzTVRrME5qTmhOVEEmZXhwaXJ5PTE3MDIyMjg1NzUmaXA9MTE3LjE4LjIzMC4xNg=="
   },
  {
    "type": "English | SD",
@@ -410,7 +410,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
   {
