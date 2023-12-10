@@ -421,12 +421,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912081_lhd.m3u8?auth_key=1702226989-0-0-4b25d5c562f26fda7a9d36fea86d5083"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912081_lsd.m3u8?auth_key=1702226989-0-0-4b25d5c562f26fda7a9d36fea86d5083"
   },
   {
    "type": "Vebo | FHD",
@@ -451,17 +451,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_8.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch5.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://working.latsyoving.xyz/live/n-6/chunks.m3u8"
   },
  {
    "type": "English | SD",
@@ -479,7 +479,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:35 PM"
   },
   {
