@@ -1,281 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/MMN9Rw5/download.png",
-    "AwayName": "Chelsea",
-    "Date": "December 10",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1702218289-0-0-770ac1029f0cd56635fc51a9c2c1cf08"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1702218289-0-0-770ac1029f0cd56635fc51a9c2c1cf08"
-  },
-  {
-   "type": "Vebo | FHD",
-   "Vip": "Non",
-   "link": "https://obevcimanyd179249207.thapcam.link/live/phoFHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo | SD",
-   "Vip": "Non",
-   "link": "https://obevcimanyd179249207.thapcam.link/live/phoSD/playlist.m3u8"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://soccer.freesportstime.com/live/stream_1.m3u8"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch10.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://working.latsyoving.xyz/live/n-1/chunks.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "https://cdn.alexsportz.online/es13/index.m3u8?token=c2VydmVyX3RpbWU9MTcwMjIxOTQ4MyZoYXNoX3ZhbHVlPU9HWTBPV000WWpZeE1qYzROemsxT0RSaFl6SXdabUZsWmpCbE1EbGtNekkmZXhwaXJ5PTE3MDIyMzAyODMmaXA9MzcuMTExLjQ2LjIwOQ=="
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "https://cdn.alexsportz.online/es13/index.m3u8?token=c2VydmVyX3RpbWU9MTcwMjIxOTQ4MyZoYXNoX3ZhbHVlPU9HWTBPV000WWpZeE1qYzROemsxT0RSaFl6SXdabUZsWmpCbE1EbGtNekkmZXhwaXJ5PTE3MDIyMzAyODMmaXA9MzcuMTExLjQ2LjIwOQ=="
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/0VgNnHq/download-17.png",
-    "HomeName": "Everton",
-    "Hot": "",
-    "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
-    "LeagueName": "Premier League",
-    "LiveUpcoming": "Live",
-    "Time": "8:30 PM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/0B03V1F/download-19.png",
-    "AwayName": "West Ham",
-    "Date": "December 10",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1702218768-0-0-f27c5707571afc24e2c9f2efc1f85c41"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912080_lsd.m3u8?auth_key=1702218768-0-0-f27c5707571afc24e2c9f2efc1f85c41"
-  },
-  {
-   "type": "Vebo | FHD",
-   "Vip": "Non",
-   "link": "https://obevcimanyd179249207.thapcam.link/live/may2FHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo | SD",
-   "Vip": "Non",
-   "link": "https://obevcimanyd179249207.thapcam.link/live/may2SD/playlist.m3u8"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_2.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch8.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://working.latsyoving.xyz/live/n-3/chunks.m3u8"
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "https://ftrhytytyujjtytyjtyjtyjtyjtsdsdd.fordems.live/live/zone-2/chunks.m3u8?|Referer=https://flexsportx.com/"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/8YZYVzF/download-15.png",
-    "HomeName": "Fulham",
-    "Hot": "",
-    "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
-    "LeagueName": "Premier League",
-    "LiveUpcoming": "Live",
-    "Time": "8:30 PM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/v4DMkVK/download-2.png",
-    "AwayName": "Manchester City",
-    "Date": "December 10",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1702218349-0-0-0170a6a872031cf2257612f882449082"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1702218349-0-0-0170a6a872031cf2257612f882449082"
-  },
-  {
-   "type": "Vebo | FHD",
-   "Vip": "Non",
-   "link": "https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Non",
-   "link": "https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8"
-  },
-  {
-   "type": "Vebo | SD",
-   "Vip": "Non",
-   "link": "https://obevcimanyd179249207.thapcam.link/live/oldSD/playlist.m3u8"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_3.m3u8"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch11.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://working.latsyoving.xyz/live/n-2/chunks.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "https://cdn.ienjoyhd.site/es15/index.m3u8?token=c2VydmVyX3RpbWU9MTcwMjIxNjI1NCZoYXNoX3ZhbHVlPU9HTmxNalZpT1dNMk1EUXpNREV6WldNNFpHUXdOMk5pTm1RMk16VmpOVFEmZXhwaXJ5PTE3MDIyMjcwNTQmaXA9MTE3LjE4LjIzMC4xNg=="
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "https://ftrhytytyujjtytyjtyjtyjtyjtsdsdd.fordems.live/live/zone-3/chunks.m3u8?|Referer=https://flexsportx.com/"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8346.png",
-    "HomeName": "Luton",
-    "Hot": "",
-    "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
-    "LeagueName": "Premier League",
-    "LiveUpcoming": "Live",
-    "Time": "8:30 PM"
-  },
-  {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
-    "AwayName": "Genoa",
-    "Date": "December 10",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912062_lhd.m3u8?auth_key=1702218228-0-0-91ad684b15f80bad4c38de3ea93ddb5c"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912062_lsd.m3u8?auth_key=1702218228-0-0-91ad684b15f80bad4c38de3ea93ddb5c"
-  },
-  {
-   "type": "Vebo | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Vebo | SD",
-   "Vip": "Non",
-   "link": "https://obevcimanyd179314182.thapcam.link/live/may6/playlist.m3u8"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_7.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch9.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://working.latsyoving.xyz/live/n-5/chunks.m3u8"
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "https://ftrhytytyujjtytyjtyjtyjtyjtsdsdd.fordems.live/live/zone-3/chunks.m3u8?|Referer=https://flexsportx.com/"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/0mCdqDz/download-50.png",
-    "HomeName": "Monza",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "8:30 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/51zs1r9/download-63.png",
     "AwayName": "Leverkusen",
     "Date": "December 10",
@@ -490,52 +214,52 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912075_lhd.m3u8?auth_key=1702228129-0-0-cb8967eb4dd8d64ec860e9eb53e80a4b"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912075_lsd.m3u8?auth_key=1702228129-0-0-cb8967eb4dd8d64ec860e9eb53e80a4b"
   },
   {
    "type": "Vebo | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8"
   },
   {
    "type": "Vebo | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
   },
   {
    "type": "Vebo | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179249207.thapcam.link/live/may1SD/playlist.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_1.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch11.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/ukbdrwrmnnlai/main.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/iphonertinr1/mux_video_ts/index-1.m3u8"
   },
  {
    "type": "English | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://cdn.alexsportz.online/es16/index.m3u8?token=c2VydmVyX3RpbWU9MTcwMjIyNDk0NyZoYXNoX3ZhbHVlPVpqZGtOemhoTldFME1qSTNOMlZsWVRJNU5Ua3lOamhsWW1JNU9ESTVPVEkmZXhwaXJ5PTE3MDIyMzU3NDcmaXA9MTE3LjE4LjIzMC4xNg=="
   },
   {
    "type": "English | HD => VIP",
@@ -548,7 +272,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
   {
@@ -559,12 +283,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1702228129-0-0-dfe38ad3309d3089262f44afe955d6aa"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-477560_lsd.m3u8?auth_key=1702228129-0-0-dfe38ad3309d3089262f44afe955d6aa"
   },
   {
    "type": "Vebo | FHD",
@@ -574,7 +298,7 @@
   {
    "type": "Vebo | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://1123139281.cdn.khmer-hd.com/may12/playlist.m3u8"
   },
   {
    "type": "Vebo | SD",
@@ -594,7 +318,7 @@
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_5.m3u8"
   },
   {
    "type": "English | HD",
@@ -604,7 +328,7 @@
  {
    "type": "English | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://cdn.alexsportz.online/es11/index.m3u8?token=c2VydmVyX3RpbWU9MTcwMjIyNDQyOCZoYXNoX3ZhbHVlPU16RmpPR1l3TkRreVltUTRNamsyWkdabVpqRmtabUUzWmpJeVlUZzBNR1UmZXhwaXJ5PTE3MDIyMzUyMjgmaXA9MTE3LjE4LjIzMC4xNg=="
   },
   {
    "type": "English | HD => VIP",
@@ -617,7 +341,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
   {
@@ -628,12 +352,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1702228189-0-0-962722db8f04bfd0a4e4e4d9fb67eed4"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1702228189-0-0-962722db8f04bfd0a4e4e4d9fb67eed4"
   },
   {
    "type": "Vebo | FHD",
@@ -643,7 +367,7 @@
   {
    "type": "Vebo | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://obevcimanyd179314182.thapcam.link/live/may6/playlist.m3u8"
   },
   {
    "type": "Vebo | SD",
@@ -697,12 +421,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1702228189-0-0-dc176fb9924235ce1d88907f1f00dfc7"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1702228189-0-0-dc176fb9924235ce1d88907f1f00dfc7"
   },
   {
    "type": "Vebo | FHD",
@@ -766,12 +490,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1702228249-0-0-c55f41cb1e18b09b8b07402b806b31d5"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-477560_lsd.m3u8?auth_key=1702228249-0-0-c55f41cb1e18b09b8b07402b806b31d5"
   },
   {
    "type": "Vebo | FHD",
@@ -835,12 +559,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912061_lhd.m3u8?txSecret=ec34bc4fde1b92d269229a85194582d7&txTime=657637a5"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912061_lhd.m3u8?txSecret=ec34bc4fde1b92d269229a85194582d7&txTime=657637a5"
   },
   {
    "type": "Vebo | FHD",
@@ -904,12 +628,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1702228309-0-0-11c17c8977a05c864b8cb24a7b2a3efb"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1702228309-0-0-11c17c8977a05c864b8cb24a7b2a3efb"
   },
   {
    "type": "Vebo | FHD",
