@@ -76,12 +76,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1702312549-0-0-aa4480797defd58dfaf3609c1572418b"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1702312549-0-0-aa4480797defd58dfaf3609c1572418b"
   },
   {
    "type": "Vebo | FHD",
@@ -91,12 +91,12 @@
   {
    "type": "Vebo | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1702313389-0-0-dbffc7902505cb137fcda90541683432"
   },
   {
    "type": "Vebo | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1702313389-0-0-dbffc7902505cb137fcda90541683432"
   },
   {
    "type": "English | FHD",
@@ -111,7 +111,7 @@
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_7.m3u8"
   },
   {
    "type": "English | HD",
@@ -134,7 +134,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:00 AM"
   },
   {
@@ -145,12 +145,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=7e7bbd94c653296b322a0821038cc95f&txTime=657780b5"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=7e7bbd94c653296b322a0821038cc95f&txTime=657780b5"
   },
   {
    "type": "Vebo | FHD",
@@ -160,12 +160,12 @@
   {
    "type": "Vebo | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912085_lhd.m3u8?auth_key=1702313389-0-0-58495cf0d9d5965764dd9af1fd80b365"
   },
   {
    "type": "Vebo | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912085_lsd.m3u8?auth_key=1702313389-0-0-58495cf0d9d5965764dd9af1fd80b365"
   },
   {
    "type": "English | FHD",
@@ -203,7 +203,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/9942.png",
     "LeagueName": "King's Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:30 AM"
   },
   {
@@ -214,12 +214,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1702312609-0-0-990564cfb11851903d0bf57f2849f5dc"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1702312609-0-0-990564cfb11851903d0bf57f2849f5dc"
   },
   {
    "type": "Vebo | FHD",
@@ -229,12 +229,12 @@
   {
    "type": "Vebo | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1702313449-0-0-56957c4786a5b82cfce759257fb5acb1"
   },
   {
    "type": "Vebo | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1702313449-0-0-56957c4786a5b82cfce759257fb5acb1"
   },
   {
    "type": "English | FHD",
@@ -249,7 +249,7 @@
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_7.m3u8"
   },
   {
    "type": "English | HD",
@@ -272,7 +272,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -283,12 +283,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-278654_lhd.m3u8?auth_key=1702312609-0-0-5cea5bde79fc83515d0f599b77e78076"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-278654_lsd.m3u8?auth_key=1702312609-0-0-5cea5bde79fc83515d0f599b77e78076"
   },
   {
    "type": "Vebo | FHD",
@@ -298,12 +298,12 @@
   {
    "type": "Vebo | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-278654_lhd.m3u8?auth_key=1702313449-0-0-c235a33ed47da7d66e03d288a2fdb2ba"
   },
   {
    "type": "Vebo | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-278654_lsd.m3u8?auth_key=1702313449-0-0-c235a33ed47da7d66e03d288a2fdb2ba"
   },
   {
    "type": "English | FHD",
@@ -318,7 +318,7 @@
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
   },
   {
    "type": "English | HD",
@@ -341,7 +341,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   }
 ]
