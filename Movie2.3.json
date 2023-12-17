@@ -1,5 +1,23 @@
 [
 {
+    "Name":"Heaven’s Seven",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-12-11/6576c329b475b.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/HeavensSeven02/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/HeavensSeven02/index.m3u8"   
+  },
+  {
+    "Name":"Heaven’s Seven 2",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-12-11/6576c2bb4f191.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/HeavensSeven205/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/HeavensSeven205/index.m3u8"   
+  },
+{
+    "Name":"The X-Treme Riders",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-12-01/656951b2a9b46.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/XTremeRiders23/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/XTremeRiders23/index.m3u8"   
+  },
+{
     "Name":"Tales Of The Seven Orders",
     "Image":"http://zegomovie.com/Uploads/vod/2023-11-30/6568140214dfd.jpg",
     "dLink":"http://www.zegomovie.com/Videos/TalesOfTheSevenOrders23/TalesOfTheSevenOrders23.mp4",
