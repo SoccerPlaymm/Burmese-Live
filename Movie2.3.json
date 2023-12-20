@@ -1,5 +1,23 @@
 [
 {
+    "Name":"Buhe Bariyan",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-12-19/65813deabe282.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/BuheBariyan23/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/BuheBariyan23/index.m3u8"   
+  },
+  {
+    "Name":"Uniki",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-12-19/65813cffb0890.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/MadamCollectorUniki22/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/MadamCollectorUniki22/index.m3u8"   
+  },
+{
+    "Name":"Enjoy",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-12-18/657fc5665ad80.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/Enjoy22/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Enjoy22/index.m3u8"   
+  },
+{
     "Name":"Heaven’s Seven",
     "Image":"http://zegomovie.com/Uploads/vod/2023-12-11/6576c329b475b.jpg",
     "dLink":"http://www.zegomovie.com/Videos/HeavensSeven02/index.m3u8",
