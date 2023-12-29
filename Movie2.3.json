@@ -1,5 +1,23 @@
 [
 {
+    "Name":"Glisten and the Merry Mission",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-12-29/658e7d5602e2b.png",
+    "dLink":"http://www.zegomovie.com/Videos/GlistenAndTheMerryMission23/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/GlistenAndTheMerryMission23/index.m3u8"   
+  },
+  {
+    "Name":"Holiday Road",
+    "Image":"https://m.media-amazon.com/images/M/MV5BMTQxYjE5NmEtMDBhNi00MWIyLTg5YzAtYTc4NDA1NWVjZDZhXkEyXkFqcGdeQXVyMTU4MzQzNDkx._V1_FMjpg_UX1000_.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/HolidayRoad23/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/HolidayRoad23/index.m3u88"   
+  },
+{
+    "Name":"Cocaine Godmother",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-12-29/658e96de3dd99.png",
+    "dLink":"http://www.zegomovie.com/Videos/CocaineGodmother17/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/CocaineGodmother17/index.m3u8"   
+  },
+{
     "Name":"Buhe Bariyan",
     "Image":"http://zegomovie.com/Uploads/vod/2023-12-19/65813deabe282.jpg",
     "dLink":"http://www.zegomovie.com/Videos/BuheBariyan23/index.m3u8",
