@@ -71,12 +71,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1703941731-0-0-81260706614dc2017257d41e19cd301c"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1703941731-0-0-81260706614dc2017257d41e19cd301c"
   },
   {
    "type": "Vebo | HD",
@@ -86,22 +86,22 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_1.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_1.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch7.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-1/chunks.m3u8"
   },
  {
    "type": "English | SD",
@@ -111,7 +111,7 @@
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://s3.alnorum.xyz/hls2/stream-1/index.m3u8?|Referer=https://www.sportshub.to/"
   },
   {
    "type": "English | HD => VIP",
@@ -124,7 +124,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:00 PM"
   },
   {
