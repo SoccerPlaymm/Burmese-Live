@@ -1,18 +1,18 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/bN749H2/download-12.png",
-    "AwayName": "Arsenal",
-    "Date": "December 31",
+    "AwayImage": "https://i.ibb.co/McsHxxG/download-4.png",
+    "AwayName": "Newcastle",
+    "Date": "January 02",
     "Link": [
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1704033711-0-0-3dcedcf47099f7e4d1a4da988658e883"
+   "link": "0"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1704033711-0-0-3dcedcf47099f7e4d1a4da988658e883"
+   "link": "0"
   },
   {
    "type": "Vebo | HD",
@@ -22,61 +22,61 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "https://soccer.freesportstime.com/live/stream_1.m3u8"
+   "link": "0"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_1.m3u8"
+   "link": "0"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch5.m3u8"
+   "link": "0"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "https://wenkisterin.latsyoving.xyz/live/n-1/chunks.m3u8"
+   "link": "0"
   },
  {
    "type": "English | SD",
    "Vip": "Non",
-   "link": "https://01hmzc00.s3.us-east-005.backblazeb2.com/hls/0/stream.m3u8"
+   "link": "0"
   },
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "https://s1.ferina.xyz/hls2/stream-1/index.m3u8?|Referer=https://www.sportshub.to/"
+   "link": "0"
   },
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "https://roroorororoororor.fordems.live/live/zone-1/chunks.m3u8?|Referer=https://flexsportx.com/"
+   "link": "0"
   }
              ],
-    "HomeImage": "https://i.ibb.co/8YZYVzF/download-15.png",
-    "HomeName": "Fulham",
+    "HomeImage": "https://i.ibb.co/T12PsPR/download-3.png",
+    "HomeName": "Liverpool",
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Live",
-    "Time": "8:30 PM"
+    "LiveUpcoming": "Upcoming",
+    "Time": "2:30 AM"
   },
   {
-    "AwayImage": "https://i.ibb.co/jfz7Sks/download-5.png",
-    "AwayName": "Bournemouth",
-    "Date": "December 31",
+    "AwayImage": "https://i.ibb.co/SvkRPGx/download-38.png",
+    "AwayName": "Rayo Vallecano",
+    "Date": "January 02",
     "Link": [
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9911977_lhd.m3u8?auth_key=1704033771-0-0-8a6ac1e31ce66c47331997a5a5ff516b"
+   "link": "0"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9911977_lsd.m3u8?auth_key=1704033771-0-0-8a6ac1e31ce66c47331997a5a5ff516b"
+   "link": "0"
   },
   {
    "type": "Vebo | HD",
@@ -86,45 +86,301 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "https://soccer.freesportstime.com/live/stream_2.m3u8"
+   "link": "0"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_2.m3u8"
+   "link": "0"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch6.m3u8"
+   "link": "0"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "https://wenkisterin.latsyoving.xyz/live/n-2/chunks.m3u8"
+   "link": "0"
   },
  {
    "type": "English | SD",
    "Vip": "Non",
-   "link": "https://023ghuxm.s3.us-east-005.backblazeb2.com/hls/0/stream.m3u8"
+   "link": "0"
   },
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "https://s3.alnorum.xyz/hls2/stream-2/index.m3u8?|Referer=https://www.sportshub.to/"
+   "link": "0"
   },
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "https://roroorororoororor.fordems.live/live/zone-2/chunks.m3u8?|Referer=https://flexsportx.com/"
+   "link": "0"
   }
              ],
-    "HomeImage": "https://i.ibb.co/6Xd01b7/download-9.png",
-    "HomeName": "Tottenham",
+    "HomeImage": "https://i.ibb.co/6BFq3Lt/download-22.png",
+    "HomeName": "Getafe",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
+    "LeagueName": "LaLiga",
+    "LiveUpcoming": "Upcoming",
+    "Time": "10:30 PM"
+  },
+  {
+    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9866.png",
+    "AwayName": "Deportivo Alaves",
+    "Date": "January 03",
+    "Link": [
+  {
+   "type": "Soco | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo | HD",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/Px76w8v/download-27.png",
+    "HomeName": "Real Sociedad",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
+    "LeagueName": "LaLiga",
+    "LiveUpcoming": "Upcoming",
+    "Time": "12:45 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/RBH2X6r/download-13.png",
+    "AwayName": "Brighton",
+    "Date": "January 03",
+    "Link": [
+  {
+   "type": "Soco | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo | HD",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/0B03V1F/download-19.png",
+    "HomeName": "West Ham",
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Live",
-    "Time": "8:30 PM"
+    "LiveUpcoming": "Upcoming",
+    "Time": "2:00 AM"
+  },
+  {
+    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png",
+    "AwayName": "Cagliari",
+    "Date": "January 03",
+    "Link": [
+  {
+   "type": "Soco | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo | HD",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/YpGpV2N/download-57.png",
+    "HomeName": "Milan",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/141.png",
+    "LeagueName": "Coppa Italia",
+    "LiveUpcoming": "Upcoming",
+    "Time": "2:30 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/7Vsf3Tg/download-21.png",
+    "AwayName": "Villarreal",
+    "Date": "January 03",
+    "Link": [
+  {
+   "type": "Soco | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo | HD",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/LNsh3hr/download-34.png",
+    "HomeName": "Valencia",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
+    "LeagueName": "LaLiga",
+    "LiveUpcoming": "Upcoming",
+    "Time": "3:00 AM"
   }
 ]
