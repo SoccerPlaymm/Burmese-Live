@@ -1,69 +1,5 @@
 [
   {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png",
-    "AwayName": "Cagliari",
-    "Date": "January 06",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=08e46ab937bfe60797d24578206fc13d&txTime=6599d9ff"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=08e46ab937bfe60797d24578206fc13d&txTime=6599d9ff"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://soccer.freesportstime.com/live/stream_7.m3u8"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_7.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch2.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://wenkisterin.latsyoving.xyz/live/n-2/chunks.m3u8"
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/f0wRMJt/download-56.png",
-    "HomeName": "Lecce",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "11:30 PM"
-  },
-  {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8411.png",
     "AwayName": "Preston",
     "Date": "January 07",
@@ -199,12 +135,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1704571791-0-0-8a698b4594c3c20d645406bb3782cab2"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1704571791-0-0-8a698b4594c3c20d645406bb3782cab2"
   },
   {
    "type": "Vebo | HD",
@@ -214,22 +150,22 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_7.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_7.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-2/chunks.m3u8"
   },
  {
    "type": "English | SD",
@@ -252,7 +188,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -263,12 +199,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912011_lhd.m3u8?auth_key=1704571791-0-0-5b6d6131121557704b53edfecd863078"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912011_lsd.m3u8?auth_key=1704571791-0-0-5b6d6131121557704b53edfecd863078"
   },
   {
    "type": "Vebo | HD",
@@ -278,22 +214,22 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_6.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch11.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-3/chunks.m3u8"
   },
  {
    "type": "English | SD",
@@ -316,7 +252,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/138.png",
     "LeagueName": "Copa del Rey",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "3:00 AM"
   }
 ]
