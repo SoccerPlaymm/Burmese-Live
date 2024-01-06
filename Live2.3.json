@@ -1,69 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/wMNphZd/download-49.png",
-    "AwayName": "Verona",
-    "Date": "January 06",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1704543651-0-0-513f5b08e71eaa483c5da5bdafa9a4e2"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1704543651-0-0-513f5b08e71eaa483c5da5bdafa9a4e2"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://soccer.freesportstime.com/live/stream_7.m3u8"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_7.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://wenkisterin.latsyoving.xyz/live/n-2/chunks.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8"
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/P13TnDX/download-42.png",
-    "HomeName": "Inter",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "6:00 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/McsHxxG/download-4.png",
     "AwayName": "Newcastle",
     "Date": "January 06",
@@ -135,12 +71,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-273067_lhd.m3u8?txSecret=47c249e8b11a33dfa2ad288965775f21&txTime=6599aea3"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-273067_lsd.m3u8?txSecret=47c249e8b11a33dfa2ad288965775f21&txTime=6599aea3"
   },
   {
    "type": "Vebo | HD",
@@ -150,7 +86,7 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_8.m3u8"
   },
   {
    "type": "English | FHD",
@@ -160,12 +96,12 @@
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch6.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-2/chunks.m3u8"
   },
  {
    "type": "English | SD",
@@ -188,7 +124,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
