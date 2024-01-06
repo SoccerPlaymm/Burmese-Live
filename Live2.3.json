@@ -135,17 +135,17 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912034_lhd.m3u8?txSecret=c70d43664cd528164013382573345b18&txTime=6599b38f"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1704554091-0-0-a8d8f5382f50591e910cc128dec39037"
   },
   {
    "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
+   "Vip": "Non",
+   "link": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1704554091-0-0-a8d8f5382f50591e910cc128dec39037"
   },
   {
    "type": "English | FHD",
@@ -199,32 +199,32 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=3ddbc60f2e6d3ce4e7cddb3314dd7e3b&txTime=6599b3cb"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912020_lsd.m3u8?auth_key=1704554031-0-0-3d31d09887ae3dd619aa9f77135d7c29"
   },
   {
    "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
+   "Vip": "Non",
+   "link": "https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=3ddbc60f2e6d3ce4e7cddb3314dd7e3b&txTime=6599b3cb"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_3.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_3.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch9.m3u8"
   },
   {
    "type": "English | HD",
@@ -252,7 +252,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/132.png",
     "LeagueName": "FA Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
@@ -263,17 +263,17 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912004_lhd.m3u8?auth_key=1704499011-0-0-57fec510cfef745667028bae5de3fda5"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912004_lsd.m3u8?auth_key=1704499011-0-0-57fec510cfef745667028bae5de3fda5"
   },
   {
    "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
+   "Vip": "Non",
+   "link": "https://pull.niues.live/live/stream-9912004_lhd.m3u8?auth_key=1704499011-0-0-57fec510cfef745667028bae5de3fda5"
   },
   {
    "type": "English | FHD",
@@ -327,12 +327,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=048deaceea1a2d80455df7f3aeff3349&txTime=6599b38f"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=048deaceea1a2d80455df7f3aeff3349&txTime=6599b38f"
   },
   {
    "type": "Vebo | HD",
@@ -342,17 +342,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_1.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_1.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch7.m3u8"
   },
   {
    "type": "English | HD",
@@ -380,7 +380,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/132.png",
     "LeagueName": "FA Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
   {
