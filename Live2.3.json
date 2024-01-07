@@ -1,18 +1,18 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/Sc8jcxx/download-53.png",
-    "AwayName": "Fiorentina",
+    "AwayImage": "https://i.ibb.co/YpGpV2N/download-57.png",
+    "AwayName": "Milan",
     "Date": "January 07",
     "Link": [
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1704571791-0-0-8a698b4594c3c20d645406bb3782cab2"
+   "link": "0"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1704571791-0-0-8a698b4594c3c20d645406bb3782cab2"
+   "link": "0"
   },
   {
    "type": "Vebo | HD",
@@ -22,22 +22,22 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "https://soccer.freesportstime.com/live/stream_7.m3u8"
+   "link": "0"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_7.m3u8"
+   "link": "0"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8"
+   "link": "0"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "https://wenkisterin.latsyoving.xyz/live/n-2/chunks.m3u8"
+   "link": "0"
   },
  {
    "type": "English | SD",
@@ -55,28 +55,28 @@
    "link": "0"
   }
              ],
-    "HomeImage": "https://i.ibb.co/ZN6PsyW/download-45.png",
-    "HomeName": "Sassuolo",
+    "HomeImage": "https://i.ibb.co/18PSn4Z/download-47.png",
+    "HomeName": "Empoli",
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "2:15 AM"
+    "LiveUpcoming": "Upcoming",
+    "Time": "6:00 PM"
   },
   {
-    "AwayImage": "https://i.ibb.co/N27SsT5/download-35.png",
-    "AwayName": "Real Madrid",
+    "AwayImage": "https://i.ibb.co/rxJP1dw/download-41.png",
+    "AwayName": "Napoli",
     "Date": "January 07",
     "Link": [
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912011_lhd.m3u8?auth_key=1704571791-0-0-5b6d6131121557704b53edfecd863078"
+   "link": "0"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912011_lsd.m3u8?auth_key=1704571791-0-0-5b6d6131121557704b53edfecd863078"
+   "link": "0"
   },
   {
    "type": "Vebo | HD",
@@ -86,22 +86,22 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "https://soccer.freesportstime.com/live/stream_6.m3u8"
+   "link": "0"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
+   "link": "0"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch11.m3u8"
+   "link": "0"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "https://wenkisterin.latsyoving.xyz/live/n-3/chunks.m3u8"
+   "link": "0"
   },
  {
    "type": "English | SD",
@@ -119,12 +119,588 @@
    "link": "0"
   }
              ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/189685.png",
-    "HomeName": "Arandina CF",
+    "HomeImage": "https://i.ibb.co/T8v9CbT/download-51.png",
+    "HomeName": "Torino",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+    "LeagueName": "Serie A",
+    "LiveUpcoming": "Upcoming",
+    "Time": "8:30 PM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/1mCtxQQ/download-58.png",
+    "AwayName": "Lazio",
+    "Date": "January 07",
+    "Link": [
+  {
+   "type": "Soco | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo | HD",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/h169GkS/download-59.png",
+    "HomeName": "Udinese",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+    "LeagueName": "Serie A",
+    "LiveUpcoming": "Upcoming",
+    "Time": "8:30 PM"
+  },
+  {
+    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9796.png",
+    "AwayName": "Huddersfield",
+    "Date": "January 07",
+    "Link": [
+  {
+   "type": "Soco | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo | HD",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/v4DMkVK/download-2.png",
+    "HomeName": "Manchester City",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/132.png",
+    "LeagueName": "FA Cup",
+    "LiveUpcoming": "Upcoming",
+    "Time": "8:30 PM"
+  },
+  {
+    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8483.png",
+    "AwayName": "Blackpool",
+    "Date": "January 07",
+    "Link": [
+  {
+   "type": "Soco | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo | HD",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/0MyVzRP/download-7.png",
+    "HomeName": "Nottm Forest",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/132.png",
+    "LeagueName": "FA Cup",
+    "LiveUpcoming": "Upcoming",
+    "Time": "8:30 PM"
+  },
+  {
+    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8427.png",
+    "AwayName": "Bristol City",
+    "Date": "January 07",
+    "Link": [
+  {
+   "type": "Soco | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo | HD",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/0B03V1F/download-19.png",
+    "HomeName": "West Ham",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/132.png",
+    "LeagueName": "FA Cup",
+    "LiveUpcoming": "Upcoming",
+    "Time": "8:30 PM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/T12PsPR/download-3.png",
+    "AwayName": "Liverpool",
+    "Date": "January 07",
+    "Link": [
+  {
+   "type": "Soco | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo | HD",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/bN749H2/download-12.png",
+    "HomeName": "Arsenal",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/132.png",
+    "LeagueName": "FA Cup",
+    "LiveUpcoming": "Upcoming",
+    "Time": "11:00 PM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/Xj0bkGg/download-48.png",
+    "AwayName": "Juventus",
+    "Date": "January 07",
+    "Link": [
+  {
+   "type": "Soco | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo | HD",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/dkf4cTv/download-54.png",
+    "HomeName": "Salernitana",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+    "LeagueName": "Serie A",
+    "LiveUpcoming": "Upcoming",
+    "Time": "11:30 PM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/HqHFbmq/download-43.png",
+    "AwayName": "Atalanta",
+    "Date": "January 08",
+    "Link": [
+  {
+   "type": "Soco | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo | HD",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/1mDqD0w/download-55.png",
+    "HomeName": "Roma",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+    "LeagueName": "Serie A",
+    "LiveUpcoming": "Upcoming",
+    "Time": "2:15 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/cx92kG0/download-79.png",
+    "AwayName": "PSG",
+    "Date": "January 08",
+    "Link": [
+  {
+   "type": "Soco | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo | HD",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/238902.png",
+    "HomeName": "Revel",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/134.png",
+    "LeagueName": "Coupe de France",
+    "LiveUpcoming": "Upcoming",
+    "Time": "2:15 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/jh44yWL/download-66.png",
+    "AwayName": "Barcelona",
+    "Date": "January 08",
+    "Link": [
+  {
+   "type": "Soco | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo | HD",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8214.png",
+    "HomeName": "Barbastro",
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/138.png",
     "LeagueName": "Copa del Rey",
-    "LiveUpcoming": "Live",
-    "Time": "3:00 AM"
+    "LiveUpcoming": "Upcoming",
+    "Time": "2:30 AM"
   }
 ]
