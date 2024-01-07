@@ -135,12 +135,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912085_lhd.m3u8?txSecret=fe2ce782c9aea909abd24f75d195e7ae&txTime=659b2c34"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912085_lhd.m3u8?txSecret=fe2ce782c9aea909abd24f75d195e7ae&txTime=659b2c34"
   },
   {
    "type": "Vebo | HD",
@@ -150,22 +150,22 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_7.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_7.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-2/chunks.m3u8"
   },
  {
    "type": "English | SD",
@@ -188,7 +188,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -199,12 +199,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9911977_lhd.m3u8?auth_key=1704650212-0-0-7eaa8d5e5f118df076f1fa2d1ea8eeb2"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9911977_lsd.m3u8?auth_key=1704650212-0-0-7eaa8d5e5f118df076f1fa2d1ea8eeb2"
   },
   {
    "type": "Vebo | HD",
@@ -214,7 +214,7 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch33.m3u8"
   },
   {
    "type": "English | FHD",
@@ -224,7 +224,7 @@
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-3/chunks.m3u8"
   },
   {
    "type": "English | HD",
@@ -252,7 +252,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/134.png",
     "LeagueName": "Coupe de France",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
   {
@@ -263,12 +263,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1704650272-0-0-20453c0fe235b0976916b39b90de11b3"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1704650272-0-0-20453c0fe235b0976916b39b90de11b3"
   },
   {
    "type": "Vebo | HD",
@@ -278,22 +278,22 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_6.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch10.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/overtingdw1/mux_video_ts/index-1.m3u8"
   },
  {
    "type": "English | SD",
@@ -316,7 +316,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/138.png",
     "LeagueName": "Copa del Rey",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   }
 ]
