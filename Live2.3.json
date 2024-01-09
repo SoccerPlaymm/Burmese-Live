@@ -71,17 +71,17 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1704802672-0-0-f9761da097b4f3cc3b1310c885cec277"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1704802672-0-0-f9761da097b4f3cc3b1310c885cec277"
   },
   {
    "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
+   "Vip": "Non",
+   "link": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=2b45a5f2baa4f0498083c68639a06479&txTime=659d7f84"
   },
   {
    "type": "English | FHD",
@@ -124,7 +124,7 @@
     "Hot": "",
     "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
     "LeagueName": "Friendly",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "6:00 PM"
   },
   {
