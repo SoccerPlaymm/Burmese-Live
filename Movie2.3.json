@@ -1,5 +1,23 @@
 [
 {
+    "Name":"The Adventures",
+    "Image":"https://m.media-amazon.com/images/M/MV5BYWY5MjJjY2QtOTY1Zi00NTA2LWIyMTItNmQyZDVmNGQyZWZhXkEyXkFqcGdeQXVyNTU5NTg4OTg@._V1_FMjpg_UX1000_.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/TheAdventures23/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/TheAdventures23/index.m3u8"   
+  },
+  {
+    "Name":"Mondo",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-12-29/658e7c86d3431.png",
+    "dLink":"http://www.zegomovie.com/Videos/Mondo23/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/Mondo23/index.m3u8"   
+  },
+{
+    "Name":"The Loch Ness Horror",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-01/65926c8b20c16.jpg",
+    "dLink":"http://www.zegomovie.com/Videos/TheLochNessHorror23/index.m3u8",
+    "pLink": "http://www.zegomovie.com/Videos/TheLochNessHorror23/index.m3u8"   
+  },
+{
     "Name":"The Eye’s Dream",
     "Image":"http://zegomovie.com/Uploads/vod/2024-01-02/6593be22b89b6.jpg",
     "dLink":"http://www.zegomovie.com/Videos/TheEyesDream16/index.m3u8",
