@@ -1,74 +1,5 @@
 [
   {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5901.png",
-    "AwayName": "Bahrain",
-    "Date": "January 15",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912085_lhd.m3u8?auth_key=1705321012-0-0-9408aee119ef13e2d778804eadcf80a7"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912085_lsd.m3u8?auth_key=1705321012-0-0-9408aee119ef13e2d778804eadcf80a7"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_2.m3u8"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch10.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
- {
-   "type": "English | SD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7804.png",
-    "HomeName": "South Korea",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/290.png",
-    "LeagueName": "Asian Cup",
-    "LiveUpcoming": "Live",
-    "Time": "6:00 PM"
-  },
-  {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5816.png",
     "AwayName": "Jordan",
     "Date": "January 16",
@@ -135,7 +66,7 @@
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/290.png",
     "LeagueName": "Asian Cup",
     "LiveUpcoming": "Upcoming",
-    "Time": "\n12:00 AM"
+    "Time": "12:00 AM"
   },
   {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9891.png",
@@ -273,7 +204,7 @@
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/290.png",
     "LeagueName": "Asian Cup",
     "LiveUpcoming": "Upcoming",
-    "Time": "\n9:00 PM"
+    "Time": "9:00 PM"
   },
   {
     "AwayImage": "https://i.ibb.co/gzBVDwK/download-18.png",
