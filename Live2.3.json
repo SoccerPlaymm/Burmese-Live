@@ -1,74 +1,5 @@
 [
   {
-    "AwayImage": "data:image/png;base64,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",
-    "AwayName": "South Korea",
-    "Date": "January 20",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1705753733-0-0-72376b9e8f61d1a4a28a45689f2c1cbd"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1705753733-0-0-72376b9e8f61d1a4a28a45689f2c1cbd"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://soccer.freesportstime.com/live/stream_5.m3u8"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_5.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch8.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
- {
-   "type": "English | SD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAEZ0FNQQAAsY58+1GTAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAC1tJREFUeNrtnQtwVGcVx//3se/dbLJJyItHQsqjDVSQYmkoKAYpBEqgFAq2I1MZRREKCmOYQJUCbYVOeQjVPqS0aJVqWhgRmZIZho4KWqjCMClNF5NgCwGbJmlINq/dvX53a8Ju2Md97t4N92S+ua9v7735nfOdc75z784Cuuiiiy666KKLLrejUGI6nz171pCRkfEgWZ3HcdwEsswhLe02Z9hEWgNpZ0g7XF9ff3TatGlexRVQV1dXRhbPkTZCt9uo8iFFUWvz8/P/rIgCiKXTRKvPkNVyna1g4UjbQpTwFFGGP1pHOtaZCPxndfiSXPtPCLufyhoB5ATzyQh4u9+I8J8+fdp34sQJ/jjd1NTEkH3Bx/uPoFgjTPC2kHPLOZ+Uc5GY6CssLPSXlpZi8uTJDLH4YKPmyPacaO4oogKqq6uNVqv1Ilkd3rvPf8PjO/X8bmx+9zjT3t0tCZKWtsUqMNoxo9GIkpIS7+bNm2Gz2djgmEAMdWykwBzRBRH484Phcz4/17X9BYx77wPmBVMWJrFW3dEESTcxyGPHjrEVFRUBLxF0aDQZAbOlxIB5wRs9J0/5ff+8wPDrObQBT9mysYW0XLKuy80RUVVVxRL37IvGUqgCJoZo+J2T/BVCOnyFjIKX7YPxuNkFM0XrGvi/EiorK6OyFKqAnJAT//syE64Tb/9LTKnYRxQx1WDTNUCkpqaGisZSqAJCnDzV0RlO3X2rmTSLjZZB2G7LwTDGKCjLiIc1JuLz165dY/vtckmeB4TA7t/CKGM8a8GL9jwsN6fD2s8tiU37xKaFcoEqZTBizkMrdMWQTZZktwuMTux3DMV0oyNirhsvIFoWWmn4IeOOYlBO3NIOMiIKaaPmXY62FRDOBUX4h/vvHsOY8QvHYDxhyYBDz5ZUcEExBwQXuNBckxOvpQxFqTEFlMwZrRbSTU0pIPKACN3pJG7pR2Qk7CUj4k4yMtQCoHR8UcsAaPXA3wo/WEYxJuxx5GGdNRNORUKRtjOsSMIqEGvFwQ86EZ8dzSLuaAprw/7OJvyx63P4ksD9aDoGCIUfvM9OAvMq4pZecgzB3QLc0kBKX2nlwYuDHyzDyQx6pz0XG6xZyKBZwTDVdi9qCquqxYuA37uPd0vTjXYUG6w40NmMys4WeMGpCi+RCqTFW3e4pmjwCAhfxlhudmFfyhDcI+LZgxJw5Abg+JcixMIXOiKIDKUNeM6eE3j+kEWxA8r9KOiCZICPsL8/KL7Ufa/Dgje6mnGwqwXdCSicqaFAWlHo0SYFMuD39jNRFL5N3NJrJFsqJgpRw7rjPWLk14Kiz8QUgx8s/GPQZ4hL2mbLxeAoj0TjAVPuNVhV1RvtZuTCIB+fRDKlCYaheJNkSgfIRK4T2igvaDcGxDjOCU5Xb64aSOL6mCkVjxeMRu6GNXDOnq6J4FpfX6+xGBCjcMSJyIzCSc/Va7j8g/Wo/eb30emuHYAzYTkxIIbVi4LPRe/XduoM3DOXoGHrTvja2m/XWpAMq5cBv3cf5/Xi01d+g5ppD6H57aPy403SKUDAyJANX4B4/9uI/6x5EpceXoaO6poBrgCB7iiiyxELX4Db6r1O+5lzcM95DFc2/gy+ltYknQmr/Y6NwvBvOezzofHA79Fy5Diyy1ciffE8Yn70AHVBQi0+RoyQAz9SYPc2NeOT8i1wz/0WPP+6MDAV0Au9FwLjdEiYqEkfhUImWJ7z1XCXLcXH6zbB+1lTcisgGHj/f96QlYncijXCrV4sfKGuMVw/vx9NBw/jwyllaHz1dwE3pVkF9IccCTgv5pGF5MxfvA+XtmAOnHNmgElxBCAwzhQYsgepBp8T8fCnV3ytN3DlyW346IHFaP/7+8lfikj5+hQMP7AXrSf+AseUSaDNJgx+ugKsKxXmUYWo+cYi4WmmyvCDpfOiG5cWLEPa/FnI2fjD6IaiZQV8+uobcC0ug+uRm99LcJaWBJZXyQyVD4RxgS94eIduNh86hs+Pn0TWmuXI/M6joAyGxLsgUWUKnx+ec9VhfW7H+erQf5wTmxmJgC/E+iNc39/mCZQzakoW4sa7pzVeCwr2/3cU4I7KfUh9cEaYq9EYfvClgGVRLCshM1IYvoDPcT094Lq6kscFscRvthytQsfFj4gSHgBttfQd67hwMVAs67nSADYjHT0N1yWDVwR+lEvSFjMGrVyGzBVLQZtMyaOAtr/+I9C+CMb3BxTgbWoJBGB+FsoXyeRavaRakohsi49XuZvWwTg4NwmDcNA/xqecDVt3ofnwMRS8vhtMmlMcLMWqqML8vom4z7yt5XBMvU+LtSCRwYUM4U8qnkXzW38KbNcu+R4cJVNkPTtQBH64e7VZSVz6ruoZT9zS0EDC09HZB5+H4GttQwtJ76TC56Q8X47l9ykKafNmxi3nj6sCRFdPpVi9DPiWu0Yib0s5bJMmJLQYx8YdtMjPKw2fLwxmr1uB9KWLQDEMEi1xex4g9lyc1FdaIsGnKbgWlSGn4gmw6S5oRdi4XUmpUrIE+NYvFSHv6fWwjh8LrQmrBeiCazkiMx02LQ3Z61chfYk2nn6ppwAZ7omTmZaGO8b79vRHH0b2j1eASXVCy5KQGMDJeYgS47ht4jgymVoPS9FoJIPELQZwCqal4Y4ZBmUgZ8MapD00O5DfJ4uwmgEu0eq9xLVXFlmx78sU2i/8HOBbSAwWN7EL1z98bI9emXUv26+uArg4p6Xh+pzNNWJnsQN1qYxgmPGAr8oIUOVVbongr9sZ7L3XjhMFpsgP05IAfnznAWKDeZh+3QyFg2OteH2cFR1sZD8fT/hirp8YBSgUfE8PMWFXsR0fOxhJ/7ha8OV6BjZhoAV+/koKg92THPjbMGOMV4mUgS93RHFQ6ytKcY4BncTF/Jq4mt8Sl9NFXE/EL+BDWhU1MlTpMZGT8Aq3JmPASRJc95Ag22BnJPtasfA5TkxfZeBrLgZcJunkzvsceC/PKCvIiXU5cuEndS2IF4+Bwv7xNrw5xhqYWCkNXm34Uq0/4TGAP2NVoTmQ0zdaaVlpnZbgi0EV3xgQdGOXXCx2THbgXLYh7uCVSjXlwldfAWFu5oaJwisTbDh0lxU+Sh3wyQJfpAuSqQsC++hIM3450Y5mCy3Ljypp9YmEHzcXdDGTuJtiB6oHGVSBnmj42pgJh5EWM40XJ9pwZJQlMAKk3Lxc8PGALyc/UUUBvG8/fKcZL99jR6uJkuS/EgFeKfjqFOMEqvk8yWqeJ9mNO51VBbrwIK19+LEU0EFa37vlfrMRdGd3xM6fkTyez+ffGWEWdQtiZpZywMcTfpY1lf+2X3AdpVmKAvif57v5C0qFw3x0tfuW4gw/c/3DGP6RoA3tRkpR4IkEL8fyC505/RXQIFoBFEW9T26uTwGGmV/juGp3SJ+zecZAdlOXxigGW+xQlgpezZrR/MLiW1hGuodobysdDt6wl81kukYM8/F3cd1Go2J6ClaWOlGbSgv++qoQ6L1/QsDLsXq14I93FXjnj7qfjcZSkAJ6enreIovLfR1ZlkrdsYmqmjHa+8hCV+B5rDKTZeHQhYKP1zOCkP5kdXxagfdXs9ZyNBXyGp67sbHxSKRrRiy479mzx7d69eqrZPgs7OtstVCjvloCl8XZ0+pp97d1eWiv1xv4ucpYDX6OLMO1GJ/ziT13uHPEOB7hWKRrB/dPYS3+u1353lXj5vo2TV3KWA3m/ta/rKio6IOIrj6WxdXV1e0ii9XQRYpsKygoWB+tQ8w3VvPz89eSxW6dpWjZTthVxOok+B2+2traRcQdbSerw3S20VERTusI/ENCOot6idLtdpsMBsMChP6kueU2B+5B0E+aezyeQ8Tnd+t2qIsuuuiiiy666BJN/gcYrL4p11xawgAAAABJRU5ErkJggg==",
-    "HomeName": "Jordan",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/290.png",
-    "LeagueName": "Asian Cup",
-    "LiveUpcoming": "Live",
-    "Time": "6:00 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/PF2LKYS/download-6.png",
     "AwayName": "Crystal Palace",
     "Date": "January 20",
@@ -214,12 +145,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1705763513-0-0-65afcb81f618af40579da9cc838fd127"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1705763513-0-0-65afcb81f618af40579da9cc838fd127"
   },
   {
    "type": "Vebo | HD",
@@ -229,17 +160,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_10.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_10.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch14.m3u8"
   },
   {
    "type": "English | HD",
@@ -272,7 +203,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
   {
@@ -283,12 +214,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9911969_lhd.m3u8?txSecret=06245426d16e303ee04864b3d5fd8805&txTime=65ac2909"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9911969_lhd.m3u8?txSecret=06245426d16e303ee04864b3d5fd8805&txTime=65ac2909"
   },
   {
    "type": "Vebo | HD",
@@ -298,17 +229,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_12.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_12.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch13.m3u8"
   },
   {
    "type": "English | HD",
@@ -341,7 +272,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
   {
@@ -352,12 +283,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912034_lhd.m3u8?txSecret=9a8570a82321764648d6d8b9273a8017&txTime=65ac29f9"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912034_lhd.m3u8?txSecret=9a8570a82321764648d6d8b9273a8017&txTime=65ac29f9"
   },
   {
    "type": "Vebo | HD",
@@ -367,17 +298,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_11.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_11.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch16.m3u8"
   },
   {
    "type": "English | HD",
@@ -410,7 +341,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
   {
@@ -421,12 +352,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=49cde0392867215683a85580309ee560&txTime=65ac2981"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=49cde0392867215683a85580309ee560&txTime=65ac2981"
   },
   {
    "type": "Vebo | HD",
@@ -436,17 +367,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_9.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_9.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch12.m3u8"
   },
   {
    "type": "English | HD",
@@ -479,7 +410,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
   {
@@ -490,12 +421,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1705763633-0-0-b88202197e1a3ecc02e0e9b2e72d27d5"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1705763633-0-0-b88202197e1a3ecc02e0e9b2e72d27d5"
   },
   {
    "type": "Vebo | HD",
@@ -505,17 +436,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_8.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_8.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch15.m3u8"
   },
   {
    "type": "English | HD",
@@ -548,7 +479,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
   {
@@ -559,12 +490,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1705763753-0-0-c1fb5af617a95fc638c7506bc4ae40cb"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1705763753-0-0-c1fb5af617a95fc638c7506bc4ae40cb"
   },
   {
    "type": "Vebo | HD",
@@ -574,17 +505,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_5.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_5.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch8.m3u8"
   },
   {
    "type": "English | HD",
@@ -617,7 +548,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/290.png",
     "LeagueName": "Asian Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
   {
@@ -628,12 +559,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-448539_lhd.m3u8?auth_key=1705763873-0-0-998f966f8698c3a95958b5d51a31e308"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-448539_lsd.m3u8?auth_key=1705763873-0-0-998f966f8698c3a95958b5d51a31e308"
   },
   {
    "type": "Vebo | HD",
