@@ -1,18 +1,18 @@
 [
   {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
-    "AwayName": "Genoa",
-    "Date": "January 21",
+    "AwayImage": "https://i.ibb.co/Xj0bkGg/download-48.png",
+    "AwayName": "Juventus",
+    "Date": "January 22",
     "Link": [
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1705858793-0-0-9137e4b8fc76a1d912dbcf5c718c9447"
+   "link": "https://pull.niues.live/live/stream-9912011_lhd.m3u8?auth_key=1705869113-0-0-81ed31e09f6b74808452aaf5cecc149c"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912016_lsd.m3u8?auth_key=1705858793-0-0-9137e4b8fc76a1d912dbcf5c718c9447"
+   "link": "https://pull.niues.live/live/stream-9912011_lsd.m3u8?auth_key=1705869113-0-0-81ed31e09f6b74808452aaf5cecc149c"
   },
   {
    "type": "Vebo | HD",
@@ -60,28 +60,28 @@
    "link": "0"
   }
              ],
-    "HomeImage": "https://i.ibb.co/dkf4cTv/download-54.png",
-    "HomeName": "Salernitana",
+    "HomeImage": "https://i.ibb.co/f0wRMJt/download-56.png",
+    "HomeName": "Lecce",
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
     "LiveUpcoming": "Live",
-    "Time": "11:30 PM"
+    "Time": "2:15 AM"
   },
   {
-    "AwayImage": "https://i.ibb.co/jh44yWL/download-66.png",
-    "AwayName": "Barcelona",
+    "AwayImage": "https://i.ibb.co/DzBDBrj/download-25.png",
+    "AwayName": "Sevilla",
     "Date": "January 22",
     "Link": [
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912078_lhd.m3u8?auth_key=1705860780-0-0-75c3560b6ad0b1a142d0ce5ecb102e9e"
+   "link": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1705869113-0-0-3684d7d13428c2d8663df0a19272b09f"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912078_lsd.m3u8?auth_key=1705860780-0-0-75c3560b6ad0b1a142d0ce5ecb102e9e"
+   "link": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1705869113-0-0-3684d7d13428c2d8663df0a19272b09f"
   },
   {
    "type": "Vebo | HD",
@@ -106,145 +106,7 @@
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "https://storage.googleapis.com/engegnoverti2/mux_video_ts1/index-1.m3u8"
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
- {
-   "type": "English | SD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/1mg68jB/download-24.png",
-    "HomeName": "Real Betis",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-    "LeagueName": "LaLiga",
-    "LiveUpcoming": "Live",
-    "Time": "12:00 AM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/Xj0bkGg/download-48.png",
-    "AwayName": "Juventus",
-    "Date": "January 22",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
- {
-   "type": "English | SD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/f0wRMJt/download-56.png",
-    "HomeName": "Lecce",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
-    "Time": "2:15 AM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/DzBDBrj/download-25.png",
-    "AwayName": "Sevilla",
-    "Date": "January 22",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-2/chunks.m3u8"
   },
  {
    "type": "English | SD",
@@ -272,7 +134,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   }
 ]
