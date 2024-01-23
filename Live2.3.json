@@ -47,17 +47,17 @@
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "https://roroorororoororor.fordems.live/live/zone-1/chunks.m3u8"
+   "link": "https://roroorororoororor.fordems.live/live/zone-1/chunks.m3u8?|Referer=https://flexsportx.com/"
   },
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "https://s3.alnorum.xyz:443/hls/player-1/index.m3u8"
+   "link": "https://s3.alnorum.xyz:443/hls/player-1/index.m3u8?|Referer=https://www.sportshub.to/"
   },
  {
    "type": "English | SD => VIP",
    "Vip": "Vip",
-   "link": "https://s3.alnorum.xyz:443/hls/abr-player-1/index.m3u8"
+   "link": "https://s3.alnorum.xyz:443/hls/abr-player-1/index.m3u8?|Referer=https://www.sportshub.to/"
   }
              ],
     "HomeImage": "https://i.ibb.co/MMN9Rw5/download.png",
