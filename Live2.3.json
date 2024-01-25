@@ -7,12 +7,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1706185193-0-0-1c2454625021212118ccc32576aa7139"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1706185193-0-0-1c2454625021212118ccc32576aa7139"
   },
   {
    "type": "Vebo | HD",
@@ -22,7 +22,7 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_4.m3u8"
   },
   {
    "type": "English | FHD",
@@ -32,7 +32,7 @@
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch9.m3u8"
   },
   {
    "type": "English | HD",
@@ -65,7 +65,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/290.png",
     "LeagueName": "Asian Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "6:00 PM"
   },
   {
@@ -76,12 +76,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1706185253-0-0-84ddd4dfd9745e3642c860194da83eba"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1706185253-0-0-84ddd4dfd9745e3642c860194da83eba"
   },
   {
    "type": "Vebo | HD",
@@ -91,7 +91,7 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_5.m3u8"
   },
   {
    "type": "English | FHD",
@@ -101,7 +101,7 @@
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch8.m3u8"
   },
   {
    "type": "English | HD",
@@ -134,7 +134,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/290.png",
     "LeagueName": "Asian Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "6:00 PM"
   },
   {
