@@ -1,74 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/THrGZYk/download-37.png",
-    "AwayName": "Girona",
-    "Date": "January 28 ",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1706449866-0-0-09cd2aac4f201f5aa6f0072b295c3201"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1706449866-0-0-09cd2aac4f201f5aa6f0072b295c3201"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://soccer.freesportstime.com/live/stream_6.m3u8"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://headlinessportsfoot.com/chunklist/hlsch4.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://wenkisterin.latsyoving.xyz/live/n-2/chunks.m3u8"
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
- {
-   "type": "English | SD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/5svpMRP/download-36.png",
-    "HomeName": "Celta Vigo",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-    "LeagueName": "LaLiga",
-    "LiveUpcoming": "Live",
-    "Time": "7:30 PM"
-  },
-  {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9891.png",
     "AwayName": "Frosinone",
     "Date": "January 28 ",
@@ -628,12 +559,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1706460546-0-0-6260d150678e402c926414ae8a101e2f"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1706460546-0-0-6260d150678e402c926414ae8a101e2f"
   },
   {
    "type": "Vebo | HD",
@@ -643,17 +574,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_5.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_5.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch26.m3u8"
   },
   {
    "type": "English | HD",
@@ -686,7 +617,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/290.png",
     "LeagueName": "Asian Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   },
   {
@@ -697,12 +628,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912034_lhd.m3u8?txSecret=904c467101026b95a33cbdeb4db35f22&txTime=65b6cc0e"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912034_lhd.m3u8?txSecret=904c467101026b95a33cbdeb4db35f22&txTime=65b6cc0e"
   },
   {
    "type": "Vebo | HD",
@@ -712,22 +643,22 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_8.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_8.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch3.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-4/chunks.m3u8"
   },
  {
    "type": "English | SD",
@@ -755,7 +686,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:35 PM"
   },
   {
