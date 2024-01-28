@@ -311,14 +311,14 @@
    "link": "https://wenkisterin.latsyoving.xyz/live/n-1/chunks.m3u8"
   },
   {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
+   "type": "Premier Sport | FHD",
+   "Vip": "Vip",
+   "link": "https://nlsuper.score806.cc/uk_premiersports1/index.m3u8?|Referer=https://play.azencode.com/"
   },
  {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
+   "type": "BBC Sport | HD",
+   "Vip": "Vip",
+   "link": "https://nlsuper.score806.cc/uk_bbc1/index.m3u8?|Referer=https://play.azencode.com/"
   },
   {
    "type": "English | HD => VIP",
