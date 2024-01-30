@@ -7,12 +7,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912086_lhd.m3u8?auth_key=1706616847-0-0-5856e1596bab319f28389415774d6f5d"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912086_lsd.m3u8?auth_key=1706616847-0-0-5856e1596bab319f28389415774d6f5d"
   },
   {
    "type": "Vebo | HD",
@@ -22,12 +22,12 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_5.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_5.m3u8"
   },
   {
    "type": "English | HD",
@@ -37,7 +37,7 @@
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://live.55football.xyz/web1hd/index.m3u8?token=dae6d4ad7d638a8327358e448996cd0b70c506e9-d9c99f59f85b02b2b24c52f56e5ed646-1706623635-1706612835"
   },
  {
    "type": "English | SD",
@@ -65,7 +65,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/290.png",
     "LeagueName": "Asian Cup",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "6:00 PM"
   },
   {
