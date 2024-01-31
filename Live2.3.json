@@ -283,12 +283,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912048_lhd.m3u8?txSecret=3c19310a22619ed62a792d30d53d30a5&txTime=65bafc90"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912048_lhd.m3u8?txSecret=3c19310a22619ed62a792d30d53d30a5&txTime=65bafc90"
   },
   {
    "type": "Vebo | HD",
@@ -298,27 +298,27 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_3.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-3/chunks.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://storage.googleapis.com/pfzkznxwrexu/main.m3u8"
   },
  {
    "type": "English | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://afrisocca.site/ch5sd/index.m3u8?token=793c54dc7d19ca75504f5a32b92367c1c84a1b22-f0dd7a5377ae0b64987a7a7b0f7f21ba-1706741959-1706731159"
   },
   {
    "type": "English | HD => VIP",
@@ -328,12 +328,12 @@
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://s1.ferina.xyz:443/hls/player-4/index.m3u8?|Referer=https://www.sportshub.to/"
   },
  {
    "type": "English | SD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://s1.ferina.xyz:443/hls/abr-player-4/index.m3u8?|Referer=https://www.sportshub.to/"
   }
              ],
     "HomeImage": "https://i.ibb.co/T12PsPR/download-3.png",
@@ -341,7 +341,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:45 AM"
   }
 ]
