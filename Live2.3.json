@@ -7,12 +7,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912015_lhd.m3u8?txSecret=aaa3f0abf69062125a9483f8a58d296a&txTime=65bc2ee4"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912015_lhd.m3u8?txSecret=aaa3f0abf69062125a9483f8a58d296a&txTime=65bc2ee4"
   },
   {
    "type": "Vebo | HD",
@@ -22,27 +22,32 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_3.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_3.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-4/chunks.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://shora-streams.com/chunklist/hlsch6.m3u8"
   },
  {
    "type": "English | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://afrisocca.site/ch1sd/index.m3u8?token=3d88d489be6fabeed4d5898b4ef3dbaa584bb2fa-5315dfacf7361ffe8af922c8200ed25c-1706820144-1706809344"
+  },
+  {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "https://live.55football.xyz/low1/index.m3u8"
   },
   {
    "type": "English | HD => VIP",
@@ -65,7 +70,7 @@
     "Hot": "",
     "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
     "LeagueName": "Friendly",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:30 AM"
   },
   {
