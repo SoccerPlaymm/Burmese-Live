@@ -1,79 +1,5 @@
 [
   {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/960720.png",
-    "AwayName": "Inter Miami FC",
-    "Date": "February 02",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912015_lhd.m3u8?txSecret=aaa3f0abf69062125a9483f8a58d296a&txTime=65bc2ee4"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912015_lhd.m3u8?txSecret=aaa3f0abf69062125a9483f8a58d296a&txTime=65bc2ee4"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://soccer.freesportstime.com/live/stream_3.m3u8"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_3.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://wenkisterin.latsyoving.xyz/live/n-4/chunks.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://shora-streams.com/chunklist/hlsch6.m3u8"
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "https://afrisocca.site/ch1sd/index.m3u8?token=3d88d489be6fabeed4d5898b4ef3dbaa584bb2fa-5315dfacf7361ffe8af922c8200ed25c-1706820144-1706809344"
-  },
-  {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "https://live.55football.xyz/low1/index.m3u8"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
- {
-   "type": "English | SD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
-    "HomeName": "Al Nassr FC",
-    "Hot": "",
-    "LeagueImage": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
-    "LeagueName": "Friendly",
-    "LiveUpcoming": "Live",
-    "Time": "12:30 AM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/jfz7Sks/download-5.png",
     "AwayName": "Bournemouth",
     "Date": "February 02",
@@ -96,12 +22,12 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "https://soccer.freesportstime.com/live/stream_1.m3u8"
+   "link": "0"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_1.m3u8"
+   "link": "0"
   },
   {
    "type": "English | HD",
@@ -111,7 +37,7 @@
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "https://soccer.freesportstime.com/live/stream_1.m3u8"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-3/chunks.m3u8"
   },
  {
    "type": "English | SD",
@@ -165,12 +91,12 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "https://soccer.freesportstime.com/live/stream_6.m3u8"
+   "link": "0"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
+   "link": "0"
   },
   {
    "type": "English | HD",
@@ -234,12 +160,12 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "https://soccer.freesportstime.com/live/stream_2.m3u8"
+   "link": "0"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_2.m3u8"
+   "link": "0"
   },
   {
    "type": "English | HD",
@@ -262,14 +188,14 @@
    "link": "https://afrisocca.site/ch2sd/index.m3u8?token=38745adb4a91d4a2b6ad2eddbe1dc6af2eeadc34-c1de79207029d095ca035c7d1bd3530a-1706827312-1706816512"
   },
   {
-   "type": "English | HD => VIP",
+   "type": "Thailand | HD => VIP",
    "Vip": "Vip",
    "link": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/"
   },
  {
    "type": "English | SD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://new.ptvcrickethd.com/news/medi.stream/playlist.m3u8?|Referer=https://www.soccertvhd.com/"
   }
              ],
     "HomeImage": "https://i.ibb.co/QJMLcrP/download-10.png",
