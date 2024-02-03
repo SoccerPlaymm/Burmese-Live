@@ -1,74 +1,5 @@
 [
   {
-    "AwayImage": "data:image/png;base64,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",
-    "AwayName": "Japan",
-    "Date": "February 03",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1706962988-0-0-5214df7df5253d4db40939ce7d091ff2"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1706962988-0-0-5214df7df5253d4db40939ce7d091ff2"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://soccer.freesportstime.com/live/stream_5.m3u8"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_5.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://shora-streams.com/chunklist/hlsch3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjQgMTE6MjE6MjUgQU0maGFzaF92YWx1ZT1UVVZHZmpKZlhYUXRGanl4V295RXhBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0zNy4xMTEuNDYuMTA0JnN0cm1fbGVuPTU="
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
- {
-   "type": "English | SD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "data:image/png;base64,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",
-    "HomeName": "Iran",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/290.png",
-    "LeagueName": "Asian Cup",
-    "LiveUpcoming": "Live",
-    "Time": "6:00 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/6Xd01b7/download-9.png",
     "AwayName": "Tottenham",
     "Date": "February 03",
@@ -224,12 +155,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912062_lhd.m3u8?txSecret=9261fb681aad867bef186a929931defe&txTime=65be9788"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912062_lhd.m3u8?txSecret=9261fb681aad867bef186a929931defe&txTime=65be9788"
   },
   {
    "type": "Vebo | HD",
@@ -244,27 +175,27 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://shora-streams.com/chunklist/hlsch5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjQgMTozMzoxMCBQTSZoYXNoX3ZhbHVlPVcvdmVsRlFsbkhXNXp5ZmptYkI1bGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTM3LjExMS40Ni42NyZzdHJtX2xlbj01"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-5/chunks.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://live.55football.xyz/low3/index.m3u8?token=3b105800a8cef33b00a3b20faaecd36d176b7eb7-fbb36558fffbd9e518d6666674e98fec-1706978231-1706967431"
   },
  {
    "type": "English | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://afrisocca.site/ch3sd/index.m3u8?token=b637fcfcd6c127acc9a68b9aa0bf2f948af3a7e3-63cb6df99a6fc2dee74372b30f3d9eb3-1706978231-1706967431"
   },
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/"
   },
   {
    "type": "English | HD => VIP",
@@ -293,12 +224,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912025_lhd.m3u8?auth_key=1706971508-0-0-acac9e034fa2562984397a491fa3aacf"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912025_lsd.m3u8?auth_key=1706971508-0-0-acac9e034fa2562984397a491fa3aacf"
   },
   {
    "type": "Vebo | HD",
@@ -313,27 +244,27 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://shora-streams.com/chunklist/hlsch6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjQgMTozMDozMiBQTSZoYXNoX3ZhbHVlPVFTY1RqWmZ5emg0eFNHQVpjdG1ZVXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTM3LjExMS40Ni42NyZzdHJtX2xlbj01"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://shora-streams.com/chunklist/hlsch6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjQgMTozMDozMiBQTSZoYXNoX3ZhbHVlPVFTY1RqWmZ5emg0eFNHQVpjdG1ZVXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTM3LjExMS40Ni42NyZzdHJtX2xlbj01"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-7/chunks.m3u8"
   },
  {
    "type": "English | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://afrisocca.site/ch4sd/index.m3u8?token=f7e9323d86a46a84e201790cc5ad6abfde4f79c8-70f9cc1d5e0c109b797af3093d6cac53-1706978267-1706967467"
   },
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/"
   },
   {
    "type": "English | HD => VIP",
@@ -351,7 +282,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
