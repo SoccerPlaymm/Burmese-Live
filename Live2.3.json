@@ -76,12 +76,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912075_lhd.m3u8?txSecret=fe48cbcbbda1351d31777d8c0da5ab77&txTime=65be83d8"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912075_lhd.m3u8?txSecret=fe48cbcbbda1351d31777d8c0da5ab77&txTime=65be83d8"
   },
   {
    "type": "Vebo | HD",
@@ -91,27 +91,27 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_1.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_1.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-1/chunks.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://afrisocca.site/ch1sd/index.m3u8?token=97b7ca4360e2850fb0e345c64e4aa3f8f0d34f40-1aea9993732f6a51c4e48d1e4b3bf470-1706972884-1706962084"
   },
  {
    "type": "English | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://live.55football.xyz/low1/index.m3u8?token=019f996920819ab8c96ec3367b215f54cc7769d6-e9a4c2abf3e0f044833de61b79ba696b-1706972884-1706962084"
   },
   {
    "type": "English | HD => VIP",
@@ -122,6 +122,11 @@
    "type": "English | HD => VIP",
    "Vip": "Vip",
    "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/"
   },
  {
    "type": "English | SD => VIP",
@@ -134,7 +139,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:00 PM"
   },
   {
