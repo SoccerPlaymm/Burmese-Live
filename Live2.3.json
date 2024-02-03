@@ -865,12 +865,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-448539_lhd.m3u8?auth_key=1706978648-0-0-25b0f682f8440d918246cd3698c0fca7"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-448539_lsd.m3u8?auth_key=1706978648-0-0-25b0f682f8440d918246cd3698c0fca7"
   },
   {
    "type": "Vebo | HD",
@@ -880,22 +880,22 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_8.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_8.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://shora-streams.com/chunklist/hlsch10.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjQgMzo0MDoxMCBQTSZoYXNoX3ZhbHVlPTRsQmpjZjlWVXdDQXg0bXFOQmY1bXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTM3LjExMS40Ni42NyZzdHJtX2xlbj01"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-8/chunks.m3u8"
   },
  {
    "type": "English | SD",
@@ -923,7 +923,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   },
   {
