@@ -91,32 +91,32 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_6.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-4/chunks.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://afrisocca.site/ch2hd/index.m3u8?token=765949f76dad784b4c0cff613ed598ab23aef863-84e87d700cb7d20de42b57458e356458-1707000532-1706989732"
   },
  {
    "type": "English | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://afrisocca.site/ch2sd/index.m3u8?token=2341ee60b28b95c92bba937f1d4326e4f209f43c-1ade210918190b1832048555e090e902-1707000532-1706989732"
   },
   {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "https://live.55football.xyz/low2/index.m3u8?token=86df7312e1f5c5cedf3b8ca2e8f1da56fc3f07f0-b04ab72a9140e475efe23d738a01ef7f-1707000532-1706989732"
   },
   {
    "type": "English | HD => VIP",
@@ -134,7 +134,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   },
   {
@@ -160,32 +160,32 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_8.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_8.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-8/chunks.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://afrisocca.site/ch3hd/index.m3u8?token=4797691b0166c8fbd48cc4341b3bcafca8c9e35f-197a1fa448cc905cfd645b27abd6e464-1707000449-1706989649"
   },
  {
    "type": "English | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://afrisocca.site/ch3sd/index.m3u8?token=f14db73a27bf4b59236b1c31380681fc4dcc869d-164b117ac0ef87dceb35b62fad3a8bb7-1707000449-1706989649"
   },
   {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "https://live.55football.xyz/low3/index.m3u8?token=d57bab26b765a8f04dda8d82dadfca25677b54f1-913f8d93afb83f290b429162370ca226-1707000449-1706989649"
   },
   {
    "type": "English | HD => VIP",
@@ -203,7 +203,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   }
 ]
