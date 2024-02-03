@@ -1,74 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/yPjv50N/download-30.png",
-    "AwayName": "Almeria",
-    "Date": "February 03",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1706967278-0-0-0e7adb3c2d4e5301f21d8452283b1abf"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1706967278-0-0-0e7adb3c2d4e5301f21d8452283b1abf"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://soccer.freesportstime.com/live/stream_6.m3u8"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://shora-streams.com/chunklist/hlsch4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjQgMTI6Mjg6NTUgUE0maGFzaF92YWx1ZT1tU3dxdS9wT0Nlb29OeEVTUVBjODVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMxLjIzNyZzdHJtX2xlbj01"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://wenkisterin.latsyoving.xyz/live/n-4/chunks.m3u8"
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
- {
-   "type": "English | SD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/LNsh3hr/download-34.png",
-    "HomeName": "Valencia",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-    "LeagueName": "LaLiga",
-    "LiveUpcoming": "Live",
-    "Time": "7:30 PM"
-  },
-  {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
     "AwayName": "Genoa",
     "Date": "February 03",
@@ -752,17 +683,17 @@
  {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://afrisocca.site/ch5hd/index.m3u8?token=32a00465b677d136737a3b5f5702d9cd09e8c61c-9a10d51966f4beb80b9b998b881d71ac-1706982636-1706971836"
   },
   {
    "type": "English | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://live.55football.xyz/low7/index.m3u8?token=29f7dab6cd33aa9e1503eb75cd1c3a5c4af9f48a-f9929aae5a03c5704559bb5f520eda33-1706982795-1706971995"
   },
   {
    "type": "English | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://afrisocca.site/ch7sd/index.m3u8?token=c2ecfb5eb684df2f85b6ccd2833e04538fc5195d-859dc9ba7a439138fb11df754538e6e3-1706982795-1706971995"
   },
   {
    "type": "English | HD => VIP",
