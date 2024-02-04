@@ -214,12 +214,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=9bc25e2b8dec8e79d92d68f5979fe272&txTime=65c00d5c"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=9bc25e2b8dec8e79d92d68f5979fe272&txTime=65c00d5c"
   },
   {
    "type": "Vebo | HD",
@@ -234,37 +234,37 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_3.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://shora-streams.com/chunklist/hlsch10.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjQgNDoxMzowMyBQTSZoYXNoX3ZhbHVlPTY1VEIrWXliNUVkRHRTMGdkSk9rb2c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTM3LjExMS40Ni4yMTcmc3RybV9sZW49NQ=="
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-1/chunks.m3u8"
   },
  {
    "type": "English | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://live.55football.xyz/low1/index.m3u8?token=78724cb42f4c65182eaf922e1da87d418e0ee7c6-1e424c55eea78d2aeb0972c2c6002ac8-1707074142-1707063342"
+  },
+  {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "https://live.55football.xyz/web1sd/index.m3u8?token=fb6552b2de5aec60c74f6bf2e87ac9fa5a0ab2e3-5280651a0f49c09e6b16a6e584d790bf-1707074142-1707063342"
   },
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
+   "link": "https://new.ptvcrickethd.com/news/medi.stream/playlist.m3u8?|Referer=https://www.soccertvhd.com/"
   },
  {
    "type": "English | SD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/"
   }
              ],
     "HomeImage": "https://i.ibb.co/bN749H2/download-12.png",
@@ -272,7 +272,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
   {
@@ -283,12 +283,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912008_lhd.m3u8?txSecret=c4c297b153826f3df0637a80d05d5b33&txTime=65c00d5c"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912008_lhd.m3u8?txSecret=c4c297b153826f3df0637a80d05d5b33&txTime=65c00d5c"
   },
   {
    "type": "Vebo | HD",
@@ -303,22 +303,22 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_9.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://shora-streams.com/chunklist/hlsch23.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjQgNDoxMzo1MyBQTSZoYXNoX3ZhbHVlPUxwSkFqK0pHWW43WDdmNEM1WkxSWEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTM3LjExMS40Ni4yMTcmc3RybV9sZW49NQ=="
   },
   {
-   "type": "English | HD",
+   "type": "English | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://live.55football.xyz/low9/index.m3u8?token=a2f3185cad5ee6d17ed982444ea6459917291ae9-98e04b7506596e28f4a45f95cc788b1b-1707074215-1707063415"
   },
  {
    "type": "English | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://live.55football.xyz/web9sd/index.m3u8?token=d81e0c32fb805a3c6c48e3f07f98ddf443c1f32e-9b10d9021c1c297b484ace30879d0aae-1707074215-1707063415"
   },
   {
    "type": "English | HD => VIP",
@@ -333,7 +333,7 @@
  {
    "type": "English | SD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/"
   }
              ],
     "HomeImage": "https://i.ibb.co/HdHxByy/download-76.png",
@@ -341,7 +341,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "11:00 PM"
   },
   {
