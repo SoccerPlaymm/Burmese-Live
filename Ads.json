@@ -1,15 +1,15 @@
 {
-    "homeAdoneLink": "https://bit.ly/3puNhuz",
+    "homeAd1Link": "https://bit.ly/3puNhuz",
     
-    "homeAdoneImage": "https://github.com/SoccerPlaymm/Image/blob/main/GIF-8a94fbb0d81a37698a785c0ae99f3d38.gif?raw=true",
+    "homeAd1Image": "https://github.com/SoccerPlaymm/Image/blob/main/GIF-8a94fbb0d81a37698a785c0ae99f3d38.gif?raw=true",
     
-    "homeAdoneis_Open" : true,
+    "homeAd1is_Open" : true,
     
-    "homeAdtwoLink": "https://bit.ly/47iy68f",
+    "homeAd2Link": "https://bit.ly/47iy68f",
     
-    "homeAdtwoImage": "https://github.com/SoccerPlaymm/Image/raw/main/600-200(final)(2).gif",
+    "homeAd2Image": "https://github.com/SoccerPlaymm/Image/raw/main/600-200(final)(2).gif",
     
-    "homeAdtwois_Open" : true,
+    "homeAd2is_Open" : true,
     
     "linkAdLink": "https://bit.ly/47iy68f",
     
@@ -17,30 +17,30 @@
     
     "linkAdis_Open" : true,
     
-    "dialogAdoneLink": "https://bit.ly/47iy68f",
+    "dialogAd1Link": "https://bit.ly/47iy68f",
     
-    "dialogAdoneImage": "https://github.com/SoccerPlaymm/Image/raw/main/600-200(final)(2).gif",
+    "dialogAd1Image": "https://github.com/SoccerPlaymm/Image/raw/main/600-200(final)(2).gif",
     
-    "dialogAdoneis_Open" : true,
+    "dialogAd1is_Open" : true,
     
-    "dialogAdtwoLink": "https://bit.ly/47iy68f",
+    "dialogAd2Link": "https://bit.ly/47iy68f",
     
-    "dialogAdtwoImage": "https://github.com/SoccerPlaymm/Image/raw/main/600-200(final)(2).gif",
+    "dialogAd2Image": "https://github.com/SoccerPlaymm/Image/raw/main/600-200(final)(2).gif",
     
-    "dialogAdtwois_Open" : true,
+    "dialogAd2is_Open" : true,
     
     "streamAd" : [
     { 
        "AdImage" : "https://github.com/SoccerPlaymm/Image/raw/main/600-200(final).gif",
-       "AdLink" : "https://bit.ly/47iy68f",
+       "AdLink" : "https://bit.ly/47iy68f"
     },
     { 
        "AdImage" : "https://github.com/SoccerPlaymm/Image/raw/main/600-200(final).gif",
-       "AdLink" : "https://bit.ly/47iy68f",
+       "AdLink" : "https://bit.ly/47iy68f"
     },
     { 
        "AdImage" : "https://github.com/SoccerPlaymm/Image/raw/main/600-200(final).gif",
-       "AdLink" : "https://bit.ly/47iy68f",
+       "AdLink" : "https://bit.ly/47iy68f"
     }
      ]
 }
