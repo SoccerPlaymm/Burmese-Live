@@ -145,12 +145,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1707340029-0-0-125043a819825fcc62979fe7237f45a6"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1707340029-0-0-125043a819825fcc62979fe7237f45a6"
   },
   {
    "type": "Vebo | HD",
@@ -203,7 +203,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/134.png",
     "LeagueName": "Coupe de France",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:45 AM"
   },
   {
@@ -214,12 +214,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-278654_lhd.m3u8?auth_key=1707340029-0-0-96eae043679b3794e9a7db1e10e65ee3"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-278654_lsd.m3u8?auth_key=1707340029-0-0-96eae043679b3794e9a7db1e10e65ee3"
   },
   {
    "type": "Vebo | HD",
@@ -234,17 +234,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://freehdgames.lol/chunklist/hlsch4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjQgODowNTo1NiBQTSZoYXNoX3ZhbHVlPVVOOWE5WFl6cnNEZnJXWlZCY0FrY1E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTM3LjExMS40Ni40MyZzdHJtX2xlbj01"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://wenkisterin.latsyoving.xyz/live/n-3/chunks.m3u8"
   },
  {
    "type": "English | SD",
@@ -272,7 +272,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/138.png",
     "LeagueName": "Copa del Rey",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "3:00 AM"
   }
 ]
