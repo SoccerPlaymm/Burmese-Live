@@ -11,40 +11,11 @@
     "Date": "Feb 10",
     "Link": [
   {
-   "quality": "FHD",
-   "name": "Soco",
-   "link": "0",
-   "type" : "No"
-  },
-  {
-   "quality": "HD",
-   "name": "Soco",
-   "link": "0",
-   "type" : "No"
-  },
-  {
-   "quality": "FHD",
-   "name": "English",
-   "link": "0",
-   "type" : "No"
-  },
-  {
-   "quality": "FHD",
-   "name": "English",
-   "link": "0",
-   "type" : "Vip"
-  },
-  {
-   "quality": "HD",
-   "name": "English",
-   "link": "0",
-   "type" : "Vip"
-  },
-  {
-   "quality": "SD",
-   "name": "English",
-   "link": "0",
-   "type" : "Vip"
+   "Quality": "FHD",
+   "Name": "Soco",
+   "Link": "0",
+   "Vip" : false,
+   "Referee" : ""
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
@@ -67,40 +38,11 @@
     "Date": "Feb 10",
     "Link": [
   {
-   "quality": "FHD",
-   "name": "Soco",
-   "link": "0",
-   "type" : "No"
-  },
-  {
-   "quality": "HD",
-   "name": "Soco",
-   "link": "0",
-   "type" : "No"
-  },
-  {
-   "quality": "FHD",
-   "name": "English",
-   "link": "0",
-   "type" : "No"
-  },
-  {
-   "quality": "FHD",
-   "name": "English",
-   "link": "0",
-   "type" : "Vip"
-  },
-  {
-   "quality": "HD",
-   "name": "English",
-   "link": "0",
-   "type" : "Vip"
-  },
-  {
-   "quality": "SD",
-   "name": "English",
-   "link": "0",
-   "type" : "Vip"
+   "Quality": "FHD",
+   "Name": "Soco",
+   "Link": "0",
+   "Vip" : false,
+   "Referee" : ""
   }
              ],
     "HomeImage": "https://i.ibb.co/zNhmF1y/download-70.png",
@@ -117,40 +59,11 @@
     "Date": "Feb 10",
     "Link": [
   {
-   "quality": "FHD",
-   "name": "Soco",
-   "link": "0",
-   "type" : "No"
-  },
-  {
-   "quality": "HD",
-   "name": "Soco",
-   "link": "0",
-   "type" : "No"
-  },
-  {
-   "quality": "FHD",
-   "name": "English",
-   "link": "0",
-   "type" : "No"
-  },
-  {
-   "quality": "FHD",
-   "name": "English",
-   "link": "0",
-   "type" : "Vip"
-  },
-  {
-   "quality": "HD",
-   "name": "English",
-   "link": "0",
-   "type" : "Vip"
-  },
-  {
-   "quality": "SD",
-   "name": "English",
-   "link": "0",
-   "type" : "Vip"
+   "Quality": "FHD",
+   "Name": "Soco",
+   "Link": "0",
+   "Vip" : false,
+   "Referee" : ""
   }
              ],
     "HomeImage": "https://i.ibb.co/SrkThSS/download-26.png",
@@ -176,40 +89,11 @@
     "Date": "Feb 10",
     "Link": [
   {
-   "quality": "FHD",
-   "name": "Soco",
-   "link": "0",
-   "type" : "No"
-  },
-  {
-   "quality": "HD",
-   "name": "Soco",
-   "link": "0",
-   "type" : "No"
-  },
-  {
-   "quality": "FHD",
-   "name": "English",
-   "link": "0",
-   "type" : "No"
-  },
-  {
-   "quality": "FHD",
-   "name": "English",
-   "link": "0",
-   "type" : "Vip"
-  },
-  {
-   "quality": "HD",
-   "name": "English",
-   "link": "0",
-   "type" : "Vip"
-  },
-  {
-   "quality": "SD",
-   "name": "English",
-   "link": "0",
-   "type" : "Vip"
+   "Quality": "FHD",
+   "Name": "Soco",
+   "Link": "0",
+   "Vip" : false,
+   "Referee" : ""
   }
              ],
     "HomeImage": "https://i.ibb.co/dkf4cTv/download-54.png",
@@ -235,40 +119,11 @@
     "Date": "Feb 10",
     "Link": [
   {
-   "quality": "FHD",
-   "name": "Soco",
-   "link": "0",
-   "type" : "No"
-  },
-  {
-   "quality": "HD",
-   "name": "Soco",
-   "link": "0",
-   "type" : "No"
-  },
-  {
-   "quality": "FHD",
-   "name": "English",
-   "link": "0",
-   "type" : "No"
-  },
-  {
-   "quality": "FHD",
-   "name": "English",
-   "link": "0",
-   "type" : "Vip"
-  },
-  {
-   "quality": "HD",
-   "name": "English",
-   "link": "0",
-   "type" : "Vip"
-  },
-  {
-   "quality": "SD",
-   "name": "English",
-   "link": "0",
-   "type" : "Vip"
+   "Quality": "FHD",
+   "Name": "Soco",
+   "Link": "0",
+   "Vip" : false,
+   "Referee" : ""
   }
              ],
     "HomeImage": "https://i.ibb.co/L6tK4v1/download-77.png",
