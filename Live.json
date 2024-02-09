@@ -41,7 +41,7 @@
   {
    "Quality": "FHD",
    "Name": "Soco",
-   "Link": "www",
+   "Link": "0",
    "Vip" : false,
    "Referee" : ""
   },
@@ -56,14 +56,14 @@
    "Quality": "FHD",
    "Name": "Soco",
    "Link": "www",
-   "Vip" : false,
+   "Vip" : true,
    "Referee" : ""
   },
   {
    "Quality": "FHD",
    "Name": "Soco",
    "Link": "www",
-   "Vip" : false,
+   "Vip" : true,
    "Referee" : ""
   }
              ],
@@ -89,7 +89,7 @@
   {
    "Quality": "FHD",
    "Name": "Soco",
-   "Link": "www",
+   "Link": "0",
    "Vip" : false,
    "Referee" : ""
   }
@@ -110,7 +110,7 @@
   {
    "Quality": "FHD",
    "Name": "Soco",
-   "Link": "www",
+   "Link": "0",
    "Vip" : false,
    "Referee" : ""
   }
