@@ -11,33 +11,33 @@
     "Date": "Feb 10",
     "Link": [
   {
-   "quality": "FHD",
-   "name": "Soco",
-   "link": "www",
+   "Quality": "FHD",
+   "Name": "Soco",
+   "Link": "www",
    "Vip" : false,
-   "referee" : ""
+   "Referee" : ""
   },
   {
-   "quality": "FHD",
-   "name": "Soco",
-   "link": "www",
+   "Quality": "FHD",
+   "Name": "Soco",
+   "Link": "www",
    "Vip" : false,
-   "referee" : ""
+   "Referee" : ""
   },
   {
-   "quality": "FHD",
-   "name": "Soco",
-   "link": "www",
+   "Quality": "FHD",
+   "Name": "Soco",
+   "Link": "www",
    "Vip" : false,
-   "referee" : ""
+   "Referee" : ""
   },
   {
-   "quality": "FHD",
-   "name": "Soco",
-   "link": "www",
+   "Quality": "FHD",
+   "Name": "Soco",
+   "Link": "www",
    "Vip" : false,
-   "referee" : ""
-  }
+   "Referee" : ""
+  },
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
     "HomeName": "Man United",
@@ -59,11 +59,11 @@
     "Date": "Feb 10",
     "Link": [
   {
-   "quality": "FHD",
-   "name": "Soco",
-   "link": "0",
+   "Quality": "FHD",
+   "Name": "Soco",
+   "Link": "www",
    "Vip" : false,
-   "referee" : ""
+   "Referee" : ""
   }
              ],
     "HomeImage": "https://i.ibb.co/zNhmF1y/download-70.png",
@@ -80,11 +80,11 @@
     "Date": "Feb 10",
     "Link": [
   {
-   "quality": "FHD",
-   "name": "Soco",
-   "link": "www",
+   "Quality": "FHD",
+   "Name": "Soco",
+   "Link": "www",
    "Vip" : false,
-   "referee" : ""
+   "Referee" : ""
   }
              ],
     "HomeImage": "https://i.ibb.co/SrkThSS/download-26.png",
@@ -110,11 +110,11 @@
     "Date": "Feb 10",
     "Link": [
   {
-   "quality": "FHD",
-   "name": "Soco",
-   "link": "www",
+   "Quality": "FHD",
+   "Name": "Soco",
+   "Link": "www",
    "Vip" : false,
-   "referee" : ""
+   "Referee" : ""
   }
              ],
     "HomeImage": "https://i.ibb.co/dkf4cTv/download-54.png",
@@ -140,11 +140,11 @@
     "Date": "Feb 10",
     "Link": [
   {
-   "quality": "FHD",
-   "name": "Soco",
-   "link": "www",
+   "Quality": "FHD",
+   "Name": "Soco",
+   "Link": "0",
    "Vip" : false,
-   "referee" : ""
+   "Referee" : ""
   }
              ],
     "HomeImage": "https://i.ibb.co/L6tK4v1/download-77.png",
