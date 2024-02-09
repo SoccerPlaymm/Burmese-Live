@@ -7,7 +7,7 @@
     
     {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-    "AwayName": "Man City",
+    "AwayName": "Manchester City",
     "Date": "Feb 10",
     "Link": [
   {
@@ -60,7 +60,7 @@
    "Referee" : ""
   },
   {
-   "Quality": "SDD",
+   "Quality": "SD",
    "Name": "English",
    "Link": "www",
    "Vip" : true,
@@ -68,7 +68,7 @@
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-    "HomeName": "Man United",
+    "HomeName": "Manchester United",
     "isLive": true,
     "Time": "2:30 AM"
   }
