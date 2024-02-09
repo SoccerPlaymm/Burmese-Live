@@ -26,42 +26,42 @@
   },
   {
    "Quality": "FHD",
-   "Name": "Soco",
-   "Link": "www",
-   "Vip" : false,
-   "Referee" : ""
-  },
-  {
-   "Quality": "FHD",
-   "Name": "Soco",
-   "Link": "www",
-   "Vip" : false,
-   "Referee" : ""
-  },
-  {
-   "Quality": "FHD",
-   "Name": "Soco",
-   "Link": "0",
-   "Vip" : false,
-   "Referee" : ""
-  },
-  {
-   "Quality": "FHD",
-   "Name": "Soco",
-   "Link": "www",
-   "Vip" : false,
-   "Referee" : ""
-  },
-  {
-   "Quality": "FHD",
-   "Name": "Soco",
+   "Name": "English",
    "Link": "www",
    "Vip" : true,
    "Referee" : ""
   },
   {
    "Quality": "FHD",
-   "Name": "Soco",
+   "Name": "Thailand",
+   "Link": "www",
+   "Vip" : true,
+   "Referee" : ""
+  },
+  {
+   "Quality": "FHD",
+   "Name": "English",
+   "Link": "0",
+   "Vip" : false,
+   "Referee" : ""
+  },
+  {
+   "Quality": "HD",
+   "Name": "English",
+   "Link": "www",
+   "Vip" : false,
+   "Referee" : ""
+  },
+  {
+   "Quality": "SD",
+   "Name": "English",
+   "Link": "www",
+   "Vip" : true,
+   "Referee" : ""
+  },
+  {
+   "Quality": "SDD",
+   "Name": "English",
    "Link": "www",
    "Vip" : true,
    "Referee" : ""
