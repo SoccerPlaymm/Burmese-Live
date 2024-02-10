@@ -27,12 +27,12 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_1.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "https://try1.freegamestreams.com/live/abr_ch3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI0IDEyOjE0OjUxIFBNJmhhc2hfdmFsdWU9WHJ4clZXRlpLaDFtUU8zaERjUDZSZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MzcuMTExLjQ2LjEwOCZzdHJtX2xlbj01"
+   "link": "0"
   },
   {
    "type": "English | HD",
@@ -42,7 +42,7 @@
  {
    "type": "English | SD",
    "Vip": "Non",
-   "link": "https://live.55football.xyz/web1sd/index.m3u8?token=19585f9f5f480eabcdf87a123bab2b50f7d99886-f6cb4e8496840f98548dc12bbfbe6ec2-1707578387-1707567587"
+   "link": "https://live.55football.xyz/web1sd/index.m3u8?token=dbfb7604f374bb358a8e789c1d0b44789a0be6ee-a7db59fe240765745d97abdadc71cae2-1707579447-1707568647"
   },
   {
    "type": "English | HD => VIP",
@@ -76,12 +76,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1707571689-0-0-c2683399f1eb5c7ccce74f4e717a32da"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1707571689-0-0-c2683399f1eb5c7ccce74f4e717a32da"
   },
   {
    "type": "Vebo | HD",
@@ -96,12 +96,12 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://freehdgames.lol/chunklist/hlsch4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI0IDEyOjMwOjI0IFBNJmhhc2hfdmFsdWU9em9GeEdqenNIazJQdGxHRjB4VFc2dz09JnZhbGlkbWludXRlcz03MjAmaWQ9MzcuMTExLjQ2LjEwOCZzdHJtX2xlbj01"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://ovo.eelov.com/live/n-6/chunks.m3u8"
   },
   {
    "type": "English | HD",
@@ -134,7 +134,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
   {
