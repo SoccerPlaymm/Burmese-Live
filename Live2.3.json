@@ -1,74 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/7Vsf3Tg/download-21.png",
-    "AwayName": "Villarreal",
-    "Date": "February 10",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1707571689-0-0-c2683399f1eb5c7ccce74f4e717a32da"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1707571689-0-0-c2683399f1eb5c7ccce74f4e717a32da"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://freehdgames.lol/chunklist/hlsch4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI0IDEyOjMwOjI0IFBNJmhhc2hfdmFsdWU9em9GeEdqenNIazJQdGxHRjB4VFc2dz09JnZhbGlkbWludXRlcz03MjAmaWQ9MzcuMTExLjQ2LjEwOCZzdHJtX2xlbj01"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://ovo.eelov.com/live/n-6/chunks.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
- {
-   "type": "English | SD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9866.png",
-    "HomeName": "Deportivo Alaves",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-    "LeagueName": "LaLiga",
-    "LiveUpcoming": "Live",
-    "Time": "7:30 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/1mCtxQQ/download-58.png",
     "AwayName": "Lazio",
     "Date": "February 10",
@@ -535,12 +466,12 @@
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/"
   },
  {
    "type": "English | SD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://new.ptvcrickethd.com/news/medi.stream/playlist.m3u8?|Referer=https://www.soccertvhd.com/"
   }
              ],
     "HomeImage": "https://i.ibb.co/T12PsPR/download-3.png",
@@ -673,12 +604,12 @@
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/"
   },
  {
    "type": "English | SD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://new.ptvcrickethd.com/third/media.stream/playlist.m3u8?|Referer=https://www.soccertvhd.com/"
   }
              ],
     "HomeImage": "https://i.ibb.co/6Xd01b7/download-9.png",
@@ -766,12 +697,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=4c81d6a06ca8ba5f293e917a3298971e&txTime=65c7e8c5"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=4c81d6a06ca8ba5f293e917a3298971e&txTime=65c7e8c5"
   },
   {
    "type": "Vebo | HD",
