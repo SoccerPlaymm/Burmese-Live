@@ -11,59 +11,59 @@
     "Date": "February 10",
     "Link": [
   {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Vebo | HD",
+   "Name": "Soco | FHD",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
   {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "Soco | HD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "Vebo | HD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | FHD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | FHD",
+   "Referee": "",
+   "Link": "0"
+  },
+  {
+   "Name": "English | HD",
+   "Referee": "",
+   "Link": "0"
+  },
+  {
+   "Name": "English | HD",
+   "Referee": "",
+   "Link": "0"
   },
  {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | SD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD => VIP",
+   "Name": "English | HD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
   {
-   "type": "English | HD => VIP",
+   "Name": "English | HD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
  {
-   "type": "English | SD => VIP",
+   "Name": "English | SD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/v4DMkVK/download-2.png",
@@ -77,59 +77,59 @@
     "Date": "February 10",
     "Link": [
   {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Vebo | HD",
+   "Name": "Soco | FHD",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
   {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "Soco | HD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "Vebo | HD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | FHD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | FHD",
+   "Referee": "",
+   "Link": "0"
+  },
+  {
+   "Name": "English | HD",
+   "Referee": "",
+   "Link": "0"
+  },
+  {
+   "Name": "English | HD",
+   "Referee": "",
+   "Link": "0"
   },
  {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | SD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD => VIP",
+   "Name": "English | HD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
   {
-   "type": "English | HD => VIP",
+   "Name": "English | HD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
  {
-   "type": "English | SD => VIP",
+   "Name": "English | SD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/8YZYVzF/download-15.png",
@@ -143,59 +143,59 @@
     "Date": "February 10",
     "Link": [
   {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Vebo | HD",
+   "Name": "Soco | FHD",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
   {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "Soco | HD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "Vebo | HD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | FHD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | FHD",
+   "Referee": "",
+   "Link": "0"
+  },
+  {
+   "Name": "English | HD",
+   "Referee": "",
+   "Link": "0"
+  },
+  {
+   "Name": "English | HD",
+   "Referee": "",
+   "Link": "0"
   },
  {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | SD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD => VIP",
+   "Name": "English | HD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
   {
-   "type": "English | HD => VIP",
+   "Name": "English | HD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
  {
-   "type": "English | SD => VIP",
+   "Name": "English | SD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/T12PsPR/download-3.png",
@@ -209,59 +209,59 @@
     "Date": "February 10",
     "Link": [
   {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Vebo | HD",
+   "Name": "Soco | FHD",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
   {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "Soco | HD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "Vebo | HD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | FHD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | FHD",
+   "Referee": "",
+   "Link": "0"
+  },
+  {
+   "Name": "English | HD",
+   "Referee": "",
+   "Link": "0"
+  },
+  {
+   "Name": "English | HD",
+   "Referee": "",
+   "Link": "0"
   },
  {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | SD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD => VIP",
+   "Name": "English | HD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
   {
-   "type": "English | HD => VIP",
+   "Name": "English | HD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
  {
-   "type": "English | SD => VIP",
+   "Name": "English | SD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8346.png",
@@ -275,59 +275,59 @@
     "Date": "February 10",
     "Link": [
   {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Vebo | HD",
+   "Name": "Soco | FHD",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
   {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "Soco | HD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "Vebo | HD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | FHD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | FHD",
+   "Referee": "",
+   "Link": "0"
+  },
+  {
+   "Name": "English | HD",
+   "Referee": "",
+   "Link": "0"
+  },
+  {
+   "Name": "English | HD",
+   "Referee": "",
+   "Link": "0"
   },
  {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | SD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD => VIP",
+   "Name": "English | HD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
   {
-   "type": "English | HD => VIP",
+   "Name": "English | HD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
  {
-   "type": "English | SD => VIP",
+   "Name": "English | SD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/6Xd01b7/download-9.png",
@@ -341,59 +341,59 @@
     "Date": "February 10",
     "Link": [
   {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Vebo | HD",
+   "Name": "Soco | FHD",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
   {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "Soco | HD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "Vebo | HD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | FHD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | FHD",
+   "Referee": "",
+   "Link": "0"
+  },
+  {
+   "Name": "English | HD",
+   "Referee": "",
+   "Link": "0"
+  },
+  {
+   "Name": "English | HD",
+   "Referee": "",
+   "Link": "0"
   },
  {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | SD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD => VIP",
+   "Name": "English | HD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
   {
-   "type": "English | HD => VIP",
+   "Name": "English | HD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
  {
-   "type": "English | SD => VIP",
+   "Name": "English | SD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/QJMLcrP/download-10.png",
@@ -407,59 +407,59 @@
     "Date": "Feb 11",
     "Link": [
   {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "Vebo | HD",
+   "Name": "Soco | FHD",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
   {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "Soco | HD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "Vebo | HD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | FHD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | FHD",
+   "Referee": "",
+   "Link": "0"
+  },
+  {
+   "Name": "English | HD",
+   "Referee": "",
+   "Link": "0"
+  },
+  {
+   "Name": "English | HD",
+   "Referee": "",
+   "Link": "0"
   },
  {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
+   "Name": "English | SD",
+   "Referee": "",
+   "Link": "0"
   },
   {
-   "type": "English | HD => VIP",
+   "Name": "English | HD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
   {
-   "type": "English | HD => VIP",
+   "Name": "English | HD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   },
  {
-   "type": "English | SD => VIP",
+   "Name": "English | SD => VIP",
    "Referee": "",
-   "link": "0"
+   "Link": "0"
   }
              ],
     "HomeImage": "https://i.ibb.co/0MyVzRP/download-7.png",
