@@ -11,59 +11,33 @@
     "Date": "Feb 10",
     "Link": [
   {
-   "Quality": "FHD",
    "Name": "Soco",
    "Link": "www",
-   "Vip" : false,
    "Referee" : ""
   },
   {
-   "Quality": "FHD",
    "Name": "Soco",
    "Link": "www",
-   "Vip" : false,
    "Referee" : ""
   },
   {
-   "Quality": "FHD",
-   "Name": "English",
+   "Name": "Soco",
    "Link": "www",
-   "Vip" : true,
    "Referee" : ""
   },
   {
-   "Quality": "FHD",
-   "Name": "Thailand",
+   "Name": "Soco",
    "Link": "www",
-   "Vip" : true,
    "Referee" : ""
   },
   {
-   "Quality": "FHD",
-   "Name": "English",
-   "Link": "0",
-   "Vip" : false,
-   "Referee" : ""
-  },
-  {
-   "Quality": "HD",
-   "Name": "English",
+   "Name": "Soco",
    "Link": "www",
-   "Vip" : false,
    "Referee" : ""
   },
   {
-   "Quality": "SD",
-   "Name": "English",
+   "Name": "Soco",
    "Link": "www",
-   "Vip" : true,
-   "Referee" : ""
-  },
-  {
-   "Quality": "SD",
-   "Name": "English",
-   "Link": "www",
-   "Vip" : true,
    "Referee" : ""
   }
              ],
@@ -87,10 +61,8 @@
     "Date": "Feb 10",
     "Link": [
   {
-   "Quality": "FHD",
    "Name": "Soco",
-   "Link": "0",
-   "Vip" : false,
+   "Link": "www",
    "Referee" : ""
   }
              ],
@@ -108,10 +80,8 @@
     "Date": "Feb 10",
     "Link": [
   {
-   "Quality": "FHD",
    "Name": "Soco",
-   "Link": "0",
-   "Vip" : false,
+   "Link": "www",
    "Referee" : ""
   }
              ],
@@ -138,10 +108,8 @@
     "Date": "Feb 10",
     "Link": [
   {
-   "Quality": "FHD",
    "Name": "Soco",
    "Link": "www",
-   "Vip" : false,
    "Referee" : ""
   }
              ],
@@ -168,10 +136,8 @@
     "Date": "Feb 10",
     "Link": [
   {
-   "Quality": "FHD",
    "Name": "Soco",
-   "Link": "0",
-   "Vip" : false,
+   "Link": "www",
    "Referee" : ""
   }
              ],
