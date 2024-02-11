@@ -1,74 +1,5 @@
 [
   {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9891.png",
-    "AwayName": "Frosinone",
-    "Date": "February 11",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-400798_lhd.m3u8?auth_key=1707653709-0-0-b36da696b60f0127d8cc310367557a97"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-400798_lsd.m3u8?auth_key=1707653709-0-0-b36da696b60f0127d8cc310367557a97"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://soccer.freesportstime.com/live/stream_7.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://ovo.anchorlot.com/live/n-3/chunks.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://freehdgames.lol/chunklist/hlsch2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI0IDExOjExOjE0IEFNJmhhc2hfdmFsdWU9U0Z6Z0dLS2ROMVhDM3FLOFk2TVB6QT09JnZhbGlkbWludXRlcz03MjAmaWQ9MzcuMTExLjQ2LjYzJnN0cm1fbGVuPTU="
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
- {
-   "type": "English | SD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/Sc8jcxx/download-53.png",
-    "HomeName": "Fiorentina",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "6:00 PM"
-  },
-  {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9851.png",
     "AwayName": "Rennes",
     "Date": "February 11",
@@ -214,12 +145,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1707662949-0-0-300a88ed799cf6d290c23113db7cc9eb"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1707662949-0-0-300a88ed799cf6d290c23113db7cc9eb"
   },
   {
    "type": "Vebo | HD",
@@ -229,22 +160,22 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_1.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_1.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://freehdgames.lol/chunklist/hlsch7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI0IDE6MzE6MzYgUE0maGFzaF92YWx1ZT1Hekl0WUNxQjRsSWV0OEQzTS9MVkNnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMwLjIwOCZzdHJtX2xlbj01"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://ovo.anchorlot.com/live/n-1/chunks.m3u8"
   },
  {
    "type": "English | SD",
@@ -259,12 +190,12 @@
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/"
   },
  {
    "type": "English | SD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://13840-21.b.cdn12.com/news/medi.stream/playlist.m3u8?|Referer=https://www.soccertvhd.com/"
   }
              ],
     "HomeImage": "https://i.ibb.co/0B03V1F/download-19.png",
@@ -272,7 +203,7 @@
     "Hot": "",
     "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
     "LeagueName": "Premier League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -283,12 +214,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1707662829-0-0-8be7c587a2bdb53bd9e9b89a8b234d80"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1707662829-0-0-8be7c587a2bdb53bd9e9b89a8b234d80"
   },
   {
    "type": "Vebo | HD",
@@ -303,17 +234,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_7.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://freehdgames.lol/chunklist/hlsch1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI0IDE6MzQ6MjkgUE0maGFzaF92YWx1ZT1PUlZrTTAvTWE5RWxYTjhmZ2pMMkZnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMwLjIwOCZzdHJtX2xlbj01"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://ovo.eelov.com/live/n-3/chunks.m3u8"
   },
  {
    "type": "English | SD",
@@ -328,7 +259,7 @@
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/"
   },
  {
    "type": "English | SD => VIP",
@@ -341,7 +272,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -352,12 +283,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-115447_lhd.m3u8?auth_key=1707662709-0-0-7d2e462e902e622eab48b1c4542a2ccd"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-115447_lsd.m3u8?auth_key=1707662709-0-0-7d2e462e902e622eab48b1c4542a2ccd"
   },
   {
    "type": "Vebo | HD",
@@ -372,17 +303,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_3.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://freehdgames.lol/chunklist/hlsch2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI0IDE6MzM6MzAgUE0maGFzaF92YWx1ZT1GVG84M1hNL1Y2YzF3N2JSZ2xyRW9nPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMwLjIwOCZzdHJtX2xlbj01"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://ovo.eelov.com/live/n-4/chunks.m3u8"
   },
  {
    "type": "English | SD",
@@ -397,7 +328,7 @@
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/"
   },
  {
    "type": "English | SD => VIP",
@@ -410,7 +341,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
   {
@@ -421,12 +352,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1707662595-0-0-742d0a3591814680a3303a713824d8b3"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9911957_lsd.m3u8?auth_key=1707662595-0-0-742d0a3591814680a3303a713824d8b3"
   },
   {
    "type": "Vebo | HD",
