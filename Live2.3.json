@@ -372,12 +372,12 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_9.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://freehdgames.lol/chunklist/hlsch15.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI0IDE6NTQ6MzUgUE0maGFzaF92YWx1ZT1qY3k4S2xNdVNHdFQycEpaSDM5VG1BPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMDMuMjE2LjE5Ni4zJnN0cm1fbGVuPTU="
   },
   {
    "type": "English | HD",
@@ -410,7 +410,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
   {
