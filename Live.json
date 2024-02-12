@@ -11,9 +11,9 @@
     "Date": "Feb 10",
     "Link": [
   {
-   "Name": "Soco | FHD",
-   "Referee": "",
-   "Link": "0"
+   "Name": "China | FHD",
+   "Referee": "https://m.yyzb.tv/",
+   "Link": "https://pull.juqihuo.com/live/stream-239803_lhd.flv?auth_key=1707710470-0-0-1d82911c56590b1dfbeddea61792ffd0"
   },
   {
    "Name": "Soco | HD",
@@ -28,7 +28,7 @@
   {
    "Name": "English | FHD",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://live-hls-web-aje.getaj.net/AJE/04.m3u8"
   },
   {
    "Name": "English | FHD",
@@ -68,7 +68,7 @@
              ],
     "HomeImage": "https://i.ibb.co/v4DMkVK/download-2.png",
     "HomeName": "Man City",
-    "isLive": false,
+    "isLive": true,
     "Time": "7:00 PM"
   },
   {
