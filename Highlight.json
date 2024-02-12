@@ -156,7 +156,7 @@
     "HomeImage": "https://i.ibb.co/T12PsPR/download-3.png",
     "HomeName": "Liverpool",
     "isLive": false,
-    "Time": "9:30 PM"
+    "Time": "1 - 2"
   },
   {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8657.png",
@@ -222,7 +222,7 @@
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8346.png",
     "HomeName": "Luton",
     "isLive": false,
-    "Time": "9:30 PM"
+    "Time": "0 - 0"
   },
   {
     "AwayImage": "https://i.ibb.co/RBH2X6r/download-13.png",
@@ -288,7 +288,7 @@
     "HomeImage": "https://i.ibb.co/6Xd01b7/download-9.png",
     "HomeName": "Tottenham",
     "isLive": false,
-    "Time": "9:30 PM"
+    "Time": "3 - 4"
   },
   {
     "AwayImage": "https://i.ibb.co/gzBVDwK/download-18.png",
@@ -354,7 +354,7 @@
     "HomeImage": "https://i.ibb.co/QJMLcrP/download-10.png",
     "HomeName": "Wolves",
     "isLive": false,
-    "Time": "9:30 PM"
+    "Time": "5 - 0"
   },
   {
     "AwayImage": "https://i.ibb.co/McsHxxG/download-4.png",
@@ -420,7 +420,7 @@
     "HomeImage": "https://i.ibb.co/0MyVzRP/download-7.png",
     "HomeName": "Nottm Forest",
     "isLive": false,
-    "Time": "12:00 AM"
+    "Time": "1 - 6"
   }
      
      ]
@@ -448,7 +448,7 @@
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
     "isLive": true,
-    "Time": "2:30 AM"
+    "Time": "1 - 1"
   },
   {
     "AwayImage": "https://i.ibb.co/1mg68jB/download-24.png",
@@ -467,7 +467,7 @@
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
     "isLive": false,
-    "Time": "2:30 AM"
+    "Time": "5 - 2"
   }
      
      ]
@@ -495,7 +495,7 @@
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
     "isLive": false,
-    "Time": "2:15 AM"
+    "Time": "0 - 0"
   }
   
      ]
@@ -520,7 +520,7 @@
     "HomeImage": "https://i.ibb.co/L6tK4v1/download-77.png",
     "HomeName": "Dortmund",
     "isLive": true,
-    "Time": "2:00 AM"
+    "Time": "7 - 2"
   }
   
      ]
