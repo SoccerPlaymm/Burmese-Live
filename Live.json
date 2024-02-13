@@ -11,19 +11,24 @@
     "Date": "Feb 10",
     "Link": [
   {
-   "Name": "China | FHD",
-   "Referee": "https://m.yyzb.tv/",
-   "Link": "https://pull.juqihuo.com/live/stream-177975_lhd.m3u8?auth_key=1707712150-0-0-9b7c5e70401777801245b167882660a9"
+   "Name": "Soco | FHD",
+   "Referee": "",
+   "Link": "https://pull01.rrwes.live/live/stream-9912077_lhd.m3u8?txSecret=5441bf29b70bb22b06bbb0f555db636e&txTime=65cc1909"
   },
   {
-   "Name": "Soco | HD",
-   "Referee": "https://m.yyzb.tv/",
-   "Link": "https://pull.juqihuo.com/live/stream-177975_lhd.m3u8?auth_key=1707712150-0-0-9b7c5e70401777801245b167882660a9"
+   "Name": "Soco | SD",
+   "Referee": "",
+   "Link": "https://pull01.rrwes.live/live/stream-9912077_lhd.m3u8?txSecret=5441bf29b70bb22b06bbb0f555db636e&txTime=65cc1909"
+  },
+  {
+   "Name": "China | HD",
+   "Referee": "",
+   "Link": "https://pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1707857111-0-0-8c0ccf5fc5af8e909eea768b0fca4e7e"
   },
   {
    "Name": "Vebo | HD",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://watch.ezyproxy.com",
+   "Link": "https://live-eu-cizve9esipliv.thapcam.link/oldHD/index.m3u8"
   },
   {
    "Name": "English | FHD",
@@ -33,42 +38,32 @@
   {
    "Name": "English | FHD",
    "Referee": "",
-   "Link": "https://hls.streambtw.com/live/stream_6.m3u8"
+   "Link": "https://hls.streambtw.com/live/stream_1.m3u8"
   },
   {
    "Name": "English | HD",
-   "Referee": "https://live-streamfootball.com",
-   "Link": "https://livecdn-bp.rumsport.com/stream/2/chunks.m3u8?x-sign=1c188fbbcddb7f017cd14810905fe6e6&x-time=1707840780&is_vip=false&token=5f394122e042c859bddcf7cd9c8b1746d990a751"
+   "Referee": "",
+   "Link": "https://hderthds.site/chunklist/hlsch1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDI0IDc6MzQ6MDIgUE0maGFzaF92YWx1ZT1mNFRJWWI2ZHAzcVJzVVVzYnRGMVBnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMwLjE3JnN0cm1fbGVuPTU="
   },
   {
-   "Name": "Portugal | HD",
+   "Name": "English | HD",
+   "Referee": "",
+   "Link": "https://ovos.lol/live/n-1/chunks.m3u8"
+  },
+  {
+   "Name": "English | HD => VIP",
+   "Referee": "https://www.soccertvhd.com/",
+   "Link": "https://13840-21.b.cdn12.com/news/medi.stream/news/medi1/chunks.m3u8"
+  },
+  {
+   "Name": "English | HD => VIP",
    "Referee": "https://play.azencode.com/",
-   "Link": "https://nlsuper.score806.cc/pt_sporttv1/index.m3u8"
-  },
- {
-   "Name": "China | HD",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-534857_lhd.m3u8?auth_key=1707844330-0-0-526c22f55bfa6bc9ebdf8bcdcdab86d5"
-  },
-  {
-   "Name": "China | HD",
-   "Referee": "",
-   "Link": "0"
-  },
-  {
-   "Name": "English | HD => VIP",
-   "Referee": "",
-   "Link": "0"
-  },
-  {
-   "Name": "English | HD => VIP",
-   "Referee": "",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/uk_bts1/index.m3u8"
   },
  {
    "Name": "English | SD => VIP",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://live.55football.xyz/web2sd/index.m3u8?token=0d8d407187995d520ede2d4679ea18f6dc0351ca-43229b70f43c22386204bf0a8026c486-1707863790-1707852990"
   }
              ],
     "HomeImage": "https://i.ibb.co/v4DMkVK/download-2.png",
