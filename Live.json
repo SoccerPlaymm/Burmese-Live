@@ -38,22 +38,22 @@
   {
    "Name": "English | HD",
    "Referee": "https://live-streamfootball.com",
-   "Link": "https://livecdn-bp.rumsport.com/stream/32/chunks.m3u8?x-sign=c29059d851e1a653f79aaf986ae434ea&x-time=1707837720&is_vip=false&token=5f394122e042c859bddcf7cd9c8b1746d990a751"
+   "Link": "https://livecdn-bp.rumsport.com/stream/2/chunks.m3u8?x-sign=1c188fbbcddb7f017cd14810905fe6e6&x-time=1707840780&is_vip=false&token=5f394122e042c859bddcf7cd9c8b1746d990a751"
   },
   {
-   "Name": "English | HD",
-   "Referee": "https://live-streamfootball.com",
-   "Link": "https://livecdn.rumsport.com/stream/32/chunks.m3u8?token=5f394122e042c859bddcf7cd9c8b1746d990a751&is_vip=false&verify=1707837720-DvHC%2BwXoB0m3WIrI2ETWnRkD8zTAisAGaTorKabLNPY%3D"
+   "Name": "Portugal | HD",
+   "Referee": "https://play.azencode.com/",
+   "Link": "https://nlsuper.score806.cc/pt_sporttv1/index.m3u8"
   },
  {
    "Name": "China | HD",
    "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-492306_lhd.m3u8?auth_key=1707841450-0-0-388e1212114f587033f353a896ed4c30"
+   "Link": "https://pull.juqihuo.com/live/stream-534857_lhd.m3u8?auth_key=1707844330-0-0-526c22f55bfa6bc9ebdf8bcdcdab86d5"
   },
   {
    "Name": "China | HD",
    "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-492306_lsd.m3u8?auth_key=1707841450-0-0-388e1212114f587033f353a896ed4c30"
+   "Link": "0"
   },
   {
    "Name": "English | HD => VIP",
