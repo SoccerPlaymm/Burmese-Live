@@ -1,18 +1,18 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/h169GkS/download-59.png",
-    "AwayName": "Udinese",
-    "Date": "February 13",
+    "AwayImage": "https://i.ibb.co/v4DMkVK/download-2.png",
+    "AwayName": "Manchester City",
+    "Date": "February 14",
     "Link": [
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912011_lhd.m3u8?auth_key=1707770529-0-0-7364d736a8b1eac3d5364be2145231ab"
+   "link": "0"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912011_lsd.m3u8?auth_key=1707770529-0-0-7364d736a8b1eac3d5364be2145231ab"
+   "link": "0"
   },
   {
    "type": "Vebo | HD",
@@ -27,17 +27,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_7.m3u8"
+   "link": "0"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "https://hderthds.site/chunklist/hlsch1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDI0IDc6NDA6MzYgUE0maGFzaF92YWx1ZT1ySkROT1ZDaVd6eWdZT05LR1ZNMW5BPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMxLjYxJnN0cm1fbGVuPTU="
+   "link": "0"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "https://ovoss.lol/live/n-3/chunks.m3u8"
+   "link": "0"
   },
  {
    "type": "English | SD",
@@ -60,107 +60,38 @@
    "link": "0"
   }
              ],
-    "HomeImage": "https://i.ibb.co/Xj0bkGg/download-48.png",
-    "HomeName": "Juventus",
+    "HomeImage": "https://i.ibb.co/9WCfxWt/download-78.png",
+    "HomeName": "Copenhagen",
     "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-    "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
-    "Time": "2:15 AM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/MMN9Rw5/download.png",
-    "AwayName": "Chelsea",
-    "Date": "February 13",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=7b4fe0322a27b870d95df6a39a3017ac&txTime=65cac969"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=7b4fe0322a27b870d95df6a39a3017ac&txTime=65cac969"
-  },
-  {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_1.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://hderthds.site/chunklist/hlsch2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDI0IDc6NDU6MTIgUE0maGFzaF92YWx1ZT1oSDZxcW5HZUh2OE1EUVhUekhGc0tnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMxLjYxJnN0cm1fbGVuPTU="
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://ovossssss.lol/live/n-1/chunks.m3u8"
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/"
-  },
- {
-   "type": "English | SD => VIP",
-   "Vip": "Vip",
-   "link": "https://13840-21.b.cdn12.com/news/medi.stream/playlist.m3u8?|Referer=https://www.soccertvhd.com/"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/PF2LKYS/download-6.png",
-    "HomeName": "Crystal Palace",
-    "Hot": "",
-    "LeagueImage": "https://logodownload.org/wp-content/uploads/2016/03/premier-league-5.png",
-    "LeagueName": "Premier League",
-    "LiveUpcoming": "Live",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+    "LeagueName": "Champions League",
+    "LiveUpcoming": "Upcoming",
     "Time": "2:30 AM"
   },
   {
-    "AwayImage": "https://i.ibb.co/8KWFTPM/download-31.png",
-    "AwayName": "Athletic Club",
-    "Date": "February 13",
+    "AwayImage": "https://i.ibb.co/N27SsT5/download-35.png",
+    "AwayName": "Real Madrid",
+    "Date": "February 14",
     "Link": [
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-490081_lhd.m3u8?auth_key=1707770589-0-0-70f49a8ad734160a67777607f2858b58"
+   "link": "0"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-490081_lsd.m3u8?auth_key=1707770589-0-0-70f49a8ad734160a67777607f2858b58"
+   "link": "0"
   },
   {
    "type": "Vebo | HD",
    "Vip": "Vip",
-   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
+   "link": "0"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "https://hderthds.site/chunklist/hlsch3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDI0IDc6NDY6MjEgUE0maGFzaF92YWx1ZT1oaWs5Z2JHNXp4b1IraG1zaTJITnVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMxLjYxJnN0cm1fbGVuPTU="
+   "link": "0"
   },
   {
    "type": "English | FHD",
@@ -170,7 +101,7 @@
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "https://ovos.lol/live/n-2/chunks.m3u8"
+   "link": "0"
   },
   {
    "type": "English | HD",
@@ -198,12 +129,219 @@
    "link": "0"
   }
              ],
-    "HomeImage": "https://i.ibb.co/yPjv50N/download-30.png",
-    "HomeName": "Almeria",
+    "HomeImage": "https://i.ibb.co/HdHxByy/download-76.png",
+    "HomeName": "RB Leipzig",
     "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-    "LeagueName": "LaLiga",
-    "LiveUpcoming": "Live",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+    "LeagueName": "Champions League",
+    "LiveUpcoming": "Upcoming",
+    "Time": "2:30 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/Sc8jcxx/download-53.png",
+    "AwayName": "Fiorentina",
+    "Date": "February 15",
+    "Link": [
+  {
+   "type": "Soco | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo | HD",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+ {
+   "type": "English | SD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://www.soccer24.com/res/image/data/j3Tyh1GG-bucnXust.png",
+    "HomeName": "Bologna",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+    "LeagueName": "Serie A",
+    "LiveUpcoming": "Upcoming",
+    "Time": "12:30 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/D46m1WD/download-65.png",
+    "AwayName": "Bayern",
+    "Date": "February 15",
+    "Link": [
+  {
+   "type": "Soco | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo | HD",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+ {
+   "type": "English | SD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/1mCtxQQ/download-58.png",
+    "HomeName": "Lazio",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+    "LeagueName": "Champions League",
+    "LiveUpcoming": "Upcoming",
+    "Time": "2:30 AM"
+  },
+  {
+    "AwayImage": "https://i.ibb.co/Px76w8v/download-27.png",
+    "AwayName": "Real Sociedad",
+    "Date": "February 15",
+    "Link": [
+  {
+   "type": "Soco | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Soco | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "Vebo | HD",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | FHD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD",
+   "Vip": "Non",
+   "link": "0"
+  },
+ {
+   "type": "English | SD",
+   "Vip": "Non",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+  {
+   "type": "English | HD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  },
+ {
+   "type": "English | SD => VIP",
+   "Vip": "Vip",
+   "link": "0"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/cx92kG0/download-79.png",
+    "HomeName": "PSG",
+    "Hot": "",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+    "LeagueName": "Champions League",
+    "LiveUpcoming": "Upcoming",
     "Time": "2:30 AM"
   }
 ]
