@@ -13,12 +13,12 @@
   {
    "Name": "China | FHD",
    "Referee": "https://m.yyzb.tv/",
-   "Link": "https://pull.juqihuo.com/live/stream-177975_lhd.flv?auth_key=1707712150-0-0-9b7c5e70401777801245b167882660a9"
+   "Link": "https://pull.juqihuo.com/live/stream-177975_lhd.m3u8?auth_key=1707712150-0-0-9b7c5e70401777801245b167882660a9"
   },
   {
    "Name": "Soco | HD",
    "Referee": "https://m.yyzb.tv/",
-   "Link": "https://pull.juqihuo.com/live/stream-177975_lhd.flv?auth_key=1707712150-0-0-9b7c5e70401777801245b167882660a9"
+   "Link": "https://pull.juqihuo.com/live/stream-177975_lhd.m3u8?auth_key=1707712150-0-0-9b7c5e70401777801245b167882660a9"
   },
   {
    "Name": "Vebo | HD",
@@ -37,18 +37,23 @@
   },
   {
    "Name": "English | HD",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://live-streamfootball.com",
+   "Link": "https://livecdn-bp.rumsport.com/stream/32/chunks.m3u8?x-sign=c29059d851e1a653f79aaf986ae434ea&x-time=1707837720&is_vip=false&token=5f394122e042c859bddcf7cd9c8b1746d990a751"
   },
   {
    "Name": "English | HD",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://live-streamfootball.com",
+   "Link": "https://livecdn.rumsport.com/stream/32/chunks.m3u8?token=5f394122e042c859bddcf7cd9c8b1746d990a751&is_vip=false&verify=1707837720-DvHC%2BwXoB0m3WIrI2ETWnRkD8zTAisAGaTorKabLNPY%3D"
   },
  {
-   "Name": "English | SD",
+   "Name": "China | HD",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-492306_lhd.m3u8?auth_key=1707841450-0-0-388e1212114f587033f353a896ed4c30"
+  },
+  {
+   "Name": "China | HD",
+   "Referee": "",
+   "Link": "https://pull.juqihuo.com/live/stream-492306_lsd.m3u8?auth_key=1707841450-0-0-388e1212114f587033f353a896ed4c30"
   },
   {
    "Name": "English | HD => VIP",
