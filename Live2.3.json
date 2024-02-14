@@ -76,32 +76,32 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1707943209-0-0-2fa2c72bcca331e414b63f7b9855cc0f"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1707943209-0-0-2fa2c72bcca331e414b63f7b9855cc0f"
   },
   {
    "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
+   "Vip": "Non",
+   "link": "https://pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1707943030-0-0-4f011d9a10a30594c95d11e5d4e1521a"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hderthds.site/chunklist/hlsch1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDI0IDc6MzI6NDcgUE0maGFzaF92YWx1ZT1VY2p6emw1T1BuZ1JCc3pqWlJmQ3p3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMxLjIyMSZzdHJtX2xlbj01"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_2.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://ovosss.lol/live/n-2/chunks.m3u8"
   },
   {
    "type": "English | HD",
@@ -121,12 +121,12 @@
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://nlsuper.score806.cc/uk_bts1/tracks-v1a1/mono.m3u8?|Referer=https://play.azencode.com/"
   },
  {
    "type": "English | SD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://nlsuper.score806.cc/pt_elevensport2/index.m3u8?|Referer=https://play.azencode.com/"
   }
              ],
     "HomeImage": "https://i.ibb.co/1mCtxQQ/download-58.png",
@@ -134,7 +134,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
     "LeagueName": "Champions League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   },
   {
@@ -145,32 +145,32 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1707943329-0-0-a1166d7dc512280a3de7b9715d24048a"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1707943329-0-0-a1166d7dc512280a3de7b9715d24048a"
   },
   {
    "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
+   "Vip": "Non",
+   "link": "https://pull.juqihuo.com/live/stream-637115_lhd.m3u8?auth_key=1707942971-0-0-bada1d1fe4c10aebcbb9a87852034fc9"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hderthds.site/chunklist/hlsch2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDI0IDc6MzE6MjAgUE0maGFzaF92YWx1ZT1jNWRmSnoyam1jTXcyQnVuSlgxbk93PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMxLjIyMSZzdHJtX2xlbj01"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_1.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://ovosssss.lol/live/n-1/chunks.m3u8"
   },
   {
    "type": "English | HD",
@@ -190,12 +190,12 @@
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://nlsuper.score806.cc/uk_bts2/index.m3u8?|Referer=https://play.azencode.com/"
   },
  {
    "type": "English | SD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://nlsuper.score806.cc/uk_bts2/index.m3u8?|Referer=https://play.azencode.com/"
   }
              ],
     "HomeImage": "https://i.ibb.co/cx92kG0/download-79.png",
@@ -203,7 +203,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
     "LeagueName": "Champions League",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:30 AM"
   }
 ]
