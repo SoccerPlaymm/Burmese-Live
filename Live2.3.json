@@ -7,17 +7,17 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-400798_lhd.m3u8?auth_key=1707936669-0-0-8d7d23052a8df777302e9cd855016644"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-400798_lsd.m3u8?auth_key=1707936669-0-0-8d7d23052a8df777302e9cd855016644"
   },
   {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
+   "type": "China | HD",
+   "Vip": "Non",
+   "link": "https://pull.juqihuo.com/live/stream-4569315_lhd.m3u8?auth_key=1707936610-0-0-76acfc3912a83d160052cec1b7b89409"
   },
   {
    "type": "English | FHD",
@@ -27,12 +27,12 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_7.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://freehdgames.lol/chunklist/hlsch3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDI0IDU6NDk6MTYgUE0maGFzaF92YWx1ZT15clJjRTBlUnE0YUY2ZFU2bE9pdGJRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMxLjE5NyZzdHJtX2xlbj01"
   },
   {
    "type": "English | HD",
@@ -65,7 +65,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:30 AM"
   },
   {
