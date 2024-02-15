@@ -2,7 +2,7 @@
 
 {
  "Categories" : "Entertainment",
- "Movies" : [
+ "Channels" : [
     
     { "channelName" : "MRTV-4",
    "image" : "http://static.pyoneplay.com/static/live/li_bg_1571902845.jpg",
@@ -106,7 +106,7 @@
  }, 
 {
  "Categories" : "News",
- "Movies" : [
+ "Channels" : [
     
     { "channelName" : "MRTV-4",
    "image" : "http://static.pyoneplay.com/static/live/li_bg_1571902845.jpg",
@@ -210,7 +210,7 @@
  }, 
  {
  "Categories" : "Baby",
- "Movies" : [
+ "Channels" : [
  
     { "channelName" : "MRTV-4",
    "image" : "http://static.pyoneplay.com/static/live/li_bg_1571902845.jpg",
@@ -314,7 +314,7 @@
  },
  {
  "Categories" : "Sport",
- "Movies" : [
+ "Channels" : [
  
     { "channelName" : "MRTV-4",
    "image" : "http://static.pyoneplay.com/static/live/li_bg_1571902845.jpg",
