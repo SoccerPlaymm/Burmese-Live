@@ -23,24 +23,6 @@
    "link" : "https://tv.mahar.live/mahar/website.stream/playlist.m3u8?hdnts=exp=1648482423~acl=/*~hmac=3c1e7c2ddfaac3a9629d71d4d4a9be635197f03754c411c3fcc1a35d66858f43"
 },
 {
- "Referer" : "https://www.myanmartvchannels.com",
- "channelName" : "Fortune",
-   "image" : "https://i.ytimg.com/vi/UiDs9XlEswU/maxresdefault.jpg",
-   "link" : "https://streammain.myanmartvchannels.com:999/website-fortune2-stream/website-fortune2-stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI0IDM6MzI6MTEgQU0maGFzaF92YWx1ZT1vSDI5WXVVY0gzalVhS0tqYlR1V1ZBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTQ3"
-},
-{
- "Referer" : "https://www.myanmartvchannels.com",
- "channelName" : "Channel 9",
-   "image" : "https://upload.wikimedia.org/wikipedia/commons/7/79/Channel9myanmarlogo.png",
-   "link" : "https://streammain.myanmartvchannels.com:999/website-channel9-stream/website-channel9-stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI0IDM6MjQ6MTggQU0maGFzaF92YWx1ZT1raWtYYjZBQlRueGp2WWM5SVUvSDNnPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTQ3"
-},
-{
- "Referer" : "https://www.myanmartvchannels.com",
- "channelName" : "YTV",
-   "image" : "https://ytvmm.com/wp-content/uploads/YTV-Site-Icon.jpg",
-   "link" : "https://streammain.myanmartvchannels.com:999/website-ytv-stream/website-ytv-stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI0IDM6MjA6MzkgQU0maGFzaF92YWx1ZT0zVnJTazhSczZlS1hsUW5WZ1hoSkZBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTM3"
-},
-{
    "Referer" : "",
    "channelName" : "MNTV",
    "image" : "https://yt3.ggpht.com/ytc/AMLnZu8tIx7w_ftV28AmK36qbznIJKTkHd5LApBd4RnV=s900-c-k-c0x00ffffff-no-rj",
