@@ -7,17 +7,22 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1708107969-0-0-cb8bea61088866e3e54b40d9e59cc505"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1708107969-0-0-cb8bea61088866e3e54b40d9e59cc505"
   },
   {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
+   "type": "China | HD",
+   "Vip": "Non",
+   "link": "https://pull.juqihuo.com/live/stream-553612_lhd.m3u8?auth_key=1708107791-0-0-cba814194a85725d6a52d8bfd3b93bc5"
+  },
+  {
+   "type": "China | SD",
+   "Vip": "Non",
+   "link": "https://pull.juqihuo.com/live/stream-553612_lsd.m3u8?auth_key=1708107791-0-0-cba814194a85725d6a52d8bfd3b93bc5"
   },
   {
    "type": "English | FHD",
@@ -27,17 +32,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_7.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://freegamestreams.com/live/abr_ch1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI0IDU6MjI6NDkgUE0maGFzaF92YWx1ZT0vTGExQlRiS2pXRTZETlZ6Tld1TjRRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMwLjIwJnN0cm1fbGVuPTU="
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://ovossss.lol/live/n-2/chunks.m3u8"
   },
  {
    "type": "English | SD",
@@ -65,7 +70,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "12:30 AM"
   },
   {
@@ -76,12 +81,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1708107969-0-0-cd6de585d414a9bb62d1319ef4210a3b"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1708107969-0-0-cd6de585d414a9bb62d1319ef4210a3b"
   },
   {
    "type": "Vebo | HD",
@@ -145,12 +150,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912045_lhd.m3u8?auth_key=1708108089-0-0-e7650702c3d9d48f6ef5531d2b74fb31"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912045_lsd.m3u8?auth_key=1708108089-0-0-e7650702c3d9d48f6ef5531d2b74fb31"
   },
   {
    "type": "Vebo | HD",
@@ -214,12 +219,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=1ee4f1e792fbc9da2a3b6fb493e42611&txTime=65cfef89"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=1ee4f1e792fbc9da2a3b6fb493e42611&txTime=65cfef89"
   },
   {
    "type": "Vebo | HD",
@@ -283,12 +288,12 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912004_lhd.m3u8?auth_key=1708108149-0-0-5dc6a57c5a385e76ee149ad52c1ca1da"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912004_lsd.m3u8?auth_key=1708108149-0-0-5dc6a57c5a385e76ee149ad52c1ca1da"
   },
   {
    "type": "Vebo | HD",
