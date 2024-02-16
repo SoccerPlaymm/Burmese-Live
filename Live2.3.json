@@ -70,7 +70,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveLive": "Live",
+    "LiveUpocoming": "Live",
     "Time": "12:30 AM"
   },
   {
@@ -144,7 +144,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveLive": "Live",
+    "LiveUpocoming": "Live",
     "Time": "2:00 AM"
   },
   {
@@ -218,7 +218,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveLive": "Live",
+    "LiveUpocoming": "Live",
     "Time": "2:30 AM"
   },
   {
@@ -292,7 +292,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveLive": "Live",
+    "LiveUpocoming": "Live",
     "Time": "2:30 AM"
   },
   {
@@ -366,7 +366,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveLive": "Live",
+    "LiveUpocoming": "Live",
     "Time": "2:30 AM"
   }
 ]
