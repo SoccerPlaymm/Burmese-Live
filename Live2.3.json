@@ -70,7 +70,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Live",
+    "LiveLive": "Live",
     "Time": "12:30 AM"
   },
   {
@@ -89,9 +89,14 @@
    "link": "https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1708107969-0-0-cd6de585d414a9bb62d1319ef4210a3b"
   },
   {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
+   "type": "China | HD",
+   "Vip": "Non",
+   "link": "https://pull.juqihuo.com/live/stream-613431_lhd.m3u8?auth_key=1708109291-0-0-65af125f786bf534f6e1d420b5f3b8b7"
+  },
+{
+   "type": "China | SD",
+   "Vip": "Non",
+   "link": "https://pull.juqihuo.com/live/stream-613431_lsd.m3u8?auth_key=1708109291-0-0-65af125f786bf534f6e1d420b5f3b8b7"
   },
   {
    "type": "English | FHD",
@@ -101,17 +106,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_9.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_9.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://shora-streams.com/chunklist/hlsch8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI0IDU6NTI6MzUgUE0maGFzaF92YWx1ZT1NSHoyKytUMGhsSk5IWDRzRGlkcDdnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMwLjIwJnN0cm1fbGVuPTU="
   },
  {
    "type": "English | SD",
@@ -139,7 +144,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveLive": "Live",
     "Time": "2:00 AM"
   },
   {
@@ -158,9 +163,14 @@
    "link": "https://pull.niues.live/live/stream-9912045_lsd.m3u8?auth_key=1708108089-0-0-e7650702c3d9d48f6ef5531d2b74fb31"
   },
   {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
+   "type": "China | HD",
+   "Vip": "Non",
+   "link": "https://pull.juqihuo.com/live/stream-572503_lhd.m3u8?auth_key=1708109291-0-0-196e3ddb56fee2da1e312351bbda403d"
+  },
+{
+   "type": "China | SD",
+   "Vip": "Non",
+   "link": "https://pull.juqihuo.com/live/stream-572503_lsd.m3u8?auth_key=1708109291-0-0-196e3ddb56fee2da1e312351bbda403d"
   },
   {
    "type": "English | FHD",
@@ -170,17 +180,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_6.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://freegamestreams.com/live/abr_ch4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI0IDU6NTE6NDYgUE0maGFzaF92YWx1ZT1IZUVBWWJxaExnMGlUdkJlOUt4SUlnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMwLjIwJnN0cm1fbGVuPTU="
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://ovosss.lol/live/n-1/chunks.m3u8"
   },
  {
    "type": "English | SD",
@@ -208,7 +218,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveLive": "Live",
     "Time": "2:30 AM"
   },
   {
@@ -227,9 +237,14 @@
    "link": "https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=1ee4f1e792fbc9da2a3b6fb493e42611&txTime=65cfef89"
   },
   {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
+   "type": "China | HD",
+   "Vip": "Non",
+   "link": "https://pull.juqihuo.com/live/stream-710099_lhd.m3u8?auth_key=1708109351-0-0-835a2fb56c661ce158d2abd38235069e"
+  },
+{
+   "type": "China | SD",
+   "Vip": "Non",
+   "link": "https://pull.juqihuo.com/live/stream-710099_lsd.m3u8?auth_key=1708109351-0-0-835a2fb56c661ce158d2abd38235069e"
   },
   {
    "type": "English | FHD",
@@ -239,17 +254,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_7.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://freegamestreams.com/live/abr_ch1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI0IDU6NTM6NDcgUE0maGFzaF92YWx1ZT1SSVk5RVowWVhkTWhjMlQxdXpxRXB3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMwLjIwJnN0cm1fbGVuPTU="
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://ovossssss.lol/live/n-2/chunks.m3u8"
   },
  {
    "type": "English | SD",
@@ -277,7 +292,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
-    "LiveUpcoming": "Upcoming",
+    "LiveLive": "Live",
     "Time": "2:30 AM"
   },
   {
@@ -296,9 +311,14 @@
    "link": "https://pull.niues.live/live/stream-9912004_lsd.m3u8?auth_key=1708108149-0-0-5dc6a57c5a385e76ee149ad52c1ca1da"
   },
   {
-   "type": "Vebo | HD",
-   "Vip": "Vip",
-   "link": "0"
+   "type": "China | HD",
+   "Vip": "Non",
+   "link": "https://pull.juqihuo.com/live/stream-637513_lhd.m3u8?auth_key=1708109351-0-0-b4b33c6a6eb4532ee3682a0c2865668f"
+  },
+{
+   "type": "China | SD",
+   "Vip": "Non",
+   "link": "https://pull.juqihuo.com/live/stream-637513_lsd.m3u8?auth_key=1708109351-0-0-b4b33c6a6eb4532ee3682a0c2865668f"
   },
   {
    "type": "English | FHD",
@@ -308,17 +328,17 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_8.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://freegamestreams.com/live/abr_ch2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI0IDU6NTU6MDQgUE0maGFzaF92YWx1ZT1HTm0xZXY2aDZmd2xweWZWb2xQSU9BPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMwLjIwJnN0cm1fbGVuPTU="
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://ovosss.lol/live/n-3/chunks.m3u8"
   },
  {
    "type": "English | SD",
@@ -346,7 +366,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveLive": "Live",
     "Time": "2:30 AM"
   }
 ]
