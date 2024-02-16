@@ -209,7 +209,7 @@
      
  }, 
  {
- "Categories" : "Baby Channels",
+ "Categories" : "Kids Channels",
  "Channels" : [
  
     { 
@@ -249,7 +249,7 @@
      },
     { 
        "channelName" : "Nick Jr",
-       "image" : "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg",
+       "image" : "https://static.wikia.nocookie.net/viacom4633/images/1/18/Nick_Jr.-2023.png/revision/latest?cb=20230816184054",
        "link" : "https://cdn-main.lolokoko.tv/NickJr.stream/playlist.m3u8"
      },
      { 
