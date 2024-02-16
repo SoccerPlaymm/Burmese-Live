@@ -1,7 +1,7 @@
 [
 
 {
- "Categories" : "Entertainment",
+ "Categories" : "Myanmar Channels",
  "Channels" : [
     
     {
@@ -66,6 +66,20 @@
 },
 {
    "Referer" : "",
+   "channelName" : "Mahar Esport",
+   "image" : "https://maharesports.com/wp-content/uploads/2023/01/Mahar-E-Sport-HD-Logo.png",
+   "link" : "https://tv.mahar.live/esports/mahar.stream/playlist.m3u8"
+}
+     
+     ]
+     
+ },
+ {
+ "Categories" : "Movies Channels",
+ "Channels" : [
+    
+    {
+   "Referer" : "",
    "channelName"  : "Pluto Movie",
        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPq1XhHhhJvDNxO_I3ztYay_mw1jFu0g03Lg&usqp=CAU",
        "link" : "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId="
@@ -97,7 +111,7 @@
      {
    "Referer" : "",
    "channelName"  : "Sony Movie",
-       "image" : "https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg",
+       "image" : "https://upload.wikimedia.org/wikipedia/en/7/76/Sony_Movies_Christmas_logo_2019.png",
        "link" : "http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8"
      },
      {
@@ -108,7 +122,7 @@
      },
      {
    "Referer" : "",
-   "channelName"  : "Bollywood Class",
+   "channelName"  : "Bollywood Classic",
        "image" : "https://static.sweet.tv/images/icons/channels/v2/1128-bollywood-clasic.png",
        "link" : "https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8"
      },
@@ -116,7 +130,7 @@
    "Referer" : "",
    "channelName"  : "AXN",
        "image" : "https://dreamdth.com/wp-content/uploads/2020/05/AXN-White-Bg-Logo.jpg",
-       "link" : "https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8"
+       "link" : "http://fpt.vthanhtivi.pw/axn/index.m3u8"
      }
      
      ]
@@ -221,12 +235,6 @@
    "channelName" : "TNT Sport 3",
    "image" : "https://i.ibb.co/SXqp8Ys/20230117-090602.png",
    "link" : "https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8"
-},
-{
-   "Referer" : "",
-   "channelName" : "Mahar Esport",
-   "image" : "https://maharesports.com/wp-content/uploads/2023/01/Mahar-E-Sport-HD-Logo.png",
-   "link" : "https://tv.mahar.live/esports/mahar.stream/playlist.m3u8"
 },
 {
    "Referer" : "",
