@@ -65,7 +65,7 @@
    "link" : "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8"
 },
 {
-   "Referer" : "",
+   "Referer" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPq1XhHhhJvDNxO_I3ztYay_mw1jFu0g03Lg&usqp=CAU",
    "channelName"  : "Pluto Movie",
        "image" : "",
        "link" : "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId="
@@ -73,13 +73,13 @@
      {
    "Referer" : "",
    "channelName"  : "Pluto Horror",
-       "image" : "",
+       "image" : "https://static.wikia.nocookie.net/pluto-tv/images/9/93/PTVHorror.svg/revision/latest/thumbnail/width/360/height/360?cb=20220802232904",
        "link" : "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=569546031a619b8f07ce6e25&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=75&terminate=false&userId="
      },
      {
    "Referer" : "",
    "channelName"  : "tvN Movie",
-       "image" : "",
+       "image" : "https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg",
        "link" : "http://210.210.155.37/dr9445/h/h21/index.m3u8"
      },
      {
@@ -89,7 +89,7 @@
        "link" : "https://woobl.ru/hls987/START_World_HD.m3u8"
      },
      {
-   "Referer" : "",
+   "Referer" : "https://www.adgully.com/img/800/201908/star_movies-logo_3.png.jpg",
    "channelName"  : "Star Movie",
        "image" : "",
        "link" : "http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8"
@@ -97,11 +97,11 @@
      {
    "Referer" : "",
    "channelName"  : "Sony Movie",
-       "image" : "",
+       "image" : "https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/sony-movies-logo.png",
        "link" : "http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8"
      },
      {
-   "Referer" : "",
+   "Referer" : "https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png",
    "channelName"  : "Cine Sony",
        "image" : "",
        "link" : "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8"
@@ -109,13 +109,13 @@
      {
    "Referer" : "",
    "channelName"  : "Bollywood Class",
-       "image" : "",
+       "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MBC_Bollywood_TV_Channel_Logo.png/1280px-MBC_Bollywood_TV_Channel_Logo.png",
        "link" : "https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8"
      },
      {
    "Referer" : "",
    "channelName"  : "AXN",
-       "image" : "",
+       "image" : "https://dreamdth.com/wp-content/uploads/2020/05/AXN-White-Bg-Logo.jpg",
        "link" : "https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8"
      }
      
