@@ -97,7 +97,7 @@
      {
    "Referer" : "",
    "channelName"  : "Sony Movie",
-       "image" : "https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/sony-movies-logo.png",
+       "image" : "https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg",
        "link" : "http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8"
      },
      {
@@ -109,7 +109,7 @@
      {
    "Referer" : "",
    "channelName"  : "Bollywood Class",
-       "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MBC_Bollywood_TV_Channel_Logo.png/1280px-MBC_Bollywood_TV_Channel_Logo.png",
+       "image" : "https://static.sweet.tv/images/icons/channels/v2/1128-bollywood-clasic.png",
        "link" : "https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8"
      },
      {
