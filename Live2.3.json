@@ -895,37 +895,37 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-387295_lhd.m3u8?auth_key=1708188670-0-0-f7d949b38f9e0f5e8cf7722abb72d323"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-387295_lsd.m3u8?auth_key=1708188670-0-0-f7d949b38f9e0f5e8cf7722abb72d323"
   },
   {
    "type": "China | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-534857_lhd.m3u8?auth_key=1708188551-0-0-e7867bedc599f7ecb24b085410bb072e"
   },
   {
    "type": "China | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-534857_lsd.m3u8?auth_key=1708188551-0-0-e7867bedc599f7ecb24b085410bb072e"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_8.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://shora-streams.com/chunklist/hlsch10.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDI0IDM6NDg6MzEgUE0maGFzaF92YWx1ZT0rNjZxUmxWWGx2NGoySmNlNlF1VjdnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMwLjg3JnN0cm1fbGVuPTU="
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://ovos.lol/live/n-8/chunks.m3u8"
   },
   {
    "type": "English | HD",
@@ -958,7 +958,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   },
   {
