@@ -165,7 +165,7 @@
   {
    "type": "China | HD",
    "Vip": "Non",
-   "link": "https://pull.juqihuo.com/live/stream-534857_lhd.flv?auth_key=1708181411-0-0-334019a4f3f1ef2ee30bf7237e6c89bd"
+   "link": "https://pull.juqihuo.com/live/stream-534857_lhd.m3u8?auth_key=1708181411-0-0-334019a4f3f1ef2ee30bf7237e6c89bd"
   },
   {
    "type": "China | SD",
@@ -239,12 +239,12 @@
   {
    "type": "China | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-688595_lhd.m3u8?auth_key=1708182851-0-0-93f7f9a9d0a52453f39c43f0d8cf52d5"
   },
   {
    "type": "China | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-688595_lsd.m3u8?auth_key=1708182851-0-0-93f7f9a9d0a52453f39c43f0d8cf52d5"
   },
   {
    "type": "English | FHD",
@@ -254,12 +254,12 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_13.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://shora-streams.com/chunklist/hlsch20.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDI0IDI6MDY6MjMgUE0maGFzaF92YWx1ZT1iRGh2VUowTWtROUl5ODRIVnFwOEV3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMwLjg3JnN0cm1fbGVuPTU="
   },
   {
    "type": "English | HD",
@@ -292,12 +292,12 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
   {
-    "AwayImage": "https://i.ibb.co/D46m1WD/download-65.png",
-    "AwayName": "Bayern",
+    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
+    "AwayName": "Leverkusen",
     "Date": "February 17",
     "Link": [
   {
@@ -313,12 +313,12 @@
   {
    "type": "China | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-651278_lhd.m3u8?auth_key=1708182971-0-0-b033750a32075a2644fc9cb4f13dd00b"
   },
   {
    "type": "China | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-651278_lhd.m3u8?auth_key=1708182971-0-0-b033750a32075a2644fc9cb4f13dd00b"
   },
   {
    "type": "English | FHD",
@@ -328,12 +328,12 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_12.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://shora-streams.com/chunklist/hlsch19.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDI0IDI6MDY6NTMgUE0maGFzaF92YWx1ZT0razVaeFhhV0VFUFlEMUxodWNIODJBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMwLjg3JnN0cm1fbGVuPTU="
   },
   {
    "type": "English | HD",
@@ -366,7 +366,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
   {
@@ -387,12 +387,12 @@
   {
    "type": "China | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-514592_lhd.m3u8?auth_key=1708183031-0-0-4b73886bf56e723f0e0955dff940d34c"
   },
   {
    "type": "China | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-514592_lsd.m3u8?auth_key=1708183031-0-0-4b73886bf56e723f0e0955dff940d34c"
   },
   {
    "type": "English | FHD",
@@ -402,12 +402,12 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://shora-streams.com/chunklist/hlsch21.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDI0IDI6MDU6MjUgUE0maGFzaF92YWx1ZT1BY0JLMVRtVzRpUGVRa0d0M05DNWRRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMwLjg3JnN0cm1fbGVuPTU="
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_11.m3u8"
   },
   {
    "type": "English | HD",
@@ -440,7 +440,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
   {
@@ -461,12 +461,12 @@
   {
    "type": "China | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-553612_lhd.m3u8?auth_key=1708183151-0-0-7bea752913682d975512deb65df50cc4"
   },
   {
    "type": "China | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-553612_lsd.m3u8?auth_key=1708183151-0-0-7bea752913682d975512deb65df50cc4"
   },
   {
    "type": "English | FHD",
@@ -476,12 +476,12 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_10.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://shora-streams.com/chunklist/hlsch22.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDI0IDI6MDQ6NTQgUE0maGFzaF92YWx1ZT12RHZpWWRtMnpYSWRSeXg5RzRqZlJ3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMwLjg3JnN0cm1fbGVuPTU="
   },
   {
    "type": "English | HD",
@@ -514,7 +514,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
   {
@@ -535,12 +535,12 @@
   {
    "type": "China | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1708183271-0-0-224d39afb9d2802bc9b2ba6e00103dab"
   },
   {
    "type": "China | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1708183271-0-0-224d39afb9d2802bc9b2ba6e00103dab"
   },
   {
    "type": "English | FHD",
@@ -550,12 +550,12 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_9.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://shora-streams.com/chunklist/hlsch18.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDI0IDI6MDk6MTYgUE0maGFzaF92YWx1ZT1xUU82SjF4UzA5U1dHVEUyVCtEejlRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMwLjg3JnN0cm1fbGVuPTU="
   },
   {
    "type": "English | HD",
@@ -588,7 +588,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
     "LeagueName": "Bundesliga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
   {
