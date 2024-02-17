@@ -1,79 +1,5 @@
 [
   {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8306.png",
-    "AwayName": "Las Palmas",
-    "Date": "February 17",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1708177629-0-0-113eb02f97239329921d976fdea87b3f"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9911957_lsd.m3u8?auth_key=1708177629-0-0-113eb02f97239329921d976fdea87b3f"
-  },
-  {
-   "type": "China | HD",
-   "Vip": "Non",
-   "link": "https://pull.juqihuo.com/live/stream-3378908_lhd.m3u8?auth_key=1708177511-0-0-26061d5ca95666e0c91a1819f86d65e1"
-  },
-  {
-   "type": "China | SD",
-   "Vip": "Non",
-   "link": "https://pull.juqihuo.com/live/stream-3378908_lsd.m3u8?auth_key=1708177511-0-0-26061d5ca95666e0c91a1819f86d65e1"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://hls.streambtw.com/live/stream_6.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://shora-streams.com/chunklist/hlsch4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDI0IDEyOjQzOjIzIFBNJmhhc2hfdmFsdWU9R2NqYzVWWkVxUDVGU0JVNEZ0UVh1UT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTE3LjE4LjIzMC44NyZzdHJtX2xlbj01"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://ovo.eelov.com/live/n-6/chunks.m3u8"
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "https://live.55football.xyz/web7sd/index.m3u8?token=4e36dc67266d269984667e49ffabaac95e9c3a0f-913840605aa6de9215e7217ce5622e75-1708184784-1708173984"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "https://nlsuper.score806.cc/pt_elevensport2/index.m3u8?|Referer=https://play.azencode.com/"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "https://nlsuper.score806.cc/uk_viaplay2/index.m3u8?|Referer=https://play.azencode.com/"
-  },
- {
-   "type": "English | SD => VIP",
-   "Vip": "Vip",
-   "link": "https://nlsuper.score806.cc/uk_premiersports2/index.m3u8?|Referer=https://play.azencode.com/"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/NV6t3Ck/download-39.png",
-    "HomeName": "Atletico Madrid",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-    "LeagueName": "LaLiga",
-    "LiveUpcoming": "Live",
-    "Time": "7:30 PM"
-  },
-  {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
     "AwayName": "Genoa",
     "Date": "February 17",
@@ -905,27 +831,27 @@
   {
    "type": "China | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-613431_lhd.m3u8?auth_key=1708185412-0-0-ffb69a0fbfc12f291171e5969279ab1d"
   },
   {
    "type": "China | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-613431_lsd.m3u8?auth_key=1708185412-0-0-ffb69a0fbfc12f291171e5969279ab1d"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_6.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://shora-streams.com/chunklist/hlsch4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDI0IDI6NTU6MzcgUE0maGFzaF92YWx1ZT11cFlJWkpuYWhIZkRUa1NvbWVoMWxBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMwLjg3JnN0cm1fbGVuPTU="
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://ovosss.lol/live/n-6/chunks.m3u8"
   },
   {
    "type": "English | HD",
@@ -945,7 +871,7 @@
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://nlsuper.score806.cc/pt_elevensport1/index.m3u8?|Referer=https://play.azencode.com/"
   },
  {
    "type": "English | SD => VIP",
@@ -958,7 +884,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:45 PM"
   },
   {
