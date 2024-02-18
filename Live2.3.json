@@ -17,12 +17,12 @@
   {
    "type": "China | HD",
    "Vip": "Non",
-   "link": "https://pull.juqihuo.com/live/stream-746673_lhd.flv?auth_key=1708258631-0-0-c33efa1124e12ad47eb6276fac00a1e6"
+   "link": "https://pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1708258631-0-0-c33efa1124e12ad47eb6276fac00a1e6"
   },
   {
    "type": "China | SD",
    "Vip": "Non",
-   "link": "https://pull.juqihuo.com/live/stream-746673_lsd.flv?auth_key=1708258631-0-0-c33efa1124e12ad47eb6276fac00a1e6"
+   "link": "https://pull.juqihuo.com/live/stream-746673_lsd.m3u8?auth_key=1708258631-0-0-c33efa1124e12ad47eb6276fac00a1e6"
   },
   {
    "type": "English | FHD",
@@ -91,12 +91,12 @@
   {
    "type": "China | HD",
    "Vip": "Non",
-   "link": "https://pull.juqihuo.com/live/stream-552917_lhd.flv?auth_key=1708258631-0-0-0b6b06308dbbbeb4ef3c2164612df81a"
+   "link": "https://pull.juqihuo.com/live/stream-552917_lhd.m3u8?auth_key=1708258631-0-0-0b6b06308dbbbeb4ef3c2164612df81a"
   },
   {
    "type": "China | SD",
    "Vip": "Non",
-   "link": "https://pull.juqihuo.com/live/stream-552917_lsd.flv?auth_key=1708258631-0-0-0b6b06308dbbbeb4ef3c2164612df81a"
+   "link": "https://pull.juqihuo.com/live/stream-552917_lsd.m3u8?auth_key=1708258631-0-0-0b6b06308dbbbeb4ef3c2164612df81a"
   },
   {
    "type": "English | FHD",
@@ -155,22 +155,22 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1708262830-0-0-4a07e16a7237b6cb7d4210a4a703dd9a"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1708262830-0-0-4a07e16a7237b6cb7d4210a4a703dd9a"
   },
   {
    "type": "China | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-578718_lhd.m3u8?auth_key=1708262711-0-0-2f1de5f4a3898794b28fa2b69f04b2c9"
   },
   {
    "type": "China | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-578718_lsd.m3u8?auth_key=1708262711-0-0-2f1de5f4a3898794b28fa2b69f04b2c9"
   },
   {
    "type": "English | FHD",
@@ -180,12 +180,12 @@
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://soccer.freesportstime.com/live/stream_6.m3u8"
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://ovosss.lol/live/n-2/chunks.m3u8"
   },
   {
    "type": "English | HD",
@@ -200,17 +200,17 @@
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://nlsuper.score806.cc/pt_elevensport2/index.m3u8?|Referer=https://play.azencode.com/"
   },
   {
    "type": "English | HD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://nlsuper.score806.cc/uk_viaplay2/index.m3u8?|Referer=https://play.azencode.com/"
   },
  {
    "type": "English | SD => VIP",
    "Vip": "Vip",
-   "link": "0"
+   "link": "https://nlsuper.score806.cc/uk_premiersports1/index.m3u8?|Referer=https://play.azencode.com/"
   }
              ],
     "HomeImage": "https://i.ibb.co/SvkRPGx/download-38.png",
@@ -218,7 +218,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
     "LeagueName": "LaLiga",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "7:30 PM"
   },
   {
