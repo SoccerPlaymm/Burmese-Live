@@ -1,79 +1,5 @@
 [
   {
-    "AwayImage": "https://i.ibb.co/N27SsT5/download-35.png",
-    "AwayName": "Real Madrid",
-    "Date": "February 18",
-    "Link": [
-  {
-   "type": "Soco | FHD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1708262830-0-0-4a07e16a7237b6cb7d4210a4a703dd9a"
-  },
-  {
-   "type": "Soco | HD",
-   "Vip": "Non",
-   "link": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1708262830-0-0-4a07e16a7237b6cb7d4210a4a703dd9a"
-  },
-  {
-   "type": "China | HD",
-   "Vip": "Non",
-   "link": "https://pull.juqihuo.com/live/stream-578718_lhd.m3u8?auth_key=1708262711-0-0-2f1de5f4a3898794b28fa2b69f04b2c9"
-  },
-  {
-   "type": "China | SD",
-   "Vip": "Non",
-   "link": "https://pull.juqihuo.com/live/stream-578718_lsd.m3u8?auth_key=1708262711-0-0-2f1de5f4a3898794b28fa2b69f04b2c9"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | FHD",
-   "Vip": "Non",
-   "link": "https://soccer.freesportstime.com/live/stream_6.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "https://ovosss.lol/live/n-2/chunks.m3u8"
-  },
-  {
-   "type": "English | HD",
-   "Vip": "Non",
-   "link": "0"
-  },
- {
-   "type": "English | SD",
-   "Vip": "Non",
-   "link": "0"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "https://nlsuper.score806.cc/pt_elevensport2/index.m3u8?|Referer=https://play.azencode.com/"
-  },
-  {
-   "type": "English | HD => VIP",
-   "Vip": "Vip",
-   "link": "https://nlsuper.score806.cc/uk_viaplay2/index.m3u8?|Referer=https://play.azencode.com/"
-  },
- {
-   "type": "English | SD => VIP",
-   "Vip": "Vip",
-   "link": "https://nlsuper.score806.cc/uk_premiersports1/index.m3u8?|Referer=https://play.azencode.com/"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/SvkRPGx/download-38.png",
-    "HomeName": "Rayo Vallecano",
-    "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-    "LeagueName": "LaLiga",
-    "LiveUpcoming": "Live",
-    "Time": "7:30 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/RBH2X6r/download-13.png",
     "AwayName": "Brighton",
     "Date": "February 18",
@@ -313,12 +239,12 @@
   {
    "type": "China | HD",
    "Vip": "Non",
-   "link": "https://pull.juqihuo.com/live/stream-552917_lhd.flv?auth_key=1708268891-0-0-dd4610c562a5660163f3fb356f1ecf60"
+   "link": "https://pull.juqihuo.com/live/stream-552917_lhd.m3u8?auth_key=1708268891-0-0-dd4610c562a5660163f3fb356f1ecf60"
   },
   {
    "type": "China | SD",
    "Vip": "Non",
-   "link": "https://pull.juqihuo.com/live/stream-552917_lsd.flv?auth_key=1708268891-0-0-dd4610c562a5660163f3fb356f1ecf60"
+   "link": "https://pull.juqihuo.com/live/stream-552917_lsd.m3u8?auth_key=1708268891-0-0-dd4610c562a5660163f3fb356f1ecf60"
   },
   {
    "type": "English | FHD",
@@ -387,12 +313,12 @@
   {
    "type": "China | HD",
    "Vip": "Non",
-   "link": "https://pull.juqihuo.com/live/stream-534857_lhd.flv?auth_key=1708268951-0-0-6941b7ee52d9e9ab0ff8e9c5eea0f66d"
+   "link": "https://pull.juqihuo.com/live/stream-534857_lhd.m3u8?auth_key=1708268951-0-0-6941b7ee52d9e9ab0ff8e9c5eea0f66d"
   },
   {
    "type": "China | SD",
    "Vip": "Non",
-   "link": "https://pull.juqihuo.com/live/stream-534857_lsd.flv?auth_key=1708268951-0-0-6941b7ee52d9e9ab0ff8e9c5eea0f66d"
+   "link": "https://pull.juqihuo.com/live/stream-534857_lsd.m3u8?auth_key=1708268951-0-0-6941b7ee52d9e9ab0ff8e9c5eea0f66d"
   },
   {
    "type": "English | FHD",
@@ -451,37 +377,37 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1708275370-0-0-7304d1bfba9550f18780233bd51f0446"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.niues.live/live/stream-9912016_lsd.m3u8?auth_key=1708275370-0-0-7304d1bfba9550f18780233bd51f0446"
   },
   {
    "type": "China | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-676985_lhd.m3u8?auth_key=1708275191-0-0-0867eba260866cda449730aceeb32c2b"
   },
   {
    "type": "China | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-676985_lsd.m3u8?auth_key=1708275191-0-0-0867eba260866cda449730aceeb32c2b"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://hls.streambtw.com/live/stream_8.m3u8"
   },
   {
    "type": "English | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://shora-streams.com/chunklist/hlsch6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDI0IDM6NTI6NDQgUE0maGFzaF92YWx1ZT0xcmJoTVdDTHFqZUdEbGhibENTS0JRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0zNy4xMTEuNDYuMTQ3JnN0cm1fbGVuPTU="
   },
   {
    "type": "English | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://ovossss.lol/live/n-5/chunks.m3u8"
   },
   {
    "type": "English | HD",
@@ -514,7 +440,7 @@
     "Hot": "",
     "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:35 PM"
   },
   {
@@ -525,22 +451,22 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=5c5c0fa281b50a59f6f4fb56e3f12ac7&txTime=65d27d36"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=5c5c0fa281b50a59f6f4fb56e3f12ac7&txTime=65d27d36"
   },
   {
    "type": "China | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1708275191-0-0-a23f6564fa0a4d3fd016aacde8b2d347"
   },
   {
    "type": "China | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-746673_lsd.m3u8?auth_key=1708275191-0-0-a23f6564fa0a4d3fd016aacde8b2d347"
   },
   {
    "type": "English | FHD",
@@ -599,22 +525,22 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=280edf577689c72b352c0827cd009118&txTime=65d27cfa"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=280edf577689c72b352c0827cd009118&txTime=65d27cfa"
   },
   {
    "type": "China | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-552917_lhd.m3u8?auth_key=1708275251-0-0-bd67b451953fe68a2c72a16314c08b8d"
   },
   {
    "type": "China | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-552917_lsd.m3u8?auth_key=1708275251-0-0-bd67b451953fe68a2c72a16314c08b8d"
   },
   {
    "type": "English | FHD",
@@ -673,22 +599,22 @@
   {
    "type": "Soco | FHD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-278654_lhd.m3u8?txSecret=3f7a7b0686b839ca7bb02e078a10bffd&txTime=65d27d36"
   },
   {
    "type": "Soco | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull01.rrwes.live/live/stream-278654_lhd.m3u8?txSecret=3f7a7b0686b839ca7bb02e078a10bffd&txTime=65d27d36"
   },
   {
    "type": "China | HD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-637513_lhd.m3u8?auth_key=1708275251-0-0-19917e0bc321be5fa27c54369405412d"
   },
   {
    "type": "China | SD",
    "Vip": "Non",
-   "link": "0"
+   "link": "https://pull.juqihuo.com/live/stream-637513_lsd.m3u8?auth_key=1708275251-0-0-19917e0bc321be5fa27c54369405412d"
   },
   {
    "type": "English | FHD",
