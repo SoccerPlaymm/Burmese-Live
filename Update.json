@@ -3,7 +3,7 @@
      "DirectLink" : "https://bit.ly/Burmese_Live_Dl",
      "PlayStoreLink" : "https://bit.ly/3QuypI0",
      "UpdateAbout" : "A new version of the app is available. Click  Button to install it",
-     "PreUpdate" : true,
+     "PreUpdate" : false,
      "Version" : "2"
   }
 ]
