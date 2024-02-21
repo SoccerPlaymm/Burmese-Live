@@ -1,1 +1,136 @@
-[]
+[
+
+{
+ "Categories" : "Action",
+ "Movies" : [
+    
+    {
+    "Name":"Animal",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-26/65b340f368b27.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Animal23/index.m3u8"   
+  },
+  {
+    "Name":"Kahi De Ne Prem Chhe",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-26/65b3402a98d98.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/KahiDeNePremChhe23/index.m3u8"   
+  },
+{
+    "Name":"Pokhar Ke Dunu Paar ",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-24/65b0e34640ddf.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/PokharKeDunuPaar22/index.m3u8"   
+  },
+{
+    "Name":"The Painter",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-16/65a63eb53d488.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/ThePainter24/index.m3u8"   
+  },
+  {
+    "Name":"Alchemy of the Spirit",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-16/65a65645b8a9c.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AlchemyOfTheSpirit22/index.m3u8"   
+  }
+     
+     ]
+     
+ }, 
+{
+ "Categories" : "Animation",
+ "Movies" : [
+    
+    {
+    "Name":"Animal",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-26/65b340f368b27.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Animal23/index.m3u8"   
+  },
+  {
+    "Name":"Kahi De Ne Prem Chhe",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-26/65b3402a98d98.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/KahiDeNePremChhe23/index.m3u8"   
+  },
+{
+    "Name":"Pokhar Ke Dunu Paar ",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-24/65b0e34640ddf.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/PokharKeDunuPaar22/index.m3u8"   
+  },
+{
+    "Name":"The Painter",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-16/65a63eb53d488.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/ThePainter24/index.m3u8"   
+  },
+  {
+    "Name":"Alchemy of the Spirit",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-16/65a65645b8a9c.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AlchemyOfTheSpirit22/index.m3u8"   
+  }
+     
+     ]
+     
+ }, 
+ {
+ "Categories" : "Comendy",
+ "Movies" : [
+ 
+    {
+    "Name":"Animal",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-26/65b340f368b27.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Animal23/index.m3u8"   
+  },
+  {
+    "Name":"Kahi De Ne Prem Chhe",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-26/65b3402a98d98.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/KahiDeNePremChhe23/index.m3u8"   
+  },
+{
+    "Name":"Pokhar Ke Dunu Paar ",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-24/65b0e34640ddf.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/PokharKeDunuPaar22/index.m3u8"   
+  },
+{
+    "Name":"The Painter",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-16/65a63eb53d488.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/ThePainter24/index.m3u8"   
+  },
+  {
+    "Name":"Alchemy of the Spirit",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-16/65a65645b8a9c.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AlchemyOfTheSpirit22/index.m3u8"   
+  }
+  
+     ]
+     
+ },
+ {
+ "Categories" : "Horror",
+ "Movies" : [
+ 
+    {
+    "Name":"Animal",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-26/65b340f368b27.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Animal23/index.m3u8"   
+  },
+  {
+    "Name":"Kahi De Ne Prem Chhe",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-26/65b3402a98d98.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/KahiDeNePremChhe23/index.m3u8"   
+  },
+{
+    "Name":"Pokhar Ke Dunu Paar ",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-24/65b0e34640ddf.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/PokharKeDunuPaar22/index.m3u8"   
+  },
+{
+    "Name":"The Painter",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-16/65a63eb53d488.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/ThePainter24/index.m3u8"   
+  },
+  {
+    "Name":"Alchemy of the Spirit",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-16/65a65645b8a9c.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AlchemyOfTheSpirit22/index.m3u8"   
+  }
+  
+     ]
+     
+ }
+ 
+]
