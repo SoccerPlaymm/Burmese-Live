@@ -2,7 +2,7 @@
 
 {
  "League" : "Premier League",
- "Image" : "https://images.fotmob.com/image_resources/logo/Leaguelogo/47.png",
+ "Image" : "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
  "data" : [
     
     {
@@ -473,7 +473,7 @@
  }, 
 {
  "League" : "Ligue 1",
- "Image" : "https://images.fotmob.com/image_resources/logo/Leaguelogo/53.png",
+ "Image" : "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
  "data" : [
     
     {
@@ -490,7 +490,7 @@
     "HomeImage": "https://i.ibb.co/zNhmF1y/download-70.png",
     "HomeName": "Marseille",
     "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/Leaguelogo/53.png",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
     "isLive": true,
     "Time": "2:30 AM"
@@ -509,7 +509,7 @@
     "HomeImage": "https://i.ibb.co/SrkThSS/download-26.png",
     "HomeName": "Cadiz",
     "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/Leaguelogo/53.png",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
     "LeagueName": "Ligue 1",
     "isLive": false,
     "Time": "2:30 AM"
@@ -520,7 +520,7 @@
  }, 
  {
  "League" : "Serie A",
- "Image" : "https://images.fotmob.com/image_resources/logo/Leaguelogo/55.png",
+ "Image" : "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
  "data" : [
  
    {
@@ -537,7 +537,7 @@
     "HomeImage": "https://i.ibb.co/dkf4cTv/download-54.png",
     "HomeName": "Salernitana",
     "Hot": "",
-    "LeagueImage": "https://images.fotmob.com/image_resources/logo/Leaguelogo/55.png",
+    "LeagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
     "LeagueName": "Serie A",
     "isLive": false,
     "Time": "2:15 AM"
@@ -548,7 +548,7 @@
  },
  {
  "League" : "Bundesliga",
- "Image" : "https://images.fotmob.com/image_resources/logo/Leaguelogo/54.png",
+ "Image" : "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
  "data" : [
  
    
