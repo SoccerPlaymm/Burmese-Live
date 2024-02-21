@@ -4,34 +4,41 @@
     
     "homeAd1Image": "https://github.com/SoccerPlaymm/Image/blob/main/GIF-8a94fbb0d81a37698a785c0ae99f3d38.gif?raw=true",
     
-    "homeAd1is_Open" : false,
+    "homeAd1is_Open" : true,
     
     "homeAd2Link": "https://bit.ly/47iy68f",
     
     "homeAd2Image": "https://github.com/SoccerPlaymm/Image/raw/main/600-200(final)(2).gif",
     
-    "homeAd2is_Open" : false,
+    "homeAd2is_Open" : true,
     
     "linkAdLink": "https://bit.ly/47iy68f",
     
     "linkAdImage": "https://github.com/SoccerPlaymm/Image/raw/main/600-200(final)(2).gif",
     
-    "linkAdis_Open" : false,
+    "linkAdis_Open" : true,
     
-    "dialogAd1Link": "https://bit.ly/47iy68f",
+    "dialogAd1Link": "https://bit.ly/3puNhuz",
     
     "dialogAd1Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6wMaQvYwQA9vS_Ig1Hkr8imeWUFJym6RN8jt5FTBTjOhqqGIjxxx-1vm6X6U9OEI8MsUFlWoR47oKLgI5-H84KOB3Hl1u-NJDzrtde0IyvrBVftdde5tuHHZla8s269F5HFrIMC0gXk-yrLNqppA6SZBUfkTTjxqadM2klkgOsWWkPXSgAfu0v39RPwQ/s1600/GIF-0e88f1f549065558d2d82b02933a3f70.gif",
     
-    "dialogAd1is_Open" : false,
+    "dialogAd1is_Open" : true,
     
-    "dialogAd2Link": "https://bit.ly/47iy68f",
+    "dialogAd2Link": "https://bit.ly/3puNhuz",
     
     "dialogAd2Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6wMaQvYwQA9vS_Ig1Hkr8imeWUFJym6RN8jt5FTBTjOhqqGIjxxx-1vm6X6U9OEI8MsUFlWoR47oKLgI5-H84KOB3Hl1u-NJDzrtde0IyvrBVftdde5tuHHZla8s269F5HFrIMC0gXk-yrLNqppA6SZBUfkTTjxqadM2klkgOsWWkPXSgAfu0v39RPwQ/s1600/GIF-0e88f1f549065558d2d82b02933a3f70.gif",
     
-    "dialogAd2is_Open" : false,
+    "dialogAd2is_Open" : true,
     
     "streamAd" : [
-    
+    { 
+       "AdImage" : "https://github.com/SoccerPlaymm/Image/blob/main/GIF-8a94fbb0d81a37698a785c0ae99f3d38.gif?raw=true",
+       "AdLink" : "https://bit.ly/3puNhuz"
+    },
+    { 
+       "AdImage" : "https://github.com/SoccerPlaymm/Image/raw/main/600-200(final).gif",
+       "AdLink" : "https://bit.ly/47iy68f"
+    }
      ]
 }
 ]
