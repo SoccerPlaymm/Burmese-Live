@@ -5,30 +5,82 @@
  "Movies" : [
     
     {
-    "Name":"Animal",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-26/65b340f368b27.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/Animal23/index.m3u8"   
+    "Name":"Hunt the Wicked",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-20/65d479616ecae.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/HuntTheWicked24/index.m3u8"   
   },
   {
-    "Name":"Kahi De Ne Prem Chhe",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-26/65b3402a98d98.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/KahiDeNePremChhe23/index.m3u8"   
-  },
-{
-    "Name":"Pokhar Ke Dunu Paar ",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-24/65b0e34640ddf.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/PokharKeDunuPaar22/index.m3u8"   
-  },
-{
-    "Name":"The Painter",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-16/65a63eb53d488.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/ThePainter24/index.m3u8"   
+    "Name":"Broken Mission",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-20/65d47aacaba04.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/BrokenMission24/index.m3u8"   
   },
   {
-    "Name":"Alchemy of the Spirit",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-16/65a65645b8a9c.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/AlchemyOfTheSpirit22/index.m3u8"   
+    "Name":"Kaatru Veliyidai",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-20/65d420ccb1ed5.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/KaatruVeliyidai17/index.m3u8"   
+  },
+  {
+    "Name":"Scammy Boys",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-20/65d4214230d14.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/ScammyBoys24/index.m3u8"   
+  },
+  {
+    "Name":"Land of Bad",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-19/65d32ea667f8e.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/LandOfBad24/index.m3u8"   
+  },
+  {
+    "Name":"Noryang: Deadly Sea",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-19/65d32deb33688.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/NoryangDeadlySea23/index.m3u8"   
+  },
+  {
+    "Name":"Air Force One Down",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-19/65d2e44fae196.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AirForceOneDown24/index.m3u8"   
+  },
+  {
+    "Name":"Lights Out",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-19/65d32d0bd7863.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/LightsOut24/index.m3u8"   
+  },
+  {
+    "Name":"Girl With a Gun",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-19/65d2def6e6e49.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/GirlWithaGun22/index.m3u8"   
+  },
+  {
+    "Name":"Eye for an Eye 2",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-17/65d087c2179ef.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/EyeForAnEye224/index.m3u8"   
+  },
+  {
+    "Name":"Bubblegum",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-16/65cf33b925022.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/BubbleGum24/index.m3u8"   
+  },
+  {
+    "Name":"Kaatera",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-16/65cf362e5192f.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Kaatera23/index.m3u8"   
+  },
+  {
+    "Name":"Washington’s Armor: The Journey",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-15/65cdda149c1ff.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/WashingtonsArmorTheJourney22/index.m3u8"   
+  },
+  {
+    "Name":"Alienoid: Return to the Future",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-15/65cde37e3e091.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AlienoidReturntotheFuture24/index.m3u8"   
+  },
+  {
+    "Name":"Honey, We Shrunk Ourselves",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-15/65cd9321f2ec8.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/HoneyWeShrunkOurselves97/index.m3u8"   
   }
+  
+  
      
      ]
      
@@ -38,30 +90,81 @@
  "Movies" : [
     
     {
-    "Name":"Animal",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-26/65b340f368b27.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/Animal23/index.m3u8"   
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
   },
   {
-    "Name":"Kahi De Ne Prem Chhe",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-26/65b3402a98d98.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/KahiDeNePremChhe23/index.m3u8"   
-  },
-{
-    "Name":"Pokhar Ke Dunu Paar ",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-24/65b0e34640ddf.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/PokharKeDunuPaar22/index.m3u8"   
-  },
-{
-    "Name":"The Painter",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-16/65a63eb53d488.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/ThePainter24/index.m3u8"   
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
   },
   {
-    "Name":"Alchemy of the Spirit",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-16/65a65645b8a9c.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/AlchemyOfTheSpirit22/index.m3u8"   
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
   }
+  
      
      ]
      
@@ -71,30 +174,81 @@
  "Movies" : [
  
     {
-    "Name":"Animal",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-26/65b340f368b27.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/Animal23/index.m3u8"   
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
   },
   {
-    "Name":"Kahi De Ne Prem Chhe",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-26/65b3402a98d98.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/KahiDeNePremChhe23/index.m3u8"   
-  },
-{
-    "Name":"Pokhar Ke Dunu Paar ",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-24/65b0e34640ddf.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/PokharKeDunuPaar22/index.m3u8"   
-  },
-{
-    "Name":"The Painter",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-16/65a63eb53d488.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/ThePainter24/index.m3u8"   
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
   },
   {
-    "Name":"Alchemy of the Spirit",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-16/65a65645b8a9c.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/AlchemyOfTheSpirit22/index.m3u8"   
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
   }
+  
   
      ]
      
@@ -104,30 +258,81 @@
  "Movies" : [
  
     {
-    "Name":"Animal",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-26/65b340f368b27.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/Animal23/index.m3u8"   
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
   },
   {
-    "Name":"Kahi De Ne Prem Chhe",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-26/65b3402a98d98.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/KahiDeNePremChhe23/index.m3u8"   
-  },
-{
-    "Name":"Pokhar Ke Dunu Paar ",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-24/65b0e34640ddf.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/PokharKeDunuPaar22/index.m3u8"   
-  },
-{
-    "Name":"The Painter",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-16/65a63eb53d488.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/ThePainter24/index.m3u8"   
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
   },
   {
-    "Name":"Alchemy of the Spirit",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-16/65a65645b8a9c.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/AlchemyOfTheSpirit22/index.m3u8"   
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
+  },
+  {
+    "Name":"",
+    "Image":"",
+    "pLink": ""   
   }
+  
   
      ]
      
