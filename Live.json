@@ -13,17 +13,17 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1708633390-0-0-0641b1a7a5ddf195c1eeca2cd9ece3d5"
   },
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-637513_lhd.m3u8?auth_key=1708633031-0-0-590b01dd6062ac8da31f347999ab910f"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": ""
   },
   {
    "Name": "English [ FHD ]",
@@ -33,12 +33,12 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1708633390-0-0-0641b1a7a5ddf195c1eeca2cd9ece3d5"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-637513_lsd.m3u8?auth_key=1708633031-0-0-590b01dd6062ac8da31f347999ab910f"
   },
   {
    "Name": "English [ HD ]",
@@ -48,12 +48,12 @@
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://soccer.freesportstime.com/live/stream_7.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://ovos.lol/live/n-1/chunks.m3u8"
   },
  {
    "Name": "English [ SD ]",
@@ -63,12 +63,12 @@
   {
    "Name": "English [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://freegamestreams.com/live/abr_ch3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDI0IDY6NDk6NDYgUE0maGFzaF92YWx1ZT0vQ0NkR3ZENW1YOXJTK1BkREpISjJ3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0zNy4xMTEuNDYuODUmc3RybV9sZW49NQ=="
   }
              ],
     "HomeImage": "https://i.ibb.co/T8v9CbT/download-51.png",
     "HomeName": "Torino",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:15 AM"
   }
      
@@ -427,12 +427,12 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "0https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1708633390-0-0-00b3917cddba5a8db8b92e8636e6f0ab"
   },
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-411882_lhd.m3u8?auth_key=1708633151-0-0-f6496bc5d1cf6a86d1c00ad8e3336bf8"
   },
   {
    "Name": "English [ FHD ]",
@@ -447,12 +447,12 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1708633390-0-0-00b3917cddba5a8db8b92e8636e6f0ab"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-411882_lsd.m3u8?auth_key=1708633151-0-0-f6496bc5d1cf6a86d1c00ad8e3336bf8"
   },
   {
    "Name": "English [ HD ]",
@@ -462,12 +462,12 @@
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://hls.streambtw.com/live/stream_5.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://shora-streams.com/chunklist/hlsch9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDI0IDY6NTY6MzAgUE0maGFzaF92YWx1ZT1rRTlGVU9uVGF5WU9UNFNTdVlja2pBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0zNy4xMTEuNDYuODUmc3RybV9sZW49NQ=="
   },
  {
    "Name": "English [ SD ]",
@@ -498,7 +498,7 @@
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1708633091-0-0-2f9f1633cf5dbcf0ba4bb6985afe622e"
   },
   {
    "Name": "English [ FHD ]",
@@ -513,12 +513,12 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1708633390-0-0-00b3917cddba5a8db8b92e8636e6f0ab"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-2376781_lsd.m3u8?auth_key=1708633091-0-0-2f9f1633cf5dbcf0ba4bb6985afe622e"
   },
   {
    "Name": "English [ HD ]",
@@ -528,12 +528,12 @@
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://hls.streambtw.com/live/stream_6.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://ovos.lol/live/n-2/chunks.m3u8"
   },
  {
    "Name": "English [ SD ]",
@@ -543,7 +543,7 @@
   {
    "Name": "English [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://freegamestreams.com/live/abr_ch1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDI0IDY6NTQ6MTIgUE0maGFzaF92YWx1ZT1kSDBBTm0yaUxlU2N0ekZsNDNXKzd3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0zNy4xMTEuNDYuODUmc3RybV9sZW49NQ=="
   }
              ],
     "HomeImage": "https://i.ibb.co/1mDqD0w/download-55.png",
@@ -559,12 +559,12 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912080_lsd.m3u8?auth_key=1708633390-0-0-00b3917cddba5a8db8b92e8636e6f0ab"
   },
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-572503_lhd.m3u8?auth_key=1708633151-0-0-0befabc934c09b4f526f42c97acda944"
   },
   {
    "Name": "English [ FHD ]",
@@ -584,7 +584,7 @@
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-572503_lsd.m3u8?auth_key=1708633151-0-0-0befabc934c09b4f526f42c97acda944"
   },
   {
    "Name": "English [ HD ]",
@@ -594,12 +594,12 @@
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://hls.streambtw.com/live/stream_8.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://shora-streams.com/chunklist/hlsch8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDI0IDY6NTU6NTIgUE0maGFzaF92YWx1ZT01WUpJM2QrTkJ1NzhIT1hsSklxNVFRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0zNy4xMTEuNDYuODUmc3RybV9sZW49NQ=="
   },
  {
    "Name": "English [ SD ]",
@@ -630,7 +630,7 @@
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-500894_lhd.m3u8?auth_key=1708633211-0-0-1cc206c1cf2d3721d42713c13f9045a6"
   },
   {
    "Name": "English [ FHD ]",
@@ -650,7 +650,7 @@
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-500894_lsd.m3u8?auth_key=1708633211-0-0-1cc206c1cf2d3721d42713c13f9045a6"
   },
   {
    "Name": "English [ HD ]",
@@ -660,12 +660,12 @@
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://hls.streambtw.com/live/stream_9.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://shora-streams.com/chunklist/hlsch2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDI0IDY6NTU6MTMgUE0maGFzaF92YWx1ZT1uUW1NUTdQYUt4YWQvTmJYWU9BaVdnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0zNy4xMTEuNDYuODUmc3RybV9sZW49NQ=="
   },
  {
    "Name": "English [ SD ]",
