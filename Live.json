@@ -22,12 +22,12 @@
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
+   "Referee": "https://play.azencode.com/",
    "Link": "0"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
+   "Referee": "https://play.azencode.com/",
    "Link": "0"
   },
   {
@@ -42,7 +42,7 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://play.azencode.com/",
    "Link": "0"
   },
   {
@@ -57,7 +57,7 @@
   },
  {
    "Name": "English [ SD ]",
-   "Referee": "",
+   "Referee": "https://play2.score808pro.com/",
    "Link": "0"
   },
   {
@@ -93,16 +93,16 @@
   {
    "Name": "China [ FHD ]",
    "Referee": "",
+   "Link": "https://pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1708625831-0-0-4046b13b23460bfa537b0aad0b003c1f"
+  },
+  {
+   "Name": "English [ FHD ]",
+   "Referee": "https://play.azencode.com/",
    "Link": "0"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
+   "Referee": "https://play.azencode.com/",
    "Link": "0"
   },
   {
@@ -113,11 +113,11 @@
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1708625831-0-0-4046b13b23460bfa537b0aad0b003c1f"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://play.azencode.com/",
    "Link": "0"
   },
   {
@@ -132,7 +132,7 @@
   },
  {
    "Name": "English [ SD ]",
-   "Referee": "",
+   "Referee": "https://play2.score808pro.com/",
    "Link": "0"
   },
   {
@@ -143,7 +143,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2529.png",
     "HomeName": "Al Hilal",
-    "isLive": false,
+    "isLive": true,
     "Time": "12:30 AM"
   }
      
@@ -168,17 +168,17 @@
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-767255_lhd.m3u8?auth_key=1708625951-0-0-d38a58a971b94683a5feeaa94812f38c"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://play.azencode.com/",
+   "Link": "https://nlsuper.score806.cc/uk_bts5/index.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Name": "Portuguese [ FHD ]",
+   "Referee": "https://play.azencode.com/",
+   "Link": "https://nlsuper.score806.cc/pt_sporttv4/index.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
@@ -188,12 +188,12 @@
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-767255_lsd.m3u8?auth_key=1708625951-0-0-d38a58a971b94683a5feeaa94812f38c"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://play.azencode.com/",
+   "Link": "https://nlsuper.score806.cc/paramount2/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -207,7 +207,7 @@
   },
  {
    "Name": "English [ SD ]",
-   "Referee": "",
+   "Referee": "https://play2.score808pro.com/",
    "Link": "0"
   },
   {
@@ -218,7 +218,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8358.png",
     "HomeName": "SC Freiburg",
-    "isLive": false,
+    "isLive": true,
     "Time": "12:15 AM"
   },
   {
@@ -229,22 +229,22 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-448539_lsd.m3u8?auth_key=1708626310-0-0-be83a08a2f99c0664b9816501f096ae6"
   },
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-637513_lhd.m3u8?auth_key=1708625771-0-0-6fc6c0c0859f0222722de09c14d1e719"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://play.azencode.com/",
+   "Link": "https://nlsuper.score806.cc/uk_bts6/index.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Name": "Portuguese [ FHD ]",
+   "Referee": "https://play.azencode.com/",
+   "Link": "https://nlsuper.score806.cc/pt_sporttv2/index.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
@@ -254,12 +254,12 @@
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-637513_lsd.m3u8?auth_key=1708625771-0-0-6fc6c0c0859f0222722de09c14d1e719"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://play.azencode.com/",
+   "Link": "https://nlsuper.score806.cc/za_ssfb/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -273,7 +273,7 @@
   },
  {
    "Name": "English [ SD ]",
-   "Referee": "",
+   "Referee": "https://play2.score808pro.com/",
    "Link": "0"
   },
   {
@@ -284,7 +284,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7981.png",
     "HomeName": "Qarabag FK",
-    "isLive": false,
+    "isLive": true,
     "Time": "12:15 AM"
   },
   {
@@ -295,37 +295,37 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1708626130-0-0-8fd27ba3f21829d78df17d63c735c7d1"
   },
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1708625891-0-0-bef5fedb30211677f37954ddf53ddec9"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://play.azencode.com/",
+   "Link": "https://nlsuper.score806.cc/uk_bts1/index.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Name": "Portuguese [ FHD ]",
+   "Referee": "https://play.azencode.com/",
+   "Link": "https://nlsuper.score806.cc/pt_sporttv3/index.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1708626130-0-0-8fd27ba3f21829d78df17d63c735c7d1"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1708625891-0-0-bef5fedb30211677f37954ddf53ddec9"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://play.azencode.com/",
+   "Link": "https://us.score806.cc/us_cbssportsnetwork/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -339,7 +339,7 @@
   },
  {
    "Name": "English [ SD ]",
-   "Referee": "",
+   "Referee": "https://play2.score808pro.com/",
    "Link": "0"
   },
   {
@@ -350,7 +350,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9851.png",
     "HomeName": "Rennes",
-    "isLive": false,
+    "isLive": true,
     "Time": "12:15 AM"
   },
   {
@@ -361,37 +361,37 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1708626130-0-0-8fd27ba3f21829d78df17d63c735c7d1"
   },
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-540088_lhd.m3u8?auth_key=1708625771-0-0-a1c741257b10bdbbbd493d9818c6935e"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://play.azencode.com/",
+   "Link": "https://nlsuper.score806.cc/uk_bts2/index.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Name": "Portuguese [ FHD ]",
+   "Referee": "https://play.azencode.com/",
+   "Link": "https://nlsuper.score806.cc/pt_sporttv1/index.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1708626130-0-0-8fd27ba3f21829d78df17d63c735c7d1"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-540088_lsd.m3u8?auth_key=1708625771-0-0-a1c741257b10bdbbbd493d9818c6935e"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://play.azencode.com/",
+   "Link": "https://nlsuper.score806.cc/za_ssliga/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -405,7 +405,7 @@
   },
  {
    "Name": "English [ SD ]",
-   "Referee": "",
+   "Referee": "https://play2.score808pro.com/",
    "Link": "0"
   },
   {
@@ -416,7 +416,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9941.png",
     "HomeName": "Toulouse",
-    "isLive": false,
+    "isLive": true,
     "Time": "12:15 AM"
   },
   {
@@ -436,12 +436,12 @@
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
+   "Referee": "https://play.azencode.com/",
    "Link": "0"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
+   "Referee": "https://play.azencode.com/",
    "Link": "0"
   },
   {
@@ -456,7 +456,7 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://play.azencode.com/",
    "Link": "0"
   },
   {
@@ -471,7 +471,7 @@
   },
  {
    "Name": "English [ SD ]",
-   "Referee": "",
+   "Referee": "https://play2.score808pro.com/",
    "Link": "0"
   },
   {
@@ -502,12 +502,12 @@
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
+   "Referee": "https://play.azencode.com/",
    "Link": "0"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
+   "Referee": "https://play.azencode.com/",
    "Link": "0"
   },
   {
@@ -522,7 +522,7 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://play.azencode.com/",
    "Link": "0"
   },
   {
@@ -537,7 +537,7 @@
   },
  {
    "Name": "English [ SD ]",
-   "Referee": "",
+   "Referee": "https://play2.score808pro.com/",
    "Link": "0"
   },
   {
@@ -568,12 +568,12 @@
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
+   "Referee": "https://play.azencode.com/",
    "Link": "0"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
+   "Referee": "https://play.azencode.com/",
    "Link": "0"
   },
   {
@@ -588,7 +588,7 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://play.azencode.com/",
    "Link": "0"
   },
   {
@@ -603,7 +603,7 @@
   },
  {
    "Name": "English [ SD ]",
-   "Referee": "",
+   "Referee": "https://play2.score808pro.com/",
    "Link": "0"
   },
   {
@@ -634,12 +634,12 @@
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
+   "Referee": "https://play.azencode.com/",
    "Link": "0"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
+   "Referee": "https://play.azencode.com/",
    "Link": "0"
   },
   {
@@ -654,7 +654,7 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://play.azencode.com/",
    "Link": "0"
   },
   {
@@ -669,7 +669,7 @@
   },
  {
    "Name": "English [ SD ]",
-   "Referee": "",
+   "Referee": "https://play2.score808pro.com/",
    "Link": "0"
   },
   {
