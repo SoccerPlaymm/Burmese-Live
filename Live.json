@@ -288,138 +288,6 @@
     "Time": "12:15 AM"
   },
   {
-    "AwayImage": "https://i.ibb.co/YpGpV2N/download-57.png",
-    "AwayName": "Milan",
-    "Date": "Feb 23",
-    "Link": [
-  {
-   "Name": "Soco [ FHD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1708626130-0-0-8fd27ba3f21829d78df17d63c735c7d1"
-  },
-  {
-   "Name": "China [ FHD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1708625891-0-0-bef5fedb30211677f37954ddf53ddec9"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "https://nlsuper.score806.cc/uk_bts1/index.m3u8"
-  },
-  {
-   "Name": "Portuguese [ FHD ]",
-   "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "https://nlsuper.score806.cc/pt_sporttv3/index.m3u8"
-  },
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1708626130-0-0-8fd27ba3f21829d78df17d63c735c7d1"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1708625891-0-0-bef5fedb30211677f37954ddf53ddec9"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "https://us.score806.cc/us_cbssportsnetwork/index.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "https://hls.streambtw.com/live/stream_8.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "https://ovoss.lol/live/n-2/chunks.m3u8"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "https://skwww3-cf.ddi2ank3.cc/auth%3D138a39abce56f6c837a7cf2a35d238ba6764e8597be8a197056e0f28799b2aff578975e90011614a28bf496026ff4ed89b9b682f74854da67d598fc299722f6656a49b65d074853c2d592e5fdac5c12ae18460950e34c2a8259258c0bc9a39480d5fe89f5878dde3af40fbe01c98f4a15cd676100da45322ec077ae231036280f12421698fa5e0e306cbf6f734f10bfdd235c2207c038dc1fed7785a5f29dc8311bf90edcb389b615375cf4e427b97ac26017004e7e307f9839ba2e1aa8a7ff67df844cc2d05325a12d82fa1d810cf5ec78ef7fe56bea6d3b7c24b3d22d96448f8626caa40e72c668f9f9519d2f7823f4a931e1115499ce9992d229d8f178449672a8d97ceae4657ead7809fdc21f5da8f43bb57f8f5043eaf6facb16cf415e7%26cid%3DP3_vFNTKpPURzu2eCMVev240222%26_v%3D2%26_r%3D2LCEAm%26_vis%3D9d48e4ac7ec866762c8c319c8fd1373096259b89339c389db5e5d08ddd67ab33%26_vvs%3D79a848f0d60865d620f5d49ede2053a2cd43bafca24537c476f6be04323b8cb2/app/c233277.m3u8"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "",
-   "Link": "0"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9851.png",
-    "HomeName": "Rennes",
-    "isLive": true,
-    "Time": "12:15 AM"
-  },
-  {
-    "AwayImage": "https://i.ibb.co/Yp1ghsC/download-81.png",
-    "AwayName": "Benfica",
-    "Date": "Feb 23",
-    "Link": [
-  {
-   "Name": "Soco [ FHD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1708626130-0-0-8fd27ba3f21829d78df17d63c735c7d1"
-  },
-  {
-   "Name": "China [ FHD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-540088_lhd.m3u8?auth_key=1708625771-0-0-a1c741257b10bdbbbd493d9818c6935e"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "https://nlsuper.score806.cc/uk_bts2/index.m3u8"
-  },
-  {
-   "Name": "Portuguese [ FHD ]",
-   "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "https://nlsuper.score806.cc/pt_sporttv1/index.m3u8"
-  },
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1708626130-0-0-8fd27ba3f21829d78df17d63c735c7d1"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-540088_lsd.m3u8?auth_key=1708625771-0-0-a1c741257b10bdbbbd493d9818c6935e"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "https://nlsuper.score806.cc/za_ssliga/index.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "https://hls.streambtw.com/live/stream_9.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "https://skmmm2-cf.ddi2ank3.cc/auth%3D7b88472113e7d152864489481c85c499bb7979be0d4abb48adbc65b59cd18b1c1fc8266e00dc3c7645c23321c28bde6209ac139eaee2d427c89f891d40a5cd1226ef1449346da7dfe3000d33011501ca4bd2754cd64a0856459850dd6a78e94e0e8105b588ab11d85afcbe535e1e9fbd68feb2397cd92a4d5bb55439be1a8582dab2692aae11ebac9263da46f585557780ea863f3ef90f70c5a89b1622f1e81d828a9b7257ce4bceff1656dd8747b9fe8ac7376b88cd0b0f8f685f075803fe17b9dc73360d61f3f37b1bad2368827cac%26cid%3DP3_vFNTKpPURzu2eCMVev240222%26_v%3D2%26_r%3DyOiEmp%26_vis%3D65efa71ea4c2beeb9946ef922242107c5fe00310094ca880dab5be9eeba312b6%26_vvs%3D66b20dbc3d8db889df064d3802aca1014fe048b4fb718bcae5057e7359b911e4/app/c233279.m3u8"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "",
-   "Link": "0"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9941.png",
-    "HomeName": "Toulouse",
-    "isLive": true,
-    "Time": "12:15 AM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/WGT0K7Z/download-75.png",
     "AwayName": "Shakhtar Donetsk",
     "Date": "Feb 23",
@@ -559,7 +427,7 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-9912080_lsd.m3u8?auth_key=1708633390-0-0-00b3917cddba5a8db8b92e8636e6f0ab"
+   "Link": "https://pull.niues.live/live/stream-9912081_lhd.m3u8?auth_key=1708635190-0-0-79948547543ff29205969263f520bfc5"
   },
   {
    "Name": "China [ FHD ]",
@@ -579,7 +447,7 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull01.rrwes.live/live/stream-273766_lhd.m3u8?txSecret=9af2e4e5d5bbc0990432c4fca3cd819f&txTime=65d7fa86"
   },
   {
    "Name": "China [ HD ]",
@@ -625,7 +493,7 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912081_lhd.m3u8?auth_key=1708635190-0-0-79948547543ff29205969263f520bfc5"
   },
   {
    "Name": "China [ FHD ]",
@@ -645,7 +513,7 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912081_lsd.m3u8?auth_key=1708635190-0-0-79948547543ff29205969263f520bfc5"
   },
   {
    "Name": "China [ HD ]",
