@@ -23,12 +23,12 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": ""
+   "Link": "https://nlsuper.score806.cc/uk_bts4/index.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
+   "Name": "Portuguese [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/fr_beinsports1/index.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
@@ -43,7 +43,7 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/za_ssfb/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -437,12 +437,12 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/uk_bts2/index.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
+   "Name": "Portuguese [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/pt_sporttv3/index.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
@@ -457,7 +457,7 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/za_ssliga/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -482,7 +482,7 @@
              ],
     "HomeImage": "https://i.ibb.co/zNhmF1y/download-70.png",
     "HomeName": "Marseille",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:30 AM"
   },
   {
@@ -503,12 +503,12 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/uk_bts1/index.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
+   "Name": "Portuguese [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/pt_sporttv2/index.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
@@ -523,7 +523,7 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://us.score806.cc/us_cbssportsnetwork/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -548,7 +548,7 @@
              ],
     "HomeImage": "https://i.ibb.co/1mDqD0w/download-55.png",
     "HomeName": "Roma",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:30 AM"
   },
   {
@@ -569,12 +569,12 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/paramount6/index.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
+   "Name": "Portuguese [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/pt_sporttv4/index.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
@@ -589,7 +589,7 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/za_ssvariety2/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -614,7 +614,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10247.png",
     "HomeName": "Sparta Prague",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:30 AM"
   },
   {
@@ -635,12 +635,12 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/uk_bts5/index.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
+   "Name": "Portugues [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/pt_sporttv1/index.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
@@ -655,7 +655,7 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/za_ssvariety3/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -680,7 +680,7 @@
              ],
     "HomeImage": "https://i.ibb.co/sFv8zdq/download-69.png",
     "HomeName": "Sporting",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:30 AM"
   }
      
