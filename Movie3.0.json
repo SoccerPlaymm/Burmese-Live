@@ -1,3 +1,341 @@
 [
 
+{
+ "Categories" : "Action",
+ "Movies" : [
+    
+    {
+    "Name":"Hunt the Wicked",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-20/65d479616ecae.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/HuntTheWicked24/index.m3u8"   
+  },
+  {
+    "Name":"Broken Mission",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-20/65d47aacaba04.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/BrokenMission24/index.m3u8"   
+  },
+  {
+    "Name":"Kaatru Veliyidai",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-20/65d420ccb1ed5.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/KaatruVeliyidai17/index.m3u8"   
+  },
+  {
+    "Name":"Scammy Boys",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-20/65d4214230d14.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/ScammyBoys24/index.m3u8"   
+  },
+  {
+    "Name":"Land of Bad",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-19/65d32ea667f8e.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/LandOfBad24/index.m3u8"   
+  },
+  {
+    "Name":"Noryang: Deadly Sea",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-19/65d32deb33688.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/NoryangDeadlySea23/index.m3u8"   
+  },
+  {
+    "Name":"Air Force One Down",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-19/65d2e44fae196.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AirForceOneDown24/index.m3u8"   
+  },
+  {
+    "Name":"Lights Out",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-19/65d32d0bd7863.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/LightsOut24/index.m3u8"   
+  },
+  {
+    "Name":"Girl With a Gun",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-19/65d2def6e6e49.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/GirlWithaGun22/index.m3u8"   
+  },
+  {
+    "Name":"Eye for an Eye 2",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-17/65d087c2179ef.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/EyeForAnEye224/index.m3u8"   
+  },
+  {
+    "Name":"Bubblegum",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-16/65cf33b925022.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/BubbleGum24/index.m3u8"   
+  },
+  {
+    "Name":"Kaatera",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-16/65cf362e5192f.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Kaatera23/index.m3u8"   
+  },
+  {
+    "Name":"Washington’s Armor: The Journey",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-15/65cdda149c1ff.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/WashingtonsArmorTheJourney22/index.m3u8"   
+  },
+  {
+    "Name":"Alienoid: Return to the Future",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-15/65cde37e3e091.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AlienoidReturntotheFuture24/index.m3u8"   
+  },
+  {
+    "Name":"Honey, We Shrunk Ourselves",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-15/65cd9321f2ec8.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/HoneyWeShrunkOurselves97/index.m3u8"   
+  }
+  
+  
+     
+     ]
+     
+ }, 
+{
+ "Categories" : "Animation",
+ "Movies" : [
+    
+    {
+    "Name":"Space Kids",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-07/65c307fcc4a79.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/SpaceKids23/index.m3u8"   
+  },
+  {
+    "Name":"Monster High: Frights, Camera, Action!",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-08/65c47aa67fb21.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/MonsterHighFrightsCameraAction14/index.m3u8"   
+  },
+  {
+    "Name":"The Tiger’s Apprentice",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-05/65c06cca82bcd.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheTigersApprentice24/index.m3u8"   
+  },
+  {
+    "Name":"Fuoshen: The Burning Man",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-30/65b87ee69995d.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/FuoshenTheBurningMan24/index.m3u8"   
+  },
+  {
+    "Name":"Journey with Tarsilinha",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-25/65b237810a606.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/JourneyWithTarsilinha21/index.m3u8"   
+  },
+  {
+    "Name":"Monsters 103 Mercies Dragon Damnation",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-30/65b87c92b516f.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Monsters103MerciesDragonDamnation24/index.m3u8"   
+  },
+  {
+    "Name":"Wish",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-24/65b0923c5113a.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Wish23/index.m3u8"   
+  },
+  {
+    "Name":"My Life as a Zucchini",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-25/65b202dc0d8d0.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/MyLifeAsAZucchini16/index.m3u8"   
+  },
+  {
+    "Name":"Justice League: Crisis on Infinite Earth",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-09/659d18c1a1f76.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/JusticeLeagueCrisisonInfiniteEarthsPartOne24/index.m3u8"   
+  },
+  {
+    "Name":"Kronk’s New Groove",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-24/65b0917326e46.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/KronksNewGroove05/index.m3u8"   
+  },
+  {
+    "Name":"Barbie in A Christmas Carol",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-01/65926949d0054.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/BarbieInAChristmasCarol08/index.m3u8"   
+  },
+  {
+    "Name":"Osmosis Jones",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-09/659cc47b82346.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/OsmosisJones01/index.m3u8"   
+  },
+  {
+    "Name":"Ice Age: Dawn of the Dinosaurs",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-12-29/658e80b814fce.png",
+    "pLink": "http://www.zegomovie.com/Videos/IceAgeDawnoftheDinosaurs09/index.m3u8"   
+  },
+  {
+    "Name":"Glisten and the Merry Mission",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-12-29/658e7d5602e2b.png",
+    "pLink": "http://www.zegomovie.com/Videos/GlistenAndTheMerryMission23/index.m3u8"   
+  },
+  {
+    "Name":"No Time for Nuts",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-12-29/658e7ffbad1a0.png",
+    "pLink": "http://www.zegomovie.com/Videos/ScratNoTimeForNuts06/index.m3u8"   
+  }
+  
+     
+     ]
+     
+ }, 
+ {
+ "Categories" : "Comendy",
+ "Movies" : [
+ 
+    {
+    "Name":"Mind the Gap",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-19/65d2e5599737b.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/MindTheGap04/index.m3u8"   
+  },
+  {
+    "Name":"Bhamakalapam 2",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-19/65d2ddf336aa6.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/BhamaKalapam224/index.m3u8"   
+  },
+  {
+    "Name":"Kill Me If You Dare",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-17/65d088888938e.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/KillMeIfYouDare24/index.m3u8"   
+  },
+  {
+    "Name":"Naa Saami Ranga",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-19/65d2dd0f24b5b.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/NaaSaamiRanga24/index.m3u8"   
+  },
+  {
+    "Name":"I Love You Two Thousand",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-17/65d038ebd09e8.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/ILoveYouTwoThousand23/index.m3u8"   
+  },
+  {
+    "Name":"The Columnist",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-17/65d067ce28d4d.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheColumnist19/index.m3u8"   
+  },
+  {
+    "Name":"The Diamond Heist",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-17/65d038055c79d.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheDiamondHeist24/index.m3u8"   
+  },
+  {
+    "Name":"Paper Man",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-17/65d03871ea636.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/PaperMan09/index.m3u8"   
+  },
+  {
+    "Name":"Five Feet Detective",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-17/65d0377b3a92e.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/FiveFeetDetective24/index.m3u8"   
+  },
+  {
+    "Name":"A Walk in the Woods",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-16/65cede51b30be.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AWalkintheWoods15/index.m3u8"   
+  },
+  {
+    "Name":"Dunki",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-15/65cde40861e1b.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Dunki23Hindi/index.m3u8"   
+  },
+  {
+    "Name":"Soul Kitchen",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-15/65cde4e264579.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/SoulKitchen09/index.m3u8"   
+  },
+  {
+    "Name":"Moscow Square",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-15/65cd977568a12.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/MoszkvaTer01/index.m3u8"   
+  },
+  {
+    "Name":"Queen Elizabeth",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-15/65cdda8bec194.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/QueenElizabeth23/index.m3u8"   
+  },
+  {
+    "Name":"Honey, We Shrunk Ourselves",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-15/65cd9321f2ec8.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/HoneyWeShrunkOurselves97/index.m3u8"   
+  }
+  
+  
+     ]
+     
+ },
+ {
+ "Categories" : "Horror",
+ "Movies" : [
+ 
+    {
+    "Name":"Amityville Exorcism",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-17/65d068a5257a0.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AmityvilleExorcism17/index.m3u8"   
+  },
+  {
+    "Name":"The Animal Kingdom",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-17/65d0883cebb39.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheAnimalKingdom23/index.m3u8"   
+  },
+  {
+    "Name":"The Book of Clarence",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-16/65cf352292d3e.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheBookofClarence23/index.m3u8"   
+  },
+  {
+    "Name":"Attack of the Meth Gator",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-16/65cf332c3b89e.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AttackoftheMethGator23/index.m3u8"   
+  },
+  {
+    "Name":"Mantra Surugana",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-15/65cded5b6a3ef.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/MantraSurugana23/index.m3u8"   
+  },
+  {
+    "Name":"Prime",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-16/65cf070aea7d9.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Prime23/index.m3u8"   
+  },
+  {
+    "Name":"Gods of the Deep",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-15/65cd928c3f2ca.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/GodsoftheDeep23/index.m3u8"   
+  },
+  {
+    "Name":"The Forbidden Play",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-15/65cddbde40998.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheForbiddenPlay23/index.m3u8"   
+  },
+  {
+    "Name":"Somewhere Quiet",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-14/65cc6d6e6fdb4.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/SomewhereQuiet23/index.m3u8"   
+  },
+  {
+    "Name":"Skeletons in the Closet",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-14/65cc6f5e38d5f.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/SkeletonsintheCloset24/index.m3u8"   
+  },
+  {
+    "Name":"Midnight Show",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-09/65c5f54bc775a.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/MidnightShow24/index.m3u8"   
+  },
+  {
+    "Name":"We Might Hurt Each Other",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-13/65cb3be15d62f.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Pensive22/index.m3u8"   
+  },
+  {
+    "Name":"The Superdeep",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-08/65c47c4c24fcf.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Superdeep21/index.m3u8"   
+  },
+  {
+    "Name":"Iruttu Araiyil Murattu Kuthu",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-09/65c5b0aebaab8.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/IruttuAraiyilMurattuKuthu18/index.m3u8"   
+  },
+  {
+    "Name":"Urban Legend",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-08/65c44e11b27a8.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/UrbanLegend98/index.m3u8"   
+  }
+  
+  
+     ]
+     
+ }
+ 
 ]

@@ -1,3 +1,339 @@
 [
 
+{
+ "Categories" : "Myanmar Channels",
+ "Channels" : [
+    
+    {
+   "Referer" : "",
+   "channelName" : "MRTV-4",
+   "image" : "https://pbs.twimg.com/profile_images/1535482901/1-mrtv-4_400x400.jpg",
+   "link" : "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDIzIDg6NDA6NDMgQU0maGFzaF92YWx1ZT1ZdjBNZXBabWtVZVhuWmZ6RlZZQVV3PT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTEz"
+},
+{
+   "Referer" : "",
+   "channelName" : "Channel-7",
+   "image" : "https://photos.live-tv-channels.org/tv-logo/mm-channel-7-1023.jpg",
+   "link" : "https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDIzIDg6NDE6NDQgQU0maGFzaF92YWx1ZT1YNHcyZ3ZVeDl4SWMvSWxjYnlkemJBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE1"
+},
+{
+   "Referer" : "",
+   "channelName" : "Mahar",
+   "image" : "https://play-lh.googleusercontent.com/EvzFsHzdsO_B0U97VR9hyJday6GsjZg84BqX_vOSM9Cm6-Kn2iYDEmGSafYvItKhWT0",
+   "link" : "https://tv.mahar.live/mahar/website.stream/playlist.m3u8?hdnts=exp=1648482423~acl=/*~hmac=3c1e7c2ddfaac3a9629d71d4d4a9be635197f03754c411c3fcc1a35d66858f43"
+},
+{
+   "Referer" : "",
+   "channelName" : "MNTV",
+   "image" : "https://yt3.ggpht.com/ytc/AMLnZu8tIx7w_ftV28AmK36qbznIJKTkHd5LApBd4RnV=s900-c-k-c0x00ffffff-no-rj",
+   "link" : "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8"
+},
+{
+   "Referer" : "",
+   "channelName" : "Channel Me",
+   "image" : "https://www.myanmartvchannels.com/assets/images/channelicon/mrtvent.jpg",
+   "link" : "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDIzIDk6MjM6MjMgQU0maGFzaF92YWx1ZT0rQ2RGbC8xTVRUZUNTQjNmNncwNVl3PT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTI1"
+},
+{
+   "Referer" : "",
+   "channelName" : "5Plus",
+   "image" : "https://yt3.googleusercontent.com/ytc/AOPolaSrFa-7x8R3C6iL3ThsxFvaVL7kOXWQh9IH5FMs=s900-c-k-c0x00ffffff-no-rj",
+   "link" : "https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDIzIDk6MjU6NDcgQU0maGFzaF92YWx1ZT1PYko3MVl4QnVOZUsvVlUveU01K3p3PT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTEy"
+},
+{
+   "Referer" : "",
+   "channelName" : "ChannelK",
+   "image" : "https://yt3.googleusercontent.com/mQ8IErMSpqcUDFk-hqNjhbdervhxWf4yuubQjkvr52Y4umxX9r0TtbB-fOQj6n9SKod-tFoo=s900-c-k-c0x00ffffff-no-rj",
+   "link" : "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8"
+},
+{
+   "Referer" : "",
+   "channelName" : "Mahar Esport",
+   "image" : "https://maharesports.com/wp-content/uploads/2023/01/Mahar-E-Sport-HD-Logo.png",
+   "link" : "https://tv.mahar.live/esports/mahar.stream/playlist.m3u8"
+}
+     
+     ]
+     
+ },
+ {
+ "Categories" : "Movies Channels",
+ "Channels" : [
+    
+    {
+   "Referer" : "",
+   "channelName"  : "Pluto Movie",
+       "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPq1XhHhhJvDNxO_I3ztYay_mw1jFu0g03Lg&usqp=CAU",
+       "link" : "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId="
+     },
+     {
+   "Referer" : "",
+   "channelName"  : "Pluto Horror",
+       "image" : "https://static.wikia.nocookie.net/pluto-tv/images/9/93/PTVHorror.svg/revision/latest/thumbnail/width/360/height/360?cb=20220802232904",
+       "link" : "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=569546031a619b8f07ce6e25&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=75&terminate=false&userId="
+     },
+     {
+   "Referer" : "",
+   "channelName"  : "tvN Movie",
+       "image" : "https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg",
+       "link" : "http://210.210.155.37/dr9445/h/h21/index.m3u8"
+     },
+     {
+   "Referer" : "",
+   "channelName"  : "START World",
+       "image" : "https://dantser.ru/wp-content/uploads/2023/01/start-world.png",
+       "link" : "https://woobl.ru/hls987/START_World_HD.m3u8"
+     },
+     {
+   "Referer" : "",
+   "channelName"  : "Star Movie",
+       "image" : "https://www.adgully.com/img/800/201908/star_movies-logo_3.png.jpg",
+       "link" : "http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8"
+     },
+     {
+   "Referer" : "",
+   "channelName"  : "Sony Movie",
+       "image" : "https://upload.wikimedia.org/wikipedia/en/7/76/Sony_Movies_Christmas_logo_2019.png",
+       "link" : "http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8"
+     },
+     {
+   "Referer" : "",
+   "channelName"  : "Cine Sony",
+       "image" : "https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png",
+       "link" : "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8"
+     },
+     {
+   "Referer" : "",
+   "channelName"  : "Bollywood Classic",
+       "image" : "https://static.sweet.tv/images/icons/channels/v2/1128-bollywood-clasic.png",
+       "link" : "https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8"
+     },
+     {
+   "Referer" : "",
+   "channelName"  : "AXN",
+       "image" : "https://dreamdth.com/wp-content/uploads/2020/05/AXN-White-Bg-Logo.jpg",
+       "link" : "http://fpt.vthanhtivi.pw/axn/index.m3u8"
+     }
+     
+     ]
+     
+ }, 
+{
+ "Categories" : "Sport",
+ "Channels" : [
+    
+    {
+   "Referer" : "",
+   "channelName" : "MUTV",
+   "image" : "https://cdn.broadbandtvnews.com/wp-content/uploads/2018/07/14113743/MUtv-logo.jpg",
+   "link" : "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+},
+{
+   "Referer" : "",
+   "channelName" : "Real Madrid Tv",
+   "image" : "https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg",
+   "link" : "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8"
+},
+{
+   "Referer" : "",
+   "channelName" : "True Premier Football 1",
+   "image" : "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+   "link" : "https://ctrl.laotv.la/live/TSport1/index.m3u8"
+},
+{
+   "Referer" : "",
+   "channelName" : "True Premier Football 2",
+   "image" : "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+   "link" : "https://ctrl.laotv.la/live/TSport2/index.m3u8"
+},
+{
+   "Referer" : "",
+   "channelName" : "True Sport 1",
+   "image" : "https://cms.dmpcdn.com/livetv/2023/12/15/74b619a0-9aea-11ee-a6ba-8b5bcfefee63_webp_original.webp",
+   "link" : "https://edge1.laotv.la/live/TrueSport6/index.m3u8"
+},
+{
+   "Referer" : "",
+   "channelName" : "True Sport 2",
+   "image" : "https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+   "link" : "https://edge1.laotv.la/live/TrueSport2/index.m3u8"
+},
+{
+   "Referer" : "",
+   "channelName" : "True Sport 3",
+   "image" : "https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
+   "link" : "https://ctrl.laotv.la/live/TrueSport3/index.m3u8"
+},
+{
+   "Referer" : "",
+   "channelName" : "EDGE Sport",
+   "image" : "https://images.squarespace-cdn.com/content/v1/579f6e54e4fcb57c858883e7/1470076073569-U52JX8F7ZJHA3WM3V9RB/Edge_moto06.jpg?format=1500w",
+   "link" : "https://edgesport-samsunguk.amagi.tv/playlist.m3u8"
+},
+{
+   "Referer" : "",
+   "channelName" : "Red Bull TV",
+   "image" : "https://image.discovery.indazn.com/eu/v2/us/image?id=130866757919_image-header_pUs_1644417620000",
+   "link" : "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+},
+{
+   "Referer" : "",
+   "channelName" : "SONY SPORT TEN 1",
+   "image" : "https://static.wikia.nocookie.net/dreamlogos/images/9/9e/Sony_Sports_Ten_1_2022.png/revision/latest?cb=20221211181900",
+   "link" : "https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8"
+},
+{
+   "Referer" : "",
+   "channelName" : "Fox Sport 1",
+   "image" : "https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg",
+   "link" : "http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8"
+},
+{
+   "Referer" : "",
+   "channelName" : "Fox Sport 2",
+   "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2560px-FS2_logo_2015.svg.png",
+   "link" : "http://livex.pop-app.live/s4n/poplive/ch326/playlist.m3u8"
+},
+{
+   "Referer" : "",
+   "channelName" : "Fox Sport Plus",
+   "image" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png",
+   "link" : "http://38.96.178.201/live/FoxSoccerPlus/index.m3u8"
+},
+{
+   "Referer" : "",
+   "channelName" : "Fox Sport 1 Max",
+   "image" : "https://yt3.googleusercontent.com/ytc/AIf8zZTnod3r6p-Dty5m-kWvisO3Afn6r7Jc_75cPvPLyw=s900-c-k-c0x00ffffff-no-rj",
+   "link" : "http://38.96.178.201/live/FoxSoccerPlus/index.m3u8"
+},
+{
+   "Referer" : "",
+   "channelName" : "Fubo Sport",
+   "image" : "https://variety.com/wp-content/uploads/2019/06/fubo-sports-network-logo-dark.jpg",
+   "link" : "https://lnc-fubo.tubi.video/master.m3u8"
+},
+{
+   "Referer" : "",
+   "channelName" : "Pluto Sport Tv",
+   "image" : "https://webtech-web-blu-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png",
+   "link" : "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+},
+{
+   "Referer" : "",
+   "channelName" : "Pluto Sport Tv",
+   "image" : "https://webtech-web-blu-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png",
+   "link" : "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220"
+},
+{
+   "Referer" : "",
+   "channelName" : "SSC",
+   "image" : "https://yt3.googleusercontent.com/rWxN3taW0mZ3Sb5vM3Uxcdn_G5gU2RUYvRWCxPTgoXO-OTVYLBuiyvOdZPtkGbKEmpv_GxiO8w=s900-c-k-c0x00ffffff-no-rj",
+   "link" : "https://af.ayassport.ir/hls2/ssc1.m3u8"
+}
+
+     
+     ]
+     
+ }, 
+ {
+ "Categories" : "Kids Channels",
+ "Channels" : [
+ 
+    {
+   "Referer" : "",
+   "channelName"  : "Moonbug Kids",
+       "image" : "https://content.osn.com/bob/745x419/MBU.jpg",
+       "link" : "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
+     },
+    {
+   "Referer" : "",
+   "channelName"  : "Cartoon Network",
+       "image" : "https://www.paho.org/sites/default/files/styles/max_1500x1500/public/2020-09/cartoon-network-1500-2_0_0.jpg?itok=-eAT8GtK",
+       "link" : "http://89.254.128.5:22280/cartoon_network/index.m3u8"
+     },
+     {
+   "Referer" : "",
+   "channelName"  : "Ani",
+       "image" : "https://yt3.googleusercontent.com/ytc/AIf8zZQ_XUv0T7-rk7njIxG_hW4HdlK8xo5BBx3Qg4Pn=s900-c-k-c0x00ffffff-no-rj",
+       "link" : "http://streaming.tv-teleport.ru/Ani/index.m3u8"
+     },
+    {
+   "Referer" : "",
+   "channelName"  : "Baby Shark TV",
+       "image" : "https://image.winudf.com/v2/image1/a3IuY28uc21hcnRzdHVkeS5waW5rZm9uZ3R2X2FuZHJvaWRfZ29vZ2xlbWFya2V0X3NjcmVlbl8wXzE2MjA3MzgwMzNfMDI3/screen-0.jpg?fakeurl=1&type=.jpg",
+       "link" : "https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8"
+     },
+     {
+   "Referer" : "",
+   "channelName"  : "CBeebies",
+       "image" : "https://yt3.googleusercontent.com/qx3LC4Tx8mPHDdbTmw6caay_iHA77b6sf9qUC6mPrnh03iXEOAcAwwdOB2b-kXl21QLwHwwbVA=s900-c-k-c0x00ffffff-no-rj",
+       "link" : "https://cdn-main.lolokoko.tv/CBeebies.stream/playlist.m3u8"
+     },
+    {
+   "Referer" : "",
+   "channelName"  : "Disney Junior",
+       "image" : "https://i.scdn.co/image/ab6761610000e5eb5ac9515e7e4f7961c944bcea",
+       "link" : "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23"
+     },
+     {
+   "Referer" : "",
+   "channelName"  : "Disney Japan",
+       "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLDqYmBz1xc35dlwQk_oOlaYeMCe2isbyA0A&usqp=CAU",
+       "link" : "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24"
+     },
+    {
+   "Referer" : "",
+   "channelName"  : "Nick Jr",
+       "image" : "https://static.wikia.nocookie.net/viacom4633/images/1/18/Nick_Jr.-2023.png/revision/latest?cb=20230816184054",
+       "link" : "https://cdn-main.lolokoko.tv/NickJr.stream/playlist.m3u8"
+     },
+     {
+   "Referer" : "",
+   "channelName"  : "Nickelodeon",
+       "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",
+       "link" : "https://cdn-main.lolokoko.tv/NickJr.stream/playlist.m3u8"
+     },
+     {
+   "Referer" : "",
+   "channelName"  : "Pluto TV Kid",
+       "image" : "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04fbf8b3-296c-42a1-b3ff-ef48d7e3444c/dgm7rxs-fdce441c-95f6-4544-9288-5a6ae82f6317.jpg/v1/fill/w_1192,h_670,q_70,strp/pluto_tv_kids_logo__2020_2021__by_west_harris_dgm7rxs-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMDRmYmY4YjMtMjk2Yy00MmExLWIzZmYtZWY0OGQ3ZTM0NDRjXC9kZ203cnhzLWZkY2U0NDFjLTk1ZjYtNDU0NC05Mjg4LTVhNmFlODJmNjMxNy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19._qNPlcw0k-79-mtZD55wiLxOIGaQ-UtGEh-BCnNPi34",
+       "link" : "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+     },
+     {
+   "Referer" : "",
+   "channelName"  : "Nick",
+       "image" : "https://m.media-amazon.com/images/I/71gGB1HSyyL.png",
+       "link" : "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ede448d3d50590007a4419e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=fbbb3638-0714-11eb-aeab-0242ac110002&terminate=false&userId="
+     },
+     {
+   "Referer" : "",
+   "channelName"  : "Zoo Moo",
+       "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png",
+       "link" : "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+     },
+    {
+   "Referer" : "",
+   "channelName"  : "Pokemon",
+       "image" : "https://d3lzcn6mbbadaf.cloudfront.net/media/details/PokemonKids.jpg",
+       "link" : "https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8"
+     }
+  
+     ]
+     
+ },
+ {
+ "Categories" : "News",
+ "Channels" : [
+ 
+    {
+   "Referer" : "",
+   "channelName" : "BBC World News",
+   "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/1200px-BBC_World_News_2022_%28Boxed%29.svg.png",
+   "link" : "http://ott-cdn.ucom.am/s24/index.m3u8"
+}
+  
+     ]
+     
+ }
+ 
 ]
