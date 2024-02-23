@@ -68,7 +68,7 @@
              ],
     "HomeImage": "https://i.ibb.co/Px76w8v/download-27.png",
     "HomeName": "Real Sociedad",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:30 AM"
   }
      
@@ -163,7 +163,7 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-237299_lhd.m3u8?auth_key=1708720690-0-0-2db6677f2fe8c3410f5d486b51ed7c9f"
   },
   {
    "Name": "China [ FHD ]",
@@ -183,7 +183,7 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-237299_lsd.m3u8?auth_key=1708720690-0-0-2db6677f2fe8c3410f5d486b51ed7c9f"
   },
   {
    "Name": "China [ HD ]",
@@ -218,7 +218,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8550.png",
     "HomeName": "Metz",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:30 AM"
   }
      
