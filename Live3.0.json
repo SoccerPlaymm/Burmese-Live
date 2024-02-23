@@ -98,12 +98,12 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/uk_bts3/index.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
+   "Name": "Portuguese [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/pt_sporttv2/index.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
@@ -118,7 +118,7 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://watch.ezyproxy.xyz",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/za_ssfb/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -143,7 +143,7 @@
              ],
     "HomeImage": "https://www.soccer24.com/res/image/data/j3Tyh1GG-bucnXust.png",
     "HomeName": "Bologna",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:15 AM"
   }
      
