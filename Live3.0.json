@@ -22,13 +22,13 @@
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://m.soccerinhd.com/",
+   "Link": "https://live.damstounas.xyz/hls2/apr/index.m3u8"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://ovosss.lol/live/n-5/chunks.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
@@ -43,12 +43,12 @@
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://hls.streambtw.com/live/stream_1.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://shora-streams.com/chunklist/hlsch9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDI0IDc6NDI6MDQgUE0maGFzaF92YWx1ZT1IQXA2UlEzRHBuT0Rva2I4UnlOYVlnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMxLjE2OSZzdHJtX2xlbj01"
   },
   {
    "Name": "English [ HD ]",
@@ -68,7 +68,7 @@
              ],
     "HomeImage": "https://i.ibb.co/bN749H2/download-12.png",
     "HomeName": "Arsenal",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:30 AM"
   }
      
@@ -97,13 +97,13 @@
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://m.soccerinhd.com/",
+   "Link": "https://live.damstounas.xyz/hls/liga/index.m3u8"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://ovossssss.lol/live/n-5/chunks.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
@@ -118,12 +118,12 @@
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://soccer.freesportstime.com/live/stream_6.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://shora-streams.com/chunklist/hlsch4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDI0IDc6NDM6MTYgUE0maGFzaF92YWx1ZT1ZSGs5bitvQkx0RTdyNklLMDh5RW5BPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMxLjE2OSZzdHJtX2xlbj01"
   },
   {
    "Name": "English [ HD ]",
@@ -143,7 +143,7 @@
              ],
     "HomeImage": "https://i.ibb.co/yPjv50N/download-30.png",
     "HomeName": "Almeria",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:30 AM"
   }
      
@@ -247,13 +247,13 @@
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://m.soccerinhd.com/",
+   "Link": "https://live.damstounas.xyz/hls/fr/index.m3u8"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://ovossssss.lol/live/n-7/chunks.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
@@ -268,12 +268,12 @@
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://hls.streambtw.com/live/stream_8.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://shora-streams.com/chunklist/hlsch11.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDI0IDc6NDU6MTEgUE0maGFzaF92YWx1ZT0wTU9kcGJZYVRRYUZlaUR2T1JpNCtnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMxLjE2OSZzdHJtX2xlbj01"
   },
   {
    "Name": "English [ HD ]",
@@ -293,7 +293,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9848.png",
     "HomeName": "Strasbourg",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:30 AM"
   }
      
