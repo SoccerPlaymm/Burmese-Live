@@ -23,12 +23,12 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/epl_avl/index.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
+   "Name": "Portuguese [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/pt_elevensport3/index.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
@@ -68,7 +68,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
     "HomeName": "Aston Villa",
-    "isLive": false,
+    "isLive": true,
     "Time": "9:30 PM"
   },
   {
@@ -79,7 +79,7 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1708789210-0-0-f520d4602cb0ba9d794d4aadd69826aa"
   },
   {
    "Name": "China [ FHD ]",
@@ -89,17 +89,17 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/epl_bha/index.m3u8"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/my_astross2/index.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1708789210-0-0-f520d4602cb0ba9d794d4aadd69826aa"
   },
   {
    "Name": "China [ HD ]",
@@ -134,7 +134,7 @@
              ],
     "HomeImage": "https://i.ibb.co/RBH2X6r/download-13.png",
     "HomeName": "Brighton",
-    "isLive": false,
+    "isLive": true,
     "Time": "9:30 PM"
   },
   {
@@ -155,7 +155,7 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/epl_cry/index.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -200,7 +200,7 @@
              ],
     "HomeImage": "https://i.ibb.co/PF2LKYS/download-6.png",
     "HomeName": "Crystal Palace",
-    "isLive": false,
+    "isLive": true,
     "Time": "9:30 PM"
   },
   {
@@ -221,12 +221,12 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/epl_mun/index.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
+   "Name": "Portuguese [ FHD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/pt_elevensport1/index.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
@@ -241,7 +241,7 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Link": "https://nlsuper.score806.cc/uk_premiersports1/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -266,7 +266,7 @@
              ],
     "HomeImage": "https://i.ibb.co/rZFH50R/download-1.png",
     "HomeName": "Man United",
-    "isLive": false,
+    "isLive": true,
     "Time": "9:30 PM"
   },
   {
@@ -418,7 +418,7 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=bc777f80631e1bd204459b8cd0e15b84&txTime=65da542a"
   },
   {
    "Name": "China [ FHD ]",
@@ -438,7 +438,7 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=bc777f80631e1bd204459b8cd0e15b84&txTime=65da542a"
   },
   {
    "Name": "China [ HD ]",
