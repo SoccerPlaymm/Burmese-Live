@@ -34,10 +34,61 @@
      
  },
  {
+ "League" : "LaLiga",
+ "Image" : "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
+ "data" : [
+    
+  {
+    "AwayImage": "https://i.ibb.co/7Vsf3Tg/download-21.png",
+    "AwayName": "Villarreal",
+    "Date": "Feb 24",
+    "Link": [
+  {
+   "Name": "Highlight [ HD ]",
+   "Referee": "",
+   "Link": "https://vse456.dirgventures.com:443/UpFiles/2024/2/23/51/275286/720p.m3u8"
+  },
+  {
+   "Name": "Highlight [ SD ]",
+   "Referee": "",
+   "Link": "https://vse456.dirgventures.com:443/UpFiles/2024/2/23/51/275286/360p.m3u8"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/Px76w8v/download-27.png",
+    "HomeName": "Real Sociedad",
+    "isLive": false,
+    "Time": "1 - 3"
+  }
+     
+     ]
+     
+ },
+ {
  "League" : "Serie A",
  "Image" : "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
  "data" : [
     
+   {
+    "AwayImage": "https://i.ibb.co/wMNphZd/download-49.png",
+    "AwayName": "Verona",
+    "Date": "Feb 24",
+    "Link": [
+  {
+   "Name": "Highlight [ HD ]",
+   "Referee": "",
+   "Link": "https://vse456.dirgventures.com:443/UpFiles/2024/2/23/51/275285/720p.m3u8"
+  },
+  {
+   "Name": "Highlight [ SD ]",
+   "Referee": "",
+   "Link": "https://vse456.dirgventures.com:443/UpFiles/2024/2/23/51/275285/360p.m3u8"
+  }
+             ],
+    "HomeImage": "https://www.soccer24.com/res/image/data/j3Tyh1GG-bucnXust.png",
+    "HomeName": "Bologna",
+    "isLive": false,
+    "Time": "2 - 0"
+  },
   {
     "AwayImage": "https://i.ibb.co/1mCtxQQ/download-58.png",
     "AwayName": "Lazio",
@@ -58,6 +109,66 @@
     "HomeName": "Torino",
     "isLive": false,
     "Time": "0 - 2"
+  }
+     
+     ]
+     
+ },
+ {
+ "League" : "Bundesliga",
+ "Image" : "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
+ "data" : [
+    
+  {
+    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9905.png",
+    "AwayName": "Mainz 05",
+    "Date": "Feb 24",
+    "Link": [
+  {
+   "Name": "Highlight [ HD ]",
+   "Referee": "",
+   "Link": "https://vse456.dirgventures.com:443/UpFiles/2024/2/23/51/275287/720p.m3u8"
+  },
+  {
+   "Name": "Highlight [ SD ]",
+   "Referee": "",
+   "Link": "https://vse456.dirgventures.com:443/UpFiles/2024/2/23/51/275287/360p.m3u8"
+  }
+             ],
+    "HomeImage": "https://i.ibb.co/51zs1r9/download-63.png",
+    "HomeName": "Leverkusen",
+    "isLive": false,
+    "Time": "2 - 1"
+  }
+  
+     ]
+     
+ },
+ {
+ "League" : "Ligue 1",
+ "Image" : "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
+ "data" : [
+    
+  {
+    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9748.png",
+    "AwayName": "Lyon",
+    "Date": "Feb 24",
+    "Link": [
+  {
+   "Name": "Highlight [ HD ]",
+   "Referee": "",
+   "Link": "https://ok6-12.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1708825352493&srcIp=37.111.46.178&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=2&sig=L-QfNqAUNtU&ct=8&urls=185.226.53.90%3B185.226.52.33&clientType=0&zs=43&id=6070147418824"
+  },
+  {
+   "Name": "Highlight [ SD ]",
+   "Referee": "",
+   "Link": "https://ok6-12.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1708825352493&srcIp=37.111.46.178&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=2&sig=L-QfNqAUNtU&ct=8&urls=185.226.53.90%3B185.226.52.33&clientType=0&zs=43&id=6070147418824"
+  }
+             ],
+    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8550.png",
+    "HomeName": "Metz",
+    "isLive": false,
+    "Time": "1 - 2"
   }
      
      ]
