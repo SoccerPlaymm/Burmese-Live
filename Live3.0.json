@@ -1171,12 +1171,12 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912004_lhd.m3u8?auth_key=1708793350-0-0-4d511dea01441111d889f046d6fffc25"
   },
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-317957_lhd.flv?auth_key=1708792992-0-0-c42fb555412c32a7ca16e665bb2c8042"
   },
   {
    "Name": "English [ FHD ]",
@@ -1191,12 +1191,12 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912004_lsd.m3u8?auth_key=1708793350-0-0-4d511dea01441111d889f046d6fffc25"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-317957_lsd.flv?auth_key=1708792992-0-0-c42fb555412c32a7ca16e665bb2c8042"
   },
   {
    "Name": "English [ HD ]",
@@ -1206,12 +1206,12 @@
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://hls.streambtw.com/live/stream_8.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://ovosssss.lol/live/n-7/chunks.m3u8"
   },
  {
    "Name": "English [ SD ]",
@@ -1226,7 +1226,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8689.png",
     "HomeName": "Lorient",
-    "isLive": false,
+    "isLive": true,
     "Time": "10:30 PM"
   },
   {
