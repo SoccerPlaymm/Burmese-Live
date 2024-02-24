@@ -220,8 +220,8 @@
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "https://nlsuper.score806.cc/epl_mun/index.m3u8"
+   "Referee": "https://m.soccerinhd.com/",
+   "Link": "https://live.damstounas.xyz/hls/pr/index.m3u8"
   },
   {
    "Name": "Portuguese [ FHD ]",
@@ -240,8 +240,8 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "https://nlsuper.score806.cc/uk_premiersports1/index.m3u8"
+   "Referee": "",
+   "Link": "https://freegamestreams.com/live/abr_ch9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDI0IDQ6MDE6MDkgUE0maGFzaF92YWx1ZT1IN1VxWVNDQ0hTc2NhZlgzYnVKcHpRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMxLjEzNyZzdHJtX2xlbj01"
   },
   {
    "Name": "English [ HD ]",
@@ -617,72 +617,6 @@
  "Image" : "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
  "data" : [
    
-  {
-    "AwayImage": "https://i.ibb.co/18PSn4Z/download-47.png",
-    "AwayName": "Empoli",
-    "Date": "Feb 24",
-    "Link": [
-  {
-   "Name": "Soco [ FHD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-9912028_lhd.m3u8?auth_key=1708785670-0-0-07ee613013573d20369d7a49910b7279"
-  },
-  {
-   "Name": "China [ FHD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-684170_lhd.m3u8?auth_key=1708784952-0-0-46d92a56b022fbbebed6fa05640ae5fd"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "https://nlsuper.score806.cc/za_ssfb/index.m3u8"
-  },
-  {
-   "Name": "Portuguese [ FHD ]",
-   "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "https://nlsuper.score806.cc/pt_sporttv2/index.m3u8"
-  },
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-9912028_lsd.m3u8?auth_key=1708785670-0-0-07ee613013573d20369d7a49910b7279"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-684170_lsd.m3u8?auth_key=1708784952-0-0-46d92a56b022fbbebed6fa05640ae5fd"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "https://hls.streambtw.com/live/stream_7.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "https://ovossss.lol/live/n-6/chunks.m3u8"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "",
-   "Link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/ZN6PsyW/download-45.png",
-    "HomeName": "Sassuolo",
-    "isLive": true,
-    "Time": "8:30 PM"
-  },
   {
     "AwayImage": "https://i.ibb.co/0mCdqDz/download-50.png",
     "AwayName": "Monza",
