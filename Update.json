@@ -1,10 +1,10 @@
 [
   {
-     "DirectLink" : "http://tinyurl.com/blpdlink",
+     "DirectLink" : "https://tinyurl.com/blplink",
      "PlayStoreLink" : "https://bit.ly/3QuypI0",
      "UpdateAbout" : "A new version of the app is available. Click  Button to install it",
      "PreUpdate" : false,
-     "Version" : "30007"
+     "Version" : "30008"
   }
 ]
 
