@@ -1,22 +1,22 @@
 [
 {
-    "homeAd1Link": "https://bit.ly/3puNhuz",
+    "homeAd1Link": "https://refpa.top/L?tag=d_844389m_1236c_&site=844389&ad=1236&r=my/registration",
     
-    "homeAd1Image": "https://raw.githubusercontent.com/SoccerPlaymm/Image/main/GIF-9b1e5bfb29538382b9b62a10e646b40d.gif",
+    "homeAd1Image": "https://raw.githubusercontent.com/SoccerPlaymm/Image/main/600x200.gif",
     
     "homeAd1is_Open" : true,
     
-    "homeAd2Link": "https://bit.ly/3QuypI0",
+    "homeAd2Link": "https://bit.ly/3puNhuz",
     
-    "homeAd2Image": "https://cdn.shopify.com/s/files/1/0070/7032/files/Facebook_Ads_cost_Getty_1210806740.jpg?v=1643317623&width=1024",
+    "homeAd2Image": "https://raw.githubusercontent.com/SoccerPlaymm/Image/main/GIF-9b1e5bfb29538382b9b62a10e646b40d.gif",
     
     "homeAd2is_Open" : true,
     
-    "linkAdLink": "https://bit.ly/47iy68f",
+    "linkAdLink": "https://refpa.top/L?tag=d_844389m_1236c_&site=844389&ad=1236&r=my/registration",
     
-    "linkAdImage": "https://github.com/SoccerPlaymm/Image/raw/main/600-200(final)(2).gif",
+    "linkAdImage": "https://raw.githubusercontent.com/SoccerPlaymm/Image/main/500x200.gif",
     
-    "linkAdis_Open" : false,
+    "linkAdis_Open" : true,
     
     "dialogAd1Link": "https://bit.ly/47iy68f",
     
@@ -31,6 +31,10 @@
     "dialogAd2is_Open" : true,
     
     "streamAd" : [
+    { 
+       "AdImage" : "https://raw.githubusercontent.com/SoccerPlaymm/Image/main/600x200.gif",
+       "AdLink" : "https://refpa.top/L?tag=d_844389m_1236c_&site=844389&ad=1236&r=my/registration"
+    },
     { 
        "AdImage" : "https://raw.githubusercontent.com/SoccerPlaymm/Image/main/GIF-9b1e5bfb29538382b9b62a10e646b40d.gif",
        "AdLink" : "https://bit.ly/3puNhuz"
