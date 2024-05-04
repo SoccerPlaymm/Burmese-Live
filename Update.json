@@ -3,7 +3,7 @@
      "DirectLink" : "https://tinyurl.com/blpdirectlink",
      "PlayStoreLink" : "https://bit.ly/blp_playstore",
      "UpdateAbout" : "Burmese Live Pro App ကို Play Store ကဖြုတ်ချခံရသောကြာင့် Burmese Live Pro App အသစ်ကို ပြန်လည်၍ Update လုပ်ပေးကြပါအုံးဗျ။ယ‌‌ခု ‌‌ဒေါင်းလုဒ်လုပ် သော Burmese Live Pro App သည် အသစ်တစ်ခုအနဖြင့် အသုံးပြရမည်ဖြစ်ပါသည်။",
-     "PreUpdate" : false,
+     "PreUpdate" : true,
      "Version" : "31104"
   }
 ]
